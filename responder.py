@@ -5,7 +5,7 @@ def get_file_content(folder_path, filename):
     Membaca file <filename>.md dari folder_path (UTF-8).
     """
     try:
-        file_path = os.path.join(folder_path, f"{filename}.md")
+        file_path = os.path.join(folder_path, f"{filename}.MD")
         if os.path.exists(file_path):
             with open(file_path, "r", encoding="utf-8") as f:
                 return f.read()
@@ -28,7 +28,7 @@ def handle_message(message_text, base_folder="Data"):
     elif msg == "LIST":
         try:
             files = os.listdir(base_folder)
-            md_files = [f.replace(".md", "") for f in files if f.endswith(".md")]
+            md_files = [f.replace(".MD", "") for f in files if f.endswith(".MD")]
             return "Daftar saham tersedia:\n" + ("\n".join(md_files) if md_files else "(kosong)")
         except Exception as e:
             return f"Error membaca folder: {str(e)}"
@@ -45,4 +45,10 @@ def handle_message(message_text, base_folder="Data"):
 
     else:  # Anggap kode emiten biasa di root Data/
         result = get_file_content(base_folder, msg)  # baca <KODE>.md
-        return result if result else "Data saham belum tersedia."
+        return result if result else (
+            "Hi! Nama saya Mas Bono, saya bisa bantu cari info saham.\n"
+            "Kode saham yang kamu cari belum tersedia.\n"    
+            "Ketik:\n"
+            "- [LIST] untuk lihat daftar saham\n"
+            "- [KODE EMITEN], untuk mendapatkan strategic summary dan rekomendasi. Contoh: ANTM\n"            
+        )
