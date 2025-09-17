@@ -28,7 +28,7 @@ def handle_message(message_text, base_folder="Data"):
     elif msg == "LIST":
         try:
             files = os.listdir(base_folder)
-            md_files = [f.replace(".MD", "") for f in files if f.endswith(".MD")]
+            md_files = sorted([f.replace(".MD", "") for f in files if f.endswith(".MD")])
             return "Daftar saham tersedia:\n" + ("\n".join(md_files) if md_files else "(kosong)")
         except Exception as e:
             return f"Error membaca folder: {str(e)}"
