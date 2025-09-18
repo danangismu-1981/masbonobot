@@ -1,0 +1,45 @@
+# COMPARE ONE-PAGER (CROSS-INDUSTRY READY)
+
+## HEADER
+Ticker: INDS
+Company: -
+Sector: -
+Industry: -
+AsOf: 2025-06-30
+
+## VALUATION
+Market Cap: -
+PER: -
+PBV: -
+Dividend Yield: -
+
+## PROFITABILITY
+Revenue Growth YoY: -
+Net Profit Growth YoY: -
+Net Margin: -
+ROE: -
+ROA: -
+
+## BALANCE & CASH
+DER: 0.21x
+FCF: -
+
+## SCORE (0–5 each; integers or 0.5 steps allowed)
+ValuationScore: -
+ProfitabilityScore: -
+BalanceScore: 4
+IncomeScore: -
+
+## NOTES
+Highlights:
+- Low debt-to-equity ratio (DER 0.21x)
+- Strong equity position
+
+Risks:
+- Lack of available profitability data
+- Market valuation metrics unavailable
+
+## METADATA
+Source: Company financials
+Period: Q2 2025
+LastUpdate: 2025-06-30
