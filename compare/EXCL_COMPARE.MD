@@ -2,44 +2,47 @@
 
 ## HEADER
 Ticker: EXCL
-Company: -
-Sector: -
-Industry: -
-AsOf: 2025-06-30
+Company: XL Axiata Tbk
+Sector: Communication Services
+Industry: Telecom Services
+AsOf: 2025-09-12
 
 ## VALUATION
-Market Cap: -
-PER: -
-PBV: -
-Dividend Yield: -
+Market Cap: IDR 44.5 triliun
+PER: 24.1x
+PBV: 1.3x
+Dividend Yield: 3.3%
 
 ## PROFITABILITY
-Revenue Growth YoY: -
-Net Profit Growth YoY: -
-Net Margin: -
-ROE: -
-ROA: -
+Revenue Growth YoY: +12%
+Net Profit Growth YoY: -29%
+Net Margin: -6.4%
+ROE: 1.2%
+ROA: -1.1%
 
 ## BALANCE & CASH
 DER: 2.4x
-FCF: -
+FCF: IDR 8.3 triliun
 
 ## SCORE (0–5 each; integers or 0.5 steps allowed)
-ValuationScore: -
-ProfitabilityScore: -
-BalanceScore: 1
-IncomeScore: -
+ValuationScore: 3
+ProfitabilityScore: 1
+BalanceScore: 2
+IncomeScore: 3
+TotalScore: 9
 
 ## NOTES
 Highlights:
-- Equity increased to IDR 33.4 triliun in Q2 2025
-- DER at 2.4x, indicating high leverage
+- Revenue grew 12% YoY in Q2 2025, driven by FREN merger.
+- FCF remains strong at IDR 8.3 triliun.
+- EXCL now third largest operator in Indonesia by subscribers.
 
 Risks:
-- High debt-to-equity ratio may pressure financial flexibility
-- No clear data on profitability or cash flow
+- Net loss in Q2 2025 due to high integration and financial costs.
+- Debt and interest expenses surged post-merger.
+- Fierce industry competition and price wars may pressure margins.
 
 ## METADATA
-Source: Company Balance Sheet
-Period: Q2 2025
-LastUpdate: 2025-06-30
+Source: Company filings, IDX, Value! processed data
+Period: Q2 2025 YTD
+LastUpdate: 2025-09-12

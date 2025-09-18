@@ -2,44 +2,45 @@
 
 ## HEADER
 Ticker: BREN
-Company: -
-Sector: -
-Industry: -
-AsOf: 2025-06-30
+Company: Barito Renewables Energy
+Sector: Utilities
+Industry: Utilities - Renewable
+AsOf: 2025-09-12
 
 ## VALUATION
-Market Cap: -
-PER: -
-PBV: -
-Dividend Yield: -
+Market Cap: IDR 1,173 triliun
+PER: 67.8x
+PBV: 19.2x
+Dividend Yield: 0.04%
 
 ## PROFITABILITY
-Revenue Growth YoY: -
-Net Profit Growth YoY: -
-Net Margin: -
-ROE: -
-ROA: -
+Revenue Growth YoY: +0.3%
+Net Profit Growth YoY: +7%
+Net Margin: 26%
+ROE: 21%
+ROA: 4%
 
 ## BALANCE & CASH
 DER: 3.7x
-FCF: -
+FCF: USD 158.9 juta
 
 ## SCORE (0–5 each; integers or 0.5 steps allowed)
-ValuationScore: -
-ProfitabilityScore: -
-BalanceScore: 1
-IncomeScore: -
+ValuationScore: 1
+ProfitabilityScore: 4
+BalanceScore: 2
+IncomeScore: 1
+TotalScore: 8
 
 ## NOTES
 Highlights:
-- High total assets at USD 3.77 billion (Q2 2025)
-- Equity increased to USD 814.8 million (Q2 2025)
+- Largest installed geothermal capacity in Indonesia
+- Stable revenue and improving net profit
 
 Risks:
-- High debt-to-equity ratio (3.7x)
-- No profitability or income data available
+- High debt-to-equity ratio and finance costs
+- Low dividend yield
 
 ## METADATA
-Source: BREN_BalanceSheet_simplified.txt
-Period: Q2 2025
-LastUpdate: 2025-06-30
+Source: Company filings, IDX, public disclosures
+Period: Q2 2025 YTD / FY 2024
+LastUpdate: 2025-09-12

@@ -2,44 +2,45 @@
 
 ## HEADER
 Ticker: TBIG
-Company: -
-Sector: Infrastructure
-Industry: Telecommunication Towers
-AsOf: 2025-06-30
+Company: Tower Bersama Infrastructure Tbk
+Sector: Communication Services
+Industry: Telecom Services
+AsOf: 2025-09-12
 
 ## VALUATION
-Market Cap: -
-PER: -
-PBV: -
-Dividend Yield: -
+Market Cap: IDR 41.9 triliun
+PER: 29.4x
+PBV: 4.0x
+Dividend Yield: 1.3%
 
 ## PROFITABILITY
-Revenue Growth YoY: -
-Net Profit Growth YoY: -
-Net Margin: -
-ROE: -
-ROA: -
+Revenue Growth YoY: +3.4%
+Net Profit Growth YoY: -12.3%
+Net Margin: 20.7%
+ROE: 13.5%
+ROA: 3.0%
 
 ## BALANCE & CASH
-DER: 3.3x
-FCF: -
+DER: 3.2x
+FCF: IDR 3.0 triliun
 
 ## SCORE (0–5 each; integers or 0.5 steps allowed)
-ValuationScore: -
-ProfitabilityScore: -
-BalanceScore: 1
-IncomeScore: -
+ValuationScore: 2
+ProfitabilityScore: 2.5
+BalanceScore: 2
+IncomeScore: 1.5
 
 ## NOTES
 Highlights:
-- Large asset base with significant fixed assets
-- Equity has grown steadily over recent years
+- Stable recurring revenue from long-term tower leases
+- Strong free cash flow generation
 
 Risks:
-- High debt-to-equity ratio (3.3x) indicates significant leverage
-- No clear free cash flow or profitability data available
+- High leverage and rising interest expense
+- Net profit declined due to higher operating costs
+- Industry faces disruption risk from new technologies (e.g., Starlink)
 
 ## METADATA
-Source: Company Financials (Balance Sheet)
-Period: Q2 2025
-LastUpdate: 2025-06-30
+Source: Company filings, IDX, TBIG reports
+Period: Q2 2025 YTD / FY 2024
+LastUpdate: 2025-09-12
