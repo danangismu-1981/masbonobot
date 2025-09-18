@@ -1,7 +1,7 @@
 ## BNLI – Value Investor One-Pager
 
 ### 1) Pertumbuhan YoY
-- **Kredit yang diberikan:** Q2 2025 YTD: Rp151,9T (+9% YoY vs Q2 2024; data DVInsight, portofolio didorong korporasi +12%).
+- **Kredit yang diberikan:** Q2 2025 YTD: Rp151,9T (+9% YoY vs Q2 2024; portofolio didorong korporasi +12%).
 - **Pendapatan bunga:** Q2 2025 YTD: Rp8,59T (+3,6% vs Q2 2024 YTD Rp8,29T).
 - **Laba bersih:** Q2 2025 YTD: Rp1,65T (+7,6% YoY vs Q2 2024 YTD Rp1,53T; kenaikan terutama akibat pertumbuhan laba bunga).
 - **CASA:** Q2 2025: 62,2% (naik signifikan dari 48,4% Q2 2024 YTD).
@@ -34,7 +34,7 @@
 - Credit cost rendah, NPL stabil/turun, buffer CKPN relatif konservatif.
 
 **Risiko:**  
-- Penurunan DPK berturut-turut → risiko likuiditas jika tren berlanjut (DVInsight dan Cashflow Q2 2025).
+- Penurunan DPK berturut-turut → risiko likuiditas jika tren berlanjut 
 - Kenaikan cost of fund, NIM stagnan/turun (tekan profitabilitas forward).
 - Ketergantungan segmen korporasi: risiko konsentrasi.
 - Dividen payout masih tergolong kecil, yield <1%.
