@@ -2,44 +2,44 @@
 
 ## HEADER
 Ticker: BNLI
-Company: -
-Sector: Banking
+Company: Bank Permata
+Sector: Financial Services
 Industry: Banks - Regional
-AsOf: 2024-12-31
+AsOf: 2025-09-12
 
 ## VALUATION
-Market Cap: -
-PER: -
-PBV: -
-Dividend Yield: -
+Market Cap: IDR 89.8 triliun
+PER: 25.2x
+PBV: 2.1x
+Dividend Yield: 0.9%
 
 ## PROFITABILITY
-Revenue Growth YoY: -
-Net Profit Growth YoY: -
-Net Margin: -
-ROE: -
-ROA: -
+Revenue Growth YoY: +7.3%
+Net Profit Growth YoY: +37.9%
+Net Margin: 20.7%
+ROE: 8.4%
+ROA: 1.4%
 
 ## BALANCE & CASH
 DER: 5.1x
-FCF: -
+FCF: IDR 7.6 triliun
 
 ## SCORE (0–5 each; integers or 0.5 steps allowed)
-ValuationScore: -
-ProfitabilityScore: -
-BalanceScore: 1
-IncomeScore: -
+ValuationScore: 2
+ProfitabilityScore: 3
+BalanceScore: 3
+IncomeScore: 1.5
 
 ## NOTES
 Highlights:
-- Equity increased to IDR 43.6 trillion in FY 2024
-- Total assets stable at IDR 259 trillion
+- Net profit grew +37.9% YoY in FY 2024 with improving asset quality (NPL 2.1%).
+- CASA ratio increased to 55.2% in 2024, supporting lower funding costs.
 
 Risks:
-- High DER at 5.1x
-- Lack of profitability and valuation data
+- Customer deposits declined YoY, raising potential liquidity concerns.
+- Dividend yield remains low versus sector peers.
 
 ## METADATA
-Source: Company Financials
-Period: FY 2024
-LastUpdate: 2024-12-31
+Source: Company filings, IDX, BNLI public disclosures
+Period: Q2 2025 YTD, FY 2024
+LastUpdate: 2025-09-12
