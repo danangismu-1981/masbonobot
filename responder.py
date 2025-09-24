@@ -1,8 +1,16 @@
-
 import os
 import re
 import sys
 import subprocess
+
+# === Tambahan: impor util teknikal (yfinance) ===
+# Pastikan market_utils.py ada di folder yang sama.
+try:
+    from market_utils import weekly_high_low, moving_average, pivot_points
+    _TECH_ENABLED = True
+except Exception as _e:
+    _TECH_ENABLED = False
+    _TECH_ERR = str(_e)
 
 COMPARE_DIR_DEFAULT = "compare"
 
@@ -76,31 +84,102 @@ def get_file_content(folder_path, filename):
     except Exception as e:
         return f"Error membaca file: {str(e)}"
 
+def _help_text():
+    return (
+        "Hi! Nama saya Mas Bono, saya bisa bantu cari info saham.\n"
+        "Ketik:\n"
+        "- [LIST] untuk lihat daftar saham\n"
+        "- [KODE EMITEN], untuk mendapatkan strategic summary. Contoh: ANTM\n"
+        "- COMPARE KODE1,KODE2 untuk membandingkan dua emiten (contoh: COMPARE AALI,ADMR)\n"
+        "\n🔧 *Perintah Teknis:*\n"
+        "- HIGHLOW <TICKER> [DAYS]\n"
+        "  Contoh: HIGHLOW PTBA 7\n"
+        "- MA <TICKER> <WINDOW> [DAILY|WEEKLY]\n"
+        "  Contoh: MA BBCA 50 WEEKLY\n"
+        "- PIVOT <TICKER> [DAILY|WEEKLY]\n"
+        "  Contoh: PIVOT BBRI WEEKLY\n"
+        "Catatan: Ticker IDX otomatis .JK (BBRI -> BBRI.JK)."
+    )
+
 def handle_message(message_text, base_folder="Data"):
     msg_raw = (message_text or "").strip()
     msg = msg_raw.upper()
 
-    # COMPARE: e.g., "COMPARE AALI,ADMR" or "COMPARE ADMF AALI"
+    # === Perintah Teknis (butuh market_utils / yfinance) ===
+    # Format:
+    # - HIGHLOW <TICKER> [DAYS]
+    # - MA <TICKER> <WINDOW> [DAILY|WEEKLY]
+    # - PIVOT <TICKER> [DAILY|WEEKLY]
+    if msg.startswith("HIGHLOW") or msg.startswith("MA ") or msg.startswith("PIVOT"):
+        if not _TECH_ENABLED:
+            return (
+                "⚠️ Fitur teknikal belum aktif (market_utils tidak tersedia).\n"
+                f"Detail: {_TECH_ERR if '_TECH_ERR' in globals() else 'unknown error'}"
+            )
+
+        parts = msg.strip().split()
+        cmd = parts[0]
+
+        try:
+            if cmd == "HIGHLOW":
+                if len(parts) < 2:
+                    return "Format: HIGHLOW <TICKER> [DAYS]. Contoh: HIGHLOW PTBA 7"
+                ticker = parts[1]
+                days = int(parts[2]) if len(parts) >= 3 else 7
+                res = weekly_high_low(ticker, days=days)
+                return (
+                    f"📈 *Weekly High/Low* {ticker.upper()}\n"
+                    f"Periode: {res['start']} → {res['end']}\n"
+                    f"- High: {res['highest']:.2f}\n"
+                    f"- Low : {res['lowest']:.2f}"
+                )
+
+            elif cmd == "MA":
+                if len(parts) < 3:
+                    return "Format: MA <TICKER> <WINDOW> [DAILY|WEEKLY]. Contoh: MA BBCA 50 WEEKLY"
+                ticker = parts[1]
+                window = int(parts[2])
+                frame = parts[3] if len(parts) >= 4 else "WEEKLY"
+                last_close, last_ma = moving_average(ticker, window=window, frame=frame)
+                signal = "BULLISH (Close > MA)" if last_close > last_ma else "BEARISH (Close < MA)"
+                return (
+                    f"📊 *MA{window} {frame.title()}* {ticker.upper()}\n"
+                    f"- Close terakhir: {last_close:.2f}\n"
+                    f"- MA{window}: {last_ma:.2f}\n"
+                    f"- Sinyal: {signal}"
+                )
+
+            elif cmd == "PIVOT":
+                if len(parts) < 2:
+                    return "Format: PIVOT <TICKER> [DAILY|WEEKLY]. Contoh: PIVOT BBRI WEEKLY"
+                ticker = parts[1]
+                src = parts[2] if len(parts) >= 3 else "WEEKLY"
+                piv = pivot_points(ticker, source=src.lower())
+                return (
+                    f"🧭 *Pivot ({src.title()})* {ticker.upper()}\n"
+                    f"P : {piv['P']:.2f}\n"
+                    f"R1: {piv['R1']:.2f} | R2: {piv['R2']:.2f}\n"
+                    f"S1: {piv['S1']:.2f} | S2: {piv['S2']:.2f}"
+                )
+
+        except Exception as e:
+            # error yang ramah user
+            return f"⚠️ Error teknikal: {str(e)}"
+
+    # === COMPARE: e.g., "COMPARE AALI,ADMR" atau "COMPARE ADMF AALI"
     if msg.startswith("COMPARE"):
-        # ambil substring setelah 'COMPARE'
         rest = msg_raw.strip()[len("COMPARE"):].strip()
-        # izinkan pemisah: koma / spasi / titik-koma / slash
-        tickers = re.split(r"[,\s/;]+", rest)
-        tickers = [t for t in tickers if t]  # drop empty
-        # batasi ke 2 ticker saja
+        tickers = re.split(r"[,\s/;]+", rest)  # izinkan pemisah beragam
+        tickers = [t for t in tickers if t]
         if len(tickers) > 2:
             tickers = tickers[:2]
         return _run_compare(tickers, compare_dir=COMPARE_DIR_DEFAULT)
 
-    if msg == "HI":
-        return (
-            "Hi! Nama saya Mas Bono, saya bisa bantu cari info saham.\n"
-            "Ketik:\n"
-            "- [LIST] untuk lihat daftar saham\n"
-            "- [KODE EMITEN], untuk mendapatkan strategic summary dan rekomendasi. Contoh: ANTM\n"
-            "- COMPARE KODE1,KODE2 untuk membandingkan dua emiten lintas industri (contoh: COMPARE AALI,ADMR)"
-        )
+    # === HI & HELP ===
+    if msg in ("HI", "HELP"):
+        return _help_text()
 
+    # === LIST ===
     elif msg == "LIST":
         try:
             files = os.listdir(base_folder)
@@ -109,23 +188,21 @@ def handle_message(message_text, base_folder="Data"):
         except Exception as e:
             return f"Error membaca folder: {str(e)}"
 
+    # === Kategori: FINANCIAL / BALANCE / OPERATIONAL / VALUATION ===
     elif any(msg.startswith(prefix) for prefix in ["FINANCIAL", "BALANCE", "OPERATIONAL", "VALUATION"]):
         parts = msg.split()
         if len(parts) == 2:
             category, kode = parts
             folder_path = os.path.join(base_folder, category)
-            result = get_file_content(folder_path, kode)  # baca <KODE>.md
+            result = get_file_content(folder_path, kode)  # baca <KODE>.MD
             return result if result else f"Data {category} untuk {kode} belum tersedia."
         else:
             return "Format salah. Contoh: FINANCIAL ANTM"
 
-    else:  # Anggap kode emiten biasa di root Data/
-        result = get_file_content(base_folder, msg)  # baca <KODE>.md
+    # === Default: anggap kode emiten (root Data/) ===
+    else:
+        result = get_file_content(base_folder, msg)  # baca <KODE>.MD
         return result if result else (
-            "Hi! Nama saya Mas Bono, saya bisa bantu cari info saham.\n"
-            "Kode saham yang kamu cari belum tersedia.\n"
-            "Ketik:\n"
-            "- [LIST] untuk lihat daftar saham\n"
-            "- [KODE EMITEN], untuk mendapatkan strategic summary dan rekomendasi. Contoh: ANTM\n"
-            "- COMPARE KODE1,KODE2 untuk membandingkan dua emiten lintas industri (contoh: COMPARE AALI,ADMR)"
+            _help_text() + "\n\n"
+            "Kode saham yang kamu cari belum tersedia."
         )
