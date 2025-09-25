@@ -12,17 +12,20 @@ except Exception as _e:
     _TECH_ENABLED = False
     _TECH_ERR = str(_e)
 
+# === Tambahan: impor modul berita ===
+try:
+    from news_indo_whatsapp import handle_news_command
+    _NEWS_ENABLED = True
+except Exception as _e:
+    _NEWS_ENABLED = False
+    _NEWS_ERR = str(_e)
+
 COMPARE_DIR_DEFAULT = "compare"
 
 def _which_python():
-    # use current interpreter if possible
     return sys.executable or "python"
 
 def _find_compare_cli():
-    """
-    Try to find compare_md_cli.py relative to this file or CWD.
-    Returns absolute path or None.
-    """
     candidates = [
         os.path.join(os.path.dirname(__file__), "compare_md_cli.py"),
         os.path.join(os.getcwd(), "compare_md_cli.py"),
@@ -33,17 +36,12 @@ def _find_compare_cli():
     return None
 
 def _run_compare(tickers, compare_dir=COMPARE_DIR_DEFAULT, timeout=90):
-    """
-    Call compare_md_cli.py to produce comparison text for 2 tickers.
-    Returns stdout on success, or error string on failure.
-    """
     cli = _find_compare_cli()
     if not cli:
         return ("[ERROR] compare_md tidak ditemukan.\n"
                 "Pastikan file tersebut ada di folder yang sama dengan Root "
                 "atau di working directory aplikasi.")
 
-    # Ensure only first two tickers and sanitize
     tickers = [t.strip().upper() for t in tickers if t.strip()]
     if len(tickers) != 2:
         return "Format salah. Gunakan: COMPARE <TICKER1>,<TICKER2>. Contoh: COMPARE AALI,ADMR"
@@ -63,7 +61,6 @@ def _run_compare(tickers, compare_dir=COMPARE_DIR_DEFAULT, timeout=90):
         return f"[ERROR] Gagal menjalankan compare_md: {e}"
 
     if proc.returncode != 0:
-        # bubble up stderr for debugging
         err = (proc.stderr or "").strip()
         return f"[ERROR] Compare gagal (code {proc.returncode}). {err}"
 
@@ -71,9 +68,6 @@ def _run_compare(tickers, compare_dir=COMPARE_DIR_DEFAULT, timeout=90):
     return out if out else "[INFO] Tidak ada output dari compare_md"
 
 def get_file_content(folder_path, filename):
-    """
-    Membaca file <filename>.md dari folder_path (UTF-8).
-    """
     try:
         file_path = os.path.join(folder_path, f"{filename}.MD")
         if os.path.exists(file_path):
@@ -91,6 +85,7 @@ def _help_text():
         "- [LIST] untuk lihat daftar saham\n"
         "- [KODE EMITEN], untuk mendapatkan strategic summary. Contoh: ANTM\n"
         "- COMPARE KODE1,KODE2 untuk membandingkan dua emiten (contoh: COMPARE AALI,ADMR)\n"
+        "- NEWS <KODE/QUERY> [N] untuk cari berita terbaru (contoh: NEWS BBCA 5)\n"
         "\n🔧 *Perintah Teknis:*\n"
         "- HIGHLOW <TICKER> [DAYS]\n"
         "  Contoh: HIGHLOW PTBA 7\n"
@@ -106,20 +101,14 @@ def handle_message(message_text, base_folder="Data"):
     msg = msg_raw.upper()
 
     # === Perintah Teknis (butuh market_utils / yfinance) ===
-    # Format:
-    # - HIGHLOW <TICKER> [DAYS]
-    # - MA <TICKER> <WINDOW> [DAILY|WEEKLY]
-    # - PIVOT <TICKER> [DAILY|WEEKLY]
     if msg.startswith("HIGHLOW") or msg.startswith("MA ") or msg.startswith("PIVOT"):
         if not _TECH_ENABLED:
             return (
                 "⚠️ Fitur teknikal belum aktif (market_utils tidak tersedia).\n"
                 f"Detail: {_TECH_ERR if '_TECH_ERR' in globals() else 'unknown error'}"
             )
-
         parts = msg.strip().split()
         cmd = parts[0]
-
         try:
             if cmd == "HIGHLOW":
                 if len(parts) < 2:
@@ -133,7 +122,6 @@ def handle_message(message_text, base_folder="Data"):
                     f"- High: {res['highest']:.2f}\n"
                     f"- Low : {res['lowest']:.2f}"
                 )
-
             elif cmd == "MA":
                 if len(parts) < 3:
                     return "Format: MA <TICKER> <WINDOW> [DAILY|WEEKLY]. Contoh: MA BBCA 50 WEEKLY"
@@ -148,7 +136,6 @@ def handle_message(message_text, base_folder="Data"):
                     f"- MA{window}: {last_ma:.2f}\n"
                     f"- Sinyal: {signal}"
                 )
-
             elif cmd == "PIVOT":
                 if len(parts) < 2:
                     return "Format: PIVOT <TICKER> [DAILY|WEEKLY]. Contoh: PIVOT BBRI WEEKLY"
@@ -161,19 +148,24 @@ def handle_message(message_text, base_folder="Data"):
                     f"R1: {piv['R1']:.2f} | R2: {piv['R2']:.2f}\n"
                     f"S1: {piv['S1']:.2f} | S2: {piv['S2']:.2f}"
                 )
-
         except Exception as e:
-            # error yang ramah user
             return f"⚠️ Error teknikal: {str(e)}"
 
-    # === COMPARE: e.g., "COMPARE AALI,ADMR" atau "COMPARE ADMF AALI"
+    # === COMPARE ===
     if msg.startswith("COMPARE"):
         rest = msg_raw.strip()[len("COMPARE"):].strip()
-        tickers = re.split(r"[,\s/;]+", rest)  # izinkan pemisah beragam
+        tickers = re.split(r"[,\s/;]+", rest)
         tickers = [t for t in tickers if t]
         if len(tickers) > 2:
             tickers = tickers[:2]
         return _run_compare(tickers, compare_dir=COMPARE_DIR_DEFAULT)
+
+    # === NEWS ===
+    if msg.startswith("NEWS"):
+        if not _NEWS_ENABLED:
+            return f"⚠️ Fitur berita belum aktif. Detail: {_NEWS_ERR}"
+        msgs = handle_news_command(msg_raw)
+        return "\n\n".join(msgs)
 
     # === HI & HELP ===
     if msg in ("HI", "HELP"):
@@ -188,20 +180,20 @@ def handle_message(message_text, base_folder="Data"):
         except Exception as e:
             return f"Error membaca folder: {str(e)}"
 
-    # === Kategori: FINANCIAL / BALANCE / OPERATIONAL / VALUATION ===
+    # === Kategori khusus ===
     elif any(msg.startswith(prefix) for prefix in ["FINANCIAL", "BALANCE", "OPERATIONAL", "VALUATION"]):
         parts = msg.split()
         if len(parts) == 2:
             category, kode = parts
             folder_path = os.path.join(base_folder, category)
-            result = get_file_content(folder_path, kode)  # baca <KODE>.MD
+            result = get_file_content(folder_path, kode)
             return result if result else f"Data {category} untuk {kode} belum tersedia."
         else:
             return "Format salah. Contoh: FINANCIAL ANTM"
 
-    # === Default: anggap kode emiten (root Data/) ===
+    # === Default ===
     else:
-        result = get_file_content(base_folder, msg)  # baca <KODE>.MD
+        result = get_file_content(base_folder, msg)
         return result if result else (
             _help_text() + "\n\n"
             "Kode saham yang kamu cari belum tersedia."
