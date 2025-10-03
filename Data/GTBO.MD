@@ -1,74 +1,46 @@
----
+## GTBO – Investor One-Pager
 
-## 1. Snapshot Keuangan – Q2 2025 YTD
-- **Leverage (Liabilitas/Ekuitas):**  
-  - Liabilitas Q2 2025: USD 6,084,236  
-  - Ekuitas Q2 2025: USD 50,292,060  
-  - **Leverage Ratio:** 0,12x (sangat konservatif; risiko finansial rendah).
-- **Kas & Utang Bersih:**  
-  - Kas & setara kas Q2 2025: USD 2,722,479 (turun drastis dari Q4 2023: USD 8,052,683).  
-  - Utang bank tidak dijelaskan terpisah; liabilitas total tetap rendah.  
-  - Arus kas operasional Q2 2025: **Negatif** (net outflow USD -766,671).
-- **Net Gearing:** Negatif (artinya kas lebih besar dari utang berbunga, jika ada).
-- **FCF (Q2 2025 YTD):** -USD 7,102,811 (sangat menurun).
+### 1) Pertumbuhan & Tren Utama
+- **Pendapatan Q2 2025:** Rp86,64 miliar (Q2 2025), **turun signifikan** dari puncak Q1 2024: Rp184,78 miliar → penurunan tren pendapatan jelas.
+- **Gross profit Q2 2025:** Rp15,58 miliar (naik dari Q1 2025: -Rp18,59 miliar, dan Q4 2024: -Rp4,73 miliar), namun masih di bawah level historis.
+- **Laba Q2 2025:** Rp8,22 miliar (positif berbalik dari Q1 2025: -Rp22,50 miliar; Q4 2024: -Rp61,60 miliar → **volatilitas laba tinggi**).
+- **YoY revenue growth:** -17,26% (2024, sumber: annual data vs 2023).
+- **YoY earnings growth:** Lonjakan 90,7% pada laba kuartalan (annual YoY, data FY 2023 ke FY 2024—namun dari basis laba rendah dan volatil).
+- **Arus kas operasi Q2 2025:** Rp3,24 miliar (pulih dari Q1 2025: -Rp15,69 miliar; tetap rendah jika dibanding masa lalu).
+- **Ekuitas turun:** Q2 2025: Rp729,5 miliar; Q2 2024: Rp847,9 miliar.
+- **Periode yang dipakai untuk angka utama: Q2 2025 (per 30 Juni 2025).**
 
----
+### 2) Posisi Kompetitif (Benchmark Highlights)
+- **Valuasi rendah vs peers:** PBV GTBO 0,73x; jauh di bawah rata-rata peers (misal BYAN: 17,45x; DSSA: 21,9x; ADRO: 0,65x).
+- **PER TTM:** -5,36x (negatif; peers seperti ADRO 4,29x, GEMS 10,55x, BYAN 41,01x).
+- **Market cap:** Rp534,99 miliar, jauh di bawah pemain besar sektor batu bara (BYAN: Rp610 tn, DSSA: Rp610 tn).
+- **Profitabilitas terkini sangat lemah**, sementara peers menjaga margin/net income positif yang stabil.
 
-## 2. Pertumbuhan (YoY)
-**a. Revenue & Profit:**  
-  - **Revenue (Q2 2025 YTD):** USD 7,492,458 (↓ 58,5% YoY dari Q2 2024: USD 18,047,715).
-  - **Net Profit (Q2 2025 YTD):** USD -845,811 (berbalik rugi dari Q2 2024: USD 2,173,377).
-  - **Margin:** Tidak ada gross profit & margin negatif akibat COGS melonjak.
-  - **Key Driver:**  
-    - **↓ ASP dan volume jual** (penurunan ekspor & harga jual),  
-    - **↑ COGS & biaya produksi/delivery** (tekanan biaya logistik & produksi),  
-    - **Tidak ada penerimaan dividen 2025 YTD**.
-  - **Dividend Yield:** Tidak ada pembagian dividen 2025 YTD; yield historis 2023: 1,4% (DPS 6,13/akhir 2023).
-  - **CAGR Harga 2022-Q2 2025 YTD:** 2,67% (sangat moderat).
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
+- **Gross margin Q2 2025:** ~18,0% (Gross Profit: Rp15,58 miliar/Revenues: Rp86,64 miliar).
+- **NPM Q2 2025:** ~9,5% (Laba bersih: Rp8,22 miliar/Revenues: Rp86,64 miliar) — *positif, namun didahului dua kuartal negatif besar pada 2024 dan Q1 2025*.
+- **ROE dan ROA:** FY 2024 negatif: ROE -7,0% | ROA -5,8%.
+- **Total assets Q2 2025:** Rp852,17 miliar; **ekuitas**: Rp729,50 miliar.
+- **Debt to equity Q2 2025:** ~1,2% (Total debt: Rp8,73 miliar/Ekuitas), leverage sangat rendah.
+- **Cash position:** Rp2,67 miliar (anjlok dari Rp10,1 miliar Q1 2025 & Rp15,3 miliar Q4 2024).
 
----
+### 4) Dividen & Valuasi
+- **Dividen terakhir:** 2023, Rp6,13/lembar (yield 1,87%/tahun).
+- **Dividen TTM:** Data tidak tersedia pada periode terbaru.
+- **Valuasi:** PBV 0,73x, salah satu terendah di sektor; PE negatif akibat rugi FY 2024.
 
-## 3. Benchmark Kompetitor – 2023
-- **ITMG** – ASP 113,1 USD/t; Volume 16,9 Mt; Kalimantan; Kekuatan: Integrasi logistik, diversifikasi pasar; Kelemahan: Ketergantungan batubara high-CV.
-- **BYAN** – ASP 75,8 USD/t; Volume 49,7 Mt; Kalimantan; Kekuatan: Skala masif, efisiensi tinggi; Kelemahan: Kualitas batubara rata-rata.
-- **ADRO** – ASP 96,1 USD/t; Volume 65,88 Mt; Kalimantan/Sumatera; Kekuatan: Diversifikasi (incl. coke), rantai logistik sendiri; Kelemahan: Eksposur harga internasional.
-- **PTBA** – ASP 66,2 USD/t; Volume 41,9 Mt; Sumatera/Kalimantan; Kekuatan: Infrastruktur angkutan sendiri; Kelemahan: Harga jual rata-rata rendah.
-- **GTBO** – ASP 32,9 USD/t; Volume 1,86 Mt; Kalimantan (Pulau Bunyu); Kekuatan: Konsisten di pasar listrik domestik; Kelemahan: Skala jauh lebih kecil, ASP terendah di peer group.
+### 5) Rekomendasi
+**6M (Taktis):**
+- Pantau ketat volatilitas laba/kas dan konfirmasi apakah laba Q2 2025 berkelanjutan.
+- Hindari posisi besar hingga ada arah pertumbuhan organik/pemulihan yang konsisten.
 
----
+**5Y (Tesis):**
+- Risiko turnaround sangat tinggi, prospek jangka panjang tergantung perbaikan struktur pendapatan/arus kas dan efisiensi biaya.
+- Valuasi rendah hanya menarik jika profitabilitas stabil kembali.
 
-## 4. Strategic Risks & Opportunities
-**Risiko Utama:**
-- Regulasi DMO dan kuota ekspor menekan volume & margin.
-- Penurunan harga batubara global & prospek demand yang lemah.
-- Cost overrun (biaya produksi/delivery naik tajam).
-- Transisi energi ke renewables (ancaman jangka panjang).
-- Perputaran kas negatif, membatasi kelonggaran strategi.
+### 6) Kesimpulan
+Jangka Pendek (≤6 bulan): ⚠️ – Volatilitas laba/kas tinggi, rebound belum terkonfirmasi, momentum pemulihan belum jelas.
+Jangka Panjang (>5 tahun): ❌ – Fundamenta struktur rugi berulang & pengecilan kas, risiko investasi besar tanpa transformasi signifikan.
 
-**Peluang:**
-- Potensi efisiensi biaya (jika cost structure bisa dirombak).
-- Optimalisasi kas & penataan capex/opex.
-- Diversifikasi portofolio; reposisi ke pasar ekspor niche.
-- Jika harga batubara rebound, leverage posisi balance sheet konservatif.
-
----
-
-## 5. Rekomendasi Strategis
-- **6M (Taktis):**
-  - **Fokus pengetatan biaya & cash preservation.** Tahan ekspansi; prioritas pada efisiensi operasi & arus kas. Review kontrak & renegosiasi logistik/biaya.
-- **5Y (Tesis):**
-  - ***Transformasi fundamental diperlukan.*** Lakukan diversifikasi produk/jalur distribusi, dan adaptasi terhadap arah transisi energi nasional serta tren pasar ekspor Asia. Reposisi dari sekedar supplier ke niche value-added coal/energy.
-
----
-
-## 6. Kesimpulan & Indikasi Strategis
-- **Jangka Pendek (≤ 6 bulan):** ⚠️ Hati-hati  
-  Arus kas negatif, kinerja anjlok, tekanan ASP & volume belum pulih.
-- **Jangka Panjang (> 5 tahun):** ⚠️ Hati-hati  
-  Transformasi jangka panjang wajib untuk sustainable; risiko struktural tetap tinggi tanpa reposisi bisnis.
-
----
-
-## 7. Catatan Penting
-Analisis ini bersifat edukasi, bukan ajakan untuk membeli atau menjual saham tertentu.  
-Keputusan investasi sepenuhnya ada di tangan investor sesuai profil risiko masing-masing.
+### 7) Catatan Penting
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor.

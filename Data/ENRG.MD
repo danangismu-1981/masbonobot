@@ -1,56 +1,58 @@
-## ENRG – Value Investor One-Pager
+## ENRG – Investor One-Pager
 
-### 1) Pertumbuhan YoY
-- **Revenue:** Q2 2025 YTD USD 239,1 juta (Q2 2024 YTD USD 201,9 juta) → +18% YoY.  
-  Katalis: peningkatan produksi minyak & harga jual gas lebih tinggi.
-- **Net Profit:** Q2 2025 YTD USD 53,8 juta (Q2 2024 YTD USD 33,5 juta) → +60,7% YoY.
-- **Gross Profit:** Q2 2025 YTD USD 84,5 juta (Q2 2024 YTD USD 64,6 juta) → +30,8% YoY.
-- **ASP Oil:** Data 2023 USD 91,3/barel, naik vs MEDC USD 77,9/barel.
-- **Oil Production:** Q2 2025 YTD 8.380 bopd, naik +9% YoY terutama dari asset Kampar/Siak (Q2 2024 YTD: estimasi ~7.686 bopd).
-- **Gas Sales Price:** Q2 2025 terdorong naik, tren positif mengikuti kenaikan harga global.
-- **Capex:** FY 2024 USD 273,3 juta, naik signifikan vs FY 2023 USD 132,4 juta; fokus pada pengembangan aset.
-- **FCF (FY 2024):** -USD 65,6 juta, turun dari positif di FY 2023, karena lonjakan belanja modal.
+### 1) Pertumbuhan & Tren Utama
+- **Pendapatan Q2 2025:** Rp 1,938 triliun _(Q2 2025)_ 
+  - **Stabil** dari Q1 2025: Rp 1,942 triliun _(Q1 2025)_ (flat QoQ)
+  - **Turun** -28% dibanding Q4 2024: Rp 2,711 triliun _(Q4 2024)_
+  - **YoY (FY2024 vs FY2023):** Naik +16% (Rp 7,552 triliun vs Rp 6,496 triliun)
+- **Laba bersih Q2 2025:** Rp 281,8 miliar _(Q2 2025)_
+  - **Turun** -6% dari Q1 2025: Rp 298,0 miliar _(Q1 2025)_
+  - **Turun** signifikan vs Q4 2024: Rp 441,7 miliar _(Q4 2024)_
+- **Aset total Q2 2025:** Rp 26,279 triliun _(Q2 2025)_
+- **Ekuitas Q2 2025:** Rp 11,242 triliun _(Q2 2025)_
+- **Margin laba bersih** Q2 2025: 14,5% _(281,8 miliar ÷ 1,938 triliun)_
+- **Free cash flow Q2 2025:** Rp 179,2 miliar _(Q2 2025; membaik dari kuartal negatif di Q4 2024 & Q2 2024)_
+- **Arus kas operasi Q2 2025:** Rp 524,3 miliar _(Q2 2025); menurun dari Q1 2025 Rp 1,078 triliun_
 
-### 2) Posisi Kompetitif (Bullet Points)
-- **Oil Production:** ENRG 5,75 MBOPD (2023) vs MEDC 32 MBOPD → skala jauh lebih kecil.
-- **Gas Sales:** ENRG 164 MMSCFD (2023) vs PGAS 1.458 MMSCFD → posisi ENRG minor di pasar, lebih ekspansif dalam oil.
-- **Reserves:** ENRG 176,6 MMBOE vs MEDC 539 MMBOE → kapasitas terbatas, perlu eksplorasi.
-- **Oil Lifting:** ENRG 4,0 MBOPD vs MEDC 30,8 MBOPD.
-- **ASP Oil/Gas:** ENRG unggul pada ASP minyak (USD 91,3/barel), gas kompetitif.
-- **Margin:** Gross margin Q2 2025 YTD ~35,3% (lebih baik dari peer rata-rata ~27–32%).
-- **Pendanaan/Leverage:** Debt naik (Bank Loan Q3 2024 USD 203 juta vs Q3 2023 USD 45 juta); Debt/Equity Q3 2024 0,32x (relatif konservatif).
+**Periode yang dipakai untuk angka utama: Q2 2025 (30 Juni 2025).**
 
-### 3) Dividen & Valuasi
-- **Dividen:** Tidak ada pembagian dividen sejak 2004. Total dividen 2024: USD 0.
-- **Market Cap:** ~USD 1,55 miliar (harga saham × saham beredar per price file).
-- **Yield:** 0%, dividen absen bertahun-tahun.
-- **CAGR Harga Saham:** 29,8% (2022–Q3 2025) – sangat tinggi, di atas rata-rata sektor energi.
+### 2) Posisi Kompetitif (Benchmark Highlights)
+- **Market cap ENRG:** Rp 24,4 triliun _(2024)_, relatif menengah di peer group.
+- **P/E TTM ENRG:** 19,55x _(2024)_ vs peer median: 
+  - MEDC 10,59x
+  - PGAS 8,80x
+  - AKRA 9,37x
+  - Sektor cenderung <12x, ENRG premium.
+- **PBV ENRG:** 1,96x _(2024)_ vs peer median <2x.
+- **Laba bersih** ENRG jauh di bawah Medco (Rp 1,2T vs Rp 5,96T), juga kalah efisiensi (margin lebih rendah).
+- **Jumlah karyawan jauh lebih ramping:** 570 (MEDC 3360, PGAS 3334), sinyal efisiensi namun juga risiko kapasitas.
 
-### 4) Insight Strategis
-**Kekuatan:**  
-- Pertumbuhan revenue & laba kuat, terutama dari minyak (terbantu rebound lifting & ASP).
-- Gross margin terjaga di atas peer.
-- Leverage masih terkontrol (Debt/Equity < 0,35x), ekuitas tumbuh stabil.
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
+- **Gross margin Q2 2025:** 38,3% _(742 miliar ÷ 1,938 triliun)_, membaik vs FY2024 (31,7%).
+- **Net margin Q2 2025:** 14,5%, lebih baik dari FY2024 (16,1%) – **stabil namun ruang margin terbatas**.
+- **Total debt Q2 2025:** Rp 6,31 triliun; **Debt/Equity:** ~0,56x _(6,31 ÷ 11,24)_, masih manageable.
+- **Current ratio:** Rp 4,24T ÷ Rp 7,34T ≈ 0,58x _(Q2 2025); mirip FY2024 (0,58x); risiko likuiditas masih terasa_.
+- **EBIT Q2 2025:** Rp 620,9 miliar _(Q2 2025)_; marjin EBIT ~32%, cukup solid.
 
-**Risiko:**  
-- Kenaikan cost of goods sold & biaya keuangan (Q3 2024: beban bunga naik 96% YoY akibat lonjakan bank loan).
-- FCF negatif FY 2024 (-USD 65,6 juta) karena investasi agresif, perlu pembuktian monetisasi.
-- Dividen nihil, bisa kurang atraktif bagi income investor.
-- Cadangan (reserves) jauh di bawah pemain besar; ancaman sustainability bila finding replacement reserve rendah.
+### 4) Dividen & Valuasi
+- **Dividen:** _Tidak ada data dividen pada periode terbaru_.
+- **Valuasi:** 
+  - **P/E** relatif premium di sektor.
+  - **PBV** sejalan atau sedikit premium dibanding mayoritas peers.
+- **Yield:** _Tidak tersedia_.
 
 ### 5) Rekomendasi
-**6M (Taktis):**  
-- Cocok untuk investor mencari ekspansi jangka pendek didukung tren naik minyak/gas & katalis produksi baru. Waspadai tekanan FCF & beban bunga.
-- Momentum trading potensial bila harga minyak tinggi.
+**6M (Taktis):**
+- Pantau potensi rebound earnings H2 2025 jika harga komoditas atau produksi stabil/membaik.
+- Waspadai tekanan likuiditas (current ratio <1), manajemen working capital & debt refinancing.
 
-**5Y (Tesis):**  
-- Butuh transformasi bisnis: Perlu penguatan cadangan migas & inovasi diversifikasi pendapatan untuk menjadi pemain utama.
-- Fokus efisiensi operasional & monetisasi investasi besar jadi kunci sustainabilitas; pantau debt management & FCF.
+**5Y (Tesis):**
+- ENRG punya basis aset relatif stabil, D/E moderate, namun masih kalah skala & efisiensi dari pemain utama (MEDC/PGAS).
+- Prospek jangka panjang tergantung ekspansi dan perbaikan struktur modal, serta potensi merger/akuisisi.
 
-### 6) Kesimpulan & Indikasi Strategis
-Jangka Pendek (≤ 6 bulan): ⚠️ – Prospek pertumbuhan laba baik, namun arus kas & leverage harus diawasi ketat.
-Jangka Panjang (> 5 tahun): ⚠️ – Perlu eksplorasi/akuisisi untuk peningkatan cadangan serta disiplin biaya agar tetap relevan di industri.
+### 6) Kesimpulan
+Jangka Pendek (≤6 bulan): ⚠️  – **Potensi kinerja flat, risiko likuiditas & valuasi premium.**
+Jangka Panjang (>5 tahun): ⚠️  – **Stabilitas aset & D/E mendukung, tapi butuh transformasi signifikan untuk naik kelas.**
 
 ### 7) Catatan Penting
-Analisis ini bersifat edukasi, bukan ajakan untuk membeli atau menjual saham tertentu.  
-Keputusan investasi sepenuhnya ada di tangan investor sesuai profil risiko masing-masing.
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor.

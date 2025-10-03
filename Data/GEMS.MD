@@ -1,71 +1,53 @@
-### GEMS (GEMS.JK) – Snapshot Fundamental & Strategis  
-**Periode Analisa: Q2 2025 YTD**  
+## GEMS – Investor One-Pager
 
----
-
-#### 1) **Snapshot Fundamental**
-- **Leverage:**  
-  - Liabilitas/Ekuitas (Q2 2025): **0,82x** (Total Liabilitas $551,9 juta; Total Ekuitas $676,0 juta)  
-- **Posisi Kas & Utang Bersih:**  
-  - **Kas (Q3 2024):** $247,2 juta  
-  - **Pinjaman bank (Q3 2024):** $143,5 juta  
-  - **Net Cash:** GEMS berada pada posisi **net cash positif** ($103,7 juta)  
-- **Dividen Yield:**  
-  - Total dividen 2025 (YTD): **Rp586,15/saham** (~6,4% yield terhadap harga Rp9.100/saham)  
-
----
-
-#### 2) **Growth Performance (YoY)**
-- **a. Revenue & Profit:**  
-  - **Revenue (Q2 2025 YTD):** $1,14 miliar (↓16% YoY)  
-  - **Laba Bersih (Q2 2025 YTD):** $152,7 juta (↓~50% YoY)*  
-  - **Margin Laba Bersih:** Tren penurunan sejalan tekanan ASP dan kenaikan biaya tambang  
-  - **Key Driver:** Penurunan ASP, permintaan China melemah, biaya produksi/mining naik  
-  - **CAGR Harga Saham 2022–Q2 2025:** **+40,2%**  
-  - **Dividen Yield 2024:** ~13% (payout tinggi, namun ada koreksi payout di 2025)  
-  - *Penurunan laba bersih > revenue, menandakan tekanan margin bersifat **struktural**  
+### 1) Pertumbuhan & Tren Utama
+- **Pendapatan Q2 2025:** Rp8,051 triliun (**turun signifikan** vs Q1 2025 Rp10,760 triliun/q/q -25%)  
+  - **YoY**: Belum dapat menghitung perubahan YoY karena Q2 2024 tidak tersedia (Q2 2024 revenue = Rp11,055 triliun).
+- **Laba bersih Q2 2025:** Rp626,97 miliar (turun dramatis q/q dari Q1 2025 Rp1,88 triliun dan Q2 2024 Rp2,47 triliun).
+- **Gross Profit Q2 2025:** Rp2,46 triliun (**penurunan** q/q dari Q1 2025 Rp4,14 triliun).
+- **Total aset Q2 2025:** Rp16,91 triliun (turun tajam dari Q1 2025 Rp21,40 triliun).
+- **Ekuitas Q2 2025:** Rp9,75 triliun (turun dari Q1 2025 Rp12,87 triliun).
+- **Year-to-date penurunan kinerja**:  
+  - **YoY Pendapatan Q2 2025 vs Q2 2024:** -27%  
+  - **YoY Laba Q2 2025 vs Q2 2024:** -75%  
+- Penurunan tajam top-line maupun bottom-line mengindikasikan tekanan dalam operasional 2025.
   
+**Periode yang dipakai untuk angka utama: Q2 2025 (30 Juni 2025)**
 
----
+### 2) Posisi Kompetitif (Benchmark Highlights)
+- **Market Cap:** Rp52,35 triliun (lebih kecil dari peer besar: BYAN Rp610 triliun, ADRO Rp48 triliun, DSSA Rp610 triliun).
+- **PE TTM:** 10,5 (Q2 2025, relatif rendah di bawah BYAN 41, DSSA 175; lebih tinggi dari ADRO 4, ITMG 4,5).
+- **PBV TTM:** 5,43 (lebih tinggi dari mayoritas peer kecuali CUAN dkk, yang outlier >1.000x).
+- **Net income tertinggi**: Masih di bawah AADI & ADRO, setara dengan lower-top tier.
+- **Efisiensi operasional menurun**: Operating margin dan net margin turun secara signifikan jika dibandingkan historical.
+- **Yearly market cap change**: -31% (sentimen negatif; peers mayoritas juga terkoreksi).
 
-#### 3) **Competitor Benchmark**
-- **ITMG** – ASP $113,1/t; Volume 16,9Mt; Kalimantan; Kekuatan: Integrasi fasilitas, diversifikasi pasar global; Kelemahan: Volume relatif kecil.
-- **PTBA** – ASP $66,2/t; Volume 41,9Mt; Sumatera; Kekuatan: Skala, infrastruktur rel; Kelemahan: ASP rendah, ekspos domestik besar.
-- **ADRO** – ASP $96,1/t; Volume 65,9Mt; Kalimantan; Kekuatan: Diversifikasi batubara & logistik; Kelemahan: Ketergantungan ekspor.
-- **BYAN** – ASP $75,8/t; Volume 49,7Mt; Kalimantan; Kekuatan: Efisiensi, infrastruktur; Kelemahan: Harga komoditas bergejolak.
-- **GEMS** – ASP $61,8/t; Volume 46,1Mt; Kal-Sum; Kekuatan: Skala tinggi, cost competitive; Kelemahan: ASP terendah, ekspos pasar tertentu.
-  
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
+- **Net margin Q2 2025 annualisasi (estimasi):** ~7,8% (dari laba Rp0,63T, revenue annualisasi Q2 x2 = Rp16T).
+- **Gross margin Q2 2025:** 30,6% (gross profit/revenue).
+- **Debt/equity Q2 2025:** 0,23x (total debt Rp2,21T, equity Rp9,75T – leverage menurun dari Q1 2025 0,22x).
+- **Current ratio Q2 2025:** Data tidak tersedia (angka current asset di Q2 2025 Rp513M, kemungkinan data salah/ada error).
+- **Arus kas operasi Q2 2025:** Rp0,59 triliun (drop dari Q1 2025 Rp2,15T).
+- **Free cash flow Q2 2025:** Rp0,52 triliun (rendah, menandakan pengetatan likuiditas).
 
----
+### 4) Dividen & Valuasi
+- **Dividend yield TTM**: 9,4% (tinggi secara historis & sektor)
+- **Yield 2025 (barusan dibayarkan, YTD):** 6,6%, lebih rendah dari tahun-tahun historis (2024: 14,9%).
+- **Payout ratio:** 98% (sangat tinggi, rawan tidak sustain jika laba terus drop).
+- **Valuasi:** PE TTM 10,5x, PBV 5,4x, tidak murah dibanding peers ADRO/ITMG/PTBA.
 
-#### 4) **Strategic Risks & Opportunities**
-- **Risiko Utama:**  
-  - Regulasi DMO/kuota ekspor, tekanan harga internasional, volatilitas permintaan China.  
-  - Kenaikan biaya produksi menyebabkan margin rentan.  
-- **Peluang:**  
-  - Efisiensi internal & optimalisasi cost tetap krusial.  
-  - Potensi optimalisasi FCF/dividen, terutama di periode harga batubara pulih.  
-  - Kemampuan ekspor lintas negara jadi keunggulan adaptif.
-  
+### 5) Rekomendasi
+**6M (Taktis):**  
+- Prioritas manajemen: jaga arus kas & penurunan biaya, review struktur dividen, hati-hati pada market risiko sentimen negatif batubara global.
+- Investor: Wait & see, monitor tren bottom-line Q3—Q4.
 
----
+**5Y (Tesis):**  
+- Secara fundamental sektor batubara tetap kontrasiklus & fluktuatif; GEMS mesti diversify bisnis energi untuk valuasi jangka panjang.
+- Kinerja dividen sangat volatil, tidak dapat diandalkan untuk income seeker dalam siklus negatif komoditas.
 
-#### 5) **Strategic Recommendations**
-- **6M (Taktis):**  
-  - Fokus optimasi efisiensi & pemeliharaan kas, pertahankan momentum dividen, cermati tren harga batubara global dan manajemen risiko permintaan China.  
-- **5Y (Tesis):**  
-  - Perlu transformasi model bisnis menuju energy transition, diversifikasi arus kas, dan mitigasi risiko regulasi jangka panjang agar relevan di era dekarbonisasi.
-  
+### 6) Kesimpulan
+Jangka Pendek (≤6 bulan): ⚠️ – Tekanan laba & penurunan tajam kas operasional, sentimen sektor negatif, risiko volatilitas tinggi.  
+Jangka Panjang (>5 tahun): ⚠️ – Perlu transformasi strategi utk menjawab tantangan dekarbonisasi & demand batubara global. Valuasi mahal (PBV>5x), dividen tidak stabil.
 
----
-
-#### 6) **Kesimpulan & Indikasi Strategis**
-- **Jangka Pendek (≤ 6 bulan):** ⚠️ Hati-hati – Tekanan menurun pada revenue/laba akibat harga dan cost, namun arus kas/dividen tetap relatif kuat.  
-- **Jangka Panjang (> 5 tahun):** ⚠️ Hati-hati – Risiko struktural (regulasi & transisi energi) signifikan; transformasi bisnis mutlak diperlukan agar tetap menarik.
-  
-
----
-
-#### 7) **Catatan Penting**
-Analisis ini bersifat edukasi, bukan ajakan untuk membeli atau menjual saham tertentu.  
-Keputusan investasi sepenuhnya ada di tangan investor sesuai profil risiko masing-masing.
+### 7) Catatan Penting
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor.

@@ -1,73 +1,48 @@
----
-## ABMM (Q2 2025 YTD) – Investor Snapshot
+## ABMM – Investor One-Pager
 
-### 1. Snapshot: Leverage, Posisi Kas & Utang Bersih (Q2 2025 YTD)
-- **Leverage (Liabilitas vs. Ekuitas):**  
-  - Total Liabilitas (Q2 2025): USD 1.316 miliar  
-  - Total Ekuitas (Q2 2025): USD 820,7 juta  
-  - **Debt-to-Equity**: 1,60x (masih tinggi untuk sektor batubara)
-- **Posisi Kas:** USD 141,5 juta (Q2 2025)
-- **Utang Bank**: USD 784,4 juta; Obligasi: USD 156,7 juta  
-- **Net Debt**: ~USD 799,6 juta (setelah dikurangi kas)
-- **Kapasitas FCF (2024):** USD 159,8 juta; Owner’s earnings: USD 85,5 juta (FY 2024)
+### 1) Pertumbuhan & Tren Utama
+- **Pendapatan Q2 2025:** Rp4,08 triliun (**-2% QoQ**; Q1 2025: Rp4,15 triliun)
+- **Laba Bersih Q2 2025:** Rp94,31 miliar (**-73% QoQ dramatis**; Q1 2025: Rp356,02 miliar)
+- **Aset total Q2 2025:** Rp33,67 triliun (**-1,3% QoQ**; Q1 2025: Rp34,20 triliun)
+- **Ekuitas Q2 2025:** Rp13,79 triliun (**-4,3% QoQ**)
+- **Kinerja YoY** belum dapat dibandingkan karena data Q2 2024 tidak tersedia, namun **YoY Revenue Growth 2024:** -17,7% dan Laba Bersih FY 2024: -64% vs FY 2023 (label: annual, acuan major trend).
+- **Free Cash Flow Q2 2025:** minus Rp755 miliar (Q1 2025: positif Rp475 miliar). Penurunan kas bebas besar menandakan tekanan kas.
+- **Arus Kas Operasi Q2 2025:** Rp490 miliar (Q1 2025: Rp1,59 triliun; turun signifikan).
+- **Periode yang dipakai untuk angka utama: Q2 2025**
 
----
+### 2) Posisi Kompetitif (Benchmark Highlights)
+- **Valuasi sangat rendah:** PBV 0,58x, PER 6,0x (vs median peers PBV >1x dan PER >8x).
+- **Net Profit 2024:** Rp2,25 triliun jauh di bawah BYAN, GEMS, ADRO, AADI, namun market cap sangat kecil (Rp7,93 triliun).
+- **Operating Expense/Revenue Q2 2025:** ~6,6% (relatif efisien vs peers, ADRO di kisaran 6–8%).
+- **Pendapatan terbesar dari mining contractor & coal mining (2024):** ~74% revenue.
 
-### 2. Growth Performance (YoY)
-#### a. Revenue & Profit:
-- **Revenue (Q2 2025 YTD):** USD 506,9 juta ↓ 12% YoY  
-  - *Penurunan disebabkan oleh turunnya ASP batubara & volume akibat cuaca ekstrem*
-- **Net Profit (FY 2024):** USD 139,3 juta ↓ ~56% dari FY 2023 (USD 315,6 juta)  
-  - *Profitability drop sejalan dengan marjin yang tergerus dan tekanan harga jual*  
-  - **Gross Margin (FY 2024):** ~10,9% (FY 2023: ~17,9%)
-- **Dividen Yield:**  
-  - Total dividen 2025: IDR 153/lembar (dividen LTM yield ~5,2% pada harga Rp2.920)
-- **CAGR Harga Saham (2022–YTD):** 15,71%
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
+- **Gross Profit Margin Q2 2025:** 8,8% (FY 2024: ~10,9%; tren margin turun kuat dari FY 2023: 26,3%).
+- **Net Profit Margin Q2 2025:** 2,3% (**merosot** dari FY 2023: 27,1%; dan FY 2024: 11,6%).
+- **ROE FY 2024:** 16,4% (turun tajam dari FY 2023: 53,3%).
+- **Leverage tinggi:** Debt to Equity Ratio Q2 2025: ~1,14x (Total Debt Rp15,68 triliun vs. Total Equity Rp13,79 triliun).
+- **Current Ratio Q2 2025:** 0,92x (**di bawah 1**, rawan tekanan likuiditas, Q1 2025: 0,98x).
+- **Kas dan setara kas Q2 2025:** Rp2,51 triliun (sedikit naik QoQ).
 
-#### b. Key Driver:
-- ASP batubara turun signifikan; beban operasional relatif terkendali lewat efisiensi OPEX
+### 4) Dividen & Valuasi
+- **Dividen TTM:** Rp153/lembar (**Yield TTM: 5,3%**; turun dari 2024: 7,8% & 2023: 11,8%)
+- **Payout Ratio TTM:** 31,9%
+- **Valuasi saham:** PBV 0,58x; PER 6,0x (**salah satu yang terdiskon di sektor coal**)
+- **Yield Dividen Historis 5 tahun:** rata-rata 6,1%
+- **Last ex-date:** 7 Mei 2025
 
----
-
-### 3. Competitor Benchmark (2023)
-- **ITMG** – ASP 113,1 USD/t; Volume 16,9 Mt; Kalimantan; Kekuatan: efisiensi operasional, porto terintegrasi; Kelemahan: cadangan cekak.
-- **PTBA** – ASP 66,2 USD/t; Volume 41,9 Mt; Sumatera, Kalimantan; Kekuatan: akses DMO, logistik efisien; Kelemahan: ASP rendah.
-- **ADRO** – ASP 96,1 USD/t; Volume 65,9 Mt; Kalimantan, Sumatera; Kekuatan: diversifikasi produk, infrastruktur; Kelemahan: sensitivitas harga global.
-- **BYAN** – ASP 75,8 USD/t; Volume 49,7 Mt; Kalimantan; Kekuatan: skala besar; Kelemahan: eksposur ke kualitas batu bara lebih rendah.
-- **ABMM** – ASP 109,7 USD/t; Volume 11,54 Mt; Kalimantan, Sumatera; Kekuatan: kontraktor batubara, port terintegrasi; Kelemahan: cadangan utama (TIA) habis, volume kecil.
-
----
-
-### 4. Strategic Risks & Opportunities
-- **Risiko:**
-  - Regulasi DMO & kuota ekspor menekan margin & volume
-  - Volatilitas harga dan cuaca ekstrem → risiko produksi & pendapatan
-  - Penurunan cadangan Tunas Inti Abadi (TIA)
-- **Peluang:**
-  - Efisiensi OPEX dan manajemen biaya
-  - Akuisisi PT Piranti Jaya Utama sebagai pengganti sumber cadangan
-  - Pemasukan dari investasi di entitas asosiasi GEMS yang meningkat
-
----
-
-### 5. Arahan Strategis
+### 5) Rekomendasi
 **6M (Taktis):**
-- Optimalkan efisiensi biaya serta kelola arus kas/kapasitas utang secara ketat
-- Stabilkan dividen dan maksimalkan kontribusi dari entitas asosiasi
-- Early execution pada integrasi PT Piranti Jaya Utama
+- Waspadai pelemahan laba dan tekanan margin; likuiditas operasional ketat, risk cash crunch.
+- Potensi support dari valuasi diskon & dividen terbatas.
 
 **5Y (Tesis):**
-- Diversifikasi sumber pendapatan diluar batubara utama, transformasi menuju model kontraktor & investasi (GEMS)
-- Fokus pada kelangsungan cadangan, penambahan aset baru & mitigasi paparan regulasi
+- Prospek jangka panjang akan sangat tergantung pada efisiensi, restrukturisasi utang, dan eksposur sektor batu bara vs diversifikasi.
+- Saham undervalued di bawah peers namun turnaround story bersyarat perbaikan ROE, margin & arus kas.
 
----
+### 6) Kesimpulan
+Jangka Pendek (≤6 bulan): ⚠️ – Tekanan laba, cash flow menurun, likuiditas <1x. Cautious.
+Jangka Panjang (>5 tahun): ⚠️ – Valuasi dan yield menarik, namun risiko leverage dan margin menurun.
 
-### 6. Kesimpulan & Indikasi Strategis
-- **Jangka Pendek (≤ 6 bulan):** ⚠️ Hati-hati – Tekanan profit & volume; momentum hanya pada efisiensi dan GEMS.
-- **Jangka Panjang (> 5 tahun):** ⚠️ Hati-hati – Risiko struktural terkait habisnya cadangan tambang lama; butuh eksekusi sukses akuisisi & diversifikasi.
-
----
-
-### 7. Catatan Penting
-Analisis ini bersifat edukasi, bukan ajakan untuk membeli atau menjual saham tertentu.  
-Keputusan investasi sepenuhnya ada di tangan investor sesuai profil risiko masing-masing.
+### 7) Catatan Penting
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor.

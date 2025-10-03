@@ -1,75 +1,56 @@
-### 1) Snapshot (Q2 2025 YTD)
+## ADRO – Investor One-Pager
 
-- **Leverage (Total Liabilitas/Ekuitas):**  
-  - Total Liabilitas (Q3 2024): USD 2.75 miliar  
-  - Ekuitas (Q3 2024): USD 8.15 miliar  
-  - **Leverage Ratio:** 0,34x — sangat rendah; struktur modal konserfatif.
-- **Posisi Kas (Q3 2024):** USD 3,2 miliar — sangat kuat.
-- **Utang Bersih:**  
-  - Kas & setara kas (Q3 2024): USD 3,2 miliar  
-  - Total utang berbunga (Senior Notes + Bank Loan, Q3 2024): USD 1,3 miliar  
-  - **Net Cash:** USD 1,9 miliar (kas bersih besar).
-- **Dividen Yield (YTD 2025):** 9,9% (Dividend: 166,69/Price 1685).
+### 1) Pertumbuhan & Tren Utama
+- **Pendapatan Q2 2025:** Rp7,726 triliun _(turun drastis YoY Q2 2024: Rp25,83 triliun; YoY growth: -70% – Sumber: Q2 2025 vs Q2 2024)_
+- **Laba Bersih Q2 2025:** Rp1,594 triliun _(turun signifikan YoY Q2 2024: Rp6,825 triliun; YoY growth: -77% – Sumber: Q2 2025 vs Q2 2024)_
+- **Pertumbuhan Kuartalan Q2 2025 vs Q1 2025:**  
+  - Pendapatan naik ~22% QoQ (Q1 2025: Rp6,333 triliun)
+  - Laba bersih naik ~25% QoQ (Q1 2025: Rp1,273 triliun)
+- **Margin Kotor Q2 2025:** 36.5% _(turun dari Q2 2024: 38.1%)_
+- **Catatan:** Kinerja 2025 secara YTD jauh di bawah 2024, baik pendapatan maupun laba.
+- **Periode yang dipakai untuk angka utama: Q2 2025 (per 30 Juni 2025)**
 
----
+### 2) Posisi Kompetitif (Benchmark Highlights)
+- **Valuasi murah:**  
+  - PBV: 0.65x, PE TTM: 4.3x _(2024, peer average jauh di atas: sektor rata-rata PBV 6–21x, PE 8–1.200x)_
+  - Market cap: Rp48,1 triliun _(2024)_
+- **Profitabilitas di bawah peers utama:**  
+  - ROE 2024: 25.7% _(masih baik, namun turun YoY)_
+  - Net profit margin 2024: 66.4% _(anomali akibat item non-operasional, waspada efek nonrecurring!)_
+- **Saingan terdekat:**  
+  - Harga lebih murah (PBV/PE) vs DSSA, BYAN, BUMI, GEMS, PTBA, ITMG, AADI, ADMR;  
+  - Namun revenue/laba turun lebih dalam tahun berjalan.
+- **Market cap & size relatif besar, likuiditas tinggi.**
 
-### 2) Growth Performance (YoY)
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
+- **Kesehatan keuangan:**  
+  - Cash & equivalents Q2 2025: data tidak tersedia _(terdekat: Q4 2024 Rp22,7 triliun)_
+  - Total aset Q2 2025: Rp104 triliun; Liabilitas: Rp23 triliun; Ekuitas: Rp81 triliun.
+  - **DER sangat konservatif** (Debt/Equity Q2 2025: ~0.14x; turun dari 0.25x di 2024).
+- **Arus kas operasi Q2 2025:** Rp4,06 triliun _(kuat, namun turun YoY); free cash flow positif Rp703 miliar._
+- **Capex Q2 2025:** Rp3,36 triliun _(tetap tinggi untuk ekspansi/maintenance)_
 
-**a. Revenue & Profit:**
-  - **Revenue (Q2 2025 YTD):** USD 857,7 juta  
-    ↓ **-71% YoY** (Q2 2024: USD 2.97 miliar) — penurunan struktural akibat divestasi bisnis thermal coal (AADI).
-    - **Key Driver:** penurunan ASP batu bara dan pengalihan portofolio ke metallurgical coal.
-  - **Net Profit (Q2 2025 YTD):** USD 194,9 juta  
-    ↓ **-78% YoY** (Q2 2024: USD 880,2 juta) — dampak divestasi.
-    - **Net Margin (Q2 2025 YTD):** 22,7% (masih di atas rata-rata sektor).
-  - **CAGR Harga Saham 2022–2025 YTD:** 5,88% — masih positif di tengah tekanan industri.
-  - **Dividen Yield (YTD 2025):** ~9,9% (tetap menarik walau payout menurun).
+### 4) Dividen & Valuasi
+- **Dividen 2025 (per 13 Juni):** Rp166,69 per saham _(dividend yield 9,98% YTD 2025)_
+- **Dividen TTM:** Rp1.632 per saham _(yield TTM: 97,7%, sangat tinggi karena payout 2024 anomali)_
+- **Rerata average yield 5 tahun:** 22.3%, _masih jauh di atas sektor rata-rata._
+- **Payout ratio 2024:** 438%, _anomali; risiko penurunan distribusi di depan._
 
----
+### 5) Rekomendasi
+**6M (Taktis):**
+- Waspadai volatilitas laba serta potensi penurunan dividen setelah 2024 yang luar biasa.
+- Momentum beli untuk yield/valuasi menarik tetap ada, namun _risk: reward_ kurang menarik di tengah tekanan industri dan normalisasi laba.
 
-### 3) Competitor Benchmark (2023)
+**5Y (Tesis):**
+- Fundamental balancsheet kuat, leverage rendah, peluang bertahan di siklus harga batu bara berikutnya besar.
+- Keandalan dividen sangat tergantung siklus batu bara, manajemen konservatif.
 
-- **ITMG** – ASP 113,1 USD/t; Volume: 16,9 Mt; Lokasi: Kalimantan; Kekuatan: cost efficient, high-calorific value coal; Kelemahan: skala produksi relatif kecil.
-- **PTBA** – ASP 66,2 USD/t; Volume: 41,9 Mt; Lokasi: Sumatera/Kalimantan; Kekuatan: low-cost, infrastruktur logistik kuat; Kelemahan: margin rendah.
-- **ADRO** – ASP 96,1 USD/t; Volume: 65,9 Mt; Lokasi: Kalimantan/Sumatera; Kekuatan: volume terbesar, diversifikasi; Kelemahan: relasi ke thermal coal semakin kecil pasca divestasi.
-- **ADMR** – ASP 243 USD/t; Volume: 5,11 Mt; Lokasi: Kalimantan; Kekuatan: margin sangat tinggi, fokus coking coal; Kelemahan: skala produksi kecil.
-- **BYAN** – ASP 75,8 USD/t; Volume: 49,7 Mt; Lokasi: Kalimantan; Kekuatan: produksi efisien, kompleks infrastruktur; Kelemahan: rentan fluktuasi harga.
-- **DSSA** – ASP 82,3 USD/t; Volume: 56,3 Mt; Lokasi: Kalimantan/Sumatera; Kekuatan: diversifikasi bisnis tambang, fasilitas lengkap; Kelemahan: margin bawah rata-rata.
+### 6) Kesimpulan
+Jangka Pendek (≤6 bulan): ⚠️ –  
+Penurunan pendapatan & laba sangat tajam, yield "super" berisiko turun, hanya cocok swing/trader defensif.
 
----
-
-### 4) Strategic Risks & Opportunities
-
-- **Risiko Utama:**  
-  - Regulasi (DMO/Ekspor, transisi energi, ketergantungan kebijakan pemerintah).
-  - Volatilitas harga global, margin tertekan.
-  - Transisi strategi dari thermal ke metallurgical coal menurunkan base revenue secara struktural.
-- **Peluang:**  
-  - Diversifikasi ke metallurgical coal dan energi baru (de-risking thermal coal).
-  - Peningkatan efisiensi OPEX, penguatan kas, yield dividen tetap menarik.
-  - Potensi growth di non-coal/green business jangka panjang.
-
----
-
-### 5) Rekomendasi Strategis
-
-- **6M (Taktis):**
-  - Optimalkan kas dan ekuitas; arus kas digunakan untuk dividen & ekspansi terbatas.
-  - Pantau transisi portofolio pasca-divestasi thermal coal, amati realisasi yield ADMR.
-- **5Y (Tesis):**
-  - Fokus transformasi fundamental melalui green energy dan hilirisasi produk mineral/metallurgical coal.
-  - Investor jangka panjang perlu mewaspadai risiko penurunan struktural pendapatan; penyesuaian valuasi terhadap new base business.
-
----
-
-### 6) Kesimpulan & Indikasi Strategis
-
-- **Jangka Pendek (≤ 6 bulan):** ⚠️ Hati-hati — cash & yield masih menarik, namun penurunan revenue setelah divestasi sangat signifikan.
-- **Jangka Panjang (> 5 tahun):** ⚠️ Hati-hati — butuh waktu membuktikan kelanjutan earnings di bisnis beyond thermal coal.
-
----
+Jangka Panjang (>5 tahun): ✅ –  
+Balance sheet solid, valuasi menarik, peluang recovery di siklus batu bara tetap tinggi bagi investor sabar.
 
 ### 7) Catatan Penting
-
-Analisis ini bersifat edukasi, bukan ajakan untuk membeli atau menjual saham tertentu.  
-Keputusan investasi sepenuhnya ada di tangan investor sesuai profil risiko masing-masing.
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor.

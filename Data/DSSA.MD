@@ -1,83 +1,50 @@
-## Snapshot Finansial – DSSA (Q3 2024 YTD)
+## DSSA – Investor One-Pager
 
-- **Leverage:**  
-  - Liabilitas/Equitas (Q3 2024): **0,83x** (Total Liabilitas: USD 1,59 Miliar vs. Ekuitas: USD 1,92 Miliar).
-- **Posisi Kas & Utang Bersih:**  
-  - Cash & Cash Equivalent (Q3 2024): **USD 695,1 Juta**  
-  - Total Bank Loan (Q3 2024): **USD 821,3 Juta**  
-  - Bonds payable (Q3 2024): **USD 91,8 Juta**  
-  - Utang Bersih: **USD 218 Juta** (Net Cash dikurangi total pinjaman utama, excl. liabilitas tambahan kecil; posisi kas **masih kuat**).
-- **Perubahan Kas YoY:**  
-  - Meningkat signifikan dari Q3 2023 (USD 372,4 Juta) ke Q3 2024 (USD 695,1 Juta) ↑.
+### 1) Pertumbuhan & Tren Utama
+- **Pendapatan Q2 2025:** Rp9,501 triliun  _(turun signifikan vs Q1 2025: Rp12,240 triliun – QtQ -22.4% | YoY data tidak tersedia pada Q2 2024)_.
+- **Laba periode berjalan (Q2 2025):** Rp269,14 miliar  _(Q1 2025: Rp1,34 triliun; drop QtQ karena pendapatan dan margin turun)_
+- **Gross Profit Q2 2025:** Rp3,116 triliun _(turun dibanding Q1 2025: Rp4,774 triliun)_
+- **Arus kas operasi Q2 2025:** Rp1,38 triliun _(Q1 2025: Rp2,86 triliun; penurunan sejalan pendapatan)_
+- **Free Cash Flow Q2 2025:** Rp5,24 miliar _(Q1 2025: Rp638,58 miliar; tajam menurun)_
+- **Total Aset Q2 2025:** Rp63,0 triliun _(naik tipis dari Q1 2025: Rp63,9 triliun)_
+- **Total Ekuitas Q2 2025:** Rp32,82 triliun
 
----
+**Periode yang dipakai untuk angka utama: Q2 2025 (30 Juni 2025).**
 
-## 1. Growth Performance (YoY)
+### 2) Posisi Kompetitif (Benchmark Highlights)
+- **Market Cap:** Rp610,8 triliun _(peers: BYAN Rp610,0T, CUAN Rp181,0T, GEMS Rp52,4T, ADRO Rp48,1T)_
+- **Penilaian (TTM/2024):**
+  - **P/E:** 175,3x _(BYAN: 41,0x; CUAN: 85,7x; ADRO: 4,3x; GEMS: 10,5x)_
+  - **P/B:** 21,9x _(BYAN: 17,5x; CUAN: 36.535x; ADRO: 0,65x; GEMS: 5,4x)_
+- **Net Income** jauh di bawah beberapa peers utama _(CTH: BYAN Rp15,2T, ADRO Rp22,3T, GEMS Rp7,7T)_
 
-**a. Revenue & Profit:**  
-*(Angka income statement Q3 2024 YTD tidak terdeteksi di file, sehingga tidak bisa disajikan. Silakan update file jika ingin melihat detailnya.)*
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
+- **EBIT Q2 2025:** Rp1,12 triliun _(Q1: Rp3,09 triliun – turun tajam)_
+- **EBITDA Q2 2025:** Rp1,19 triliun _(data Q1: anomali; tidak digunakan)_
+- **EBIT Margin Q2 2025:** ~11,8% _(vs Q1: ~25,2%)_
+- **Net Profit Margin Q2 2025:** ~2,8% _(Q1: ~10,9%)_
+- **Total Liabilitas Q2 2025:** Rp30,18 triliun _(Q1: Rp29,68 triliun)_
+- **Total Debt Q2 2025:** Rp20,75 triliun _(Q1: Rp19,92 triliun)_
+- **Cash & Short Term Investments Q2 2025:** Rp7,49 triliun _(Q1: Rp15,82 triliun – cukup turun)_
+- **Leverage:** Debt-to-Equity Q2 2025 = 0,63x _(Q1: 0,58x; moderate, sedikit naik)_
+- **Kualitas arus kas:** Penurunan kas dan FCF menekan likuiditas jangka pendek.
 
-- **Margin:** Belum teridentifikasi karena data laba rugi tidak tersedia.
-- **Key Driver:** Tidak tersedia pada data ini. Umumnya kinerja didorong oleh ASP batubara dan volume penjualan.
+### 4) Dividen & Valuasi
+- **Dividen:** Data tidak tersedia pada periode terbaru.
+- **Valuasi:** DSSA sangat premium, P/E (175,3x) & P/B (21,9x) jauh di atas rata-rata peers (P/E rata-rata industri ~10x–41x, P/B ~1–5x).
 
----
+### 5) Rekomendasi
+**6M (Taktis):**
+- Waspada pada tren penurunan pendapatan, laba, dan FCF; tekanan likuiditas meningkat.
+- Harga sudah sangat premium; momentum kurang menarik jangka pendek.
 
-## 2. Competitor Benchmark
+**5Y (Tesis):**
+- Fundamental sektor batubara tetap solid, tapi valuasi sangat tinggi tanpa dukungan pertumbuhan bottom line.
+- DSSA sedang menghadapi tekanan margin dan kas; butuh efisiensi atau diversifikasi agar jangka panjang lebih menarik.
 
-- **ITMG** – ASP 113,1 USD/t; Volume 16,9 Mt; Lokasi: Kalimantan  
-  - **Kekuatan:** Biaya produksi efisien, rasio dividen tinggi
-  - **Kelemahan:** Sumber daya terbatas, sensitif pada harga spot
+### 6) Kesimpulan
+Jangka Pendek (≤6 bulan): ⚠️ – Penurunan pendapatan/laba dan arus kas di Q2 2025 jadi risiko utama; valuasi overvalued.
+Jangka Panjang (>5 tahun): ⚠️ – Potensi masih ada jika manajemen sukses perbaiki efisiensi & diversifikasi pendapatan; saat ini return tidak sebanding risiko premium valuasi.
 
-- **ADRO** – ASP 85,9 USD/t; Volume 62 Mt; Lokasi: Kalimantan  
-  - **Kekuatan:** Diversifikasi energi (PLTU, smelter), cadangan besar
-  - **Kelemahan:** Capex tinggi, ketergantungan pasar ekspor Asia
-
-- **BYAN** – ASP 105 USD/t; Volume 37,7 Mt; Lokasi: Kalimantan  
-  - **Kekuatan:** Margin tertinggi industri, logistik terintegrasi
-  - **Kelemahan:** Likuiditas saham rendah, eksposur konsentrasi pelanggan
-
-- **DSSA** – (ASP & volume belum tersedia versi Q3 2024 dalam data)  
-  - **Kekuatan:** Posisi kas kuat, diversifikasi usaha (pembangkit listrik, logistik)
-  - **Kelemahan:** Leverage relatif lebih tinggi dibanding peers utama
-
----
-
-## 3. Strategic Risks & Opportunities
-
-- **Risiko Utama:**  
-  - Ketergantungan harga batubara global ⚠️  
-  - Potensi tekanan regulasi DMO & ekspor  
-  - Transisi energi → permintaan batubara jangka panjang terancam
-
-- **Peluang Strategis:**  
-  - Diversifikasi bisnis non-batubara (listrik terbarukan/logistik)  
-  - Optimasi struktur modal: peluang refinancing utang & perbaikan leverage  
-  - Potensi yield dividen jika FCF tinggi
-
----
-
-## 4. Strategic Recommendations
-
-- **6M (Taktis):**  
-  - Maksimalkan kas untuk optimalisasi utang & perkuat buffer likuiditas  
-  - Jaga fleksibilitas operasional hadapi fluktuasi harga komoditas
-
-- **5Y (Tesis):**  
-  - Lakukan transformasi bisnis, percepat diversifikasi non-batubara  
-  - Reduksi leverage untuk menekan risiko jika pasar melemah
-
----
-
-## 5. Kesimpulan & Indikasi Strategis
-
-- **Jangka Pendek (≤ 6 bulan):**  
-  - ✅ **Positif** – Kas naik tajam, likuiditas terjaga untuk menghadapi volatilitas
-- **Jangka Panjang (> 5 tahun):**  
-  - ⚠️ **Hati-hati** – Risiko struktural batubara, perlu percepatan diversifikasi
-
----
-
-## 6. Catatan Penting
-
-Analisis ini bersifat edukasi, bukan ajakan untuk membeli atau menjual saham tertentu.  
-Keputusan investasi sepenuhnya ada di tangan investor sesuai profil risiko masing-masing.
+### 7) Catatan Penting
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor.
