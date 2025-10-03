@@ -1,65 +1,59 @@
----
-### Snapshot Keuangan & Posisi Neraca (Q2 2025 YTD)
-- **Leverage (Liabilitas/Equitas):** 933,98 juta / 1,778 miliar = **0,53x** (Q3 2024; belum tersedia Q2 2025, namun tidak ada indikasi lonjakan material).
-- **Kas & Setara Kas:** USD **205,3 juta** (Q3 2024; Q2 2025 belum tersedia).
-- **Bank Loan:** USD **370,37 juta** (Q3 2024).
-- **Utang Bersih:** Total pinjaman USD **370,37 juta** – Kas USD **205,3 juta** ≈ **USD 165 juta** (net debt naik dibanding tahun lalu).
-- **Total Aset:** USD **2,71 miliar** (Q3 2024).
-- **Catatan:** Struktur modal agresif; utang bank naik guna pembiayaan ekspansi nikel.
+## HRUM – Investor One-Pager
 
----
+### 1) Pertumbuhan & Tren Utama
+- **Pada Q2 2025 YTD** (per 30 Juni 2025):
+  - **Pendapatan**: Rp5,51T (Q2 2025); naik dari Rp4,96T (Q1 2025) → **+11% QtQ**.
+  - **Laba bersih**: Rp390,6M (Q2 2025); melonjak dari Rp92,4M (Q1 2025) → **+323% QtQ**.
+  - **Gross profit**: Rp890,6M (Q2 2025); turun dari Rp988,5M (Q1 2025) → **-10% QtQ**.
+  - **Margin laba bersih**: 7,1% (Q2 2025; dihitung = 390,6M/5,51T); meningkat siginifikan dari 1,9% (Q1 2025).
+  - **Arus kas operasi**: Rp1,35T (Q2 2025); jauh membaik dari hanya Rp94,9M (Q1 2025).
+  - **Free cash flow**: Masih negatif Rp1,61T (Q2 2025), namun lebih baik daripada negatif Rp5,14T (Q1 2025).
+- **Tren Tahunan (FY 2024 vs FY 2023)**:
+  - **Pendapatan** FY24: Rp20,93T vs FY23: Rp14,29T (**+46% YoY**).
+  - **Laba bersih** FY24: Rp874M vs FY23: Rp4,41T (**-80% YoY**).
+  - **Margin laba bersih**: 4,2% (FY24) dari 30,9% (FY23).
+- **Periode yang dipakai untuk angka utama: Q2 2025**
 
-### 1. Growth Performance (YoY)
-**a. Revenue & Profit:**
-- **Revenue (Q2 2025 YTD):** USD **645,3 juta** (YoY **↑ 8,1%**; FY 2024 YoY ↑ 40%).
-    - **Key Driver:** Lonjakan volume & ASP dari segmen nikel (volume nikel ↑ >40% YoY), pendapatan batubara turun.
-- **Net Profit (Q2 2025 YTD):** USD **38,4 juta** (YoY **↓ 28,4%**; marjin terus terkikis).
-    - **Key Driver:** COGS tinggi segmen nikel (95% dari pendapatan nikel), naiknya biaya bunga akibat utang.
-    - Penurunan profit dinilai **struktural** jika COGS nikel tidak mampu ditekan.
-- **Gross Profit Margin:** Menurun tajam; FY 2024 gross profit naik secara nominal tapi margin relatif menurun.
-- **CAGR Harga Saham 2022–Q2 2025 YTD:** **-11,92%**.
-- **Dividen Yield:** Tidak ada pembagian dividen di 2024 & 2025 YTD.
+### 2) Posisi Kompetitif (Benchmark Highlights)
+- **Market cap**: Rp16,3T (FY24; peers—ADRO Rp48T, BYAN Rp610T).
+- **Valuasi**: 
+   - **P/E TTM**: 21,96x (FY24) vs BYAN 41x, ADRO 4,3x, ADMR 8,3x.
+   - **P/B TTM**: 1,09x (FY24) – di bawah rata-rata sub-sektor (kecuali ADRO/AADI).
+- **Profitabilitas peers**: HRUM margin & earning power lebih rendah dibanding ADRO, BYAN, GEMS (lihat margin laba bersih & ROE).
+- **Pertumbuhan pendapatan dua kuartal terakhir kuat** namun struktur biaya tekanan laba; profitabilitas di bawah peers utama.
 
----
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
+- **Profitabilitas**:
+   - **EBIT**: Rp677,2M (Q2 2025); naik +55% QtQ dari Q1 2025.
+   - **Gross margin**: 16,2% (Q2 2025, turun dari Q1 19,9%); FY24: 21,9%.
+   - **ROE**: 3,0% (FY24); peers rata-rata jauh lebih tinggi (ADRO 25–30%).
+- **Likuiditas/Leverage**:
+   - **Total aset**: Rp51,3T; **ekuitas**: Rp29,5T; **liabilitas**: Rp21,8T (Q2 2025).
+   - **Total debt/equity**: 32,7% (Q2 2025; turun dari 37,7% Q1 2025).
+   - **Current ratio**: 2,6x (Q2 2025).
+- **Kualitas aset**: 77% aset berupa non-current (Q2 2025); kas & instrumen lancar Rp4,2T.
+- **Arus kas**: Operasi positif, tapi FCF masih negatif akibat capex besar.
 
-### 2. Competitor Benchmark
-- **ITMG** – ASP 113,1 USD/t; Volume 16,9 Mt; Lokasi: Kalimantan; Kekuatan: jaringan infrastruktur & efisiensi; Kelemahan: eksposur dominan batubara.
-- **BYAN** – ASP 75,8 USD/t; Volume 49,7 Mt; Kalimantan; Kekuatan: volume besar & biaya efisien; Kelemahan: mayoritas batubara kalori rendah.
-- **ADRO** – ASP 96,1 USD/t; Volume 65,88 Mt; Kalimantan; Kekuatan: diversifikasi ke metalurgi; Kelemahan: margin tertekan harga.
-- **HRUM** – ASP 114,4 USD/t; Volume 7 Mt; Kalimantan; Kekuatan: ekspansi nikel mulai menaikkan top line; Kelemahan: COGS nikel tinggi, profitabilitas rendah.
-- **PTBA** – ASP 66,2 USD/t; Volume 41,9 Mt; Sumatera; Kekuatan: sumber batubara terbesar; Kelemahan: harga jual lebih rendah; transformasi lambat.
+### 4) Dividen & Valuasi
+- **Dividen**: Tidak ada dividen sejak akhir 2022 (“yield TTM: 0.0%”; last ex-date: 14 Des 2022).
+- **Yield rata-rata 5 tahun**: 1,1%.
+- **Valuasi**: P/E cukup mahal vs peers (ADRO, GEMS), tapi lebih murah vs BYAN.
 
----
+### 5) Rekomendasi
+**6M (Taktis):**
+- Fokus pada potensi perbaikan laba dan kas dari efisiensi biaya. 
+- Risiko volatilitas hasil tetap tinggi, mengingat tren margin masih fluktuatif & FCF negatif.
+- Waspada terhadap sentimen sektor batu bara global.
 
-### 3. Strategic Risks & Opportunities  
-**Risiko Utama:**
-- **Regulasi (DMO, kuota ekspor)**: Membatasi ruang pertumbuhan batubara.
-- **Volatilitas Harga Komoditas:** Terutama nikel, rentan fluktuasi global.
-- **COGS Nikel Tinggi:** Potensi tekanan profitabilitas jika tak terkendali, sifatnya struktural selama biaya produksi belum turun.
+**5Y (Tesis):**
+- Posisi aset & kas besar memungkinkan ekspansi dan diversifikasi jangka panjang.
+- Profitabilitas masih harus digenjot ke peer level agar valuation justifiable jangka panjang.
 
-**Peluang:**
-- **Diversifikasi Nikel:** Pangsa pendapatan nikel makin dominan, potensi pasar EV.
-- **Perbaikan Efisiensi:** Penurunan COGS dapat mengembalikan profit margin.
-- **Optimisasi FCF ke depan bila investasi nikel mulai menopang EBITDA.**
+### 6) Kesimpulan
+- **Jangka Pendek (≤6 bulan): ⚠️**  
+  - Volatilitas tinggi pada profit & FCF, valuasi kurang menarik vs peers efisien.
+- **Jangka Panjang (>5 tahun): ⚠️**  
+  - Prospek ekspansi & kas besar menarik, tapi perlu bukti kenaikan margin & posisi kompetitif ke depan.
 
----
-
-### 4. Strategic Recommendations
-- **6M (Taktis):**
-    - Prioritas stabilisasi keuangan dan pengurangan leverage; monitoring profitabilitas nikel.
-    - Tidak ada alokasi dividen; seluruh FCF difokuskan ekspansi & efisiensi nikel.
-- **5Y (Tesis):**
-    - **Kritikal:** Transformasi model bisnis menuju pertumbuhan nikel yang profitable & menjaga cost competitiveness.
-    - **Arah:** Peluang menjadi perusahaan diversifikasi mineral masa depan jika COGS nikel efisien; risiko jika profitabilitas tetap rendah atau harga komoditas tertekan.
-
----
-
-### 5. Kesimpulan & Indikasi Strategis
-- **Jangka Pendek (≤6 bulan):** ⚠️ Hati-hati – Kinerja profit turun, arus kas operasi positif namun tekanan margin berlanjut.
-- **Jangka Panjang (>5 tahun):** ⚠️ Hati-hati – Eksistensi tergantung keberhasilan transformasi segmen nikel dan efisiensi biaya.
-
----
-
-### 6. Catatan Penting
-Analisis ini bersifat edukasi, bukan ajakan untuk membeli atau menjual saham tertentu.  
-Keputusan investasi sepenuhnya ada di tangan investor sesuai profil risiko masing-masing.
+### 7) Catatan Penting
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor.

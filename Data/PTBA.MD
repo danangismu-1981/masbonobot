@@ -1,63 +1,57 @@
----
-### Snapshot – PTBA (Q2 2025 YTD)
-- **Leverage (Liabilitas/Equitas):** 19.82 triliun/20.34 triliun = **0,97x** (Q3 2024, data terbaru)
-- **Kas & Setara Kas:** Rp4.54 triliun (Q3 2024, terakhir tersedia)
-- **Utang Bersih (Net Debt):** Kas Rp4.54 triliun lebih tinggi dari total bank loan Rp1.95 triliun → **Net Cash Position** (Q3 2024). 
-- **Dividen Terakhir:** Rp332,4/saham (dibayarkan 23 Juni 2025; Yield ~13,9% dari harga September 2025).
-- **Valuasi:** CAGR harga saham 2022–Q2 2025 +31,97%.
+## PTBA – Investor One-Pager
+
+### 1) Pertumbuhan & Tren Utama
+- **Pendapatan Q2 2025**: Rp10,49 triliun _(Q2 2025, turun tipis -4.3% QoQ dari Q1 2025 Rp9,96 triliun; naik +2.6% YoY dari Q2 2024 Rp10,23 triliun)_.
+- **Laba bersih Q2 2025**: Rp441,6 miliar _(Q2 2025; turun signifikan dari Q2 2024 Rp1,24 triliun; juga turun dari Q1 2025 Rp391,5 miliar – kinerja sangat terkontraksi)_.  
+- **YoY earnings contraction**: _YTD Q2 2025 laba turun drastis; konfirmasi juga di data tahunan FY2024 vs FY2023 (laba turun 48%, FY2024 Rp5,1T vs FY2023 Rp9,8T)_. 
+- **Aset total Q2 2025**: Rp42,68 triliun _(naik dari Q1 2025 Rp42,26 triliun dan FY2024 Rp41,85 triliun)_.
+- **Gross Profit Q2 2025:** Rp1,20 triliun _(margin bruto sangat tertekan; FY2024: margin bruto 19,2%, turun dari FY2023 yang 23,8%)_.
+- **Arus kas operasi Q2 2025:** Rp1,01 triliun _(turun dari Q1 2025 Rp1,21 triliun; lebih rendah dari periode-periode historis)_.
+- **Free Cash Flow Q2 2025:** Rp97 miliar _(turun tajam dari Q1 2025 Rp596 miliar; menunjukkan tekanan cash flow besar)_.
+
+**Periode yang dipakai untuk angka utama: Q2 2025 (30 Juni 2025)**
 
 ---
 
-### 1. Growth Performance (YoY – Q2 2025 YTD)
-**a. Revenue & Profit:**
-  - **Revenue (Q2 2025):** Rp20.45 triliun ↑ +3,7% YoY (didukung pertumbuhan volume jual +8%; ASP menurun sesuai tren harga global).
-  - **Gross Profit (Q2 2025):** Rp2,25 triliun ↓ dari Rp3,4 triliun (Q2 2024), margin tertekan akibat biaya produksi membengkak.
-  - **Net Profit (Q2 2025):** Rp839,9 miliar ↓ -59% vs Rp2,05 triliun (Q2 2024) – penurunan profit sudah terindikasi sejak awal tahun, didorong lonjakan biaya dan margin yang menipis.
-  - **CAGR Harga Saham (2022–YTD 2025):** 31,97%
-  - **Dividend Yield (2025):** ~13,9%
-
-  - **Key Driver:** Volume jual naik, namun margin terkompres akibat lonjakan biaya produksi, OPEX, serta penurunan ASP global (risiko struktural biaya).
+### 2) Posisi Kompetitif (Benchmark Highlights)
+- **Valuasi rendah**: PE TTM: 6,87x, PB MRQ: 1,37x _(vs peers: BYAN 41x, ADRO 4,3x, ITMG 4,6x, GEMS 10,5x)_.
+- **Market cap PTBA**: Rp26,8 triliun _(jauh lebih kecil dari peer besar seperti ADRO, BYAN)_.
+- **Net profit margin** (FY2024): 11,9% _(meleset jauh dibanding margin BYAN 27%, ADRO ~66%, ITMG ~16%)_.
+- **Pertumbuhan pendapatan stagnan** _(YoY rev growth Q2 2025: +2,5%)_; kinerja laba jauh di bawah peers.
 
 ---
 
-### 2. Competitor Benchmark (2023)
-- **ITMG** – ASP 113,1 USD/t; Volume 16,9 Mt; Kalimantan; Kekuatan: ASP tinggi, efisiensi pelabuhan sendiri; Kelemahan: skala produksi di bawah PTBA.
-- **PTBA** – ASP 66,2 USD/t; Volume 41,9 Mt; Sumatera & Kalimantan; Kekuatan: skala produksi besar, infrastruktur logistik kokoh; Kelemahan: kualitas batu bara GAR lebih rendah, ASP terendah di kelompok peers.
-- **ADRO** – ASP 96,1 USD/t; Volume 65,9 Mt; Sumatera & Kalimantan; Kekuatan: diversifikasi produk, infrastruktur kuat; Kelemahan: ekspansi capex tinggi.
-- **BYAN** – ASP 75,8 USD/t; Volume 49,7 Mt; Kalimantan; Kekuatan: biaya rendah, akses pasar luas; Kelemahan: konsentrasi lokasi.
-- **GEMS** – ASP 61,8 USD/t; Volume 46,1 Mt; Sumatera & Kalimantan; Kekuatan: biaya transport efisien; Kelemahan: kualitas produk rendah.
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
+- **EBITDA Q2 2025**: Rp1,01 triliun _(rendah; FY2024: EBITDA margin 18,5%)_.
+- **Struktur modal solid**: Debt/Equity Q2 2025: 6,2% _(Rp1,23T total debt / Rp19,8T equity)_.
+- **Rasio lancar (current ratio)**: Estimasi Q2 2025: 1,01x _(Rp15,88T aset lancar / Rp15,68T liabilitas lancar)_.
+- **Kualitas aset**: Aset tumbuh moderat; namun return on asset & return on equity turun _(ROA FY2024: 12,2%; turun dari FY2023: 25,4%)_.
+- **Arus kas bebas sangat tipis** _(Q2 2025: hanya Rp97 miliar)_.
 
 ---
 
-### 3. Strategic Risks & Opportunities
-- **Risiko Utama:** 
-  - Regulasi DMO & kuota ekspor (potensi hambatan penjualan & margin).
-  - Volatilitas harga batubara global.
-  - Struktur biaya membengkak (cost pressures), margin turun; tren kemungkinan struktural.
-  - Eksposur pada risiko transisi energi (carbon risk jangka panjang).
-- **Peluang:**
-  - Efisiensi biaya dan digitalisasi operasional.
-  - Potensi optimalisasi FCF untuk dividen tetap tinggi.
-  - Diversifikasi ke downstream/energi baru sebagai mitigasi jangka panjang.
+### 4) Dividen & Valuasi
+- **Dividen TTM**: Rp332,4/lembar _(pembayaran Juni 2025)_; yield TTM: 14,4% _(sangat menarik)_.
+- **Payout Ratio**: 97,9% _(sustainable only if earnings stabilize; dividend dihitung dari laba yang menurun)_.
+- **Valuasi vs peers**: PTBA diperdagangkan jauh lebih murah vs banyak peer _[lihat section 2]_.
 
 ---
 
-### 4. Strategic Recommendations
-- **6M (Taktis):** 
-  - Optimalkan operasional dan efisiensi biaya demi mempertahankan cashflow dan yield dividen.
-  - Waspadai tekanan lanjutan pada laba bersih; prioritaskan pengendalian OPEX dan negosiasi biaya jasa tambang.
-- **5Y (Tesis):**
-  - Transformasi bisnis menuju diversifikasi energi (renewables/mineral strategis).
-  - Perlu exit plan bertahap pada bisnis thermal coal, dengan tetap mengelola arus kas demi dividen selama transisi.
+### 5) Rekomendasi  
+**6M (Taktis):**
+- Fokus defensif dividend play jangka pendek. Hati-hati karena arus kas bebas tertekan dan laba terkontraksi tajam.
+- Monitor pemulihan harga batubara/global demand.
+
+**5Y (Tesis):**
+- Prospek jangka panjang mengandalkan reformasi biaya, diversifikasi, efisiensi, dan prospek ESG. Dividen tinggi bisa berisiko tidak sustainable jika perlemahan laba berlanjut.
 
 ---
 
-### 5. Kesimpulan & Indikasi Strategis
-- **Jangka Pendek (≤ 6 bulan):** ⚠️ Hati-hati – Margin tertekan, penurunan profit berlanjut meski pendapatan naik, tekanan biaya belum reda.
-- **Jangka Panjang (> 5 tahun):** ⚠️ Hati-hati – Risiko struktural industri batubara tinggi (transisi energi, regulasi), butuh transformasi fundamental.
+### 6) Kesimpulan
+Jangka Pendek (≤6 bulan): ⚠️ – **Atensi karena risiko penurunan laba & FCF meski yield dividen sangat tinggi.**
+Jangka Panjang (>5 tahun): ⚠️ – **Value trap risk: valuasi & yield menarik, tapi margin/laba menurun, cash flow ketat, dan sektor batu bara: risiko transisi energi.**
 
 ---
 
-### 6. Catatan Penting
-Analisis ini bersifat edukasi, bukan ajakan untuk membeli atau menjual saham tertentu.  
-Keputusan investasi sepenuhnya ada di tangan investor sesuai profil risiko masing-masing.
+### 7) Catatan Penting
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor.

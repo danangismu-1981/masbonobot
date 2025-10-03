@@ -1,73 +1,47 @@
----
-## 1. Snapshot Keuangan & Neraca (Q2 2025 YTD)
-- **Leverage (Liabilitas/Equity):**
-  - Total Liabilitas (Q2 2025 YTD): USD 477,3 juta
-  - Total Ekuitas: USD 454,9 juta
-  - **Rasio Liabilitas/Ekuitas (DER):** 1,05x (stabil vs historis)
-- **Posisi Kas & Utang Bersih:**
-  - Kas & Setara Kas: USD 68,7 juta
-  - Pinjaman Bank: USD 319,7 juta
-  - Bonds Payable: USD 32,2 juta
-  - **Utang Bersih:** ±USD 283,2 juta (relatif tinggi, beban bunga meningkat bila suku bunga naik)
-- **Owner’s Earnings & FCF (2024):**
-  - Owner’s Earnings: USD 62,7 juta (turun dari USD 94,9 juta di 2022)
-  - Free Cash Flow (2024): USD 113,6 juta
+## TOBA – Investor One-Pager
 
----
+### 1) Pertumbuhan & Tren Utama
+- **Laba Bersih Q2 2025:** -Rp880 miliar *(Q2 2025)*, berbalik turun drastis dari -Rp67 miliar *(Q4 2024)* dan -Rp997 miliar *(Q1 2025)*.
+- **Pendapatan Q2 2025:** Rp1,61 triliun (Q2 2025); naik +36% QtQ dari Q1 2025 (Rp1,19 triliun), namun lebih rendah dibanding Q4 2024 (Rp2,10 triliun).
+- **Tren YoY:** Laba bersih kuartal ke kuartal cenderung memburuk sejak Q4 2024, dengan lonjakan rugi di Q1–Q2 2025.  
+- **Margin Kotor Q2 2025:** Hanya 6,7% (gross profit: Rp108 miliar dari revenue Rp1,61 triliun).
+- **Arus Kas Operasi:** -Rp295 miliar (Q2 2025), menurun drastis vs +Rp325 miliar (Q4 2024) dan +Rp430 miliar (Q1 2024, annual, referensi).
+- **QtQ revenue Q2 2025 naik, namun rugi makin besar dan arus kas memburuk.**
+- **Total aset turun:** Q2 2025: Rp13,17 triliun vs Q4 2024: Rp14,44 triliun.
+**Periode yang dipakai untuk angka utama: Q2 2025 (30 Juni 2025).**
 
-## 2. Growth Performance (YoY)
-**a. Revenue & Profit:**
-  - **Revenue (Q2 2025 YTD):** USD 172,2 juta ↓ signifikan vs Q2 2024 (USD 248,7 juta), YoY -30,7%
-    - Q1 2025 YoY: Revenue ↓42% didorong penurunan ASP & volume; Q2 2025 didominasi kontribusi anak usaha baru di Singapura (waste-to-resource)
-  - **Net Profit (Q2 2025 YTD):** -USD 115,3 juta (rugi) akibat divestasi MCL & GLP (loss recognized USD 96 juta)
-    - Net profit operational (tanpa one-off): naik signifikan pada FY 2024 (+130% YoY), tapi mulai tertekan tajam di 2025
-    - **Margin gross (Q2 2025 YTD):** 8,1% vs 22% di Q2 2024 (turun struktural)
-  - **Key Driver:** Penurunan tajam ASP dan volume batu bara, kenaikan G&A expenses, namun ada pendapatan baru dari waste-to-resource.
+### 2) Posisi Kompetitif (Benchmark Highlights)
+- **TOBA Valuasi (2024; data full-year):**
+  - PBV: 2,80x; PE TTM: -5,53x.
+- **Peer Valuasi (2024):**
+  - PBV: ADRO 0,65x, GEMS 5,43x, BYAN 17,45x, DSSA 21,91x.
+  - PE TTM: ADRO 4,3x, GEMS 10,5x, BYAN 41x, DSSA 175x, TOBA jauh di bawah karena kinerja negatif.
+- **Market Cap TOBA:** Rp10,2 triliun (jauh di bawah pemain besar: BYAN, DSSA, GEMS).
+- **Kesimpulan:** TOBA kalah dari segi profitabilitas dan size vs peers utama.
 
-**b. Kinerja Saham & Dividen:**
-  - CAGR harga saham (2022–YTD): **+35,63%**
-  - Dividend Yield (2025): ~1,5% (dividen total USD 20,1 juta, price IDR 1.300)
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
+- **ROE/ROA terbaru tidak tersedia (lihat annual 2024**: ROE 6,5%, ROA 3,2%—akan memburuk signifikan di 2025 melihat kerugian Q1–Q2).
+- **Debt to Equity:** Q2 2025 total debt/equity = 1,69x (Rp6,17 triliun:Rp3,65 triliun) — naik tajam dari 1,00x di FY 2024, menandakan leverage memburuk.
+- **Rasio Lancar:** 1,17x (Rp3,36 triliun aset lancar / Rp2,86 triliun kewajiban lancar).
+- **FCF (Free Cash Flow) Q2 2025:** -Rp448 miliar, menandakan burn kas makin parah.
+- **Modal kerja & likuiditas mulai tertekan akibat arus kas operasional negatif dan porsi hutang terhadap ekuitas membesar.**
 
----
+### 4) Dividen & Valuasi
+- **Dividen TTM (2025):** Rp20,24/unit; yield 1,63% (TTM, 2025).
+- **Payout ratio:** Negatif (-8,87%) akibat rugi perusahaan.
+- **Yield TOBA di bawah rata-rata peer energi; Valuasi PER negatif, PBV lebih tinggi dari ADRO/PTBA, jauh di bawah BYAN/DSSA.**
 
-## 3. Competitor Benchmark (2023)
-- **ITMG** – ASP 113,1 USD/t; 16,9 Mt; Kalimantan; Kekuatan: integrasi logistik, efisiensi; Kelemahan: sensitivitas harga global.
-- **ADRO** – ASP 96,1 USD/t; 65,9 Mt; Kalimantan/Sumatera; Kekuatan: volume besar, diversifikasi; Kelemahan: exposure batubara kalori rendah.
-- **BYAN** – ASP 75,8 USD/t; 49,7 Mt; Kalimantan; Kekuatan: biaya sangat rendah; Kelemahan: supply chain berat saat harga rendah.
-- **PTBA** – ASP 66,2 USD/t; 41,9 Mt; Sumatera/Kalimantan; Kekuatan: pasar domestik kuat; Kelemahan: harga spot rendah.
-- **TOBA** – ASP 77,7 USD/t; 3,1 Mt; Kalimantan; Kekuatan: transisi portofolio renewable, integrasi ke waste-to-energy; Kelemahan: skala kecil, margin tipis, sangat sensitif perubahan harga.
+### 5) Rekomendasi
+**6M (Taktis):**  
+- Fokus perbaikan kas dan konsolidasi operasi agar tidak terus terbakar, serta waspadai risiko dilusi/modal kerja.
+- Perlu restrukturisasi dan pengetatan belanja modal untuk mengurangi arus kas negatif.
 
----
+**5Y (Tesis):**  
+- Tanpa transisi/trobosan bisnis besar atau restrukturisasi ekstensif, prospek masih tertahan leverage tinggi dan kinerja sektor batu bara yang tertekan harga dan kompetisi.
 
-## 4. Strategic Risks & Opportunities
-- **Risiko:**  
-  - Regulasi DMO, pembatasan ekspor, tekanan harga batubara global.
-  - Penurunan permintaan batubara structurally dan jangka pendek (eksposur transisi energi).
-  - Margin tertekan akibat peningkatan beban operasional dan investasi awal portofolio non-batubara.
-- **Peluang:**  
-  - Diversifikasi ke waste-to-resource (Sembcorp) mulai berkontribusi revenue > USD 59 juta (Q2 2025).
-  - Efisiensi/optimalisasi FCF untuk menjaga dividen di tengah legacy bisnis batubara yang menurun.
-  - Prospek menengah untuk sinergi dan transformasi model bisnis.
+### 6) Kesimpulan
+Jangka Pendek (≤6 bulan): **❌** – Prospek memburuk, kinerja operasi dan arus kas sangat negatif serta leverage naik.
+Jangka Panjang (>5 tahun): **⚠️** – Hanya layak jika terjadi transformasi bisnis besar dan penyesuaian struktur keuangan.
 
----
-
-## 5. Strategic Recommendation
-**a. 6M (Taktis):**
-  - Fokus penyehatan struktur kas pasca divestasi one-off & realisasi investasi waste management.
-  - Disiplin pada efisiensi operasional; menjaga payout dividen fundamental di kisaran normal.
-**b. 5Y (Tesis):**
-  - Prioritaskan konsolidasi dan integrasi bisnis waste-to-resource agar kontribusi menjadi andalan recurring revenue.
-  - Transformasi fundamental menuju “ESG play” di sektor energi.
-  - Antisipasi risiko transisi energi pada core business batubara, diversifikasi wajib dilanjutkan.
-
----
-
-## 6. Kesimpulan & Indikasi Strategis
-- **Jangka Pendek (≤6M):** ⚠️ Hati-hati – Rugi akibat divestasi, tekanan margin & penurunan omset, kontribusi Sembcorp masih tahap awal.
-- **Jangka Panjang (>5Y):** ✅ Positif – Tesis transformasi bisnis jika konsisten pada diversifikasi dan realisasi profitabilitas non-batubara.
-
----
-
-## 7. Catatan Penting
-Analisis ini bersifat edukasi, bukan ajakan untuk membeli atau menjual saham tertentu.  
-Keputusan investasi sepenuhnya ada di tangan investor sesuai profil risiko masing-masing.
+### 7) Catatan Penting
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor.

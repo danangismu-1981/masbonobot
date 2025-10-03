@@ -1,73 +1,56 @@
----
-### SNAPSHOT MBAP (Q2 2025 YTD)
+## MBAP – Investor One-Pager
 
-- **Leverage:**  
-  - Liabilitas/Ekuitas (Q3 2024, data terbaru): 39.8 juta USD / 184.7 juta USD ≈ **0,22x**  
-  - Struktur modal sangat konservatif, tanpa utang bank (Bank loans: 0 per Q3 2024)
-- **Posisi Kas & Utang Bersih (Q3 2024):**  
-  - **Kas:** 128,8 juta USD  
-  - **Utang berbunga bersih:** 0 (hanya minor lease liabilities)  
-  - **Nett cash position**: perusahaan hampir tidak berutang
+### 1) Pertumbuhan & Tren Utama
 
----
+- **Pendapatan Q2 2025**: Rp553,1 miliar _(turun drastis)<br>
+  - QtQ: -33,7% vs Q1 2025 (Rp834,3 miliar)<br>
+  - YoY: -41,7% vs Q2 2024 (Rp949,9 miliar)
+- **Laba Bersih Q2 2025**: Rp13,58 miliar _(jatuh dalam)<br>
+  - QtQ: -49,4% vs Q1 2025 (Rp26,82 miliar)<br>
+  - YoY: -88,2% vs Q2 2024 (Rp114,79 miliar)
+- **Margin Kotor Q2 2025**: 6,5% _(Rp36,1 miliar/Rp553,1 miliar)<br>
+  - Anjlok dari 21,9% di Q2 2024
+- **Arus Kas Operasi Q2 2025**: negatif Rp12,27 miliar _(Q1 2025: positif Rp86,27 miliar)_
+- **Aset Q2 2025**: Rp4,07 triliun | **Ekuitas**: Rp3,01 triliun | **Liabilitas**: Rp1,06 triliun
+- **YoY penurunan laba/rugi**: Konsisten sejak FY2022 dan FY2024
+- Indikasi _turnaround_ ataupun pemulihan belum terlihat pada Q2 2025  
+**Periode yang dipakai untuk angka utama: Q2 2025 (30 Juni 2025)**
 
-### 1) Growth Performance (YoY)
+### 2) Posisi Kompetitif (Benchmark Highlights)
 
-**a. Revenue & Profit (Q2 2025 YTD vs Q2 2024 YTD):**  
-- **Revenue:** 84,2 juta USD (Q2 2025 YTD) ↓ **-25,9% YoY** (Q2 2024: 113,7 juta USD)  
-- **Net Profit:** 2,24 juta USD (Q2 2025 YTD) ↓ **-80,0% YoY** (Q2 2024: 11,2 juta USD)  
-- **Gross Margin:** ~11,2% (Q2 2025) vs ~22,1% (Q2 2024) → **Margin tergerus signifikan**
-  - **Key Driver:** Penurunan ASP akibat harga batu bara global & volume flat; OPEX tetap tinggi  
-- **CAGR Harga Saham (2022-YTD):** **-22,4%**  
-- **Dividen Yield (2025 YTD):** 2,4% ((38/1600) x 100), tren menurun tajam  
-- **Owner's Earnings (2024):** 43,3 juta USD (FY 2024), tren menurun  
-- **Catatan:** Penurunan hasil tahun ini lebih bersifat siklikal (penurunan harga global), namun margin tergerus menandakan risiko struktural.
+- **Valuasi**:<br>
+  - PBV (Q2 2025, MRQ): 0,66x _(sangat di bawah peers: BYAN 17,4x; DSSA 21,9x; CUAN 36.535x)_
+  - PER TTM: 13,27x _(peers rentang luas: ADRO 4,29x, ADMR 8,32x, PTBA 6,87x, BYAN 41x, DSSA 175x)_
+- **Market cap**: Rp1,98 triliun _(paling kecil di peer group)_
+- **Net Profit Margin FY2024**: 8,7% _(di bawah rata-rata peers batubara)_
+- **Profitabilitas menurun tajam, skala dan likuiditas jauh di bawah ADRO/AADI/BYAN/dll._
 
----
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
 
-### 2) Competitor Benchmark
+- **ROE FY2024**: hanya 10,3% _(FY2023: 23%)_
+- **Debt to Equity** Q2 2025: 0,12x _(debt Rp368 miliar; equity Rp3,01 triliun)_
+- **Cash & Setara Kas Q2 2025**: Rp1,93 triliun _(tebal, >60% aset)_
+- **Kualitas Aset**: Tidak bermasalah (liabilitas <30% aset, mayoritas kas)
+- **Margin laba turun**: Gross margin Q2 2025 hanya 6,5% (vs >20% di peer besar)
 
-- **ITMG** – ASP 113,1 USD/t; Volume 16,9 Mt; Kalimantan; Kekuatan: Skala besar, diversifikasi ekspor; Kelemahan: Margin rentan fluktuasi harga.
-- **PTBA** – ASP 66,2 USD/t; Volume 41,9 Mt; Sumatera; Kekuatan: Terintegrasi, pasar domestik kuat; Kelemahan: Harga jual rendah.
-- **ADRO** – ASP 96,1 USD/t; Volume 65,9 Mt; Kalimantan/Sumatera; Kekuatan: Integrasi vertikal, volume besar; Kelemahan: Capex tinggi.
-- **MBAP** – ASP 103,9 USD/t (2023); Volume 2,09 Mt; Kalimantan; Kekuatan: Operasi efisien, kas kuat; Kelemahan: Skala sangat kecil, sensitif volatilitas.
+### 4) Dividen & Valuasi
 
----
+- **Dividen 2025**: Rp38/lembar (yield 2,35% TTM; payout ratio 31%) – **turun tajam** dari 2023/2024
+- Rata-rata yield 5 tahun: 13,5% _(sudah jauh di bawah, tren menurun)_
+- PBV/Q2 2025: 0,66x _(diskon berat terhadap peers)_
 
-### 3) Strategic Risks & Opportunities
+### 5) Rekomendasi
+**6M (Taktis):**  
+- Amati tren pemulihan operasional, cashflow, dan harga batubara; _defensif_ untuk yield jangka pendek <br>
+- Risiko penurunan pendapatan & laba masih signifikan hingga terlihat stabilisasi
 
-- **Risiko:**  
-  - *Regulasi:* DMO & kuota ekspor dapat memangkas pendapatan  
-  - *Volatilitas harga:* Margin sangat rentan penurunan harga batu bara  
-  - *Transisi energi:* Ancaman secara struktural, namun dampak belum instan
-- **Peluang:**  
-  - Efisiensi OPEX, optimalisasi likuiditas untuk sustain dividen  
-  - Potential diversifikasi atau konsolidasi untuk memperbesar skala  
-  - Optimalisasi FCF & cash untuk akuisisi/joint venture
+**5Y (Tesis):**  
+- Hanya prospektif bila manajemen berhasil _turnaround_ operasi & pertumbuhan volume<br>
+- Asset heavy (kas kuat, utang sangat terkendali), tetapi _growth story_ belum jelas!
 
----
+### 6) Kesimpulan
+Jangka Pendek (≤6 bulan): **⚠️** – Profitabilitas & yield menurun, cash solid tapi outlook jangka pendek tertekan  
+Jangka Panjang (>5 tahun): **⚠️** – Prospek hanya menarik jika terjadi pemulihan operasional signifikan. Valuasi diskon, tapi tanpa katalis positif, rerating terbatas.
 
-### 4) Strategic Recommendations
-
-**6M (Taktis):**
-- Fokus menjaga efisiensi operasional & modal kerja.
-- Prioritaskan konservasi kas serta kemampuan bayar dividen (meski yield turun).
-- Pantau risiko DMO/ekspor dan segera respons reformasi biaya.
-
-**5Y (Tesis):**
-- Perlu inisiatif diversifikasi portofolio dan konsolidasi skala, agar tidak rentan penurunan ASP global.
-- Kembangkan strategi ekspansi produk/market atau integrasi hilir.
-
----
-
-### 5) Kesimpulan & Indikasi Strategis
-
-- **Jangka Pendek (≤6 bulan):** ⚠️ Hati-hati – Cash kuat, tapi penurunan profit dan yield dividen sangat tajam.
-- **Jangka Panjang (>5 tahun):** ⚠️ Hati-hati – Tanpa transformasi, risiko struktural pada profitabilitas sangat tinggi (transisi energi & skala).
-
----
-
-### 6) Catatan Penting
-
-> Analisis ini bersifat edukasi, bukan ajakan untuk membeli atau menjual saham tertentu.  
-> Keputusan investasi sepenuhnya ada di tangan investor sesuai profil risiko masing-masing.
+### 7) Catatan Penting
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor.

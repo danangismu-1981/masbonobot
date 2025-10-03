@@ -1,68 +1,47 @@
----
+## ITMG – Investor One-Pager
 
-### 1. Snapshot Fundamental (Q2 2025 YTD)
-- **Leverage (Liabilitas/Equitas):**  
-  Total Liabilitas: USD 507,657 ribu  
-  Total Ekuitas: USD 1,838,293 ribu  
-  **Rasio Liabilitas/Ekuitas:** 0,28x (sangat konservatif)
-- **Kas dan Setara Kas:** USD 963,580 ribu  
-- **Utang Bersih:** (Kas – Bank Loan) = USD 963,580 - 85,016 = **USD 878,564 ribu** (kas bersih besar, profil sangat aman)
-- **Total Aset:** USD 2,345,950 ribu  
-- **Bank Loan:** USD 85,016 ribu 
+### 1) Pertumbuhan & Tren Utama
+- **Pendapatan Q2 2025:** Rp 6,91 triliun (turun 13% QoQ dari Q1 2025 Rp 8,01 triliun, drop 43% YoY dari Q2 2024 Rp 9,16 triliun).
+- **Laba Bersih Q2 2025:** Rp 398 miliar (menurun 63% QoQ vs Q1 2025 Rp 1,08 triliun, turun tajam YoY vs Q2 2024 Rp 1,10 triliun).
+- **Gross Profit Q2 2025:** Rp 1,40 triliun (vs Q1 2025 Rp 2,25 triliun, vs Q2 2024 Rp 2,55 triliun).
+- **Operating Cash Flow Q2 2025:** Rp 3,8 triliun (extremely improved QoQ vs Q1 2025 Rp 0,76 triliun).
+- **Total Aset Q2 2025:** Rp 38,7 triliun (turun 5% QoQ).
+- **Free Cash Flow Q2 2025:** Rp 3,34 triliun (melonjak QoQ dari Q1 2025 Rp 0,19 triliun).
+- **Tren:** Volume, harga, dan marjin turun tajam YoY & QoQ, namun arus kas operasi meningkat signifikan pada Q2 2025 (kemungkinan faktor perubahan modal kerja/dividen interim).
+**Periode yang dipakai untuk angka utama: Q2 2025 (per 30 Juni 2025)**
 
----
+### 2) Posisi Kompetitif (Benchmark Highlights)
+- **Valuasi terendah di peer group:** P/E TTM 4,6x dan P/B 0,85x (vs peers GEMS 10,5x, ADRO 4,3x, PTBA 6,9x, BYAN 41x).
+- **Net profit margin (2024):** 16,2%, lebih tinggi dari CUAN (20,0%), lebih rendah dari ADRO (66,0%) — basis peer kadang outlier, ITMG masih defensif.
+- **Kapitalisasi pasar (Q2 2025):** ~Rp 25,5 triliun; jauh di bawah ADRO, BYAN, GEMS; cocok untuk value/income play.
+- **Likuiditas & rating hutang:** Neraca sangat solid, current ratio >3x (data Q2 2025), debt to equity rendah (0,06x).
 
-### 2. Growth Performance (YoY)
-**a. Revenue & Profit:**  
-- **Revenue (Q2 2025 YTD):** USD 919,416 ribu ↓12% YoY (Q2 2024: USD 1,049,529 ribu)
-- **Net Profit (Q2 2025 YTD):** USD 93,993 ribu ↓32,7% YoY  
-- **Net Margin (Q2 2025 YTD):** 10,2% (vs Q2 2024: ~12,8%)
-  - **Key Driver:** Penurunan ASP 19% YoY (USD 97/ton → USD 78/ton); volume naik sedikit, tetapi peningkatan biaya pegawai dan transportasi menekan margin.
-- **EPS Q2 2025:** 0,08 (vs Q2 2024: 0,11)
-- **CAGR Harga Saham (2022-YTD):** 16,25%
-- **Dividen Yield (2025, annualized):**  
-  Dividen 2025: 2.245 IDR/saham → Yield: 10,05% (terhadap harga 22.350; payout rasio tetap tinggi)
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
+- **Profitabilitas:** ROE 19,3%, NPM 16,2% (FY 2024); tren turun seiring penurunan harga batu bara.
+- **Kesehatan aset:** Cash & setara kas Q2 2025 Rp 16,9 triliun (44% aset!).
+- **Total hutang Q2 2025:** Rp 1,9 triliun — hampir tanpa risiko leverage.
+- **Free Cash Flow kuat Q2 2025:** Lonjakan arus kas operasi + net cash position.
+- **Capex minim, beban depresiasi rendah, aset didominasi kas/investasi pendek**.
 
----
+### 4) Dividen & Valuasi
+- **Dividen 2025 (TTM):** Rp 2.245/lembar (YTD – satu kali cumdate, yield 9,93%).
+- **5 tahun terakhir**: Yield rerata 16,2% — salah satu yang tertinggi di BEI.
+- **Payout Ratio 2025:** 45,5% (moderat, ruang payback tinggi).
+- **Valuasi murah:** P/E dan P/B jauh di bawah rata-rata sektor.
 
-### 3. Competitor Benchmark (2023 latest)
-- **ITMG** – ASP USD 113,1/t; Volume 16,9 Mt; Lokasi: Kalimantan; Kekuatan: Port, logistik, batubara kalori tinggi; Kelemahan: Profil volume moderat, sensitivitas ASP.
-- **ADRO** – ASP USD 96,1/t; Volume 65,88 Mt; Lokasi: Kalimantan, Sumatera; Kekuatan: Diversifikasi produk & volume besar; Kelemahan: Margin kadang tergerus produk kalori rendah.
-- **PTBA** – ASP USD 66,2/t; Volume 41,9 Mt; Lokasi: Sumatera, Kalimantan; Kekuatan: Biaya angkut murah, captive demand domestik; Kelemahan: ASP rendah.
-- **BYAN** – ASP USD 75,8/t; Volume 49,7 Mt; Lokasi: Kalimantan; Kekuatan: Operasional efisien, port modern; Kelemahan: Ekspos besar pada batubara kalori rendah.
-- **ADMR** – ASP USD 243/t; Volume 5,11 Mt; Lokasi: Kalimantan; Kekuatan: Produk premium (high-met coal); Kelemahan: Skala kecil.
+### 5) Rekomendasi
+**6M (Taktis):**
+- Pantau harga jual batu bara dan update pembagian dividen interim.
+- Prospek Rp tetap defensif meskipun tren laba turun; peluang spekulasi yield/dividen masih terbuka.
+- Risiko: tren penurunan harga komoditas, tekanan regulasi ekspor.
 
----
+**5Y (Tesis):**
+- Bagi investor income & value, ITMG attractive untuk yield, cash protection, dan payout discipline.
+- Risiko berat jika tren harga batu bara global terus turun, tetapi balance sheet sangat kuat sebagai penyangga.
 
-### 4. Strategic Risks & Opportunities
-- **Risiko:**  
-  - Penurunan ASP global struktural (transisi energi global, normalisasi pasca krisis).
-  - Tekanan biaya (logistik, handling, upah) membebani margin.
-  - Regulasi DMO & kuota ekspor (potensi menekan revenue & kepastian operasional).
-- **Peluang:**  
-  - Posisi kas kuat → ruang aksi akuisisi/diversifikasi (contoh: akuisisi saham nickel di NICE).
-  - Potensi FCF tinggi, potensi yield dividen tetap menarik.
-  - Cost control & efisiensi pada biaya produksi vs peers lebih “defensive”.
+### 6) Kesimpulan
+Jangka Pendek (≤6 bulan): ⚠️ – Marjin turun, profitabilitas drop drastis, tapi arus kas dan yield masih menarik bagi pengincar dividen.
+Jangka Panjang (> 5 tahun): ✅ – Balance sheet solid, payout agresif, mitigasi risiko komoditas lewat likuiditas & konservatisme.
 
----
-
-### 5. Strategic Recommendations  
-**6M (Taktis):**  
-- Fokus optimalisasi operasi di tengah penurunan ASP, pertahankan efisiensi dan arus kas.
-- Rutin distribusi dividen untuk menjaga minat investor income-seekers.
-
-**5Y (Tesis):**  
-- Diversifikasi ke mining/komoditas lain (misal: nickel, dsb.) untuk mitigasi risiko batu bara.
-- Manfaatkan kas kuat untuk peluang M&A atau transformasi bisnis jangka panjang, responsif terhadap tren transisi energi.
-
----
-
-### 6. Kesimpulan & Indikasi Strategis
-- **Jangka Pendek (≤ 6 bulan):** ⚠️ Hati-hati – Tekanan profit akibat ASP turun, namun kinerja kas dan dividen tetap atraktif.
-- **Jangka Panjang (> 5 tahun):** ⚠️ Hati-hati – Risiko struktural sektor batubara tinggi, perusahaan perlu fokus transformasi agar tetap relevan.
-
----
-
-### 7. Catatan Penting
-Analisis ini bersifat edukasi, bukan ajakan untuk membeli atau menjual saham tertentu.  
-Keputusan investasi sepenuhnya ada di tangan investor sesuai profil risiko masing-masing.
+### 7) Catatan Penting
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor.

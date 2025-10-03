@@ -1,69 +1,58 @@
-## SHIP – Marine Shipping One-Pager
+## SHIP – Investor One-Pager
 
-### 1) Topline & Profitability
-- **Q2 2025 (YTD Jan–Jun):**
-    - Revenue: USD 89,035,089
-    - Gross Profit: USD 29,443,032
-    - Gross Margin: 33.1% (Q2 2025 YTD; turun dari Q3 2024 YTD 31.0%)
-    - Operating Profit: USD 23,197,750 (margin 26.1%)
-    - Catatan struktural: Di Q2 2025, SHIP mengurangi chartered vessels, menekan COGS & tingkatkan margin, dengan konsekuensi naiknya depresiasi (file Insight)
+### 1) Pertumbuhan & Tren Utama
+- **Pendapatan Q2 2025:** Rp661,70 miliar _(menurun 15.5% vs Q1 2025: Rp783,36 miliar; label: QtQ)_
+- **Laba Bersih Q2 2025:** Rp127,70 miliar _(melonjak 76% QtQ vs Q1 2025: Rp72,65 miliar)_
+- **Gross Profit Q2 2025:** Rp218,79 miliar _(QtQ turun dari Q1 2025: Rp259,08 miliar)_
+- **EBITDA Q2 2025:** Rp243,00 miliar _(naik tipis vs Q1 2025: Rp190,23 miliar)_
+- **Free Cash Flow Q2 2025:** Rp223,11 miliar _(QtQ sedikit turun dari Q1 2025: Rp231,95 miliar)_
+- **Aset Total Q2 2025:** Rp7,84 triliun _(menurun tipis dari Q1 2025: Rp8,21 triliun)_
+- **Ekuitas Q2 2025:** Rp3,55 triliun _(menurun dari Q1 2025: Rp3,79 triliun)_
+- **Catatan YoY:** Sepanjang FY 2024, pendapatan -7% YoY & laba -36% YoY _(FY24 vs FY23; tren panjang menurun)_
+  
+**Periode yang dipakai untuk angka utama: Q2 2025 (30 Juni 2025)**
 
-### 2) Fleet & Operations
-- Armada per benchmark: 28 kapal, usia rata-rata 18.3 tahun (paling tua vs peers)
-- Tonnage rata-rata: 20.893 DWT (terbesar vs peers: TMAS 6.260; WINS 1.425; SMDR 13.994)
-- Tidak ada data utilisasi/vol, namun Q2 2025: ekspansi melalui penambahan kapal (Capex USD 150 juta disiapkan untuk tahun berjalan).
-- No data segmentasi tug/barge/FC detail; tren: peremajaan dan penambahan kapal, bukan pengurangan.
-- Perubahan strategi: proporsi kapal sendiri naik, dependensi ke charter turun.
+---
 
-### 3) Contracts & Market Exposure
-- Eksposur utama: klien oil & gas (indikator Insight: Mubadala sebagai klien Q3 2024; kontrak baru dorong revenue FY24).
-- Sensitivitas tinggi ke harga komoditas & permintaan global (downside: volatilitas ekonomi global – file Insight).
-- Konsentrasi pelanggan/expiry detail: tidak tersedia.
-- Exposure batubara: tidak jelas rinciannya, namun mayoritas sektor di marine energy shipping.
+### 2) Posisi Kompetitif (Benchmark Highlights)
+- **PBV Q2 2025:** 6,86x _(tertinggi di peer set; rata-rata industri O&G & distribusi: 0,92–4,07x)_
+- **PER TTM Q2 2025:** 65,8x _(sangat di atas rata-rata industri: 5,99x [SOCI] s.d. 42,4x; sebagian besar peers di bawah 15x)_
+- **Market cap:** Rp16,32 triliun _(medium cap di sektor)_
+- **Profitabilitas/Valuasi jauh di atas peers — menandakan market sudah price-in optimisme tinggi/overvalued relatif peers._
 
-### 4) Balance Sheet & Liquidity (Q3 2024 – data paling mutakhir)
-- Kas & setara (Cash+Restricted): USD 24,450,384 + USD 9,141,150 = USD 33,591,534
-- Receivables tinggi USD 30,782,389 (Q3 2024; meningkat YoY)
-- Bank loans: USD 220,632,013 (Q3 2024); lease liabilities menurun drastis
-- Leverage: debt/equity ≈ 1.0x
-- Beban bunga (interest exp): USD 7,137,286 (Q2 2025 YTD; annualisasi ≈ USD 14,2 juta).
-- Tidak ada jadwal jatuh tempo rinci; tetapi financing dominan bank loans.
+---
 
-### 5) Cash Flow & Owners’ Earnings
-- **Q2 2025 YTD:**
-    - CFO: USD 30,420,865 (vs USD 44,155,978 Q3 2024 YTD; seasonal fluktuasi wajar)
-    - Capex: besar, USD 150 juta dialokasikan (growth, bukan maintenance; Q2 2025, dari file Insight)
-    - FCF & Owner’s Earnings FY 2024: FCF USD +15,063,099; Owner's Earnings USD +30,701,698
-    - Gain on sale aset (Q2 2025): USD 1,118,455 (non-operasional, tidak berulang)
-- Arus kas operasi kuat; FCF positif didukung perbaikan modal kerja & penjualan aset
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
+- **Net Profit Margin Q2 2025:** ~19,3% _(annualized, indikasi dari laba/revenue Q2)_
+- **EBITDA Margin Q2 2025:** ~36,7% _(annualized basis, Q2 data)_
+- **Debt to Equity Q2 2025:** 0,99x _(Total Debt: Rp3,49T; Equity: Rp3,55T)_
+- **Current Ratio Q2 2025:** 1,24x _(Rp1,75T aset lancar : Rp1,41T liabilitas lancar)_
+- **Saldo kas & setara kas Q2 2025:** Rp885 miliar _(kas sehat, FCF positif)_
+- **Total Debt Q2 2025:** Rp3,49T _(relatif besar vs equity, leverage masih manageable)_
 
-### 6) Posisi Kompetitif (Benchmark Bullets)
-- **Armada:** SHIP (28 kapal; usia 18.3 thn; tonnage per kapal 20,893 DWT) → armada terkecil & tertua tapi kapasitas terbesar per kapal. Potensi efisiensi muatan, namun risiko biaya perawatan tinggi.
-- **Pesaing:** TMAS (50), WINS (37), SMDR (47); tonnage jauh di bawah SHIP kecuali SMDR.
-- **Margin (Estimasi):** Gross Margin Q2 2025 YTD ~33%, lebih tinggi dari tren industri shipping Indonesia (rata-rata sering < 30%).
-- **Kesimpulan:** SHIP unggul muatan per kapal, tertinggal usia armada (potensi biaya/risiko downtime).
+---
 
-### 7) Dividen & Valuasi
-- Market cap (per 12 Sep 2025): 4,460 × 2,719,790,080 = IDR 12,134,636,956,800 (~USD 795 juta)
-- Dividen 2025 YTD: IDR 103/saham (yield ~2,3% pada harga terkini)
-    - Riwayat dividen naik: 2024 = IDR 20/saham; 2023 = IDR 17,5; 2022 = IDR 17 (stabil → meningkat)
-    - Dividend payout meningkat bersamaan dengan penguatan kinerja cash flow
+### 4) Dividen & Valuasi
+- **Dividen TTM:** Rp103/lembar _(yield: 1,58%)_ — naik signifikan dari tahun sebelumnya _(2024: Rp20/lembar, yield 1,82%)_
+- **Payout Ratio:** 112,98% _(TTM; tidak sustainable tanpa kenaikan earnings)_
+- **Rerata yield 5 tahun:** 2,42% _(masih di bawah peers mainstream sektor)_
+- **PER & PBV jauh di atas rata-rata sektor; valuasi premium tinggi.**
 
-### 8) Rekomendasi
+---
+
+### 5) Rekomendasi
 **6M (Taktis):**
-- Katalis: Penambahan kapal, efisiensi margin via pengurangan charter vessel, pipeline kontrak oil & gas baru
-- Risiko: Kenaikan capex/depresiasi, keterlambatan utilisasi kapal baru, volatilitas harga komoditas
-
+- _Waspada_. Kurva earnings volatile; valuasi mahal; optimisme sudah di-refleksikan harga. Risiko downside signifikan bila performa fundamental tidak membaik.
 **5Y (Tesis):**
-- Strategi armada: akumulasi kapal sendiri, modernisasi → arahkan efisiensi biaya & volume jangka panjang
-- FCF tetap positif jika utilisasi & kontrak baru sustain; opsi pembagian dividen menarik
-- Posisi kompetitif: kuat di kapasitas, waspada risiko teknis armada tua
+- Hanya relevan untuk pertumbuhan bisnis khusus (niche O&G marine). Kinerja harus meningkat substansial untuk justifikasi valuasi; saat ini _keberlanjutan payout ratio dan margin belum terjamin_.
 
-### 9) Kesimpulan & Indikasi Strategis
-Jangka Pendek (≤6 bulan): ⚠️ – Prospek peningkatan margin dan volume, tetapi realisasi utilisasi & waktu ramp-up armada baru masih perlu diwanti-wanti.  
-Jangka Panjang (>5 tahun): ✅ – Strategi fokus akumulasi kapal sendiri, kapasitas besar, serta dividen dan cash flow sustain jika utilisasi tercapai.
+---
 
-### 10) Catatan Penting
-Analisis ini bersifat edukasi, bukan ajakan membeli/menjual saham.  
-Data hanya diambil dari file sumber; keputusan investasi berada di tangan investor masing-masing.  
-Annualisasi/hitung FCF menggunakan data YTD atau full year terakhir (FY 2024 jika data terbaru tidak tersedia).
+### 6) Kesimpulan
+_Jangka Pendek (≤6 bulan)_: ⚠️ – Valuasi sangat premium, performa bisnis tidak (belum) sepadan; risk-off.
+_Jangka Panjang (>5 tahun)_: ⚠️ – Prospek niche OK jika ekspansi dan cashflow terjaga; harus diikuti perbaikan margins & debt reduction.
+
+---
+
+### 7) Catatan Penting
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor.

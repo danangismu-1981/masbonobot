@@ -1,51 +1,53 @@
-## RAJA – Value Investor One-Pager
+## RAJA – Investor One-Pager
 
-### 1) Pertumbuhan YoY
-- **Revenue Q2 2025:** USD 127,64 juta (YTD Jan–Jun) naik +3,4% YoY (Q2 2024: USD 123,51 juta). Pertumbuhan didorong distribusi oil/gas.
-- **Net Profit Q2 2025:** USD 15,37 juta (YTD Jan–Jun), naik +9% YoY (Q2 2024: USD 14,63 juta, dihitung dari data Net Profit attributable).
-- **Gross Profit Q2 2025:** USD 37,66 juta (YTD Jan–Jun), naik +4,0% YoY.
-- **Segmen Gas dan Oil:** Gas sales tetap pendorong utama, namun oil & gas lifting juga naik signifikan. Q2 2025 revenue terutama didorong jasa distribusi oil.
+### 1) Pertumbuhan & Tren Utama
+- **Pendapatan Q2 2025:** Rp998,88 miliar (Q2 2025, turun dari Q1 2025 Rp1,10 triliun; -9% QtQ). 
+- **Laba Bersih Q2 2025:** Rp75,10 miliar (Q2 2025, turun tajam dari Q1 2025 Rp111,65 miliar; -33% QtQ); YoY Q2 2024: Rp115,93 miliar → penurunan signifikan YoY dan QtQ.
+- **Total Aset Q2 2025:** Rp6,72 triliun (+5,2% QtQ dari Q1 2025 Rp6,90 triliun; data anomali/harus diverifikasi).
+- **Total Ekuitas Q2 2025:** Rp3,64 triliun (+4% QtQ dari Q1 2025).
+- **Kas & Setara Kas Q2 2025:** Rp1,58 triliun, turun dari Q1 2025 Rp2,01 triliun (likuiditas menurun).
+- **Net Cash Flow Q2 2025:** negatif Rp419,5 miliar (Q2 2025), berbalik dari surplus Q1 2025 Rp1,28 triliun.
+- **Free Cash Flow Q2 2025:** negatif Rp135,1 miliar (Q1 2025 positif Rp73,5 miliar; tekanan arus kas operasional dan investasi).
+- **Annualisasi laba dengan metode trailing four quarters → result distorsi karena volatilitas tinggi.**
+- **Catatan:** Earning Q2 2025 dan OCF menurun tajam secara kuartalan dan tahunan.
+  
+**Periode yang dipakai untuk angka utama: Q2 2025**
 
-### 2) Posisi Kompetitif (Bullet Points)
-- **Revenue Growth:** Konsisten di atas rata-rata sektor utilities-regulated gas untuk 2 tahun terakhir (+25% FY 2024 YoY, Q2 2025 tetap tumbuh di atas 3% YoY).
-- **Gas vs Oil Segment:** Gas sales naik +35% FY 2024 YoY; oil & gas lifting/services juga ekspansif sejak 2023. RAJA lebih terdiversifikasi pendapatan dibanding sebagian besar peers yang tergantung segmen gas.
-- **Leverage / Debt:** Total liabilitas Q2 2025 USD 190,1 juta (bank loans USD 142,8 juta); leverage meningkat +18% YoY – di atas rata-rata sektor, meningkatkan beban bunga dan risiko refinancing.
-- **ROE / Profitability:** Equity Q2 2025 USD 224,2 juta; FY 2024 ROE sekitar 13% (Net Profit FY 2024/USD 171,9 juta Equity FY 2024), relatif kompetitif untuk sektor regulated gas/energi.
-- **FCF & Owner’s Earnings:** FCF FY 2024 USD 37,7 juta; Owner’s Earnings FY 2024 USD 35,9 juta – membaik tajam dari 2022–2023.
-- **Eksposur PLN/Industri:** Terdiversifikasi; basis pelanggan termasuk sektor industri & distribusi, mengurangi risiko konsentrasi.
+### 2) Posisi Kompetitif (Benchmark Highlights)
+- **Valuasi P/E RAJA (2024):** 40,3x (#jauh di atas PGAS 8,8x & AKRA 9,4x, peers rata-rata di bawah 15x).
+- **Valuasi PBV RAJA (2024):** 4,06x (peers: PGAS 0,92x, AKRA 1,92x, BULL 0,99x).
+- **Net Profit Margin 2024:** 10% (lebih rendah vs peers seperti SOCI 10%+, namun masih positif).
+- **Market Cap kecil (<Rp15 triliun); mudah volatile oleh perdagangan/investasi institusi besar.**
+- **Dividen yield TTM di bawah rata-rata peers mapan/subsektor.**
+- **Profitabilitas lebih volatil dibanding peers besar (PGAS/AKRA) dan mudah terdampak fluktuasi biaya/asset write-off.**
 
-### 3) Dividen & Valuasi
-- **Dividen 2025 (YTD):** 60,0/unit; FY 2024: 38,0/unit; 3Y CAGR dividen 118%.
-- **Market Cap:** ~USD 763 juta (menggunakan harga [tidak disebutkan per instruk] dan outstanding shares di price file).
-- **Capital Gain CAGR 2022–YTD 2025:** +50,83%. 
-- **Yield Dividen 2025 (run-rate):** ~2,1% (dividen tahunan / harga per 12 Sep 2025; metode: annualize dividen YTD).
-- **Valuasi relatif:** Market cap/Owner’s Earnings 2024 ~21x; P/E (diannualisasi dari Q2 2025) ~25x – premium terhadap sektor, mencerminkan pertumbuhan solid tapi masih atraktif relatif sektor utilitas.
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
+- **Gross Profit Margin Q2 2025:** 30,7% (masih kokoh, tetapi turun QoQ/Yoy).
+- **EBITDA Q2 2025:** Rp246,6 miliar (vs EBIT Rp233,6 miliar → struktur biaya tetap cukup efisien).
+- **Leverage:**
+  - **Total Debt/Equity Q2 2025:** 0,65x (total debt Rp2,37 triliun; equity Rp3,64 triliun).
+  - **Current Ratio Q2 2025:** 2,04x (current asset Rp2,59 triliun; current liabilities Rp1,27 triliun) – likuiditas jangka pendek masih terjaga.
+- **Arus kas operasi Q2 2025:** turun signifikan → potensi tekanan ke likuiditas jika tren berlanjut.
+- **Beban bunga/interest expense tetap tinggi (Rp40,75 miliar).**
 
-### 4) Insight Strategis
-**Kekuatan:**  
-- Konsistensi kinerja operasional (revenue, profit, FCF) di atas rata-rata sektor.
-- Diversifikasi segmen gas, oil, lifting, serta jasa manajemen (lihat Insight Q3/FY 2024).
-- Kebijakan dividen pro-growth, yield terus naik.
-
-**Risiko:**  
-- Kenaikan beban bunga (Q1–Q2 2025 cost of fund naik seiring kenaikan bank loan USD 18 juta).
-- FX Loss (Q1 2025: USD 1,3 juta; FY 2024: USD 331 ribu); fluktuatif, tergantung USD.
-- CAPEX sektor lifting/explorasi tetap tinggi, sifat struktural.
-- Ketergantungan pada sumber daya alam, risiko discovery/explorasi mahal; downside: resource depletion & eksplorasi costly (Insight).
+### 4) Dividen & Valuasi
+- **Dividen TTM:** Rp60/lembar, yield TTM: 1,84% (Q2 2025, menurun dari 2024: 2,53%).
+- **Payout Ratio TTM:** 83,8% (Q2 2025; sangat tinggi – risiko keberlanjutan).
+- **Valuasi mahal (P/E & PBV), yield dividen cenderung rendah untuk risiko volatilitas di laba/RoE.**
 
 ### 5) Rekomendasi
-**6M (Taktis):**  
-Momentum Q3–Q4 didorong volume lifting dan distribusi oil–gas. Pantau cost control & FX loss. Ekspektasi dividen tetap meningkat, namun risiko kenaikan bunga tetap ada.
+**6M (Taktis):**
+- Fokus pada upaya efisiensi dan perbaikan arus kas/likuiditas.
+- Pantau keberlanjutan laba & cashflow setiap kuartal.
+- Hati-hati pada volatilitas harga dan sentimen pasar mikro.
 
-**5Y (Tesis):**  
-Prospek jangka panjang berbasis ekspansi gas dan oil lifting, didukung diversifikasi jasa industri. Tesisi strategis: ketahanan cashflow dan return di atas rata-rata utilitas, namun tetap monitor risiko gagal eksplorasi/sumber daya & leverage.
+**5Y (Tesis):**
+- Posisi aset & likuiditas cukup kuat, peluang ekspansi tetap ada jika efisiensi dan profitabilitas membaik.
+- Namun, struktur biaya bunga & volatilitas laba perlu perbaikan agar menarik sebagai long-term compounder.
 
-### 6) Kesimpulan & Indikasi Strategis
-- **Jangka Pendek (≤ 6 bulan):** ⚠️ Hati-hati – Momentum pertumbuhan kuat, namun tekanan bunga & FX loss membayangi; perlu disiplin cost & monitoring leverage.
-- **Jangka Panjang (> 5 tahun):** ✅ Positif – Diversifikasi bisnis & operasional, cashflow & dividen kuat, namun tetap waspada pada dinamika sektor serta sustainability eksplorasi.
+### 6) Kesimpulan
+Jangka Pendek (≤6 bulan): ⚠️ – Tren laba & kas menurun, valuasi mahal, risiko tekanan arus kas.
+Jangka Panjang (>5 tahun): ⚠️ – Potensi ada, namun perlu pembuktian lewat eksekusi strategi efisiensi dan profitabilitas jangka panjang.
 
 ### 7) Catatan Penting
-Analisis ini bersifat edukasi, bukan ajakan untuk membeli atau menjual saham tertentu.  
-Keputusan investasi sepenuhnya ada di tangan investor sesuai profil risiko masing-masing.
-
-*Catatan metodologi:* Jika annualisasi diperlukan (misal P/E/Valuasi), menggunakan run-rate YTD Q2 2025 dikali 2. Data QX adalah YTD (Jan–QX). Semua data hanya dari file source.
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor.

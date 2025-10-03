@@ -1,55 +1,51 @@
-## TEBE — Infrastructure Operations One-Pager
+## TEBE – Investor One-Pager
 
-### 1) Pertumbuhan & Profitabilitas (YoY, label periode)
-> Catatan: Data Q = Year-to-Date (YTD).
-- **Pendapatan** (Q2 2025 YTD): IDR 170.932M, turun signifikan dari Q2 2024 YTD (IDR 223.733M). Penurunan konsisten sejak FY 2023 (IDR 632.233M).
-    - Insight: Penurunan dipicu pelemahan harga batu bara (pendukung utama volume & revenue).
-- **Gross Profit** (Q2 2025 YTD): IDR 52.330M vs Q2 2024 YTD IDR 75.887M. 
-    - **Gross Margin**: ~30.6% (Q2 2025 YTD) turun dari ~33.9% (Q2 2024 YTD).
-- **Opex (General & Administrative)**: Q2 2025 YTD naik ke IDR 24.097M dari Q2 2024 YTD (IDR 19.062M). Kenaikan didorong lonjakan salary & benefit untuk manajemen inti (Q3 2024 insight, up +IDR 30M YoY).
-- **Laba Bersih** (Profit year): Q2 2025 YTD turun ke IDR 27.737M vs Q2 2024 YTD (IDR 43.015M). 
-    - **Net Margin**: ~16% (Q2 2025 YTD) turun dari ~19% (Q2 2024 YTD).
-- **Tren Keuntungan**: Penurunan bertahap laba dan marjin sejak FY 2023 (IDR 221.711M).
+### 1) Pertumbuhan & Tren Utama
+- **Pendapatan Q2 2025:** -Rp71,10M (negatif, kemungkinan error pelaporan atau adjustment besar; bandingkan Q1 2025: Rp71,28M positif).
+- **Laba Q2 2025:** -Rp81,24 juta (negatif), turun drastis dari Q1 2025: Rp108,81 juta (positif); **kenaikan rugi bersih kuartal ke kuartal**.
+- **Arus Kas Operasi Q2 2025:** Rp6,67M (berbalik dari Q1 2025: -Rp6,62M), mencerminkan volatilitas arus kas.
+- **Free Cash Flow Q2 2025:** Rp6,79M (dari Q1 2025: -Rp6,75M); solid secara kas walau laba minus.
+- **Total Aset Q2 2025:** Rp1,18T; **sangat turun** Q1 2025: Rp1.151T → Q2 2025: Rp1,18M (anomali data, kemungkinan error pencatatan).
+- **Total Ekuitas Q2 2025:** Rp1,12T; sejalan tren aset.
+- **Tren YoY (Q2 2024 → Q2 2025):**
+    - Revenue Q2 2024: Rp126,40M → Q2 2025: -Rp71,10M (turun ekstrem, tidak wajar).
+    - Laba Q2 2024: Rp17,70M → Q2 2025: -Rp81,24 juta.
+- **Catatan:** Besar kemungkinan data Q2 2025 salah input/skala (lihat selisih ekstrim aset). Waspada pakai angka ini untuk proyeksi bisnis.
+  
+**Periode yang dipakai untuk angka utama: Q2 2025 (30 Juni 2025) untuk data operasional/posisi keuangan.**
 
-### 2) Posisi Operasional & Kompetitif
-- **Panjang jalan tol (km):** Data tidak tersedia pada sumber data.
-- **Jumlah konsesi:** Data tidak tersedia pada sumber data.
-- **Trafik harian rata-rata:** Data tidak tersedia pada sumber data.
-- **Pendapatan tol / harian:** Data tidak tersedia pada sumber data.
-- **Benchmark:** Tidak tersedia pada sumber data.
-- **Implikasi strategis:** Ketergantungan pada kargo batu bara serta aktivitas pelabuhan masih sangat tinggi, tidak tampak bukti ekspansi jaringan tol atau perbaikan trafik mandiri.
+### 2) Posisi Kompetitif (Benchmark Highlights)
+- **Valuasi:** 
+    - TEBE PB: 3.259x; PE TTM: 40,0x (2024; peers: rata-rata PB: 1–5x, PE: 12–66x; SGER PB 2,4x PE 16,5x).
+- **Profitabilitas & Skala:**
+    - Market cap TEBE: Rp3,62T, mid-size dibanding peers (ex: SGER Rp5,1T, ALII Rp8,6T, RMKE Rp7,9T).
+    - Net Income trailing: Rp133,19M (2024, jauh di bawah peers besar).
+- **Industri:** Sektor Coal Distribution, kompetitor utama: SGER, RMKE, ALII, BESS.
 
-### 3) Struktur Permodalan & Biaya Keuangan
-- **Kas** (Q3 2024): IDR 396.289M, tetap likuid.
-- **Bank Loan** (Q3 2024): IDR 0 (lunasi bank loan, per Q3 2023: IDR 36.450M).
-- **Total Liabilitas** (Q3 2024): IDR 72.512M; penurunan agresif dari Q3 2023 (IDR 113.743M).
-- **Arah beban bunga**: Biaya finansial sangat minim (Q2 2025 YTD: IDR 198J).
-- **Capex:** Lebih rendah (Q2 2025: -IDR 401J); investasi skala besar/akuisisi tol baru tidak tercatat di periode terbaru.
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
+- **Margin Laba Bersih 2024:** 23,5% (FY 2024, annual; margin menurun >50% dari 2023/2022).
+- **ROE 2024:** 12,2%; ROA 11,5% – **trun cukup signifikan** vs FY23 (ROE 34,3%).
+- **Leverage (FY 2024):** DER sangat rendah (0,064x), neraca sangat kuat, beban bunga minim.
+- **Likuiditas:** Current Ratio FY 2024: 9,6x (sangat tinggi, kelebihan likuiditas, idle cash tinggi).
+- **Kualitas Aset:** Tidak ada isu signifikan pada NPL (tidak relevan non-bank); aset tetap stabil.
 
 ### 4) Dividen & Valuasi
-- **Market Cap**: ~IDR 2.481T (Metode: Harga x Jumlah saham beredar; 1.930 x 1.284.999.936).
-- **Dividend Yield** (YTD): ±1,0% (metode: dividen terakhir/ harga sekarang; 20/1.930).
-    - FY 2023: Yield ~21,6% (dividen 146/ harga akhir tahun).
-- **CAGR harga saham (2022 - YTD 2025):** 59,33% (terverifikasi sumber).
-- **Catatan:** Yield menurun tajam tahun 2024–2025, seiring penyusutan laba.
+- **Dividen 2024:** Rp100/lembar (yield 14,13%); payout ratio 28,4% (konservatif, cash-out rendah).
+- **Track Record Yield:** Beberapa tahun terakhir yield tinggi, rata-rata 9,16% (5Y).
+- **Valuasi Premium:** PB 3,259x dan PE 40x (2024) berada **jauh di atas** median peers sektoral.
 
-### 5) Insight Strategis
-- **Kekuatan:**
-    - Sangat likuid, kas besar & utang bunga nyaris nol.
-    - Efisien biaya bunga, arus kas operasional konsisten positif.
-    - Saham tergolong defensif pada era supercycle batu bara.
-- **Risiko:**
-    - Revenue sangat terpapar harga & demand batu bara (segmen pelabuhan/kargo).
-    - Marjin & laba menyusut, tanpa katalis diversifikasi/konsesi non-batu bara.
-    - Lonjakan biaya SDM/top-management makin terasa, mempersempit margin.
+### 5) Rekomendasi
+**6M (Taktis):**  
+- Trading stance dominan wait & see, perhatikan potensi restatement laporan Q2 2025 dan “anomali data”.
+- Hindari aksi agresif hingga konsistensi cash flow & revenue terkonfirmasi pada Q3 2025.
 
-### 6) Rekomendasi Naratif
-- **6M (Taktis):** Risiko penurunan lanjutan volume akibat harga & permintaan batu bara tetap menjadi faktor kunci. Katalis positif minim; perhatian pada efisiensi & kemungkinan distribusi dividen lebih selektif jika laba berlanjut menyusut.
-- **5Y (Tesis):** Jika transformasi ke segmen infrastruktur non-batu bara gagal, risiko stagnasi sangat besar—terutama karena sensitif terhadap siklus komoditas. Keunggulan tanpa leverage tidak cukup jika revenue tidak tumbuh.
+**5Y (Tesis):**  
+- Prospek jangka panjang tetap positif *jika* profitabilitas stabil dan pertumbuhan volume terjaga.
+- Yield dividen menarik untuk income investor, tetapi premium valuasi dan anomali kinerja terbaru harus dimitigasi melalui monitoring dekat.
 
-### 7) Kesimpulan & Indikasi Strategis
-- **Jangka Pendek (≤6B): ⚠️** — Profit turun tajam, dividen menipis, katalis pertumbuhan belum jelas. 
-- **Jangka Panjang (>5Y): ⚠️** — Terdampar sebagai pelayan industri batu bara, gagal diversifikasi dapat jadi risiko utama. Namun posisi kas & tanpa utang memberi ruang bertahan.
+### 6) Kesimpulan
+Jangka Pendek (≤6 bulan): ⚠️ – Banyak anomali & volatilitas tinggi pada laporan Q2 2025, hasil audit dan klarifikasi manajemen wajib dicermati.  
+Jangka Panjang (> 5 tahun): ✅ – Fundamental solid secara neraca, likuid, record dividen sangat menarik; ruang untuk recovery profitabilitas terbuka.
 
-### 8) Catatan Penting
-Analisis ini semata untuk edukasi dan bukan ajakan membeli/menjual. Selalu lakukan verifikasi lanjutan sebelum membuat keputusan investasi.
+### 7) Catatan Penting
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor. Data Q2 2025 patut diverifikasi ulang sebelum dijadikan dasar utama keputusan.

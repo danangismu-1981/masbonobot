@@ -1,73 +1,53 @@
-## SNAPSHOT INVESTASI PTRO (Periode: **Q2 2025 YTD**)
+## PTRO – Investor One-Pager
 
-### 1. Snapshot Posisi Keuangan
-- **Leverage (Liabilitas/Equitas, Q3 2024):** 2,06x (Total Liabilitas $509,56 juta / Total Ekuitas $247,20 juta). Angka Q2 2025 belum tersedia; Q3 2024 menjadi acuan terakhir.
-- **Kas & Setara Kas (Q3 2024):** $66,05 juta (↓ dari $150,79 juta Q3 2023 – tren penurunan).
-- **Utang Bank (Q3 2024):** $223,85 juta (naik signifikan YoY; Q3 2023: $44,80 juta). 
-- **Utang Bersih (Q3 2024):** $157,80 juta (Utang Bank – Kas).
-- **Perusahaan meningkatkan pinjaman untuk mendanai ekspansi dan kontrak baru.**
+### 1) Pertumbuhan & Tren Utama
+- **Pendapatan Q2 2025:** Rp3.139 triliun (Q2 2025), tumbuh +22,8% QoQ dari Q1 2025 (Rp2.559 triliun).
+- **Laba bersih Q2 2025:** Rp2,20 miliar, turun drastis dari Q1 2025 (Rp15,27 miliar); QtQ: ⚠️ -86%.
+- **Gross Profit Margin:** Q2 2025 sebesar 16.91% (Rp530,9 miliar / Rp3,139 triliun), lebih tinggi QtQ (Q1 2025: 10,44%).
+- **Tren YoY** (Q2 2025 vs Q2 2024): Laba bersih Q2 2025 turun sangat tajam dibanding Q2 2024 (Rp18,9 miliar), menunjukkan tekanan profitabilitas berlanjut (YoY: -88%).
+- **Arus kas operasi Q2 2025:** Negatif Rp76,65 miliar; quartal sebelumnya juga negatif, menunjukkan tekanan likuiditas operasional.
+- **Pertumbuhan YoY Revenue:** +18,7% (FY 2024 vs FY 2023; Sumber: Data tahunan).
+- **Kesimpulan tren:** Laju pertumbuhan pendapatan Q2 2025 kuat, namun beban keuangan dan operasi menekan laba dan arus kas.
 
----
+**Periode yang dipakai untuk angka utama: Q2 2025**
 
-### 2. Growth Performance (YoY)
-**a. Revenue & Profit:**
-- **Revenue (Q2 2025 YTD):** $351,11 juta ↑ +10,4% YoY (Q2 2024 YTD: $318,02 juta).
-- **Gross Profit (Q2 2025 YTD):** $49,17 juta (margin 14,0%, ↑ dari 12,8% Q2 2024 YTD).
-- **Net Profit (Q2 2025 YTD):** $1,29 juta (↓ -15,6% YoY; Q2 2024 YTD: $1,52 juta).
-- **Net Profit Margin (Q2 2025 YTD):** 0,37% (penurunan dari 0,48%).
-- **Key Driver:**
-  - Pertumbuhan didorong kontrak jasa pertambangan dan konstruksi.
-  - Margin ditekan kenaikan beban bunga dan pajak seiring leverage naik.
-- **CAGR harga saham (2022–Q2 2025):** 149,96%
-- **Dividen Yield 2025:** 16,29 / 3.900 = 0,4% (sangat kecil terhadap kenaikan harga saham)
+### 2) Posisi Kompetitif (Benchmark Highlights)
+- **PER (PE TTM):** 438,2x (Q4 2024, peer average jauh lebih rendah, misal MYOH 12,37x, SUNI 12,1x, WINS 7,07x).
+- **PBV:** 17,15x (Q4 2024; peers umumnya 0,7–4,2x kecuali DEWA J.K. outlier).
+- **Market cap:** Rp66,82 triliun – unggul besar atas peer segmen (DEWA: Rp12,8T; MYOH: Rp3,7T).
+- **Laba bersih peers lebih efisien:** MYOH (Rp257 miliar, PE 12x), WINS (Rp363 miliar, PE 7x).
+- **Posisi aset:** PTRO memimpin aset (Rp19,69 triliun Q2 2025), namun efisiensi profit rendah.
+- **Implikasi:** Valuasi sangat premium, profitabilitas jauh tertinggal peers.
 
----
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
+- **EBIT Q2 2025:** Rp218,5 miliar (margin EBIT 7,0%), masih lebih rendah dalam konteks pendapatan besar.
+- **EBITDA Q2 2025:** Rp3,47 triliun (data tidak konsisten; historical outlier).
+- **Total aset & utang Q2 2025:** Aset: Rp19,7T, Liabilitas: Rp15,78T; ekuitas: Rp3,91T → leverage tinggi (Debt/Equity: 2,62x pada Q2 2025).
+- **Total utang:** Rp10,25T Q2 2025 (naik dari Q1 2025 Rp9,1T).
+- **Free Cash Flow:** Sangat negatif Rp2,45T Q2 2025 (juga negatif QtQ); refleksi tekanan investasi dan/atau kebutuhan modal kerja.
+- **Kualitas aset:** Likuiditas makin tipis, kas Q2 2025 turun ke Rp1,07T (Q1 2025: Rp2,47T).
 
-### 3. Posisi Kompetitif (Benchmark Peer)
-- **ITMG – ASP 113,1 USD/t, Vol 16,9 Mt, Kalimantan**
-  - Kekuatan: Infrastruktur pelabuhan mutakhir, diversifikasi pasar ekspor.
-  - Kelemahan: Reserves/margin menurun.
-- **BYAN – ASP 75,8 USD/t, Vol 49,7 Mt, Kalimantan**
-  - Kekuatan: Skalabilitas & efisiensi operasional.
-  - Kelemahan: Eksposur harga batubara rendah.
-- **ADRO – ASP 96,1 USD/t, Vol 65,9 Mt, Kalimantan/Sumatera**
-  - Kekuatan: Diversifikasi produk & global network.
-  - Kelemahan: Capex tinggi & ketergantungan pasar China.
-- **PTRO – Mining Services, Vol 17,07 Mt**
-  - Kekuatan: Kontrak jangka panjang, diversifikasi ke jasa nikel.
-  - Kelemahan: Margin tipis, ketergantungan ke kontraktor tambang besar.
+### 4) Dividen & Valuasi
+- **Dividen TTM:** Rp16,54/saham (paling akhir: 30 April 2025), dividend yield TTM hanya 0,24%.
+- **Rasio payout:** 107,7% (Q2 2025; over-distributed, mengindikasikan risiko keberlanjutan).
+- **Valuasi premium:** PER & PBV sangat di atas rata-rata sektor (lihat Benchmark).
+- **Average 5Y yield:** 7,9% – tapi yield telah jatuh ekstrem 2 tahun terakhir (2025 & 2024 jauh di bawah rata-rata historis).
 
----
+### 5) Rekomendasi
+**6M (Taktis):** 
+- FOKUS pada pemantauan kas & efisiensi. Capex/agresivitas ekspansi perlu ditekan.
+- Penurunan laba dan arus kas operasional mengindikasikan risiko likuiditas jangka pendek.
 
-### 4. Strategic Risks & Opportunities
-- **Risiko:**
-  - Regulasi DMO/kuota ekspor dapat menekan pendapatan.
-  - Kenaikan utang → beban bunga & risiko leverage finansial.
-  - Volatilitas harga batu bara; tren transisi energi.
-- **Peluang:**
-  - Efisiensi biaya & perbaikan gross margin.
-  - Diversifikasi kontrak ke nikel (INCO) & multi-segment mining services.
-  - Potensi optimasi arus kas dan kontrak jangka panjang.
+**5Y (Tesis):**
+- Strategi restrukturisasi kewajiban & optimalisasi produktivitas aset sangat diperlukan untuk menjustifikasi valuasi tinggi.
+- Jika profitabilitas tidak membaik, premi valuasi sulit bertahan 5 tahun ke depan.
 
----
+### 6) Kesimpulan
+Jangka Pendek (≤6 bulan): ⚠️  
+- Prospek operasional dan arus kas Q2 2025 lemah, leverage tinggi, valuasi mahal; terlalu banyak sinyal risiko.
 
-### 5. Rekomendasi Strategis
-**a. Horizon 6 Bulan (Taktis):**
-- Prioritaskan penguatan likuiditas & pengelolaan beban bunga.
-- Optimalkan eksekusi kontrak baru untuk percepatan monetisasi.
+Jangka Panjang (>5 tahun): ⚠️  
+- Tanpa turnaround besar pada profitabilitas atau struktur permodalan, value proposition jangka panjang sangat spekulatif.
 
-**b. Horizon 5 Tahun (Tesis):**
-- Perlu transformasi bisnis menuju diversifikasi jasa pertambangan beyond batu bara (nickel, infrastruktur).
-- Jaga struktur modal agar tidak over-leveraged; fokus pada perbaikan FCF & margin jangka panjang.
-
----
-
-### 6. Kesimpulan & Indikasi Strategis
-- **Jangka Pendek (≤ 6 bulan):** ⚠️ Hati-hati – Margin & net profit tipis; likuiditas & leverage butuh perhatian.
-- **Jangka Panjang (> 5 tahun):** ⚠️ Hati-hati – Prospek tergantung kemampuan eksekusi diversifikasi dan perbaikan arus kas.
-
----
-
-### 7. Catatan Penting
-Analisis ini bersifat edukasi, bukan ajakan untuk membeli atau menjual saham tertentu.  
-Keputusan investasi sepenuhnya ada di tangan investor sesuai profil risiko masing-masing.
+### 7) Catatan Penting
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor.

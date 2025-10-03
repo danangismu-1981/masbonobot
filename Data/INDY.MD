@@ -1,53 +1,50 @@
----
-### Snapshot INDY (Q2 2025 YTD)
-- **Leverage:** Liabilitas/Ekuitas (Q3 2024): **1,36x** (Total Liabilities USD 1.858 mn / Total Equity USD 1.370 mn)
-- **Posisi Kas:** Kas dan setara kas (Q3 2024): **USD 706 juta**
-- **Utang Bersih:** Total liabilitas USD 1.858 mn – Kas USD 706 mn = **USD 1.152 mn (net debt, Q3 2024)**
-- **Aset:** Total aset Q3 2024 sebesar **USD 3.228 juta**
-- **Ekuitas:** Ekuitas Q3 2024 sebesar **USD 1.370 juta**
+## INDY – Investor One-Pager
 
----
+### 1) Pertumbuhan & Tren Utama
+- **Kinerja Q2 2025** mengalami pelemahan dibanding kuartal sebelumnya:
+  - **Pendapatan Q2 2025:** Rp7,40 triliun, turun -8,9% QtQ dari Rp8,13 triliun (Q1 2025).
+  - **Laba bersih Q2 2025:** **Merugi** Rp11,69 miliar (Q1 2025: laba Rp48,1 miliar; Q2 2024: laba Rp25,2 miliar).
+- **Gross Profit Q2 2025:** Rp1,10 triliun; margin kotor ~14,8% (turun vs Q1 2025: margin ~13,0% meski gross profit naik QtQ).
+- **Tren YoY (FY 2024 → FY 2025 YTD):**
+  - **Pertumbuhan pendapatan** negatif, cerminan tantangan permintaan/volatilitas harga batu bara.
+  - **Kinerja laba** sangat fluktuatif dengan rugi di Q2 2025.
+- **Arus kas operasi Q2 2025:** Rp12,9 miliar (**signifikan menurun** dari Q1 2025: Rp517 miliar).
+- **Free Cash Flow Q2 2025:** **Negatif** Rp328 miliar.
 
-### 1. Growth Performance (YoY, Q2 2025 YTD)
-**a. Revenue & Profit:**
-- **Pendapatan (Q2 2025 YTD):** USD 956,8 juta (**↓20% YoY**) – Penurunan volume & harga jual rata-rata (ASP). Volume ekspor China turun signifikan (5 juta ton → 4,3 juta ton).
-- **Gross Profit (Q2 2025 YTD):** USD 132,7 juta (**↓33,6% YoY**)
-- **Net Profit (Q2 2025 YTD):** USD 10,2 juta (**↓69,3% YoY**; Q2 2024: USD 33,1 juta)
-- **Margin Bersih:** ~1,1% (Q2 2025 YTD, memburuk dari Q2 2024: ~3,7%)
-- **Key Driver:** Harga batubara global & volume penjualan turun; portofolio domestik naik (margin lebih rendah).
-- **Dividen Yield:** Estimasi dividen 2025 sangat kecil (**~0,07%** hasil >= YTD 15,94/Price 2010)
-- **CAGR Harga Saham (2022-YTD):** **+0,07%** (stagnan)
+**Periode yang dipakai untuk angka utama: Q2 2025 (30 Juni 2025)**
 
----
+### 2) Posisi Kompetitif (Benchmark Highlights)
+- **Valuasi sangat murah** secara PB (INDY PB Q2 2025: 0,64x; peers rata-rata jauh di atas, contoh: BYAN 17,45x, DSSA 21,9x).
+- **PER TTM INDY:** -85,34x (rugi bersih) vs peers seperti ADRO (4,29x), GEMS (10,5x), ADMR (8,32x) → **market mendiskon risiko profitabilitas**.
+- **Size & Diversifikasi:** INDY aset besar (Rp47,2 triliun), namun profitabilitas inferior dibanding mayoritas peers.
+- **Pertumbuhan market cap 12 bulan:** +32,9% – masih outperform beberapa peers besar yang mengalami penurunan kapitalisasi.
 
-### 2. Competitor Benchmark
-- **ITMG** – ASP 113,1 USD/t; Volume 16,9 Mt; Kalimantan; Kekuatan: efisiensi, infrastruktur dermaga besar; Kelemahan: volume relatif kecil dibanding pemain utama.
-- **PTBA** – ASP 66,2 USD/t; Volume 41,9 Mt; Sumatera, Kalimantan; Kekuatan: pasar domestik kuat; Kelemahan: ASP rendah, ketergantungan DMO.
-- **ADRO** – ASP 96,1 USD/t; Volume 65,9 Mt; Kalimantan/Sumatera; Kekuatan: diversifikasi produk, logistik; Kelemahan: margin makin tertekan akibat struktur biaya.
-- **BYAN** – ASP 75,8 USD/t; Volume 49,7 Mt; Kalimantan; Kekuatan: produksi besar, biaya rendah; Kelemahan: konsentrasi geographical.
-- **INDY** – ASP 72,9 USD/t; Volume 30,1 Mt; Kalimantan; Kekuatan: infrastruktur pelabuhan sendiri, kontrol kualitas ketat; Kelemahan: rentan margin rendah di pasar domestik, top-5 skala tetapi di bawah BYAN/ADRO vol.
-- **DSSA** – ASP 82,3 USD/t; Volume 56,3 Mt; Kalimantan, Sumatera; Kekuatan: skala operasi besar; Kelemahan: transparansi data reserves.
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
+- **Operating margin Q2 2025:** Sekitar 5,8% (Rp432 miliar/Rp7,40 triliun) – **tekanan margin**; historis FY 2024 hanya 6,5%.
+- **Net margin Q2 2025:** Negatif, akibat laba sebelum pajak tipis dan beban pajak tinggi.
+- **Leverage:**
+  - **Debt to Equity Q2 2025:** 0,79x.
+  - **Total Debt Q2 2025:** Rp17,1 triliun (sedikit turun dari Q1 2025 Rp16,9 triliun).
+  - **Cash & Equivalents:** Rp8,07 triliun (rasio cash/short-term debt masih aman).
+- **Likuiditas:** Current Ratio Q2 2025: **1,62x** (Rp18,99 triliun aset lancar vs Rp11,72 triliun kewajiban lancar).
 
----
+### 4) Dividen & Valuasi
+- **Dividend yield TTM:** **0,67%** (hanya Rp15,93/lembar di 2025, sangat rendah vs historis; 2024 yield: 6,38%).
+- **Payout ratio terkini:** **Negatif** -57,1% karena laba bersih negatif (sumber: 2025).
+- **Valuasi saham:** PB murah, namun PER negatif menandakan pasar memperhitungkan *risk premium* besar akibat hasil terkini dan outlook tidak pasti.
 
-### 3. Strategic Risks & Opportunities
-- **Risiko:** DMO & kuota ekspor membatasi realisasi revenue; penurunan harga batubara global (structural); efisiensi belum menahan margin turun; potensi transisi ke low carbon.
-- **Peluang:** Penyusutan utang berbunga, efisiensi SG&A; peluang optimalisasi FCF/dividen bila harga stabil.
+### 5) Rekomendasi
+**6M (Taktis):**
+- Fokus efisiensi, normalisasi biaya, upayakan profit stabil. Pantau potensi katalis harga batu bara/global energy.
+- Hindari posisi besar sebelum konfirmasi rebound kas operasi & profit Q3.
 
----
+**5Y (Tesis):**
+- Butuh transformasi bisnis (di luar batu bara) untuk menciptakan value & menurunkan siklus volatilitas laba.
+- Daya saing & profitabilitas struktural perlu perbaikan untuk rerating valuasi.
 
-### 4. Strategic Recommendations
-- **6M (Taktis):** Prioritaskan cash preservation, kontrol OPEX, evaluasi kelangsungan ekspor, selektif investasi capex.
-- **5Y (Tesis):** Kebutuhan transformasi ke segmen energi terbarukan/portofolio baru; imbangi konsolidasi utang dengan ekspansi bisnis non-batubara.
+### 6) Kesimpulan
+- **Jangka Pendek (≤6 bulan):** ⚠️  – Risiko tekanan laba & arus kas tinggi; sinyal pemulihan belum kuat.
+- **Jangka Panjang (>5 tahun):** ⚠️  – Tesis bagus hanya jika mampu diversifikasi dan menstabilkan profit plus memperbaiki struktur modal.
 
----
-
-### 5. Kesimpulan & Indikasi Strategis
-- **Jangka Pendek (≤ 6 bulan):** ⚠️ Hati-hati – Margin mengecil, tekanan harga, regulatory risk tinggi.
-- **Jangka Panjang (> 5 tahun):** ⚠️ Hati-hati – Risiko penurunan demand struktural; tanpa diversifikasi risiko tetap tinggi.
-
----
-
-### 6. Catatan Penting
-Analisis ini bersifat edukasi, bukan ajakan untuk membeli atau menjual saham tertentu.  
-Keputusan investasi sepenuhnya ada di tangan investor sesuai profil risiko masing-masing.
+### 7) Catatan Penting
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor.

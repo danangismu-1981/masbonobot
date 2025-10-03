@@ -1,48 +1,52 @@
-## WOMF – Value Investor One-Pager (Credit Services)
+## WOMF – Investor One-Pager
 
-### 1) Pertumbuhan YoY
-- **Pendapatan:** Q2 2025 YTD, total revenue Rp1.060 miliar, naik 11,6% dari Q2 2024 YTD (Rp950 miliar). Kenaikan terutama dari consumer financing dan income lain-lain.
-- **Net Profit:** Q2 2025 YTD, laba bersih Rp84,8 miliar, naik 17% dari Q2 2024 YTD (Rp72,3 miliar di-annualisasi dari Q1 2024).
-- **Piutang Pembiayaan:** Menurun pada Q1 2025 dan Q2 2025 dibanding FY 2024; Insight menyebutkan kontrak baru melambat, berdampak stagnannya pendapatan.
-- **Beban CKPN:** FY 2024 naik ke Rp357 miliar dari Rp292 miliar (FY 2023).
-- **FCF & Owner’s Earnings:** FCF FY 2024 positif Rp208 miliar; Owner’s Earnings Rp757 miliar (FY 2024).
+### 1) Pertumbuhan & Tren Utama
+- **Pendapatan (Revenue) Q2 2025:** -375,023 juta (negatif; *Q2 2025*)
+   - Q1 2025: 375,806 juta (positif; *Q1 2025*)
+   - QtQ: penurunan ekstrem, terutama akibat faktor pembukuan akuntansi (*revenue Q2 2025 terdata minus*).
+- **Laba Bersih (Net Income) Q2 2025:** 21,813 juta (*Q2 2025*)
+   - QtQ turun drastis dari 62,959 juta (*Q1 2025*)
+   - YoY Q2: turun dari 34,470 juta (*Q2 2024*), → -36,7% YoY.
+- **Net Interest Income Q2 2025:** 362,678 juta (*Q2 2025*), sedikit menurun dari 378,212 juta (*Q1 2025*)
+- **Aset Q2 2025:** 8,551 juta (*sangat turun dari 6.909.258 juta* Q1, *diduga error atau amortisasi ekstrem*).
 
-### 2) Posisi Kompetitif (Benchmark Highlights, bullet points)
-- **NPF (Non-Performing Financing):** WOMF 2,08% (2023, naik dari 1,63% di 2022); tertinggi vs BFIN 1,36%, CFIN 1,29%, ADMF 1,9%; mengindikasikan risiko kredit lebih tinggi, berdampak pada CKPN.
-- **Mix Pembiayaan (berdasarkan 2023):** 46% motor bekas, 54% mobil bekas; hampir tanpa diversifikasi ke alat berat/properti/sharia. Lebih rentan terhadap siklus industri otomotif roda dua/empat.
-- **Joint vs Self Financing:** 100% self-financing, tanpa joint financing, kontras dengan peers (BFIN 97% self, ADMF 53% self); artinya kebutuhan pendanaan sendiri lebih tinggi, risiko likuiditas bertumpu pada sumber dana internal.
-- **Jaringan/Outlet & Kontrak Aktif:** 456 outlet (2023, terbesar kedua setelah ADMF); volume kontrak aktif tidak tersedia.
-- **Rata-rata Pembiayaan/Unit:** Motor Rp15,4 juta (WOMF), lebih tinggi dari BFIN (Rp9,2 juta) tapi di bawah ADMF (Rp20,9 juta); mengindikasikan positioning di segmen menengah-bawah, bukan premium.
+**Periode yang dipakai untuk angka utama: Q2 2025 (per 30 Juni 2025)**
 
-### 3) Dividen & Valuasi
-- **Dividen:** Tren naik, 2022: Rp9,50; 2023: Rp17,00; 2024: Rp20,37; 2025 YTD: Rp22,66 per saham.
-- **Market Cap:** ~Rp1,19 triliun (harga 342, outstanding 3,48 miliar).
-- **CAGR Harga (2022–2025 YTD):** 25,75%.
+### 2) Posisi Kompetitif (Benchmark Highlights)
+- **PER (PE TTM):** 4,78x (*2024; period peer terbaru*) | TERENDAH di kelompok peer (rata-rata peer 7–30x).
+- **PBV (PB MRQ):** 631x (*2024*; peer mayoritas di kisaran 0,7–1,5x, anomaly data WOMF diduga akibat error data ekuitas Q2 2025)
+- **Market Cap:** ~1,20 triliun; lebih kecil vs BFIN & ADMF, setara/lebih besar dari pemain kelas menengah (BBLD, TIFA, CFIN).
+- **ROE 2024:** 13,9% (*FY 2024*), sedikit di atas rerata peer.
+- WOMF masih kompetitif secara profitabilitas, tapi sangat tertinggal secara aset & ekuitas sejak Q2 2025 (*kemungkinan anomali akuntansi/laporan*).
 
-### 4) Insight Strategis
-**Kekuatan:**  
-- Jaringan distribusi luas (456 outlet) – daya saing distribusi nasional.
-- FCF positif FY 2024; Owner’s Earnings menguat.
-- Dividen konsisten naik, menarik untuk income investor.
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
+- **Net Profit Margin (2024):** 17,8% (*FY 2024*).
+- **ROA (2024):** 3,8%.
+- **Pendanaan:** Total Debt per Q2 2025 melonjak ke 6.317.063 juta (naik tajam dari 4.616.804 juta Q1 2025), sementara ekuitas hanya 1.898 juta (*Q2 2025*), menandakan leverage meningkat signifikan.
+- **Operating Cash Flow Q2 2025:** -2.469 juta (negatif; tekanan likuiditas pendek)
+- **Free Cash Flow Q2 2025:** 18.986 juta (masih positif)
+- **Kualitas aset:** Data NPL/loan tidak tersedia periode terbaru.
 
-**Risiko:**  
-- NPF tertinggi di peer group (data 2023), CKPN terus naik – potensi tekanan net margin.
-- Hampir tanpa joint financing – risiko funding sendiri bertambah di kondisi pasar likuiditas ketat.
-- Kinerja Q2 2025 melambat; disbursement menurun, pendapatan stagnan, biaya operasional meningkat (khususnya loss repossession).
+### 4) Dividen & Valuasi
+- **Dividen TTM:** 22,66 (*yield 6,7% TTM*; *Ex-date: 14 April 2025*)
+- **Payout Ratio:** 31,5% (*2025*), moderat, mengindikasikan ruang distribusi masih ada
+- **Valuasi:** EV/PE termurah di antara peer utama, tapi PBV sangat tinggi karena basis ekuitas turun drastis (indikasi anomali data)
 
 ### 5) Rekomendasi
-**6M (Taktis):**  
-- Fokus pada pengendalian kualitas aset (NPF & recovery); evaluasi efektivitas penagihan serta manajemen biaya operasional.
-- Cermati kebutuhan pendanaan; eksplor diversifikasi model financing atau kerja sama joint financing untuk menekan biaya dana.
+**6M (Taktis):**
+- Fokus monitoring laporan keuangan, khususnya penyebab “revenue” Q2 2025 negatif; kemungkinan ada restatement/penyesuaian besar.
+- Prioritaskan investor defensif atas dividen tinggi, namun waspada potensi volatilitas.
+- Sikap hati-hati atas anomali ekuitas/aset Q2 — potensi risiko penurunan valuasi atau peringatan regulator.
 
-**5Y (Tesis):**  
-- Perluas diversifikasi produk/pasar di luar motor dan mobil, kurangi konsentrasi risiko sektor otomotif.
-- Investasi berkelanjutan di digital channel & credit scoring untuk seleksi risiko agar tren NPF membaik dan mengamankan profitabilitas jangka panjang.
+**5Y (Tesis):**
+- Jika anomali data bersifat temporer/restatement, perusahaan dengan profitabilitas stabil dan yield tinggi tetap menarik.
+- Fokus medium/long-term pada potensi turn-around pasca restrukturisasi (jika terjadi), mengingat track record payout dividen & kinerja historis laba.
 
-### 6) Kesimpulan & Indikasi Strategis
-- **Jangka Pendek (≤ 6 bulan):** ⚠️ Hati-hati – Pertumbuhan melemah di Q2 2025, NPF relatif tinggi, tekanan biaya naik; tetap ada potensi perbaikan jika koleksi dan kontrol biaya efektif.
-- **Jangka Panjang (> 5 tahun):** ⚠️ Hati-hati – Selama WOMF tidak menurunkan NPF dan tidak diversifikasi produk/pasar, risiko siklus & margin tertekan tetap tinggi meski jaringan besar.
+### 6) Kesimpulan
+Jangka Pendek (≤6 bulan): **⚠️**
+- Volatilitas tinggi seputar hasil Q2 2025 dan ketidakpastian neraca, ragam risiko bila restatement buruk.
+Jangka Panjang (>5 tahun): **✅**
+- Jika pondasi profitabilitas dan payout dividen kembali stabil, WOMF tetap prospek, *subject to* konfirmasi restrukturisasi/penyesuaian laporan.
 
 ### 7) Catatan Penting
-Analisis ini bersifat edukasi, bukan ajakan untuk membeli atau menjual saham tertentu.  
-Keputusan investasi sepenuhnya ada di tangan investor sesuai profil risiko masing-masing.
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor. Data akuntansi Q2 2025 mengandung anomali; pastikan verifikasi ke sumber resmi.

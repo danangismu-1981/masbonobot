@@ -1,52 +1,53 @@
-## TRUS – Value Investor One-Pager (Credit Services)
+## TRUS – Investor One-Pager
 
-### 1) Pertumbuhan YoY
-- **Pendapatan:** Q2 2025 YTD total revenue Rp32,08 miliar* (run-rate Q2 2025: Rp21,57 miliar; Q2 2024: Rp27,80 miliar; turun 31% YoY, penurunan tajam vs Q2 2024).
-- **Laba Bersih:** Q2 2025 YTD net profit Rp10,91 miliar* (run-rate Q2 2025: Rp7,74 miliar; Q2 2024: Rp12,53 miliar; turun signifikan mengikuti penurunan pembiayaan).
-- **Piutang Pembiayaan:** Q3 2024 Investment Financing Receivables Rp345 miliar, naik 39,8% YoY (Q3 2023: Rp247 miliar).
-- **Beban Bunga:** Q2 2025 YTD beban bunga Rp384 juta, turun drastis karena pelunasan pinjaman (Q2 2024: Rp1,75 miliar; Q1 2025: Rp384 juta).
-- **Pertumbuhan laba dan revenue pada FY 2024 positif (revenue +8,3% YoY), tren menurun tajam di 2025 akibat penurunan pembiayaan.  
-\*Angka Q2 2025 YTD dihitung dari sum Q1+Q2.
+### 1) Pertumbuhan & Tren Utama
+- **Pendapatan Q2 2025:** Rp7,05 miliar (stabil flat QoQ, karena seluruh data Q1-Q4 2024 & Q1-Q2 2025 identik dan tidak terjadi pertumbuhan signifikan).
+- **Operating Profit Q2 2025:** Rp3,48 miliar (stagnan QoQ, sama seperti di Q1 2025—indikasi stagnasi operasional).
+- **Laba sebelum pajak Q2 2025:** Rp3,48 miliar.
+- **Pajak Q2 2025:** Rp316 juta; **Earnings/laba bersih:** data tidak tersedia pada periode terbaru.
+- **Total Aset Q2 2025:** Rp423,17 miliar (turun -7,8% QoQ dari Q3 2024: Rp458,83 miliar).
+- **Ekuitas Q2 2025:** Rp408,2 miliar, naik +2,3% QoQ (Q1 2025: Rp398,9 miliar).
+- **Total Liabilitas Q2 2025:** Rp15,0 miliar, turun drastis -74,9% QoQ (Q3 2024: Rp59,8 miliar).
+- **YoY Revenue Growth:** Data tahun penuh 2023: Rp21,03 miliar vs revenue Q2 2025 annualized (est.) hanya Rp28,18 miliar, namun seluruh angka kuartal sama seluruhnya, sehingga pertumbuhan sulit dinilai valid.
+- **Cash Flow Q2 2025:** 
+  - **Net cash flow:** -Rp19,97 miliar (melemah dari Q3 2024: -Rp4,15 miliar).
+  - **Operating cash flow:** -Rp14,39 miliar.
+  - **Free Cash Flow:** -Rp14,97 miliar (deteriorasi besar YoY; 2023: -Rp10,25 miliar).
 
-### 2) Posisi Kompetitif (Benchmark Highlights, data 2023)
-- **NPF:** Data spesifik TRUS tidak tersedia, namun rata-rata industri (BFIN: 1,36%, CFIN: 1,29%, ADMF: 1,9%, WOMF: 2,08%, HDFA: 1,83%).
-- **Mix Pembiayaan:** TRUS 75% Investment Financing, 25% Multipurpose; dominan tidak di otomotif, berbeda dari peer lain yang mayoritas mobil/motor (BFIN, ADMF, WOMF).
-- **Joint vs Self Financing:** 100% self-financing; tanpa joint financing, mirip WOMF, HDFA; implikasi: risiko dana sendiri lebih besar, exposure kredit tinggi.
-- **Jaringan/Outlet & Kontrak Aktif:** Data tidak tersedia (major peer: ratusan outlet/kontrak aktif >50 ribu unit; TRUS kemungkinan jauh lebih kecil).
-- **Rata-rata Pembiayaan/Unit:** Tidak tersedia TRUS; rata-rata peer (mobil: Rp108–186 juta; motor: Rp9–20 juta); TRUS lebih ke korporasi/project base.
+**Periode yang dipakai untuk angka utama: Q2 2025 (31 Maret 2025)**
 
-### 3) Dividen & Valuasi
-- **Dividen:** Dividen tunai tahun berjalan Rp15/saham (dibayar Juli 2025).
-- **Market Cap:** Rp385,6 miliar (800 juta saham × harga pasar per 12 Sep 2025).
-- **CAGR Harga 2022–YTD 2025:** 15,32%.
-- **Yield Dividen (annualisasi sederhana):** Sekitar 3,1% (Td=Rp15, harga Rp482).
+### 2) Posisi Kompetitif (Benchmark Highlights)
+- **PBV (Q4 2023):** 0,87x vs peers rata-rata 1,16x–1,32x; valuasi diskon terhadap sektor.
+- **Market cap:** Rp357 miliar, jauh lebih kecil vs peers besar (BFIN, ADMF).
+- **ROE & Net Profit Margin:** Data tidak tersedia 2025; historikal (2022): ROE 6,8%, di bawah sektor pembanding utama.
+- **Pendapatan & profitabilitas jauh tertinggal dibanding BFIN dan ADMF baik dari volume, efisiensi, maupun margin—TRUS microcap, fokus niche, sangat defensif.
 
-### 4) Insight Strategis
-**Kekuatan:**  
-- Model pembiayaan dominan investment (non-otomotif), mengurangi siklus risiko konsumsi 2W/4W.
-- Pengelolaan beban bunga baik, beban turun setelah repayment pinjaman.
-- Pertumbuhan piutang pembiayaan sangat pesat di 2024 (+39,8% YoY Q3 2024).
-- Track record laba dan FCF positif di 2024.
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
+- **Gross profit margin:** 100% (angka akuntansi, bukan ekonomi; semua beban masuk opex).
+- **Operating margin (Q2 2025):** ~49% (operating profit/revenue) – cukup tinggi karena struktur biaya rendah.
+- **Kualitas aset:** Kecilnya liabilitas → low leverage, net debt data tidak tersedia periode terbaru.
+- **Tidak ada data rasio NPL/kredit bermasalah 2025.**
+- **Pendanaan:** Nyaris seluruh financing dari ekuitas, risiko leverage sangat kecil; cash hanya Rp14 juta—sangat rendah.
 
-**Risiko:**  
-- Revenue dan laba anjlok tajam di Q1 & Q2 2025 akibat pengereman pembiayaan.
-- Biaya SDM dan beban umum tumbuh lebih cepat dari revenue (+19% YoY).
-- Eksposur 100% ke self-funding, rawan bila pendanaan eksternal lebih mahal/sulit diakses.
-- Jaringan/size sangat kecil, jauh dibanding peer; efek pada daya saing dan pertumbuhan.
+### 4) Dividen & Valuasi
+- **Dividen 2025:** Rp15/lembar, **dividend yield TTM:** 3,38% (cukup atraktif untuk microcap non-growth).
+- **Payout Ratio:** Data tidak tersedia.
+- **PBV 2023:** 0,87x (diskon cukup besar ke rata-rata sektor).
+- **PER:** Data laba terbaru tidak tersedia.
 
-### 5) Rekomendasi  
-**6M (Taktis):**  
-- Prioritaskan penyehatan pipeline pembiayaan, jaga disiplin kualitas kredit di tengah perlambatan ekonomi dan potensi turunnya demand kredit.
-- Rebalancing beban operasional, tekan pertumbuhan biaya SDM sejalan dengan tren revenue.
+### 5) Rekomendasi
+**6M (Taktis):**
+- Tetap defensif; risiko likuiditas & arus kas negatif besar, sementara nilai aset & ekuitas kuat.
+- Reaksi harga, jika ada sentimen korporasi/dividen khusus, bisa taktikal.
 
-**5Y (Tesis):**  
-- Diversifikasi sumber pendanaan/joint financing perlu diakselerasi untuk mitigasi risiko dana/self-funding.
-- Eksplorasi segmen pembiayaan berisiko dan margin lebih rendah, perluas kanal distribusi/outlet; jaringan skala nasional perlu dibangun untuk naik kelas.
+**5Y (Tesis):**
+- Prospek growth terbatas; kecuali terjadi restrukturisasi atau transformasi model bisnis.
+- Buyback, merger/akuisisi, atau konsolidasi bisa unlock value.
+- Saham ini lebih cocok untuk investor yield/dividend/value, bukan growth.
 
-### 6) Kesimpulan & Indikasi Strategis
-Jangka Pendek (≤ 6 bulan): ⚠️ Hati-hati – Penurunan revenue dan profit Q2 2025 YTD tajam, cost base tetap tinggi.  
-Jangka Panjang (> 5 tahun): ⚠️ Hati-hati – Prospek stabil jika mampu atasi risiko pendanaan, tekanan biaya, ekspansi jaringan & pipeline pembiayaan.
+### 6) Kesimpulan
+Jangka Pendek (≤6 bulan): ⚠️ – Arus kas sangat negatif, rendah likuiditas meski aset/ekuitas solid; minim katalis jangka pendek.
+Jangka Panjang (> 5 tahun): ⚠️ – Potensi upside hanya jika aksi korporasi, strategi pertumbuhan baru, atau restrukturisasi—otherwise stagnan.
 
 ### 7) Catatan Penting
-Analisis ini bersifat edukasi, bukan ajakan untuk membeli atau menjual saham tertentu.  
-Keputusan investasi sepenuhnya ada di tangan investor sesuai profil risiko masing-masing.
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor.
