@@ -1,52 +1,52 @@
-## ARTO – Value Investor One-Pager
+## ARTO – Investor One-Pager
 
-### 1) Pertumbuhan YoY
-- **Pendapatan bunga (Q2 2025 YTD):** Rp 1,593 triliun, naik +75% YoY (Q2 2024 YTD: Rp 911 miliar).
-- **Laba bersih (Q2 2025 YTD):** Rp 127 miliar, naik +155% YoY (Q2 2024 YTD: Rp 49,9 miliar).
-- **DPK/Third-Party Funds (Q2 2025 YTD):** Rp 22,4 triliun, tumbuh +51% YoY (Q2 2024 YTD: Rp 14,8 triliun).
-- **Kredit yang diberikan (Q2 2025 YTD):** Rp 17,1 triliun, naik +37% YoY (Q2 2024 YTD: Rp 12,5 triliun).
-- **Net Interest Margin/NIM (Q2 2025 YTD):** 8,4%, meningkat dari 7,3% (FY 2024).
-- **CASA ratio (Q2 2025 YTD):** 54% menurun dibanding 66% (FY 2023) – tren menurun.
-- **LDR (Q2 2025 YTD):** 102%, turun dari 106% (Q2 2024) – tetap di atas peer, menunjukan agresivitas.
+### 1) Pertumbuhan & Tren Utama
+- **Pendapatan Q2 2025:** Rp678,46 miliar (naik +87% YoY vs Q2 2024: Rp363,84 miliar, +1,3% QoQ vs Q1 2025: Rp690,48 miliar)
+- **Laba bersih Q2 2025:** Rp66,80 miliar (naik +136% YoY vs Q2 2024: Rp28,26 miliar, +10,8% QoQ vs Q1 2025: Rp60,27 miliar)
+- **Total aset Q2 2025:** Rp32,43 triliun (naik +34% YoY vs Q2 2024: Rp24,25 triliun)
+- **Total kredit bruto Q2 2025:** Rp21,43 triliun (naik +36% YoY vs Q2 2024: Rp15,67 triliun)
+- **Dana Pihak Ketiga (DPK) Q2 2025:** Rp22,20 triliun (naik +52% YoY vs Q2 2024: Rp14,61 triliun)
+- **YoY Quarter Earnings Growth:** +136% | **YoY Quarter Revenue Growth:** +87% (FY data)
+- **Pertumbuhan Kuartalan Aset dari Q1 2025 ke Q2 2025:** stabil (-0,1%)
+- **Perbaikan laba dan efisiensi signifikan YoY, namun pertumbuhan lebih lambat di QoQ Q2 2025.**
+  
+**Periode yang dipakai untuk angka utama: Q2 2025**
 
-### 2) Posisi Kompetitif (Bullet Points)
-- **NIM (Q3 2024):** ARTO 7,1% vs BBCA 5,8%; BBRI 7,7%. Kuat, tetapi biaya dana naik.
-- **CASA Ratio (Q3 2024):** ARTO 57% vs BBCA 81,8%, BBRI 64,2%. ARTO tren turun, peer stabil atau naik – cost of fund tertekan.
-- **LDR (Q3 2024):** ARTO 102% vs BBCA 75,1%, BBRI 88,3%. ARTO lebih agresif ekspansi kredit – risiko likuiditas lebih tinggi.
-- **NPL (Q2 2025 Benchmark; Q3 2024 untuk peer):** ARTO 0,23% (Q3 2024) – terbaik dibanding bank besar (BBCA 2,1%, BBRI 2,9%).
-- **Loan at Risk/LAR (Q3 2024):** ARTO 3,5% vs BBCA 6,1%, BBRI 11,7%. Sama-sama membaik YoY, namun tren naik di ARTO dari Q2.
-- **CKPN/Loan (Q3 2024):** ARTO 1,1% vs BBCA 4,1%. Buffer relatif tipis.
-- **ROE (Tidak tersedia spesifik, namun profit tumbuh sangat cepat namun masih di bawah peer besar yang lebih mapan).**
+### 2) Posisi Kompetitif (Benchmark Highlights)
+- **Market Cap:** Rp30,63 triliun (FY 2024, peer: BBCA Rp942,5 triliun, BBRI Rp559,8 triliun)
+- **Valuasi:**
+    - **P/BV:** 3,54x (FY 2024, tertinggi di kelas mid-sized bank, peers rata-rata: 0,8–3,6x)
+    - **P/E TTM:** 149x (sangat premium; peers: BBCA 16,5x, BBRI 9,9x, BMRI 7,6x)
+- **ROE (FY 2024):** 1,5%; peers top-tier bank: 13–18% (sumber: peer table)
+- **ARTO unggul pertumbuhan aset & teknologi, namun profitabilitas dan efisiensi tertinggal dari bank besar.**
+- **Jumlah Karyawan:** 521 (peer BBCA: 24.685, BBRI: 59.495)
 
-### 3) Dividen & Valuasi
-- **Dividen:** Tidak membagikan dividen sejak 2018 hingga Q2 2025.
-- **Market Cap:** ~Rp 29,6 triliun (saham beredar 13,86 miliar x harga Rp 2.140).
-- **Harga saham CAGR (2022–YTD 2025):** -18,52%.
-- **Valuasi sederhana:** PER trailing ~233x (annualisasi laba Q2 2025 YTD) – sangat premium untuk sektor perbankan, harga sudah turun banyak sejak 2022.
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
+- **Net Interest Income Q2 2025:** Rp574,82 miliar (naik +68% YoY vs Q2 2024: Rp341,26 miliar)
+- **NPL Coverage (Allowance/gross loan) Q2 2025:** ~1,91% (Rp409,3 miliar/Rp21,43 triliun) – sangat rendah, menunjukkan kredit relatif sehat.
+- **Biaya Operasional Q2 2025:** Rp407,78 miliar (turun secara proporsional thd. aset vs Q2 2024, meningkatkan efisiensi)
+- **Rasio ekuitas/total aset Q2 2025:** 26,7% (Rp8,66 triliun/Rp32,43 triliun) – sangat solid, jauh di atas peer.
+- **Total debt Q2 2025:** Rp50,41 miliar – sangat kecil (hampir non-leverage/0,16% aset)
+- **Free Cash Flow Q2 2025:** negatif Rp1,31 triliun (tekanan arus kas, kemungkinan karena ekspansi aset & investasi digital)
+- **CASA Ratio**: Data per Q2 2025: Current+Savings/DPK = (Rp5,31T+Rp6,14T)/Rp22,2T ≈ 52% (stabil/baik untuk bank digital)
 
-### 4) Insight Strategis
-**Kekuatan:**  
-- Pertumbuhan kredit dan pendapatan bunga di atas rata-rata industri (>30% YoY).
-- NIM tinggi dan meningkat, efisiensi aset produktif.
-- NPL sangat rendah dan loan at risk relatif kecil.
-
-**Risiko:**  
-- CASA ratio turun → cost of fund naik signifikan (4,1% vs 3,1%, YTD).
-- LAR dan Cost of Credit naik (from 1,6% ke 3,6%) – sinyal awal kredit bermasalah berpotensi meningkat.
-- Valuasi market jauh di atas rata-rata peer dengan profitabilitas yang masih terbatas.
-- Tidak ada dividen.
+### 4) Dividen & Valuasi
+- **Dividen:** Tidak ada dividen—data dividen tidak tersedia pada periode terbaru (konfirmasi: file ARTO-DIVIDEN.TXT)
+- **P/E TTM:** 149x, tertinggi di peers; **P/BV:** 3,54x — premium valuation; signifikan lebih tinggi dari rata-rata big banks
+- **Yield:** Tidak tersedia
 
 ### 5) Rekomendasi
-**6M (Taktis):**  
-- ARTO layak untuk pemantauan ketat, khususnya tren CASA dan kredit bermasalah. Momentum pertumbuhan masih positif, namun risiko pendanaan dan potensi tekanan earnings perlu dicermati.
+**6M (Taktis):** 
+- Fokus pada disiplin biaya, kualitas pertumbuhan pinjaman, dan perbaikan arus kas operasional. Monitor tekanan valuasi tinggi vs kemampuan mempertahankan momentum earning.
+- Potensi volatilitas tinggi mengingat premium valuation & minim distribusi laba.
 
-**5Y (Tesis):**  
-- Tesis jangka panjang mensyaratkan ARTO mampu menyeimbangkan ekspansi kredit dan menjaga kualitas aset serta pendanaan murah. Butuh restrukturisasi sumber dana jika ingin menjadi bank digital mapan layak investasi jangka panjang.
+**5Y (Tesis):**
+- Basis digital & pertumbuhan agresif aset memberi landasan kuat untuk pangsa pasar masa depan di segmen tech-savvy/UMKM.
+- Perlu realisasi profitabilitas setara big banks agar valuasi premium bisa terjaga; eksekusi monetisasi produk digital jadi kunci.
 
-### 6) Kesimpulan & Indikasi Strategis
-- **Jangka Pendek (≤ 6 bulan):** ⚠️ – Pertumbuhan tinggi namun kenaikan cost of fund dan LAR/Credits at risk belum selesai. Risiko earnings compression di depan mata.
-- **Jangka Panjang (> 5 tahun):** ⚠️ – Tumbuh cepat, tapi keberlanjutan sangat tergantung kemampuan memperbaiki struktur dana murah dan digital customer acquisition yang sehat.
+### 6) Kesimpulan
+Jangka Pendek (≤6 bulan): ⚠️ – Premium valuation, laba mulai bertumbuh, namun arus kas & efisiensi perlu perbaikan, risiko koreksi tetap tinggi.
+Jangka Panjang (>5 tahun): ✅ – Platform digital ARTO & pertumbuhan kredit/DPK agresif berpotensi jadi game-changer jika profitabilitas meningkat.
 
 ### 7) Catatan Penting
-Analisis ini bersifat edukasi, bukan ajakan untuk membeli atau menjual saham tertentu.  
-Keputusan investasi sepenuhnya ada di tangan investor sesuai profil risiko masing-masing.
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor.

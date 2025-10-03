@@ -1,54 +1,45 @@
-## BBTN – Value Investor One-Pager
+## BBTN – Investor One-Pager
 
-### 1) Pertumbuhan YoY
-- **Pendapatan bunga (Q2 2025 YTD):** Rp18,541 miliar (+23,6% YoY, didorong konsolidasi Bank Victoria).
-- **Laba bersih (Q2 2025 YTD):** Tidak tersedia langsung, namun Q3 2024 YTD turun -10% YoY; Q1 2025 YTD naik 500 miliar YoY.
-- **Kredit yang diberikan (Q2 2025):** Tidak ada angka Q2 2025, Q3 2024 YTD tumbuh 13,0% YoY (Rp341,5 triliun vs Rp302,3 triliun Q3 2023).
-- **Dana Pihak Ketiga/DPK (Q2 2025):** Data DPK terakhir Q3 2024 YTD: Rp341,7 triliun (+13,9% YoY).
+### 1) Pertumbuhan & Tren Utama
+- **Pendapatan (Revenue) Q2 2025**: Rp 6,178 triliun naik +65,8% QtQ (Q1 2025: Rp 3,727 triliun).
+- **Laba Bersih Q2 2025**: Rp 803 miliar turun -11,2% QtQ (Q1 2025: Rp 904 miliar); Namun, jika dibanding Q2 2024 (Rp 642 miliar), tumbuh solid +25% YoY.
+- **Net Interest Income Q2 2025**: Rp 4,95 triliun, naik signifikan 56,8% QtQ dari Q1 2025 (Rp 3,16 triliun).
+- **Total Aset Q2 2025**: Rp 484,8 triliun (+3,5% QoQ dari Q1 2025: Rp 468,5 triliun).
+- **Gross Loans Q2 2025**: Rp 327,6 triliun (+3,4% QoQ dari Q1 2025; +5,5% YoY dari Q2 2024).
+- **Return on Asset (ROA) FY2024**: 0,64% (turun dari FY2023: 0,80%) – data tahunan terbaru.
+- **Pertumbuhan YoY** laba kuartalan: +25% (Q2 2025 vs Q2 2024).
 
-### 2) Posisi Kompetitif (Bullet Points)
-- **NIM (Q3 2024):** 4,91% vs BBCA 5,8%, BBRI 7,7% — di bawah rata-rata bank besar, tekanan margin nyata.
-- **CASA Ratio (Q3 2024):** 53,3% turun signifikan (vs BBCA 81,8%, BBRI 64,2%) — basis dana murah lemah; Q2 2025 turun akibat konsolidasi Bank Victoria.
-- **LDR (Q3 2024):** 71,5% (lebih konservatif dari BBCA 75,1%; BBRI 88,3%), menandakan likuiditas longgar, ekspansi kredit lambat.
-- **NPL (Q3 2024):** 3,2% (tinggi; BBCA 2,1%, BBRI 2,9%), kualitas aset rawan, meski LAR menurun.
-- **LAR (Q3 2024):** 20,8%, membaik dari Q2 2024 (21,2%) namun masih jauh di atas rata-rata industri.
-- **CKPN/Loan (Q3 2024):** 1,1%, terendah di peer, buffer risiko tipis.
-- **Net Income Growth 2019-2023:** +75%, mendekati peer average (BBCA +70%, BBRI +76%).
-- **Revenue Growth 2019-2023:** +10%, moderat di bawah rata-rata bank besar.
+**Periode yang dipakai untuk angka utama: Q2 2025 (per 30 Juni 2025)**
 
-### 3) Dividen & Valuasi
-- **Dividen per saham FY 2024:** Rp49,89; 2025 (per Apr): Rp53,57; tren naik konsisten 3 tahun terakhir.
-- **Market Cap (estimasi):** Rp19,4 triliun (Saham beredar x harga ter-update).
-- **Dividend Yield (trailing):** Sekitar 3,9% (dibanding harga terkini).
-- **Harga CAGR 2022–Q3 2025:** 10,08% per tahun.
+### 2) Posisi Kompetitif (Benchmark Highlights)
+- **Valuasi Murah**: PBV 0,52x (Q2 2025, terendah dibanding peers: BBCA 3,6x, BMRI 1,52x, BBRI 1,77x).
+- **PER TTM**: 5,5x (Q2 2025) vs rata-rata peers sektor 7–17x.
+- **Profitabilitas di bawah big-4 peers** (mis. ROA, ROE BBCA, BMRI, BBRI jauh di atas).
+- **Size**: Aset lebih kecil dari bank besar, namun pangsa perumahan kuat.
 
-### 4) Insight Strategis
-**Kekuatan:**
-- Pangsa pasar kuat di KPR (consumer loan), momentum positif paska akuisisi Bank Victoria.
-- Perbaikan LAR, efektifitas penagihan NPL (revenue recovery naik dari Rp0,93T ke Rp1,3T FY 2024).
-- Penyaluran kredit dan DPK tumbuh double-digit.
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
+- **Net Interest Margin (NIM) FY2024**: 2,53% (turun dari 2023: 2,98%).
+- **Rasio BOPO (Cost-to-Income Ratio)**: 2,68 (FY2024), masih relatif tinggi (efisiensi rendah).
+- **Rasio Loan to Deposit Q2 2025**: 93,4% (Gross Loans/Total Deposit: Rp 327,6T/351,1T).
+- **Kualitas Aset**: Allowance for Loans/Gross Loans Q2 2025 = 4,0% → masih prudent.
+- **CAR (FY2024)**: 18,5% (aman di atas threshold regulator).
+- **CASA Q2 2025**: Rp 167,2 triliun (Current Account + Saving), sedikit menurun QoQ, menandakan tekanan likuiditas.
+- **Leverage (Debt-to-Equity Q2 2025)**: 1,14x (Total Debt: Rp 38,6T vs Equity Rp 33,9T).
 
-**Risiko:**
-- Penurunan CASA struktural, tekanan cost of fund akibat dana mahal, terutama setelah konsolidasi.
-- Beban provisi (CKPN) dan operating expense naik tajam Q2 2025; credit quality pressure real.
-- NIM menurun, distance terhadap kompetitor melebar; mitigasi hanya jika funding mix membaik.
-- Buffer pencadangan rendah (CKPN/Loan), rawan bila siklus kredit memburuk.
+### 4) Dividen & Valuasi
+- **Dividen TTM**: Rp 53,57/lembar (terbaru 15 April 2025); Dividend yield TTM: 4,23% – **tertinggi di peer group**.
+- **Payout Ratio**: 24,2% laba, prudent & sustain.
+- **Valuasi diskon**: PBV & PER jauh di bawah rata-rata peers, menarik secara value.
 
 ### 5) Rekomendasi
-**6M (Taktis):**
-- Pantau dampak akuisisi Bank Victoria pada CASA & kualitas aset secara kuartalan.
-- Fokus pada upaya efisiensi biaya, transformasi digital, dan langkah peningkatan funding mix.
-- Watchlist, bukan untuk strategi agresif jangka pendek; potensi dividen masih menarik.
+**6M (Taktis):**  
+- Fokus pada sentimen perbankan RI & pemulihan margin/net profit. Katalis: realisasi KPR, efisiensi biaya, dividend season. Risiko: likuiditas & biaya dana tinggi.
+**5Y (Tesis):**  
+- Pangsa pasar perumahan terjaga, kualitas aset membaik, valuasi murah, dividend yield >4%. Risiko: NIM makin tergerus, tantangan transformasi digital.
 
-**5Y (Tesis):**
-- BBTN butuh revolusi dalam struktur funding dan manajemen risiko jika ingin mendekati level profitabilitas bank besar.
-- Cocok untuk investor yang mencari pertumbuhan moderat & yield stabil, namun hanya jika perbaikan kualitas aset dan bauran dana murah berjalan.
-- Cermati penguatan permodalan dan buffer risiko, terutama menghadapi tekanan ekonomi makro ke depan.
-
-### 6) Kesimpulan & Indikasi Strategis
-Jangka Pendek (≤ 6 bulan): ⚠️ – Perubahan CASA, biaya kredit tinggi; efek integrasi Bank Victoria dan kondisi likuiditas butuh pemantauan dekat.  
-Jangka Panjang (> 5 tahun): ⚠️ – Perspektif positif dengan syarat eksekusi perbaikan funding dan NPL berhasil; butuh waktu & disiplin eksekusi.
+### 6) Kesimpulan
+Jangka Pendek (≤6 bulan): ⚠️  – Solid yield & valuasi murah, tapi tekanan margin dan cost-to-income masih tinggi.  
+Jangka Panjang (>5 tahun): ✅  – Prospek pembiayaan perumahan RI & valuasi atraktif, tetap menarik bagi investor value/dividend play.
 
 ### 7) Catatan Penting
-Analisis ini bersifat edukasi, bukan ajakan untuk membeli atau menjual saham tertentu.  
-Keputusan investasi sepenuhnya ada di tangan investor sesuai profil risiko masing-masing.
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor.

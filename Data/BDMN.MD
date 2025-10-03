@@ -1,50 +1,49 @@
-## BDMN – Value Investor One-Pager
+## BDMN – Investor One-Pager
 
-### 1) Pertumbuhan YoY
-- **Pendapatan Bunga** (Q2 2025 YTD): Rp11,577,829 juta, naik +16.6% vs Q2 2024 YTD Rp9,678,297 juta (“Interest income”, Income Statement).
-- **Laba Bersih** (Q2 2025 YTD): Rp1,681,096 juta, tumbuh +7.3% vs Q2 2024 YTD Rp1,515,547 juta. (Catatan: Angka Q2 = YTD Jan–Jun, bukan single quarter).
-- **Kredit yang Diberikan (Loan Receivable)** (Q3 2024): Rp146,164,441 juta, naik +13.7% YoY vs Q3 2023 Rp128,558,365 juta.
-- **Dana Pihak Ketiga (Deposits)** (Q3 2024): Rp146,441,863 juta, tumbuh +14.1% YoY vs Q3 2023 Rp128,355,764 juta.
-- **CASA Ratio** (FY 2024): Turun tajam ke 41.4% dari 51.8% FY 2023 (“Insight”); Q3 2024 43.4%.
-- **Cost of Fund:** Meningkat signifikan karena komposisi time deposit naik (“Insight”).
+### 1) Pertumbuhan & Tren Utama
+- **Pendapatan Q2 2025:** Rp5,02 triliun (stabil, -1,3% QoQ vs Q1 2025 Rp5,07T; -0,6% YoY vs Q2 2024 Rp5,06T).
+- **Laba bersih Q2 2025:** Rp877,8 miliar (+16% QoQ vs Q1 2025 Rp756,6M; +40,7% YoY vs Q2 2024 Rp623,6M).
+- **Net Interest Income Q2 2025:** Rp3,89 triliun (flat QoQ/YoY).
+- **Total Aset Q2 2025:** Rp251,5 triliun (+0,3% QoQ; +8,4% YoY).
+- **Kredit Bruto Q2 2025:** Rp164,3 triliun (+2,3% QoQ; +8,3% YoY).
+- **Total Dana Pihak Ketiga Q2 2025:** Rp157,4 triliun (+5,5% QoQ; +9,6% YoY).
+- **Tren:** Pertumbuhan kredit, aset, dan DPK masih positif; pendapatan konsolidasi & NII cenderung stagnan.
 
-### 2) Posisi Kompetitif (Bullet Points)
-- **NIM:** Tinggi, didukung kontribusi ADMF; interest income dari financing capai 36% di Q1 2024. Belum ada angka NIM terbaru aktual, namun profitabilitas relatif kuat.
-- **CASA Ratio:** Q3 2024 43.4% (FY 2024: 41.4%), jauh di bawah rata-rata bank top (>55%), memperlemah funding cost competitiveness.
-- **LDR:** Q1 2025 > 100% (Insight), Q3 2024 turun 0.5% QoQ – Jauh di atas peers, memberi sinyal potensi risiko likuiditas bila funding tidak berkembang.
-- **NPL / LAR:** NPL Q2 2025 stabil/improve (“Insight”); FY 2024 NPL turun 0.3%. Namun, Loan at Risk naik ke 10.6% FY 2024 (vs 7.9% FY 2023), Q1 2025 stabil di 10%. Ini menandakan kualitas aset kurang konsisten.
-- **ROE:** Tidak tersedia eksplisit, namun Owners’ Earnings FY 2024 Rp8.65 triliun, naik dari FY 2023 Rp5.53 triliun; menunjang profitabilitas.
+**Periode yang dipakai untuk angka utama: Q2 2025 (per 30 Juni 2025)**
 
-### 3) Dividen & Valuasi
-- **Dividen FY 2024:** Rp125.48/lembar, tren naik dari 2023 (Rp118.26/lembar), 2022 (Rp56.33).
-- **Total Market Cap:** ~Rp56.45 triliun (per 2240 juta saham x harga Rp2,520).
-- **Dividend Yield:** ±5% (berdasarkan harga tahun berjalan).
-- **CAGR Harga Saham (2022–YTD 2025):** 7.19%, outperform IHSG rata-rata.
-- **FCF:** FY 2024: -Rp3.1 triliun (negatif, membaik dari FY 2023: -Rp7.1 triliun; terkait ekspansi kredit).
+### 2) Posisi Kompetitif (Benchmark Highlights)
+- **PBV Q2 2025:** 0,45x (vs rata-rata peer besar >1x; BBCA 3,60x, BMRI 1,53x, BBRI 1,77x).
+- **PER TTM:** 6,93x (peers: BBCA 16,54x, BMRI 7,58x, BBRI 9,87x, BNGA 6,14x).
+- **ROE FY 2024:** 6,1% (vs peers: BBCA ~20%, BMRI/BBRI >15%).
+- **Laba bersih & aset lebih kecil dari big 4; valuasi relatif sangat murah, tapi profitabilitas jauh di bawah rata-rata bank besar nasional.**
 
-### 4) Insight Strategis
-**Kekuatan:**  
-- NIM konsisten tinggi, didukung pembiayaan ADMF.
-- Loan growth agresif, net income tetap tumbuh meski cost pressure naik.
-- Owners’ Earnings naik signifikan, tren profitabilitas positif.
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
+- **Net Profit Margin FY 2024:** 15,7%.
+- **ROA FY 2024:** 1,3%.
+- **Cost-to-Income Ratio:** 2,71x (FY 2024) [lebih efisien dari rata-rata historis sendiri].
+- **Loan to Deposit Ratio (LDR):** 98,8% (FY 2024; cukup optimal).
+- **CASA Ratio Q2 2025:** 43% (Current + Savings/DPK — tren menurun YoY, sinyal DPK lebih mahal).
+- **NPL & Loan at Risk:** Belum tersedia detail Q2 2025; FY 2024 NPL Rp2,77T (FY NPL Ratio ~1,8%), Special Mention Loan Rp7,9T.
+- **Rasio modal (Equity/Asset):** 20,9% (Q2 2025), cukup tinggi.
 
-**Risiko:**  
-- Penurunan CASA menjadi risiko struktural, memicu kenaikan biaya dana.
-- LDR tinggi (>100% di Q1 2025) memperbesar risiko likuiditas jika funding tidak tumbuh sejalan loan.
-- LAR (Loan at Risk) naik signifikan (FY 2024: 10.6%), mencerminkan potensi tekanan kualitas aset ke depan.
-- FCF negatif; cashflow dari operasi ditekan ekspansi kredit.
+### 4) Dividen & Valuasi
+- **Dividend yield TTM:** 4,78% (dividen per saham 1 tahun terakhir: Rp113,85).
+- **Payout ratio:** 33,1%.
+- **Valuasi:** Diskon sangat besar vs peers (PBV <0,5x; PER <7x).
+- **Dividen stabil & di atas bunga deposito rata-rata.**
 
 ### 5) Rekomendasi
-**6M (Taktis):**  
-Perlu pemantauan ketat pada tren penurunan CASA dan LDR yang terus tinggi; strategi harus fokus ke peningkatan dana murah untuk stabilkan cost of fund & mitigasi risiko likuiditas. Jangka pendek cocok untuk investor yang siap memonitor trigger risiko funding.
+**6M (Taktis):**
+- Performa laba membaik QoQ, valuasi sangat murah, yield menarik.
+- Namun, profitabilitas dan daya saing masih di bawah bank besar. Fokus di investor value/dividen.
 
-**5Y (Tesis):**  
-Selama ADMF tetap kuat dan BDMN mampu menaikkan CASA serta menjaga kualitas aset, potensi pertumbuhan jangka panjang tetap menarik. Namun, perlu pembenahan fund raising dan penguatan manajemen risiko kredit guna memastikan kesinambungan profitabilitas.
+**5Y (Tesis):**
+- Tesis perbaikan kinerja butuh driver baru (strategic action, merger, digital).
+- Valuasi menekan downside, tapi upside signifikan hanya jika efisiensi & pertumbuhan bisa menyusul peer top-4.
 
-### 6) Kesimpulan & Indikasi Strategis
-- **Jangka Pendek (≤ 6 bulan):** ⚠️ Hati-hati – tekanan cost of fund & LDR tinggi, risiko funding dan kualitas aset perlu diawasi.
-- **Jangka Panjang (> 5 tahun):** ✅ Positif – fundamental menguat jika funding mix dibenahi, profitabilitas/owners’ earnings tetap solid sepanjang ADMF sustain.
+### 6) Kesimpulan
+Jangka Pendek (≤6 bulan): ⚠️ – Value trap berkurang, earning yield/dividen menarik, tapi belum ada katalis besar.
+Jangka Panjang (> 5 tahun): ⚠️ – Valuasi murah & CAR sangat kuat, namun ROE rendah; perlu transformasi besar agar rerating.
 
 ### 7) Catatan Penting
-Analisis ini bersifat edukasi, bukan ajakan untuk membeli atau menjual saham tertentu.  
-Keputusan investasi sepenuhnya ada di tangan investor sesuai profil risiko masing-masing.
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor.

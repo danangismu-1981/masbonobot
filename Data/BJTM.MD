@@ -1,51 +1,48 @@
-## BJTM – Value Investor One-Pager
+## BJTM – Investor One-Pager
 
-### 1) Pertumbuhan YoY
-- **Pendapatan bunga (Q2 2025 YTD):** Rp4.937 miliar, naik +27,5% YoY (Q2 2024: Rp3.872 miliar, per Insight & IncomeStatement).
-- **Laba bersih tidak tersedia untuk Q2 2025 YTD.** Terakhir FY 2024: Rp1.295 miliar, *turun* -11,9% YoY (FY 2023: Rp1.470 miliar).
-- **Penyaluran kredit (Q2 2025 YTD):** Tidak tersedia. Q3 2024 (terdekat): Rp60,6 triliun, naik +20,1% YoY (Q3 2023: Rp50,4 triliun).
-- **Dana pihak ketiga (DPK, Q3 2024):** Rp85,75 triliun, tumbuh +4,7% YoY.
-- **CASA Ratio (Q3 2024):** 57,3%, *turun* dari tahun sebelumnya (FY 2023: 54,9%; Q3 2023: 57,7%).
-- **CKPN melonjak:** Penyisihan kerugian kredit (Q2 2025): naik signifikan sejalan risiko kredit membesar (Insight).
+### 1) Pertumbuhan & Tren Utama
+- **Pendapatan bunga:** Rp2.35T (Q2 2025) — naik vs. Q2 2024 (Rp1.93T).  
+- **Pendapatan non-bunga:** Rp384M (Q2 2025, tertinggi YTD, tren naik dari Rp229M Q1 2025).
+- **Laba bersih:** Rp410M (Q2 2025) — tumbuh +38% QoQ (Q1 2025: Rp298M), juga naik YoY (Q2 2024: Rp311M).
+- **Pendapatan operasional:** Rp2.13T (Q2 2025), naik +3% QoQ.
+- **Total aset:** Rp118.16T (Q2 2025), stabil YoY.
+- **Net cash flow:** Rp1.07T (Q2 2025), berbalik positif dibanding Q1 2025 (-Rp2.46T).
+- **Total kredit bruto:** Rp64.61T (Q2 2025), naik dari Rp63.79T (Q1 2025), tren ekspansif kredit.
+- **Tren QtQ & YoY:** Margin, laba, dan fee-based income tumbuh positif. Opex turun -6% qtq, mendukung cost management.
+**Periode yang dipakai untuk angka utama: Q2 2025 (30 Juni 2025)**
 
-### 2) Posisi Kompetitif (vs Peer)
-- **NIM (Q3 2024):** BJTM 4,3% vs BBCA 5,8%, BBRI 7,7% — *kompetitif, tapi bukan yang tertinggi; tertekan di bawah rata-rata Top-4*.
-- **CASA Ratio (Q3 2024):** BJTM 57% vs BBCA 81,8% — jauh lebih rendah; *biaya dana lebih mahal*.
-- **LDR (Q3 2024):** BJTM 69,8% vs Peer BBCA 75,1% (OJK range 78–92%) — *masih cukup prudent, risiko likuiditas sangat rendah*.
-- **NPL (Q3 2024):** BJTM 2,1% vs BBCA 2,1%, BBRI 2,9% — *cukup baik, risiko kredit dalam kontrol*.
-- **LAR (Q3 2024):** BJTM 8,0% vs BBCA 6,1%; *sedikit lebih tinggi loan at risk, perlu dicermati*.
-- **CKPN/Loan (Q3 2024):** BJTM 9,2% vs BBCA 4,1%—*cadangan kerugian kredit BJTM jauh lebih tinggi, menandakan peningkatan risiko kredit*.
+### 2) Posisi Kompetitif (Benchmark Highlights)
+- **Valuasi BJTM sangat diskon:** P/E TTM 5.6x, P/B 0.61x (2024). Jauh di bawah rata-rata bank big-cap: BBCA (P/E 16.5x, P/B 3.60x), BBRI (P/E 9.87x, P/B 1.77x), BMRI (P/E 7.6x, P/B 1.53x).
+- **Dividend yield tertinggi:** 10.62% TTM, jauh lebih besar dibanding peers.
+- **ROE dan ROA (2024):** Relatif moderat (ROE 8.8%, ROA 1.08%), di bawah BCA/BBRI, tapi dengan valuasi lebih murah.
 
-### 3) Dividen & Valuasi
-- **Dividen terakhir (2025):** Rp54,71/saham, yield ~10% (berdasarkan estimasi dividen/market cap).
-- **Market cap:** ~Rp1,65 triliun (3,08 miliar saham x harga 525).
-- **CAGR harga+dividen (2022–YTD 2025):** 8,92% per tahun (file price).
-- **Konsistensi dividen:** Selalu membayar dividen stabil/naik dari 2022–2025 (Rp52,11–54,71/saham).
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
+- **Net Interest Margin (NIM) terbaru:** 4.98% (FY2024, annual). Indikasi spread masih sehat.
+- **Cost-to-Income Ratio:** 218% (FY2024; sektor bank sehat ~40-60%), artinya efisiensi bisa ditingkatkan.
+- **Loan to Deposit Ratio:** 97.6% (FY2024), cukup agresif, perlu kewaspadaan likuiditas.
+- **Non-Performing Loan:** 2.3T dari 75.35T (FY2024; NPL ratio ~3.1%, moderate).
+- **CAR:** 23.99% (FY2024), sangat ample di atas minimum regulator.
+- **CASA Ratio:** 66.3% (FY2024), di atas rata-rata bank daerah, funding competitif.
 
-### 4) Insight Strategis
-**Kekuatan:**
-- Model regional bank — dominasi area pasar cenderung stabil.
-- Konsistensi dividen tinggi, payout stabil.
-- Kredit tumbuh agresif pasca 2024, dorong pendapatan bunga.
-- NPL terkendali relatif terhadap peer.
+### 4) Dividen & Valuasi
+- **Dividend yield tertinggi sektor:** 10.62% TTM (2025), payout ratio +/-60%.
+- **Valuasi:**  
+  - P/E TTM: 5.6x  
+  - P/B: 0.61x  
+  Sangat murah dibanding bank nasional besar maupun peers regional.
 
-**Risiko:**
-- Peningkatan CKPN & LAR seiring ekspansi kredit — potensi tekanan laba.
-- CASA ratio menurun → Cost of fund naik, tekanan pada profitabilitas.
-- Owner’s Earnings Q4 2024: -Rp11,3 triliun (negatif akibat working capital outflow besar).
-- Kredit berkualitas menurun, risiko profit stagnan jika ekonomi regional memburuk.
-
-### 5) Rekomendasi  
+### 5) Rekomendasi
 **6M (Taktis):**  
-Lakukan pemantauan intens pada tren kualitas kredit & NPL; tekanan profit akibat naiknya CKPN berisiko membayangi hasil positif pertumbuhan kredit. Cermati update LAR per kuartal & sinyal CASa recovery.
+- Fokus efisiensi biaya, dorong fee-based income, perbaiki image (valuasi terlalu diskon, potensi rerating).
+- Tahan ekspansi kredit tinggi hingga funding (CASA) semakin stabil.
 
 **5Y (Tesis):**  
-Potensi tetap menarik sebagai bank dividen, namun kelangsungan payout dan pertumbuhan bottom-line akan sangat tergantung pada disiplinnya pengelolaan risiko kredit, serta upaya memperbaiki struktur CASA.
+- Model bisnis defensif, captive market ASN/pemda Jatim.
+- Upside kuat jika mampu digitalisasi, mitigasi NPL ke depan, dan rerating valuasi ke P/B >1 dengan konsistensi profit dan dividen.
 
-### 6) Kesimpulan & Indikasi Strategis
-- **Jangka Pendek (≤ 6 bulan):** ⚠️ Hati-hati – Agresivitas kredit belum diimbangi perbaikan kualitas aset & profit; laba di bawah tekanan.
-- **Jangka Panjang (> 5 tahun):** ⚠️ Hati-hati – Tesis dividen masih valid, namun fundamental perlu diperkuat: CKPN & CASA jadi prioritas pemantauan.
+### 6) Kesimpulan
+- **Jangka Pendek (≤6 bulan):** ⚠️ — Prospek bagus, valuasi dan yield menarik, tapi sentimen/likuiditas masih harus diawasi.
+- **Jangka Panjang (>5 tahun):** ✅ — Dividen stabil, potensi rerating tinggi, modal kuat, risiko solvabilitas rendah.
 
 ### 7) Catatan Penting
-Analisis ini bersifat edukasi, bukan ajakan untuk membeli atau menjual saham tertentu.  
-Keputusan investasi sepenuhnya ada di tangan investor sesuai profil risiko masing-masing.
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor.

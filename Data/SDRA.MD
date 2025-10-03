@@ -1,50 +1,50 @@
-## SDRA – Value Investor One-Pager
+## SDRA – Investor One-Pager
 
-### 1) Pertumbuhan YoY
-- **Pendapatan Bunga (Q2 2025 YTD):** Rp1,99 triliun, turun -1,1% YoY (Q2 2024: Rp2,01 triliun).
-- **Laba Bersih (Q2 2025 YTD):** Rp82,7 miliar, anjlok -75% dibanding Q2 2024 YTD Rp328,9 miliar dan Q2 2023 YTD Rp373,8 miliar.
-- **Biaya Administrasi & Umum:** Lonjakan signifikan +121% YoY (Q2 2025 YTD vs Q2 2024 YTD), mencapai Rp311 miliar (indikasi risiko efisiensi).
-- **Kredit yang Diberikan:** Loan receivable Q2 2025 tidak tersedia, Q3 2024: Rp46,8 triliun, naik +10,5% YoY.
-- **Dana Pihak Ketiga (DPK):** Tidak eksplisit Q2 2025, Q3 2024: Rp31,5 triliun, naik +6,1% YoY.
+### 1) Pertumbuhan & Tren Utama
+- **Kinerja terbaru cenderung menurun:** SDRA membukukan pendapatan (revenue) Rp483,94 miliar pada Q2 2025 (turun -16,7% QoQ dari Q1 2025 Rp496,55 miliar). Laba bersih Q2 2025 tercatat rugi Rp71,66 miliar, berbalik dari laba Rp154,33 miliar di Q1 2025.
+- **Pendapatan bunga bersih (NII):** Q2 2025 Rp437,49 miliar (flat QoQ dari Q1 2025: Rp433,53 miliar).
+- **Non-interest income** Q2 2025: Rp46,45 miliar (turun dari Q1 2025: Rp63,02 miliar).
+- **Total aset** per Q2 2025: Rp58.280 miliar (+0,6% QoQ).
+- **Gross loan** Q2 2025: Rp46.043 miliar (-2,2% QoQ).
+- **Total dana pihak ketiga (DPK):** Rp26.832 miliar (-13,0% QoQ).
+- **Cash/Setara kas:** Rp550,57 miliar.
+- **Arus kas operasi:** -Rp518,65 miliar (Q2 2025), membaik dibanding Q1 2025: -Rp408,82 miliar.
+- **YoY Overview:** Revenue 2024: Rp2,08 triliun (-8,7% YoY), Laba bersih 2024: Rp516 miliar (-26% YoY).
+**Periode yang dipakai untuk angka utama: Q2 2025**
 
-### 2) Posisi Kompetitif (Bullet Points)
-- **NIM:** Q3 2024: 3,3% vs BBCA 5,8%, BBRI 7,7%—margin SDRA jauh lebih rendah dari pesaing utama; tren turun dari 4,3% (2022).
-- **CASA Ratio:** Q3 2024: 24,5% (turun), Benchmark peer >60-80%; funding base SDRA jauh di bawah big banks, makin berat di tengah kenaikan biaya dana.
-- **LDR:** Q3 2024: 75,4%; lebih konservatif dari peer, namun naik 5,9% QoQ—mengindikasikan agresivitas kredit berpotensi menekan likuiditas bila DPK stagnan.
-- **NPL:** Q3 2024: 1,86% (naik dari 1,25% FY 2023); masih di bawah rata-rata peers, tapi tren naik mengindikasikan tekanan kualitas kredit.
-- **LAR (Loan at Risk):** Q3 2024: 4,3% vs 3,6% di Q2 2024; FY 2024: 5,2%—kualitas kredit memburuk, over-benchmark.
-- **CKPN/Loan:** Q3 2024: 1,82%, lebih tinggi dari mayoritas peer (BBCA 0,41%) namun mengindikasikan buffer kredit membesar akibat peningkatan risiko.
-- **Profitabilitas:** ROE tidak tersedia, namun net income drop besar—profitability under serious pressure.
+### 2) Posisi Kompetitif (Benchmark Highlights)
+- **Valuasi SDRA sangat rendah:** PBV Q2 2025: 0,31x vs segmen bank lain (ex. BBCA 3,60x, BMRI 1,53x, BBRI 1,77x).
+- **PER trailing**: 16,0x (2024, hampir sama dengan sektor besar).
+- **Scale & market position:** Aset SDRA (Rp58 triliun) jauh di bawah bank jumbo (BBCA Rp1.449 triliun, BMRI Rp2.427 triliun).
+- **Profitabilitas jelas tertinggal:** Net income SDRA jauh di bawah peers, margin efisiensi rendah.
+- **DPK & open funding contraction** lebih tajam ketimbang peers.
 
-### 3) Dividen & Valuasi
-- **Dividen Terakhir:** Rp8/lembar (2025, ex-date April).
-- **Total Dividen per Tahun:** 2022: Rp17,72; 2023: Rp21,55; 2024: Rp26,33; 2025YTD: Rp8
-- **Market Cap:** ~Rp4,41 triliun (shares x harga, Q2 2025).
-- **Dividen CAGR 2022–2024:** Tumbuh, namun harga saham CAGR 2022–2025YTD: -12,67%, mengindikasikan tekanan valuasi dari pasar.
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
+- **ROE Q2 2025 (proyeksi run-rate):** tidak tersedia, namun 2024: hanya 3,75% (vs peers >10%).
+- **Net Interest Margin (NIM) 2024:** 3,18% – sangat rendah untuk bank komersial di Indonesia.
+- **Cost-to-Income Ratio Q2 2025**: biaya operasional lebih tinggi dari pendapatan (OpEx Rp516,8 miliar vs revenue Rp483,9 miliar).
+- **Kesehatan aset:** Allowance for loans/Aset produktif (Q2 2025): Rp906 miliar (ca. 2% dari gross loan; moderat).
+- **Loan-to-deposit ratio** Q2 2025 ~1,7x, menunjukan utilisasi DPK yang tinggi tapi menekan likuiditas.
+- **Ekuitas Q2 2025:** Rp13.775 miliar (stabil).
 
-### 4) Insight Strategis  
-**Kekuatan:**  
-- Likuiditas masih di zona aman (LDR 75,4% Q3 2024), CASA stabil walau rendah.
-- Cadangan kerugian kredit (CKPN) besar (1,82%), mitigasi NPL/LAR naik.
-- Pendapatan bunga stabil walau kredit tumbuh.
-
-**Risiko:**  
-- Laba bersih tertekan tajam (-75%) oleh lonjakan biaya dan kredit bermasalah.
-- Kualitas aset memburuk (NPL & LAR naik, credit cost tetap tinggi).
-- Funding base lemah (CASA jauh di bawah rata-rata), sensitif terhadap cost of fund.
-- FCF dan Owner's Earnings negatif di 2024; arus kas operasional minus, ketergantungan rights issue & pinjaman eksternal.
+### 4) Dividen & Valuasi
+- **Dividen TTM**: Rp8/unit (yield 2,76% - rendah, menurun tajam dari 2024 yield 5,56%).
+- **Rata-rata yield 5 tahun:** 3,12%.
+- **Payout ratio:** 43% (2024), cash payout negatif akibat arus kas negatif.
+- **Harga murah namun profitabilitas & perolehan dividen menurun.**
 
 ### 5) Rekomendasi
 **6M (Taktis):**  
-Fokus pemantauan likuiditas dan kualitas kredit—prioritas pembenahan efisiensi biaya & penguatan funding base. Tidak disarankan ekspansi agresif hingga cost control dan recovery profit lebih jelas.
+- Fokus likuiditas, perbaikan funding, tekan biaya operasional (OpEx>Revenue sangat berisiko).  
+- Hati-hati pada potensi koreksi lebih lanjut; prioritas ke manajemen risiko.
 
 **5Y (Tesis):**  
-Memerlukan restrukturisasi mendasar: perbaikan komposisi dana murah/CASA, transformasi manajemen risiko kredit, dan efisiensi biaya agar mampu bersaing dan bertahan di sektor perbankan Indonesia yang kompetitif.
+- Jika turnaround funding, efisiensi, dan digitalisasi berhasil → potensi rerating valuasi.
+- Aset kecil, long-term upside jika masuk konsolidasi/buy-out.
 
-### 6) Kesimpulan & Indikasi Strategis  
-- **Jangka Pendek (≤ 6 bulan):** ⚠️ Hati-hati – Tekanan laba, credit quality memburuk & lonjakan biaya operasional, strategi defensif diperlukan.
-- **Jangka Panjang (> 5 tahun):** ⚠️ Hati-hati – Butuh transformasi struktural; keberlanjutan profit, funding base, dan kualitas kredit jadi penentu utama kelayakan investasi.
+### 6) Kesimpulan
+Jangka Pendek (≤6 bulan): ⚠️ – Kinerja rugi, margin rendah, indikasi tekanan likuiditas.  
+Jangka Panjang (>5 tahun): ⚠️ – Potensi ada bila perbaikan fundamental, valuasi diskon jadi basis spekulasi, namun upside butuh transformasi nyata.
 
-### 7) Catatan Penting  
-Analisis ini bersifat edukasi, bukan ajakan untuk membeli atau menjual saham tertentu.  
-Keputusan investasi sepenuhnya ada di tangan investor sesuai profil risiko masing-masing.
+### 7) Catatan Penting
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor.

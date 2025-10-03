@@ -1,57 +1,48 @@
-## BNLI – Value Investor One-Pager
+## BNLI – Investor One-Pager
 
-### 1) Pertumbuhan YoY
-- **Kredit yang diberikan:** Q2 2025 YTD: Rp151,9T (+9% YoY vs Q2 2024; portofolio didorong korporasi +12%).
-- **Pendapatan bunga:** Q2 2025 YTD: Rp8,59T (+3,6% vs Q2 2024 YTD Rp8,29T).
-- **Laba bersih:** Q2 2025 YTD: Rp1,65T (+7,6% YoY vs Q2 2024 YTD Rp1,53T; kenaikan terutama akibat pertumbuhan laba bunga).
-- **CASA:** Q2 2025: 62,2% (naik signifikan dari 48,4% Q2 2024 YTD).
-- **DPK (Deposito Pihak Ketiga):** Q2 2025: Rp189,5T (turun 1,3% YoY dari Q2 2024 Rp192,0T; DVInsight).
-- **NPL:** Q2 2025: Data tidak langsung tersedia; FY 2024: 2,1% (turun dari 2,9% FY 2023, tren positif).
-- **LAR:** Q2 2025: Data tidak langsung tersedia; FY 2024: 7,9% (turun dari 8,7% FY 2023, House View: membaik).
-- **Net Interest Margin (NIM):** Q2 2025 YTD: 4,1% (stabil/turun tipis vs Q2 2024 YTD 4,3%).
+### 1) Pertumbuhan & Tren Utama
+- **Pendapatan (Q2 2025):** Rp2,97T, turun -2.6% QoQ (Q1 2025: Rp3,05T), namun naik tipis +1.9% YoY (Q2 2024: Rp2,91T).
+- **Laba Bersih (Q2 2025):** Rp856M, naik +8.5% QoQ (Q1 2025: Rp789M), +18.6% YoY (Q2 2024: Rp722M).
+- **Net Interest Income (Q2 2025):** Rp2,42T, stabil vs Q1 2025 & Q2 2024 (flat).
+- **Kredit Bruto (Gross Loans, Q2 2025):** Rp163,5T (+3.8% QoQ dari Q1 2025 Rp157,6T; +7.4% YoY dari Q2 2024 Rp152,2T).
+- **Dana Pihak Ketiga (DPK/Total Deposits, Q2 2025):** Rp161,4T (+3.2% QoQ, +3.0% YoY).
+- **Total Aset (Q2 2025):** Rp264,2T (flat QoQ; +2.3% YoY).
+- **Tren Margin Bunga Bersih (Net Interest Margin, 2024):** 3.97% (naik dari 2023: data tdk tersedia, lihat rasio profitabilitas lain).
 
-### 2) Posisi Kompetitif (Bullet Points)
-- **NIM:** BNLI 4,1% (Q2 2025 YTD) vs BBCA 5,8% → lebih rendah, profitabilitas bunga kurang unggul di kelas besar.
-- **CASA Ratio:** BNLI 62,2% (Q2 2025) vs BBCA 83% → lebih rendah namun naik pesat YoY, progres positif.
-- **LDR:** BNLI 98,7% (Q2 2025) vs OJK range normal 78–92% & BBCA 78% → lebih agresif, potensi risiko likuiditas muncul jika DPK terus menurun.
-- **NPL:** FY 2024: BNLI 2,1% vs rata-rata big-4 1,1%–2% → turun signifikan, di kisaran wajar tapi masih di atas BBCA/BMRI.
-- **LAR:** FY 2024: BNLI 7,9% vs big-4 rata-rata 8,6–12,3% → kompetitif.
-- **Coverage CKPN/Loan:** Q2 2025: BNLI 3,4% vs BBCA 3,7% → konservatif, proteksi kredit cukup (file Benchmark).
-- **Pertumbuhan Laba:** CAGR net income 2019–2023: -18% (kontraksi masa lalu, membaik di 2025 YTD).
-- **Cost of Credit:** Q2 2025: n/a; Q2 2024: 0,99% (rendah, risk profile terkontrol).
+**Periode yang dipakai untuk angka utama: Q2 2025**
 
-### 3) Dividen & Valuasi
-- **Dividen:** 2025: Rp30/unit (naik YoY; 2022: Rp8,5; 2023: Rp15; 2024: Rp25).
-- **Yield (2025):** ~0,9% (dividen dibanding market cap YTD: 26,88 miliar saham x Rp3.340 = ~Rp89,8T).
-- **Market Cap:** ~Rp89,8T (Q2 2025).
-- **CAGR Saham (2022–YTD):** +59,9% (tinggi, outperform mayoritas bank).
-- **Owners’ Earnings (FY 2024):** Rp1,6T (posisi membaik drastis vs FY 2023 -Rp888M).
+### 2) Posisi Kompetitif (Benchmark Highlights)
+- **Valuasi Premium:** P/B 5.13x & P/E TTM 60.7x vs. rata-rata bank besar BUKU IV: P/B 0.75–3.60x, P/E 6.1–16.5x.
+- **Modal & ROE (2024):** ROE 8.4% (bawah rata-rata peers: BBCA 20%+, BMRI 18%+).
+- **Asset Size:** Aset jauh di bawah BBCA/BBRI/BMRI/BBNI tetapi di atas bank menengah.
+- **Market Cap:** Rp223T (2024), masuk top-8 bank nasional.
 
-### 4) Insight Strategis
-**Kekuatan:**  
-- Pertumbuhan portofolio kredit konsisten & sehat, didominasi korporasi (kualitas lebih baik).
-- CASA naik pesat; funding base makin efisien walau absolute DPK turun.
-- Credit cost rendah, NPL stabil/turun, buffer CKPN relatif konservatif.
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan 
+- **Net Profit Margin (2024):** 30.5% (meningkat YoY dari 22.3% di 2023).
+- **ROA (2024):** 1.38% (naik, 2023: 1.0%).
+- **Rasio Kecukupan Modal (CAR, 2024):** 34.6% → sangat kuat dibanding regulasi.
+- **Cost-to-Income Ratio (2024):** 1.21x (turun signifikan, positif).
+- **Loan-to-Deposit Ratio (Q2 2025):** ~101% (perkiraan: kredit bruto/deposito → 163,5T/161,4T).
+- **Loan Loss Allowance (Q2 2025):** Rp11,60T (~7.1% dari kredit bruto → konservatif).
+- **CASA Ratio (Q2 2025):** 61.5% (CA+SA/DPK → 63,5T+35,97T/161,4T), solid mendukung likuiditas.
+- **Total Debt (Q2 2025):** Rp10,99T; Debt/Equity rendah, struktur modal kuat.
 
-**Risiko:**  
-- Penurunan DPK berturut-turut → risiko likuiditas jika tren berlanjut 
-- Kenaikan cost of fund, NIM stagnan/turun (tekan profitabilitas forward).
-- Ketergantungan segmen korporasi: risiko konsentrasi.
-- Dividen payout masih tergolong kecil, yield <1%.
+### 4) Dividen & Valuasi
+- **Dividen TTM (2025):** 30/unit, yield 0.51% (turun signifikan YoY; 2024: yield 2.5%).
+- **Payout Ratio TTM (2025):** 29.5%.
+- **Valuasi Premium:** Lanjut, P/B & P/E jauh di atas peers (lihat #2).
 
 ### 5) Rekomendasi
 **6M (Taktis):**  
-- Pantau arah DPK, pertumbuhan CASA, dan dinamika suku bunga BI. Hindari ekspansi agresif sebelum tren likuiditas membaik.
+- Waspada penyesuaian valuasi, upside terbatas kecuali ada trigger fundamental/korporasi besar.
+- Monitor pertumbuhan kredit dan potensi ekspansi margin.
 
 **5Y (Tesis):**  
-- Layak monitoring bagi investor growth banking; katalis jangka panjang jika funding stabilisasi dan manajemen menjaga kualitas aset serta profitabilitas tetap di atas peers middle bank.
+- Long-term: Posisi modal & likuiditas sangat solid, namun perlu akselerasi profit & efisiensi untuk justify valuasi premium.
 
-### 6) Kesimpulan & Indikasi Strategis
-Jangka Pendek (≤ 6 bulan): ⚠️ Hati-hati – DPK melemah, risiko funding, walau kualitas kredit terkendali  
-Jangka Panjang (> 5 tahun): ✅ Positif – Recovery fundamental, potensi profitabilitas kompetitif jika funding membaik  
+### 6) Kesimpulan
+Jangka Pendek (≤6 bulan): ⚠️ – **Valuasi mahal** & yield rendah, sentimen pasar cenderung wait & see kecuali ada katalis kuat.
+Jangka Panjang (>5 tahun): ⚠️ – **Potensi ada** jika mampu leverage modal & digitalisasi, namun **upside tergantung disiplin eksekusi, bukan harga murah**.
 
 ### 7) Catatan Penting
-Analisis ini bersifat edukasi, bukan ajakan untuk membeli atau menjual saham tertentu.  
-Keputusan investasi sepenuhnya ada di tangan investor sesuai profil risiko masing-masing.
-
-> Catatan angka non-tersedia: NPL Q2 2025 diasumsikan stabil berdasar tren FY 2024. Owners’ Earnings 2025 YTD belum tersedia; gunakan FY 2024. Market cap dihitung mark-to-market dari harga Q2 2025, saham beredar data price file. Semua pertumbuhan YoY berbasis data YTD (Jan–Jun).
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor.

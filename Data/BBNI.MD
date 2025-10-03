@@ -1,51 +1,46 @@
-## BBNI – Value Investor One-Pager
+## BBNI – Investor One-Pager
 
-### 1) Pertumbuhan YoY
-- **Pendapatan Bunga (Q2 2025 YTD):** Rp33.614 miliar, naik +4,5% YoY (vs Q2 2024 YTD: Rp32.173 miliar).
-- **Laba Bersih (Q2 2025 YTD):** Rp10.166 miliar, turun -5,6% YoY (vs Q2 2024 YTD: Rp10.764 miliar).
-- **Net Interest Income (Q2 2025 YTD):** Rp19.516 miliar, naik +2,3% YoY.
-- **Total Kredit yang Diberikan (Q2 2025):** Rp694.198 miliar, naik +11,6% YoY (vs Q2 2024: Rp648.826 miliar).
-- **Dana Pihak Ketiga (DPK) – Deposito Nasabah (Q2 2025):** Rp769.739 miliar, turun -1,3% YoY (vs Q2 2024: Rp780.230 miliar).
-- **CASA Ratio (Q2 2025):** 67,4%, naik dari Q1 2025 (66,7%), tetapi turun 3 ppt dari Q3 2024 (70,3%).
+### 1) Pertumbuhan & Tren Utama
+- **Pendapatan** Q2 2025: Rp14,85 triliun (+7% QoQ dari Q1 2025 Rp13,78 triliun, +20% YoY dari Q2 2024 Rp12,33 triliun).
+- **Laba bersih** Q2 2025: Rp4,71 triliun (-12% QoQ vs Q1 2025 Rp5,38 triliun; -12% YoY dari Q2 2024 Rp5,37 triliun).
+- **Aset** naik ke Rp1.201,7 triliun (Q2 2025), dari Rp1.146,6 triliun (Q1 2025) dan Rp1.129,8 triliun (FY2024).
+- **Pinjaman bruto** tumbuh ke Rp778,7 triliun (Q2 2025) dari Rp775,9 triliun (FY2024); **Deposit** naik tajam menjadi Rp899,9 triliun (Q2 2025) vs Rp805,5 triliun (FY2024).
+- **Net Interest Income** Q2 2025: Rp9,68 triliun (flat YoY Q2 2024: Rp9,68 triliun; -1,6% QoQ dari Q1 2025: Rp9,83 triliun).
+- **Non-interest income** Q2 2025: Rp5,17 triliun (Q1 2025: data tdk tersedia; Q4 2024: Rp6,09 triliun).
+- **Operating cash flow** Q2 2025: Rp63,66 triliun, melonjak drastis dari Q1 2025 Rp12,99 triliun.
+- **YoY Earnings Growth Q2 2025:** -12,1%; **YoY Revenue Growth:** +20,4% (masing-masing data TTM per financial summary).
+- **Ekuitas** Q2 2025: Rp165,19 triliun (Q1 2025: Rp173,01 triliun).
+**Periode yang dipakai untuk angka utama: Q2 2025 (per 30 Juni 2025)**
 
-### 2) Posisi Kompetitif (Bullet Points)
-- **NIM (Q2 2025):** 3,7% (terendah 5 tahun, turun YoY) vs BBCA 5,8%, BBRI 7,8% → Implikasi: Marjin semakin tertekan, kalah jauh dari bank besar lain.
-- **CASA Ratio (Q2 2025):** 67,4% vs BBCA 83%, BMRI 79% → Implikasi: Funding cost lebih tinggi, kurang efisien.
-- **LDR (Q2 2025):** 88,6% vs BBCA 75,1%, BMRI 103,8% → Lebih agresif lending dibanding BBCA (cukup agresif, masih dalam batas aman OJK 78–92%).
-- **NPL (Q2 2025):** 2,0% stabil vs peers BBCA 2,1%, BMRI 1,1% → Kredit bermasalah relatif stabil.
-- **LAR (Q2 2025):** 11,8%, turun dari Q2 2024 (12,3%) → Perbaikan kredit bermasalah, namun masih cukup tinggi vs BBCA ~6,1%.
-- **CKPN/Loan (Q2 2025):** 5,9%, lebih tinggi dari BBCA (4,1%) → Cadangan kerugian kredit cukup konservatif.
-- **Profitabilitas:** ROE 12,5% (Estimasi Q2 2025, annualisasi sederhana dari net income/average equity), relatif moderat.
+### 2) Posisi Kompetitif (Benchmark Highlights)
+- **Valuasi rendah:** PBV Q2 2025: 0,93x; PE TTM: 7,13x — di bawah rata-rata sektor (BBCA PBV: 3,6x; PE: 16,5x).
+- **ROE 2024:** 12,8% (vs peers: BMRI ~17,8%, BBRI ~19%, BBCA ~20%); tertinggal dari top-3 banks.
+- **Market cap:** Rp148,7 triliun (signifikan, tapi jauh di bawah BBCA/BBRI/BMRI).
+- **CASA Ratio** solid Q2 2025: Current A/C + Savings = Rp647,6 triliun (72% dari total deposit).
+- **Loan-to-Deposit Ratio** (LDR) FY2024: 91,5% (agresif, di atas rata-rata peer besar).
+- **Efisiensi & Opex di bawah rata-rata**: Cost-to-Income Ratio FY2024: 1,12x (lebih tinggi dari BBCA).
 
-### 3) Dividen & Valuasi
-- **Dividen 2025:** Rp374/lembar (total ~Rp216,5 miliar, payout ratio ~42% dari laba 2024 FY).
-- **CAGR Harga Saham 2022–2025:** 11,6%.
-- **Market Cap:** ~Rp252,5 triliun (578,68 juta saham × Rp4.360).
-- **Owner’s Earnings 2024:** Rp4.542 miliar (FY, sumber OwnersEarnings), turun drastis dibanding 2023 (Rp23.424 miliar) — perhatikan volatilitas FCF.
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
+- **Net Interest Margin** FY2024: 3,77% (tertulis annual, bandingkan: BBCA >5%).
+- **Net Profit Margin** FY2024: 33,3%; NIM stabil, namun beban opex relatif lebih tinggi vs peers.
+- **Kualitas aset:** NPL* data terakhir FY2024 1,97% (perkiraan, lihat allowance/gross loan). Allowance coverage memadai (Rp36,5 triliun vs NPL Rp15,2 triliun per FY2024).
+- **CAR** FY2024: 21,7% (cukup tinggi; peer BMRI/BBRI di kisaran 20–22%+).
+- **Leverage**: Debt/Equity Q2 2025: ~0,40x; Debt/Asset: ~0,05x (prudent).
+- **Pendanaan berbasis CASA tinggi (72%)** → membantu biaya dana.
 
-### 4) Insight Strategis
-**Kekuatan:**  
-- Konsisten menjaga NPL di level stabil 2% (Q2 2025), LAR menurun.
-- Kredit korporasi dominan (56%), relatif rendah risiko sektor.
-- CKPN tinggi, mitigasi risiko penurunan kualitas kredit.
-
-**Risiko:**  
-- NIM terus tertekan (3,7% Q2 2025), margin kompetitif lemah.
-- CASA turun, funding cost naik → tekanan biaya bunga.
-- DPK stagnan/turun, ekspansi kredit lebih agresif bisa dorong kebutuhan funding mahal.
-- Net profit menurun YoY (-5,6%).
+### 4) Dividen & Valuasi
+- **Dividend Yield TTM:** 9,26% (per 2025, sangat atraktif diatas peer besar).
+- **Dividend Payout Ratio:** 66,9% (tinggi, berpotensi menekan pertumbuhan ekuitas jika laba flat/menurun).
+- **Valuasi**: PBV di bawah 1x; PE TTM di bawah standar industri.
+- **Average Dividend Yield 5 tahun:** 5,3%.
 
 ### 5) Rekomendasi
-**6M (Taktis):**  
-- Strategi pemantauan ketat: Tunggulah sinyal perbaikan NIM/cost of fund dan perbaikan pertumbuhan DPK sebelum aksi strategis berikutnya. Antisipasi tekanan profitabilitas jangka pendek.
-  
-**5Y (Tesis):**  
-- Cocok untuk pemantauan sebagai kandidat turn-around jika mampu restrukturisasi funding dan efisiensi operasional. Butuh keberlanjutan perbaikan kualitas kredit dan pertumbuhan fee-based income.
+**6M (Taktis):** Fokus pada proyeksi laba H2'25, antisipasi tekanan net profit margin & beban operasional; momentum harga saham dapat terbantu sentimen yield dan undervaluation.
+**5Y (Tesis):** BBNI value play: bila turnaround ke pertumbuhan >10% profit tahunan & efisiensi naik, rerating valuasi sangat mungkin. Proposisi CASA tinggi & modal kuat adalah fondasi pertumbuhan.
 
-### 6) Kesimpulan & Indikasi Strategis
-- **Jangka Pendek (≤ 6 bulan):** ⚠️ Hati-hati – Laba tertekan, margin rendah, funding cost tinggi, masih perlu konfirmasi tren pembalikan profitabilitas.
-- **Jangka Panjang (> 5 tahun):** ⚠️ Hati-hati – Tesis restrukturisasi menuntut eksekusi kuat atas efisiensi biaya dana dan diferensiasi bisnis dibanding peer.
+### 6) Kesimpulan
+Jangka Pendek (≤6 bulan): ⚠️ – Laba flat/turun, beban op besar; yield tinggi tapi butuh catalyst.
+Jangka Panjang (>5 tahun): ✅ – Valuasi sangat rendah, modal & funding kokoh, fundamental turn-around memungkinkan.
 
 ### 7) Catatan Penting
-Analisis ini bersifat edukasi, bukan ajakan untuk membeli atau menjual saham tertentu.  
-Keputusan investasi sepenuhnya ada di tangan investor sesuai profil risiko masing-masing.
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor.

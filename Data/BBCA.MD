@@ -1,51 +1,64 @@
-## BBCA – Value Investor One-Pager
+## BBCA – Investor One-Pager
 
-### 1) Pertumbuhan YoY
-- **Pendapatan bunga & syariah (Q2 2025 YTD):** IDR 49,314 miliar, naik +8.2% dari Q2 2024 YTD IDR 45,078 miliar.
-- **Laba bersih (Q2 2025 YTD):** IDR 29,023 miliar, tumbuh +8.3% dari Q2 2024 YTD IDR 26,877 miliar.
-- **Total kredit (Q2 2025):** IDR 822,617 miliar, naik +15.2% vs Q2 2024 IDR 713,728 miliar.
-- **Dana Pihak Ketiga (DPK, Q2 2025):** IDR 1,114,207 miliar, naik +3.3% YoY.
-- **CASA ratio stabil tinggi (Q2 2025):** 81.8%, tidak berubah dari Q2 2024.
-- **Owners’ Earnings (FY 2024 – terbaru tersedia):** IDR 44,559 miliar, naik +11.6% YoY (vs FY23).
+### 1) Pertumbuhan & Tren Utama
+- **Pendapatan & Laba (Q2 2025):**
+  - Pendapatan: Rp28,59 T (+2% QoQ dari Rp28,12 T di Q1 2025)
+  - Laba bersih: Rp14,87 T (+5% QoQ dari Rp14,15 T di Q1 2025)
+- **Pertumbuhan Kredit:**
+  - Kredit bruto tumbuh menjadi Rp938,2 T (+2% QoQ dari Rp919,6 T di Q1 2025)
+- **DANA PIHAK KETIGA (DPK):**
+  - Total DPK: Rp1.175,97 T (stabil, -0,3% QoQ)
+  - CASA (current + savings): Rp976,54 T ⇒ CASA Ratio ~83% (Q2 2025), relatif stabil
+- **Aset:**
+  - Total aset: Rp1.504,12 T (sedikit turun -3% QoQ)
+- **Arus Kas Operasi:** Rp5,74 T (Q2 2025), turun signifikan dari Q1 2025 (Rp35,2 T) karena aktivitas musiman atau perubahan pembayaran internasional
+- **Trend YoY (FY2024 vs FY2023):**
+  - Laba bersih FY2024: Rp54,84 T (+12,7% YoY dari Rp48,64 T FY2023)
+  - Pendapatan FY2024: Rp108,3 T (+8,4% YoY)
+  - Kredit bruto FY2024: Rp901,3 T (+13,8% YoY)
+  - CASA FY2024: Rp919,1 T, CASA ratio meningkat YoY
+- **Periode yang dipakai untuk angka utama: Q2 2025**
 
-### 2) Posisi Kompetitif (Bullet Points)
-- **NIM (Q2 2025):** 5.8% — jauh di atas rata-rata bank besar lain (BMRI 5.1%, BBRI 7.7%, BBNI 4.2% Q3 2024), namun konsisten dan stabil secara historis, menunjukkan kekuatan margin dari dana murah.
-- **CASA Ratio (Q2 2025):** 81.8% (tertinggi di industri, rata-rata bank besar lain 62–78%) — BBCA unggul soal pendanaan murah, fondasi profitabilitas dan risiko rendah.
-- **LDR (Q2 2025):** 75.1% — sedikit di bawah OJK ideal (78-92%), menandakan likuiditas sangat aman namun pertumbuhan kredit mulai lebih agresif (naik 8% dari 2023).
-- **NPL (Q2 2025):** 2.0% (naik sedikit dari FY23 1.9%; kompetitor: BMRI 1.1%, BBRI 2.9%, BBNI 2.0%) — tetap terjaga baik meski cenderung naik.
-- **LAR (Q2 2025):** 6.1% (turun dari Q2 2024 6.3%) — kualitas kredit tetap solid.
-- **CKPN/Loan (Q3 2024):** 4.1% — coverage tergolong tinggi, mitigasi risiko kredit kuat.
-- **Cost of Fund (FY 2024):** 1.0% — terendah di peer group, memperkuat daya saing harga kredit.
+### 2) Posisi Kompetitif (Benchmark Highlights)
+- **BBCA adalah bank terbesar di Indonesia dari sisi kapitalisasi pasar (Rp942,5 T, FY2024)**
+- **Valuasi premium**: P/B 3,60x, P/E 16,54x (lebih tinggi dari rata-rata peers seperti BBRI 9,87x P/E dan BMRI 7,58x)
+- **ROE tinggi**: 20,17% (FY2024) – outperform peers besar
+- **CASA Ratio**: 83% (Q2 2025), terbaik di industri, jauh di atas rata-rata peers
+- **Kualitas aset sangat solid**: NPL gross & cost of credit persisten rendah
 
-### 3) Dividen & Valuasi
-- **Dividen tunai terakhir (2025):** IDR 250 per saham, meningkat dari 2024 (IDR 212.5), payout ratio moderat.
-- **Market cap:** ~IDR 970 triliun (per price file, menggunakan harga terbaru dan saham beredar).
-- **Growth CAGR harga saham (2022-YTD 2025):** 3.4%.
-- **Valuasi EPS (Q2 2025 YTD):** IDR 235 (vs full year 2024 IDR 445).
-- **FCF (FY 2024):** IDR 50,254 miliar, Owners’ Earnings IDR 44,559 miliar — mendukung afirmasi kekuatan kas untuk dividen berkelanjutan.
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
+- **Net Interest Margin (NIM):** 6,07% (FY2024, terbaik di sektor bank besar)
+- **ROA:** 3,78% (FY2024)
+- **Kualitas Aset:**
+  - Loan Loss Coverage >200% (estimasi, allowance for loans selalu sehat, Q2 2025: Rp33,2 T)
+  - NPL gross FY2024 di bawah 2% (detail Q2 2025 tidak tersedia, namun stabil)
+- **Struktur Pendanaan:** 
+  - CASA ratio 83% → biaya dana rendah, resilience kuat 
+  - Modal sangat kuat: CAR 29,14% (FY2024)
+  - Leverage sangat sehat (Debt/Equity 0,0021x, FY2024)
 
-### 4) Insight Strategis
-**Kekuatan:**
-- CASA ratio, cost of fund, dan loyalitas nasabah sangat superior di industri (moat konsisten).
-- NIM stabil tinggi, mitigasi risiko melalui CKPN kuat.
-- Growth laba dan kredit konsisten, eksekusi prudent.
+### 4) Dividen & Valuasi
+- **Dividen TTM:** Rp300/lembar; Yield ~4% (TTM)
+- **Rasio payout 2024:** 64,9% 
+- **Dividen meningkat konsisten:**
+  - 2023: Rp212,5/lembar
+  - 2024: Rp277,5/lembar (+30%)
+  - 2025 (interim): sudah Rp250/lembar
+- **Valuasi:** 
+  - P/E TTM: 16,54x (premium), P/B: 3,60x
 
-**Risiko:**
-- NPL naik tipis (indikasi tekanan di kualitas kredit), membutuhkan pengawasan ekstra.
-- Pertumbuhan DPK lebih lambat, sehingga LDR naik dan perlu manajemen likuiditas lebih aktif.
-- Kenaikan biaya kredit dapat menekan profit bila quality asset memburuk.
+### 5) Rekomendasi
+**6M (Taktis):**
+- Maintain stance defensif; valuasi mahal tetapi kualitas tetap *best in class*.
+- Potensi upside terbatas akibat premium valuation, walau risiko earning-downside rendah.
 
-### 5) Rekomendasi  
-**6M (Taktis):**  
-Fokus pemantauan risiko kredit & NPL. Potensi upside tetap dari pertumbuhan laba dan kredit, namun investor sebaiknya waspada pada sinyal kenaikan NPL dan pergerakan likuiditas industri.
+**5Y (Tesis):**
+- Turbulence makro tetap membuat BBCA pilihan utama untuk defensif/compounding.
+- Struktur dana murah, capital buffer tebal, dan excellence operasional → kuat dalam konsistensi profit jangka panjang.
 
-**5Y (Tesis):**  
-Masih cocok sebagai inti portofolio jangka panjang untuk investor yang mencari perusahaan bermoat besar, defensif, dan kuat distribusi dividen — asalkan BBCA menjaga disiplin risiko dan adaptif terhadap perubahan sektor keuangan (termasuk digitalisasi dan shifting funding landscape).
-
-### 6) Kesimpulan & Indikasi Strategis
-- **Jangka Pendek (≤ 6 bulan):** ⚠️ Hati-hati – kredit tumbuh solid, laba naik; namun NPL bergerak naik, perlu ekstra pengawasan.
-- **Jangka Panjang (> 5 tahun):** ✅ Positif – struktur pendanaan, “moat” dan kinerja operasional menjanjikan kesinambungan value creation tinggi.
+### 6) Kesimpulan
+Jangka Pendek (≤6 bulan): ⚠️ – *Too good, too expensive*. Kinerja operasional prima, namun upside terbatas akibat valuasi mahal.
+Jangka Panjang (>5 tahun): ✅ – Franchise unggul, efficiency & CASA sustain, dividen naik, potensi compounding tetap menarik.
 
 ### 7) Catatan Penting
-Analisis ini bersifat edukasi, bukan ajakan untuk membeli atau menjual saham tertentu.  
-Keputusan investasi sepenuhnya ada di tangan investor sesuai profil risiko masing-masing.
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor.

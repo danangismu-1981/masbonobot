@@ -1,51 +1,62 @@
-## BMRI – Value Investor One-Pager
+## BMRI – Investor One-Pager
 
-### 1) Pertumbuhan YoY
-- **Total Aset:** Q3 2024 YTD Rp2.324,0T, naik +15,8% YoY dari Q3 2023 YTD Rp2.006,9T.
-- **Kredit yang Diberikan (Loan Receivable):** Q3 2024 YTD Rp1.492,6T, naik +21,9% YoY dari Q3 2023 YTD Rp1.223,4T.
-- **Dana Pihak Ketiga (DPK):** Q3 2024 YTD Rp1.437,4T, naik +14,6% YoY dari Q3 2023 YTD Rp1.253,8T.
-- **Ekuitas:** Q3 2024 YTD Rp301,3T, naik +12,2% dari Q3 2023 YTD Rp268,6T.
-- **Pertumbuhan aset, kredit, dan ekuitas BMRI di atas rata-rata pertumbuhan industri (asumsi, butuh data pembanding yang lebih detail untuk konfirmasi final).**
+### 1) Pertumbuhan & Tren Utama
+- **Pendapatan (Revenue) Q2 2025:** Rp32,07 triliun, turun -13.2% QoQ dari Q1 2025 (Rp37,07 triliun).  
+- **Laba Bersih Q2 2025:** Rp11,26 triliun, turun -14.6% QoQ dari Q1 2025 (Rp13,20 triliun).  
+- **Penurunan QoQ** didorong terutama oleh turunnya pendapatan bunga dan pendapatan non-bunga.
+- **Pertumbuhan aset**: Total aset Q2 2025 naik menjadi Rp2.514,7 triliun (+2,0% QoQ dari Q1 2025 Rp2.463,7 triliun, +11.2% YoY dari Q2 2024 Rp2.257,8 triliun).
+- **Pendapatan bunga bersih (NII) Q2 2025:** Rp22,76 triliun, turun -10.7% QoQ.
+- **Non-interest income** Q2 2025: Rp9,31 triliun, turun -16.2% QoQ.
+- **Pendanaan:** data simpanan/deposito periode Q2 2025 tidak tersedia, rujukan terdekat Q1 2025: total deposit Rp1.504,8 triliun.
+- **Free cash flow Q2 2025:** Rp75,46 triliun, melesat drastis dari Q1 2025 (Rp19,37 triliun).
 
-### 2) Posisi Kompetitif (Bullet Points)
-- **NIM:** Data tidak tersedia di file, hence posisi relatif tidak bisa dilakukan.
-- **CASA Ratio:** Tidak disebutkan langsung dalam file—perlu detail akun untuk estimasi.
-- **Loan to Deposit Ratio (LDR):**  
-  - Q3 2024: LDR BMRI ~103,9% (Rp1.492,6T kredit / Rp1.437,4T DPK) – agresif, cerminkan penyaluran kredit sehat namun mengindikasikan potensi tekanan likuiditas jika DPK melambat.
-- **NPL / LAR:** Tidak tersedia—Waspadai risiko hidden jika kualitas aset memburuk.
-- **Profitabilitas (ROE):**  
-  - Data laba bersih tidak tersedia, sehingga ROE Q3 2024 tidak bisa estimasi langsung. Namun, ekuitas tumbuh solid, mengindikasikan penciptaan nilai yang konsisten.
-- **Ukuran Aset:** Salah satu “Empat Besar” bank Indonesia; aset Q3 2024 telah rivalisasi bahkan BBCA (perlu pembanding lebih lanjut untuk validasi posisi #2/#3).
+**Periode yang dipakai untuk angka utama: Q2 2025 (per 30 Juni 2025)**
 
-### 3) Dividen & Valuasi
-- **Dividen:** Tidak ada detail dividen di file yang diberikan (perlu konfirmasi via annual report/berita pasar).
-- **Market Cap:** Tidak ada data harga saham ataupun market cap di file ini.
-- **CAGR Aset (2018–Q3 2024):**  
-  - CAGR ~11,5% per tahun (dari Rp1.202T di 2018 ke Rp2.324T di Q3 2024).
-- **Valuasi berbasis price/book (PBV) tidak dapat dikalkulasi tanpa data harga.**
+---
 
-### 4) Insight Strategis
-**Kekuatan:**  
-- Pertumbuhan aset, kredit, dan ekuitas solid secara konsisten; fundamental kokoh.
-- Diversifikasi asset basis (marketable securities dan government bonds stabil).
-- Basis dana murah (CASA) tradisional kuat, meski data eksplisit tidak ada.
+### 2) Posisi Kompetitif (Benchmark Highlights)
+- **BMRI P/E TTM:** 7,6x vs peers (BBCA: 16,5x; BBRI: 9,9x; BBNI: 7,1x).
+- **BMRI PBV:** 1,53x vs BBCA (3,60x), BBRI (1,77x), BBNI (0,93x).
+- **Net Income BMRI** FY2024: Rp55,78 triliun, sejajar dengan BBCA dan BBRI.
+- **Giro+Tabungan (CASA Ratio)** FY2024: 74,8% (tinggi, memperkecil biaya dana).
+- **Market cap per Q2 2025:** Rp406,95 triliun (besar, namun turun -38% YoY).
 
-**Risiko:**  
-- LDR relatif tinggi di 103,9%, berpotensi rawan risiko likuiditas jika DPK melambat.
-- Tidak ada data eksplisit soal NPL/LAR, potensi problem kredit macet tak terkuantifikasi.
-- Ketergantungan pada obligasi pemerintah dan sekuritas—sensitivitas terhadap kenaikan suku bunga bisa timbul.
+---
+
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
+- **ROA FY2024:** 2,30%, **ROE:** 17,8% (kuat vs sektor).
+- **Net Profit Margin FY2024:** 38,1%; Operating Profit Margin: 51,9%.
+- **Cost-to-Income Ratio FY2024:** 77,1% (relatif efisien, tren turun).
+- **CAR FY2024:** 20,8% (solid, di atas persyaratan otoritas).
+- **Loan to Deposit Ratio (LDR) FY2024:** 92,6%—agresif, menunjang pertumbuhan kredit, masih manageable.
+- **NPL (Kualitas Aset) FY2024:** Rasio khusus tidak tersedia periode terbaru; NPL FY2024: Rp18,0 triliun (FY2024); cadangan penurunan nilai kredit memadai.
+- **Total Debt/Equity Q2 2025:** Rp194,5 triliun/Rp297,9 triliun (0,65x; sehat).
+
+---
+
+### 4) Dividen & Valuasi
+- **Dividen TTM (2025):** Rp466,18/lembar.
+- **Dividend yield TTM:** 10,69% (tertinggi di sektor bank big-cap Indonesia).
+- **Payout Ratio:** 81% (cukup tinggi, ruang untuk tetap konsisten bagi pemegang saham).
+- **Valuasi:** P/E dan PBV jauh lebih murah dari BBCA dan rata-rata peer BUKU IV.
+
+---
 
 ### 5) Rekomendasi
-**6M (Taktis):**  
-- Cocok untuk pemantauan intensif, fokus pada tren dana pihak ketiga dan kualitas kredit. Jika pertumbuhan DPK berlanjut stabil dan risiko NPL terjaga, posisi tetap menarik untuk investor institusi.
+**6M (Taktis):**
+- Monitor kinerja kuartalan berikutnya – penurunan pendapatan dan profit perlu dikonfirmasi sebagai tren temporer atau struktural.
+- Dividen dan valuasi atraktif dapat menjadi buffer downside, namun volatilitas harga saham tetap tinggi.
 
-**5Y (Tesis):**  
-- Layak diposisikan sebagai core-bank di portofolio jangka panjang, dengan catatan manajemen menjaga kualitas aset dan efisiensi biaya, serta disiplin dalam ekspansi kredit.
+**5Y (Tesis):**
+- Franchise perbankan nasional kuat, CASA sustain, modal tebal, leadership top-2 di Indonesia. Potensi benefit penuh digitalisasi, efisiensi dan ekspansi.
 
-### 6) Kesimpulan & Indikasi Strategis
-Jangka Pendek (≤ 6 bulan): ⚠️ – Perlu pemantauan tren DPK, risiko likuiditas moderat.  
-Jangka Panjang (> 5 tahun): ✅ – Fundamental tumbuh konsisten, cocok untuk portofolio “core holding” jangka panjang.
+---
+
+### 6) Kesimpulan
+Jangka Pendek (≤6 bulan): ⚠️ – Penurunan profit dan market cap, tapi dividen tinggi dan valuasi diskon.
+Jangka Panjang (>5 tahun): ✅ – Fundamental kukuh, posisi kompetitif terjaga, leadership di perbankan Indonesia.
+
+---
 
 ### 7) Catatan Penting
-Analisis ini bersifat edukasi, bukan ajakan untuk membeli atau menjual saham tertentu.  
-Keputusan investasi sepenuhnya ada di tangan investor sesuai profil risiko masing-masing.
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor.
