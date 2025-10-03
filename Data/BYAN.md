@@ -1,64 +1,54 @@
-### Snapshot Kinerja (Q2 2025 YTD)
-- **Leverage (Liabilitas/Equitas):** 824,9 juta USD / 2.308,2 juta USD = **0,36x** (Q3 2024; Q2 2025 data belum lengkap).
-- **Posisi Kas & Utang Bersih (Q3 2024):**
-  - **Kas & setara kas:** 324,7 juta USD.
-  - **Bank loan:** 227,9 juta USD.
-  - **Utang bersih:** ~-96,8 juta USD (net cash position).
-- **Equity (Q3 2024):** 2.308,2 juta USD.
+## BYAN – Investor One-Pager
 
----
+### 1) Pertumbuhan & Tren Utama
 
-### 1. Growth Performance (YoY)
-**a. Revenue & Profit:**
-  - **Revenue (Q2 2025 YTD):** 1.621,9 juta USD ↑5,7% YoY (Q2 2024 YTD: 1.533,9 juta USD).
-    - **Key Driver:** Volume penjualan batubara naik, meski ASP turun akibat harga batubara global.
-  - **Net Profit (Q2 2025 YTD):** 356,5 juta USD ↑8% YoY (Q2 2024 YTD: 330,6 juta USD).
-    - Margin profitabilitas stabil di tengah tekanan kenaikan COGS.
-  - **Gross Profit Margin (Q2 2025):** 32,5% (Q2 2024 YTD: 37,9%); **terdampak COGS naik** (stripping ratio & depresiasi).
-- **Dividend yield (2024):** ~1,44% (dividend 291,28; harga akhir 20.250).
-- **CAGR Harga 2022–2025 YTD:** **-1,62%**.
+- **Pendapatan Q2 2025:** Rp 11,550 miliar *(Q2 2025)*; turun dari Q1 2025 (**Rp 14,773 miliar**), tren menurun YTD dari **FY2024** (Rp 55,681 miliar).
+- **Laba Bersih Q2 2025:** Rp 2,052 miliar *(Q2 2025)*; turun signifikan dari Q1 2025 (**Rp 3,616 miliar**), makin menunjukkan penurunan dari tren tahunan (**FY2024:** Rp 15,195 miliar).
+- **Aset Q2 2025:** Rp 51,846 miliar *(Q2 2025)*; turun dari Q1 2025 (**Rp 53,885 miliar**); tren turun dari FY2024.
+- **Ekuitas Q2 2025:** Rp 36,851 miliar *(Q2 2025)*.
+- **YoY earning & revenue:** FY2024 menunjukkan penurunan pendapatan (-7,6% YoY) & laba (-21% YoY) vs FY2023.
+- **Operational Cash Flow Q2 2025:** Rp 4,809 miliar   *(Q2 2025)*, naik dibanding Q1 2025 (**Rp 4,629 miliar**), namun margin mulai tertekan.
+- **QtQ/QoQ:** Q2 2025 secara umum lebih lemah dari Q1 2025 baik di topline maupun bottomline.
 
----
+**Periode yang dipakai untuk angka utama: Q2 2025**
 
-### 2. Competitor Benchmark
-- **ITMG** – ASP 113,1 USD/t; Volume 16,9 Mt; Kalimantan; Kekuatan: margin premium, ekspor Jepang/Tiongkok; Kelemahan: sensitivitas harga global.
-- **PTBA** – ASP 66,2 USD/t; Volume 41,9 Mt; Sumatera; Kekuatan: pasar domestik kuat, logistik efisien; Kelemahan: kualitas batubara lebih rendah.
-- **ADRO** – ASP 96,1 USD/t; Volume 65,9 Mt; Kalimantan/Sumatera; Kekuatan: diversifikasi produk; Kelemahan: biaya operasi naik, ESG risk.
-- **BYAN** – ASP FY24: 61,3 USD/t (turun dari 75,8 USD/t di 2023); Volume 49,7 Mt; Kalimantan; Kekuatan: stripping ratio sangat rendah, efisiensi biaya logistik; Kelemahan: ASP relatif rendah, eksposur ke komoditas volatility.
-- **DSSA** – ASP 82,3 USD/t; Volume 56,3 Mt; Kalimantan/Sumatera; Kekuatan: logistik sinergi, biaya produksi efisien; Kelemahan: transparansi terbatas.
+### 2) Posisi Kompetitif (Benchmark Highlights)
 
----
+- **Market Cap:** Rp 610 triliun; terbesar di peer *coal*.
+- **Valuasi Premium:** PBV 17.45x & PE TTM 41x (Q2 2025 basis trailing), jauh di atas peers (rata-rata PE: 8–11x; PBV: 0.7–5.4x kecuali DSSA/CUAN anomali).
+- **Profitabilitas Tertinggi Peer:** ROE FY2024 40.6% (peers rata-rata <30%), margin tetap terjaga walau menurun.
+- **Likuiditas Sehat:** Current ratio >1.6x di Q2 2025 – lebih baik dari siklus FY2023 rata-rata.
+- **Zero Debt (Q2 2025):** Total debt Q2 2025 = 0 (turun dari Q1 2025: Rp 2,289 miliar) – pt. deleveraging konsisten.
 
-### 3. Strategic Risks & Opportunities
-- **Risiko Utama:**  
-  - Volatilitas harga batubara global → tekanan ke margin/ASP.
-  - Kenaikan COGS (terutama stripping & depresiasi 2024/2025).
-  - Tekanan regulasi DMO, potensi pembatasan ekspor.
-  - Transisi energi global (potensi penurunan permintaan jangka panjang).
-- **Peluang:**  
-  - Efisiensi stripping ratio → biaya operasional relatif rendah.
-  - Peningkatan volume penjualan & biaya kas/ton turun (Q1 2025).
-  - Free Cash Flow dan Owner’s Earnings tetap positif.
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
 
----
+- **Gross Profit Margin Q2 2025:** ~28.7% (gross profit Rp 3,310 miliar / revenue Rp 11,550 miliar) – terkompresi dari tren FY2024 (38.7%).
+- **Operating Profit Margin Q2 2025:** ~21.9% (operating profit Rp 2,530 miliar / revenue).
+- **Net Margin Q2 2025:** ~17.8% (Rp 2,052 miliar / Rp 11,550 miliar), lebih rendah dari >25% tahun sebelumnya.
+- **FCF Q2 2025:** Rp 4,354 miliar, buffer kas tetap kuat (kas & setara Rp 12,627 miliar).
+- **Struktur Pendanaan:** Ekuitas dominan, tanpa debt (Q2 2025 total debt: 0).
+- **Kualitas aset:** Cadangan batubara besar (2,031 Mt per 2022), aset tetap bertumbuh.
 
-### 4. Strategic Recommendations
-- **6M (Taktis):**
-  - Fokus pada efisiensi OPEX & pengelolaan kas/utang netral.
-  - Optimalkan dividen secara selektif sambil menjaga likuiditas.
-- **5Y (Tesis):**
-  - Perluas diversifikasi bisnis untuk mitigasi transisi energi.
-  - Investasi pada sustainabilitas & ESG, kurangi eksposur risiko siklikal batubara.
-  - Potensi profitabilitas tetap ada bila efisiensi dan volume dijaga.
+### 4) Dividen & Valuasi
 
----
+- **Dividen TTM:** Rp 339,74/saham; Yield TTM: 1,87% (turun jauh dari tahun puncak 2022: 13.7%).
+- **Payout Ratio TTM:** 76.1% dari laba (tinggi, namun yield turun akibat harga saham & laba turun).
+- **Valuasi:** PE 41x & PBV 17.45x (TTM, Q2 2025), sangat premium vs peers (ADRO, ITMG, PTBA PE <8x).
+- **Rata-rata 5 tahun yield:** 5.56% – tren menurun.
 
-### 5. Kesimpulan & Indikasi Strategis
-- **Jangka Pendek (≤ 6 bulan):** ⚠️ Hati-hati – Kinerja volume solid, namun tekanan margin & ASP tetap tinggi.
-- **Jangka Panjang (> 5 tahun):** ⚠️ Hati-hati – Risiko regulasi dan transisi energi mengancam, namun kekuatan fundamental biaya tetap jadi bantalan.
+### 5) Rekomendasi
 
----
+**6M (Taktis):**  
+- Fokus risk management; harga saham menahan yield, EV premium, earning/leverage mulai menurun – *cocok untuk trader jangka pendek, bukan akumulasi jangka menengah*.
 
-### 6. Catatan Penting
-Analisis ini bersifat edukasi, bukan ajakan untuk membeli atau menjual saham tertentu.  
-Keputusan investasi sepenuhnya ada di tangan investor sesuai profil risiko masing-masing.
+**5Y (Tesis):**  
+- Untuk investor sangat defensif, risiko downside jika tren penurunan laba berlanjut. Premium valuation tidak justified tanpa revival earning.
+
+### 6) Kesimpulan
+
+Jangka Pendek (≤6 bulan): ⚠️ – Kinerja menurun, valuasi premium, dividen rendah, risiko volatil tinggi (bukan entry optimal).
+Jangka Panjang (>5 tahun): ❌ – Yield & earning menurun, valuasi sangat premium, downside risk nyata.
+
+### 7) Catatan Penting
+
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor.

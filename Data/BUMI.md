@@ -1,89 +1,51 @@
-### BUMI Snapshot – Q2 2025 YTD
+## BUMI – Investor One-Pager
 
-#### 1) Snapshot Finansial
+### 1) Pertumbuhan & Tren Utama
 
-- **Leverage** (Liabilitas / Ekuitas) _(Q3 2024 sebagai referensi terdekat)_:  
-  - Total Liabilitas: USD 1,365 miliar  
-  - Total Ekuitas: USD 2,908 miliar  
-  - **Rasio Leverage (Q3 2024):** 0,47x _(rendah, relatif prudent)_
+- **Pendapatan Q2 2025:** Rp5,34 triliun, turun signifikan dibanding Q1 2025 (Rp5,79 triliun) maupun Q4 2024 (Rp7,93 triliun).  
+- **Laba Bersih Q2 2025:** Rp52,2 miliar — jauh menurun jika dibandingkan Q1 2025 (Rp297 miliar) namun membaik dari performa negatif Q4 2024 (laba -Rp770 miliar).  
+- **Laba Usaha Q2 2025:** Rp444 miliar, turun tipis dari Q1 2025 (Rp463 miliar), menunjukkan tren pelemahan operasional.  
+- **Gross Profit Margin Q2 2025:** 16.9% (Gross Profit Rp905 miliar; Revenue Rp5,34 triliun), naik QtQ dari 10.6% (Q1 2025).  
+- **Net Profit Margin Q2 2025:** Sektoral tipis di 1.0% (Earnings/Revenue) — jauh di bawah rata-rata peers.  
+- **Arus Kas Operasi Q2 2025:** Masih negatif di -Rp404 miliar (vs Q1 2025 positif Rp260 miliar), menandakan tekanan kas.  
+- **YoY Kuartal (Q2 2024 vs Q2 2025):** Laba turun lebih dari 80% (label: YoY Earnings Growth: -81%; dari data annualized/quarterly).  
+**Periode yang dipakai untuk angka utama: Q2 2025**
 
-- **Posisi Kas & Utang Bersih (Q3 2024)**:  
-  - Kas & setara kas: USD 56,5 juta  
-  - Pinjaman bank (short + long term): USD 140,7 juta  
-  - **Utang bersih**: USD 84,2 juta _(utang turun tajam sejak 2021, kas relatif stabil namun rendah untuk skala perusahaan)_
+### 2) Posisi Kompetitif (Benchmark Highlights)
 
----
+- **Price/Book (Q2 2025):** 2,36x. Jauh **di bawah rata-rata** sub-sektor (DSSA 21,9x; BYAN 17,45x), namun **lebih tinggi dari ADRO 0,65x dan ITMG 0,85x**.
+- **PER TTM:** 1.274,6x — sangat tinggi, menandakan valuasi mahal terhadap laba yang tipis; peer rata-rata jauh lebih rendah (ADRO 4,6x; GEMS 10,5x; ADMR 8,3x).
+- **Net Profitability:** Jauh di bawah peers; BUMI 1,0% vs AADI 22%, ITMG 16%, ADRO 66%, BYAN 27%, PTBA 12% (per Q4/FY2024 peer data).
+- **Market Cap:** Rp59,8 triliun, lebih kecil dari sebagian besar pemain besar (BYAN, DSSA, ADRO, CUAN di atas Rp100 triliun).
 
-#### 2) Growth Performance (YoY)
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
 
-**a. Revenue & Profit (Q2 2025 YTD vs Q2 2024 YTD):**
-  - **Revenue (Q2 2025 YTD):** USD 677,9 juta ↑ **+13,8% YoY** _(Q2 2024: USD 595,8 juta)_
-    - **Key driver**: Kenaikan segmen emas (harga & volume naik), kompensasi penurunan ASP batubara; volume penjualan batubara menurun.
-  - **Net Profit (Q2 2025 YTD):** USD 38,6 juta ↓ _(Q2 2024 YTD: USD 92,9 juta)_
-    - **Key driver**: Beban operasional naik (marketing & komisi), kontribusi laba KPC turun.
-  - **Gross Margin (Q2 2025 YTD):** ~15,8% _(turun dari 17,4% di Q2 2024)_
-  - **Free Cash Flow FY 2024:** _Negatif USD 26,2 juta_ (tekanan WC & capex)
-- **CAGR harga saham (2022–YTD 2025):** -13,16%  
+- **ROE Q4 2024:** 2,4% (annual data); tipis dibanding peer rata-rata (>10%).
+- **Total Aset Q2 2025:** Rp63,6 triliun; Ekuitas Rp45,5 triliun.
+- **Total Liabilitas:** Rp18,1 triliun, Debt/Equity rendah (0,06x) — leverage tergolong sangat konservatif per Juni 2025.
+- **Cash & Short-term Investments Q2 2025:** Rp1,2 triliun; Current Ratio **1,0x** (cukup likuid).
+- **Arus Kas Bebas (FCF) Q2 2025:** Negatif besar (Rp-430 miliar), mempertegas tekanan kas usaha.
 
-**b. Dividen**:  
-  - **Yield**: Tidak ada dividen sejak 2012.
+### 4) Dividen & Valuasi
 
----
+- **Dividen:** Data dividen tidak tersedia pada periode terbaru; payout & yield tidak tercatat.
+- **Valuasi (PER ~1.274x, PBV ~2,36x):** Di atas normal, PBV tergolong moderat di sektornya namun PER terlalu tinggi akibat laba tipis.
 
-#### 3) Competitor Benchmark (2023)
+### 5) Rekomendasi
 
-- **ITMG – ASP 113,1 USD/t; Volume 16,9 Mt; Lokasi: Kalimantan**
-  - Kekuatan: Margins kuat, manajemen biaya efisien.
-  - Kelemahan: Volume terbatas relatif terhadap BUMI.
+**6M (Taktis):**
+- Prioritaskan cash preservation; kinerja laba dan arus kas sangat lemah, risiko tekanan harga saham tinggi jika tren tidak membaik.
+- Hindari aksi ekspansi besar sebelum profitabilitas terpulihkan.
 
-- **BYAN – ASP 75,8 USD/t; Volume 49,7 Mt; Kalimantan**
-  - Kekuatan: Biaya rendah, integrasi logistik kuat.
-  - Kelemahan: Sensitif pasar ekspor.
+**5Y (Tesis):**
+- Hanya relevan sebagai turn-around play + potensi restrukturisasi: keunggulan utama BUMI hanya pada leverage rendah dan aset besar, namun eksekusi fundamental dan profit konsisten buruk.
+- Sektor batu bara tetap volatile, peluang rerating BUMI hanya jika pemulihan kas & margin terjadi.
 
-- **ADRO – ASP 96,1 USD/t; Volume 65,9 Mt; Kalimantan/Sumatera**
-  - Kekuatan: Diversifikasi ke batubara metalurgi.
-  - Kelemahan: Margin lebih rendah dari ITMG.
+### 6) Kesimpulan
 
-- **BUMI – ASP 81,3 USD/t; Volume 77,8 Mt; Kalimantan**
-  - Kekuatan: Skala produksi terbesar nasional, fasilitas pelabuhan terintegrasi.
-  - Kelemahan: Harga jual per ton menengah, beban bunga & OPEX relatif tinggi.
+- **Jangka Pendek (≤6 bulan): ⚠️** – Sorotan utama risiko arus kas dan margin ketipisan. Potensi tekanan harga masih tinggi.
+- **Jangka Panjang (>5 tahun): ❌** – Tanpa restrukturisasi signifikan & pemulihan margin, prospek sangat terbatas dibanding peers.
 
----
+### 7) Catatan Penting
 
-#### 4) Strategic Risks & Opportunities
-
-- **Risiko utama**:  
-  - Regulasi DMO & kuota ekspor > potensi pressure pendapatan.
-  - Volatilitas harga batubara global, tren pelemahan ASP.
-  - Tekanan biaya (OPEX, stripping).
-  - Transisi energi ke renewables (risiko jangka panjang strategis).
-
-- **Peluang**:  
-  - Diversifikasi (emas), efisiensi/strip ratio turun.
-  - Potensi optimasi FCF jika harga stabil.
-
----
-
-#### 5) Strategic Recommendation
-
-- **6M (Taktis):**
-  - Pantau konsistensi kinerja segmen emas sebagai penopang laba.
-  - Jaga efisiensi biaya di tengah tekanan ASP & OPEX.
-
-- **5Y (Tesis):**
-  - Transformasi portofolio yang lebih resilient: penguatan diversifikasi (emas/mineral lainnya) dan/atau akuisi inovasi operasi tambang.
-  - Penting untuk mengefektifkan struktur modal & FCF guna menjaga kelangsungan bisnis di era transisi energi.
-
----
-
-#### 6) Kesimpulan & Indikasi Strategis
-
-- **Jangka Pendek (≤6 bulan): ⚠️ Hati-hati** – Recovery segmen emas positif, namun profitabilitas & arus kas masih volatile; tekanan biaya dan belum ada dividen.
-- **Jangka Panjang (>5 tahun): ⚠️ Hati-hati** – Ketergantungan pada batubara, tekanan regulasi, dan transisi energi jadi tantangan struktural; butuh strategi diversifikasi nyata.
-
----
-
-#### 7) Catatan Penting
-
-Analisis ini bersifat edukasi, bukan ajakan untuk membeli atau menjual saham tertentu.  
-Keputusan investasi sepenuhnya ada di tangan investor sesuai profil risiko masing-masing.
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor.
