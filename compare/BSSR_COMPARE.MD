@@ -1,46 +1,45 @@
 # COMPARE ONE-PAGER (CROSS-INDUSTRY READY)
 
 ## HEADER
-Ticker: BSSR
-Company: -
-Sector: Energy
-Industry: Thermal Coal
-AsOf: 2025-09-12
+Ticker: BSSR.JK  
+Company: Baramulti Suksessarana Tbk  
+Sector: Energy  
+Industry: Coal  
+AsOf: 2025-06-30
 
 ## VALUATION
-Market Cap: IDR 10.26 triliun
-PER: 6.7x
-PBV: 1.4x
-Dividend Yield: 7.1%
+Market Cap: IDR 10.2 triliun  
+PER: 6.8x  
+PBV: 2.1x  
+Dividend Yield: 11.7%
 
 ## PROFITABILITY
-Revenue Growth YoY: -16%
-Net Profit Growth YoY: -19%
-Net Margin: 13.9%
-ROE: 49.8%
-ROA: 31.2%
+Revenue Growth YoY: -32.5%  
+Net Profit Growth YoY: -25.6%  
+Net Margin: 13.9%  
+ROE: 49.8%  
+ROA: 34.3%
 
 ## BALANCE & CASH
-DER: 0.4x
-FCF: USD 106.4 juta
+DER: 0.45x  
+FCF: IDR 331 miliar
 
 ## SCORE (0–5 each; integers or 0.5 steps allowed)
-ValuationScore: 4.5
-ProfitabilityScore: 3
-BalanceScore: 4
-IncomeScore: 4
-TotalScore: 15.5
+ValuationScore: 4  
+ProfitabilityScore: 2  
+BalanceScore: 4  
+IncomeScore: 4.5
 
 ## NOTES
 Highlights:
-- High dividend yield and low valuation multiples
-- Strong ROE and positive free cash flow
+- Low PER and PBV versus peers
+- High ROE and strong cash position
 
 Risks:
-- Revenue and profit declined due to lower coal prices
-- Regulatory and export quota risks for coal sector
+- Sharp YoY decline in revenue and profit
+- Coal sector volatility
 
 ## METADATA
-Source: Company filings, IDX, internal analysis
-Period: Q2 2025 YTD / FY 2024
-LastUpdate: 2025-09-12
+Source: Company filings, IDX, BSSR.JK public data  
+Period: Q2 2025 YTD  
+LastUpdate: 2025-06-30

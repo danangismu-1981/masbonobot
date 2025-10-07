@@ -1,46 +1,46 @@
 # COMPARE ONE-PAGER (CROSS-INDUSTRY READY)
 
 ## HEADER
-Ticker: BFIN
-Company: BFI Finance Indonesia Tbk
-Sector: Financial Services
-Industry: Credit Services
-AsOf: 2025-09-12
+Ticker: BFIN.JK  
+Company: BFI Finance Indonesia Tbk  
+Sector: Financials  
+Industry: Consumer Financing  
+AsOf: 2025-06-30
 
 ## VALUATION
-Market Cap: IDR 11.88 triliun
-PER: 7.6x
-PBV: 1.2x
-Dividend Yield: 4.1%
+Market Cap: IDR 11.3 triliun  
+PER: 6.88x  
+PBV: 1.07x  
+Dividend Yield: 7.9%
 
 ## PROFITABILITY
-Revenue Growth YoY: +6.2%
-Net Profit Growth YoY: -4.8%
-Net Margin: 24%
-ROE: 15.4%
+Revenue Growth YoY: +4.7%  
+Net Profit Growth YoY: +10.0%  
+Net Margin: 44.5%  
+ROE: 15.4%  
 ROA: 6.2%
 
 ## BALANCE & CASH
-DER: 1.5x
-FCF: IDR 392 miliar
+DER: 1.47x  
+FCF: IDR 458 miliar
 
 ## SCORE (0–5 each; integers or 0.5 steps allowed)
-ValuationScore: 4
-ProfitabilityScore: 3
-BalanceScore: 3.5
-IncomeScore: 4
-TotalScore: 14.5
+ValuationScore: 4.5  
+ProfitabilityScore: 4  
+BalanceScore: 3  
+IncomeScore: 5
 
 ## NOTES
 Highlights:
-- Revenue grew 6.2% YoY in Q2 2025, driven by higher financing disbursement.
-- Dividend yield is attractive at 4.1% with consistent payouts.
+- Attractive valuation (PER 6.9x, PBV 1.1x)
+- High dividend yield (7.9% TTM)
+- Consistent profit and revenue growth
 
 Risks:
-- Net profit declined YoY due to higher expenses and impairment losses.
-- Slight increase in NPF, though still below industry average.
+- Moderate leverage (DER 1.47x)
+- FCF volatility in prior quarters
 
 ## METADATA
-Source: Company filings, IDX, internal calculations
-Period: Q2 2025 YTD
-LastUpdate: 2025-09-12
+Source: Company filings, peer data, dividend reports  
+Period: Q2 2025 YTD  
+LastUpdate: 2025-06-30

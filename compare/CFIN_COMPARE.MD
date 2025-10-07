@@ -1,45 +1,47 @@
 # COMPARE ONE-PAGER (CROSS-INDUSTRY READY)
 
 ## HEADER
-Ticker: CFIN
-Company: Clipan Finance Indonesia Tbk
-Sector: Financial Services
-Industry: Credit Services
-AsOf: 2025-09-12
+Ticker: CFIN.JK  
+Company: Clipan Finance Indonesia Tbk  
+Sector: Financials  
+Industry: Consumer Financing  
+AsOf: 2025-06-30
 
 ## VALUATION
-Market Cap: IDR 1.27 triliun
-PER: 5.9x
-PBV: 0.23x
-Dividend Yield: 15.7%
+Market Cap: IDR 1.26 triliun  
+PER: 7.5x  
+PBV: 0.22x  
+Dividend Yield: 15.8%
 
 ## PROFITABILITY
-Revenue Growth YoY: -22%
-Net Profit Growth YoY: -74%
-Net Margin: 12%
-ROE: 3.7%
-ROA: 0.8%
+Revenue Growth YoY: -198.5%  
+Net Profit Growth YoY: +8.0%  
+Net Margin: 17.95%  
+ROE: 3.7%  
+ROA: 2.1%
 
 ## BALANCE & CASH
-DER: 0.75x
-FCF: IDR -294 miliar
+DER: 0.76x  
+FCF: IDR -117.6 miliar
 
 ## SCORE (0–5 each; integers or 0.5 steps allowed)
-ValuationScore: 4.5
-ProfitabilityScore: 1
-BalanceScore: 2
+ValuationScore: 4.5  
+ProfitabilityScore: 2  
+BalanceScore: 2  
 IncomeScore: 5
 
 ## NOTES
 Highlights:
-- Very high dividend yield (15.7%)
-- Valuation is low (PER 5.9x, PBV 0.23x)
+- Very low PBV and PER versus peers
+- High dividend yield (15.8%)
+- Maintains positive net margin
 
 Risks:
-- Revenue and profit declined sharply YoY
-- Negative free cash flow and rising impairment provisions
+- Revenue dropped sharply YoY
+- Free cash flow negative
+- Low ROE and profitability metrics
 
 ## METADATA
-Source: Company filings, IDX, public disclosures
-Period: Q2 2025 YTD / FY 2024
-LastUpdate: 2025-09-12
+Source: Company filings, peer data, dividend report  
+Period: Q2 2025 YTD  
+LastUpdate: 2025-06-30

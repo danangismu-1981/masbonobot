@@ -2,44 +2,46 @@
 
 ## HEADER
 Ticker: BMRI
-Company: -
-Sector: Banking
-Industry: Banks - Regional
-AsOf: 2024-09-30
+Company: PT Bank Mandiri (Persero) Tbk
+Sector: Financials
+Industry: Banks
+AsOf: 2025-06-30
 
 ## VALUATION
-Market Cap: -
-PER: -
-PBV: -
-Dividend Yield: -
+Market Cap: IDR 406.95 triliun
+PER: 7.6x
+PBV: 1.5x
+Dividend Yield: 10.7%
 
 ## PROFITABILITY
-Revenue Growth YoY: -
-Net Profit Growth YoY: -
-Net Margin: -
-ROE: -
-ROA: -
+Revenue Growth YoY: -8.9%
+Net Profit Growth YoY: -18.7%
+Net Margin: 38.1%
+ROE: 17.8%
+ROA: 2.3%
 
 ## BALANCE & CASH
-DER: 5.95x
-FCF: -
+DER: 6.74x
+FCF: IDR 75.5 triliun
 
 ## SCORE (0–5 each; integers or 0.5 steps allowed)
-ValuationScore: -
-ProfitabilityScore: -
-BalanceScore: 1
-IncomeScore: -
+ValuationScore: 5
+ProfitabilityScore: 3
+BalanceScore: 3
+IncomeScore: 5
 
 ## NOTES
 Highlights:
-- Total assets reached IDR 2,324 trillion as of Q3 2024
-- Equity increased to IDR 301 trillion
+- Low PER and PBV vs peers
+- High dividend yield (10.7%)
+- Strong FCF in latest quarter
 
 Risks:
-- High debt-to-equity ratio (DER) of 5.95x
-- Lack of available profitability and valuation metrics
+- Revenue and net profit declining YoY
+- High leverage (DER >6x)
+- Volatile quarterly cash flows
 
 ## METADATA
-Source: BMRI_BalanceSheet_simplified.txt
-Period: Q3 2024
-LastUpdate: 2024-09-30
+Source: Company filings, peer data, dividend reports
+Period: Q2 2025 YTD
+LastUpdate: 2025-06-30

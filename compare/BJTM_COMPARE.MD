@@ -2,44 +2,44 @@
 
 ## HEADER
 Ticker: BJTM
-Company: -
-Sector: Financial Services
-Industry: Banks - Regional
-AsOf: 2025-09-12
+Company: Bank Pembangunan Daerah Jawa Timur Tbk
+Sector: Financials
+Industry: Banks
+AsOf: 2025-06-30
 
 ## VALUATION
-Market Cap: IDR 1.62 triliun
-PER: -
-PBV: -
-Dividend Yield: 10.4%
+Market Cap: IDR 7.66 triliun
+PER: 5.6x
+PBV: 0.61x
+Dividend Yield: 10.6%
 
 ## PROFITABILITY
-Revenue Growth YoY: +14%
-Net Profit Growth YoY: -12%
-Net Margin: -
-ROE: -
-ROA: -
+Revenue Growth YoY: +38.3%
+Net Profit Growth YoY: +31.7%
+Net Margin: 19.5%
+ROE: 8.8%
+ROA: 1.1%
 
 ## BALANCE & CASH
-DER: 0.6x
-FCF: IDR -4.35 triliun
+DER: 0.33x
+FCF: IDR 5.58 triliun
 
 ## SCORE (0–5 each; integers or 0.5 steps allowed)
-ValuationScore: 4
-ProfitabilityScore: 2
-BalanceScore: 2
+ValuationScore: 5
+ProfitabilityScore: 2.5
+BalanceScore: 3.5
 IncomeScore: 5
 
 ## NOTES
 Highlights:
-- Dividend yield above 10%
-- Revenue grew 14% YoY on aggressive lending
+- Very low PER and PBV vs. peers
+- High and rising dividend yield (10.6%)
 
 Risks:
-- Net profit declined YoY due to higher loan loss provisions
-- Free cash flow negative and credit quality deteriorating
+- Profitability metrics (ROE, margin) below top-tier banks
+- Market cap and growth smaller than national peers
 
 ## METADATA
-Source: Company filings, IDX, internal analysis
+Source: Company filings, peer data, dividend disclosures
 Period: Q2 2025 YTD
-LastUpdate: 2025-09-12
+LastUpdate: 2025-06-30
