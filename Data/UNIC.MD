@@ -1,51 +1,55 @@
-## UNIC – Value Investor One‑Pager (Chemicals)
+## UNIC – Investor One-Pager
 
-### 1) Pertumbuhan YoY
-- **Periode Pembanding:** Seluruh angka adalah Q2 2025 YTD (Jan–Jun 2025) vs Q2 2024 YTD (Jan–Jun 2024).
-    - **Revenue:** USD 194,514,228 (Q2 2025 YTD) vs USD 163,803,819 (Q2 2024 YTD) — tumbuh +18.7% YoY.
-    - **Gross Profit:** USD 24,321,659 (Q2 2025 YTD) vs USD 21,611,855 (Q2 2024 YTD) — +12.5% YoY.
-    - **Net Profit:** USD 11,799,701 (Q2 2025 YTD) vs USD 9,185,190 (Q2 2024 YTD) — +28.5% YoY.
-    - **Profit Before Tax:** USD 14,845,227 (Q2 2025 YTD) vs USD 11,833,839 (Q2 2024 YTD) — +25.5% YoY.
-- **EBITDA:** Tidak tersedia eksplisit di file, namun Operating Profit naik 21% YoY (USD 12.8mn vs USD 10.6mn).
+### 1) Pertumbuhan & Tren Utama
+- **Pendapatan Q2 2025:** Rp1,675,698 miliar *(naik 10.4% dari Q1 2025: Rp1,518,370 miliar)*.
+- **Laba Bersih Q2 2025:** Rp100,518 miliar *(naik 5.3% dari Q1 2025: Rp95,396 miliar)*.
+- **Gross Profit Q2 2025:** Rp199,185 miliar *(stabil; Q1 2025: Rp200,455 miliar)*.
+- **Pertumbuhan YoY (Q2 2025 vs Q2 2024):**  
+  - *Pendapatan tumbuh tajam*: +32.5%  
+  - *Laba bersih tumbuh*: +33.6%
+- **Operating Cash Flow Q2 2025:** Rp277,103 miliar *(Q1 2025: Rp244,879 miliar; naik 13.1%)*.
+- **Free Cash Flow Q2 2025:** Rp268,387 miliar *(Q1 2025: Rp225,405 miliar)*.
+- **Aset Total Q2 2025:** Rp5,659,803 miliar *(turun 2.1% QtQ; Q1 2025: Rp5,799,111 miliar)*.
+- **Keseimbangan modal tetap kuat**: ekuitas 87% dari aset di Q2 2025.
+  
+**Periode yang dipakai untuk angka utama: Q2 2025 (30 Juni 2025).**
 
-### 2) Posisi Kompetitif (Benchmark/Relatif)
-- **GPM (Gross Profit Margin):** 12.5% (Q2 2025 YTD, dihitung: Gross Profit/Revenue) — tren stabil lemah di sektor kimia berbasis komoditi.
-- **DIO / DSO / DPO:**  
-    - **DIO (Days Inventory Outstanding):** Estimasi Q2 2025 YTD tidak tersedia langsung; menggunakan data 2024 (Avg. Inventory/COGS x 365): DIO ≈ 160 hari (2024), mengindikasikan perputaran persediaan lambat, agak wajar untuk basis feedstock kimia.
-    - **DSO (Days Sales Outstanding):** Tidak tersedia untuk Q2 2025. Berdasarkan 2024: DSO ≈ 56 hari (standar sektor).
-    - **DPO (Days Payable Outstanding):** Tidak tersedia untuk Q2 2025. Berdasarkan 2024: DPO ≈ 37 hari.
-- **Leverage & Coverage:**
-    - **Net debt/EBITDA** tidak tersedia; namun, cash naik tajam (USD 110.7mn, Q3 2024), dan interest-bearing debt menurun (Q3 2024: USD 1.8mn).
-    - **Finance Cost vs Gross Profit:** Finance costs turun (-9% YoY); interest coverage >80x (Operating Profit/Finance Costs), sangat sehat.
-- **Operasional & Pangsa:**
-    - Produsen Alkylbenzene (AB) terbesar Asia Pasifik, satu-satunya di Indonesia (posisi pemimpin pasar domestik). Kapasitas utilisasi spesifik tidak dicantumkan.
+### 2) Posisi Kompetitif (Benchmark Highlights)
+- **Price-to-Earnings (PE TTM):** 9.1 *(2024; peers median jauh lebih tinggi, misal TPIA 32.3, ESSA 19.3, AGII 62.1, LTLS 7.5)*.
+- **Price-to-Book (PB MRQ):** 0.73 *(jauh lebih murah dari mayoritas peers)*.
+- **Market Cap:** Rp3,449,982 miliar *(2024; peers: TPIA & BRPT > Rp300T, LTLS Rp1,230T)*.
+- **Profitabilitas (Net Profit):** Paling konsisten dan sehat dibanding peer utama yang volatil (banyak yang rugi atau margin kecil).
 
-### 3) Dividen & Valuasi
-- **Market Cap:** ~USD 1.02 miliar (price x shares outstanding; harga per 12 Sep 2025 dan kurs IDR/USD setara).
-- **Yield (Dividen/Price):** Sekitar 5.6% (dividen 448/unit tahun berjalan).
-- **Dividend Track Record:** USD 550 (2022), 360 (2023), turun jadi 286 (2024), dan naik ke 448 (2025 YTD) — cenderung fluktuatif > masih atraktif.
-- **CAGR:** Harga +1,13% (2022–YTD), lambat—namun didukung yield.
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
+- **Net Profit Margin Q2 2025 (estimasi):** ~6% (*konservatif; konsisten dari tren tahunan 2024: 6.0%*).
+- **ROE & ROA (2024):** 6.9% & 6.1% → *konservatif, stabil untuk sektor kimia hulu*.
+- **Leverage sangat rendah:** Debt to equity Q2 2025 ≈ 0.018, debt to asset ≈ 0.016.
+- **Likuiditas sangat tinggi:** Cash & short term investments Rp2,200,575 miliar (39% dari aset Q2 2025).
+- **Capex minim Q2 2025:** Rp0,5 miliar (sangat kecil terhadap arus kas operasi).
+- **Kualitas aset:** Aset lancar dominasikan struktur, risiko likuiditas sangat rendah.
 
-### 4) Insight Strategis
-**Kekuatan:**  
-- Satu-satunya produsen Alkylbenzene domestik; pricing power unggul (bargaining di pasar Indonesia).
-- Posisi kas kuat, utang bunga turun tajam, arus kas operasi positif dan stabil.
-- Biaya pengiriman/muatan menurun sepanjang 2024, menurunkan beban usaha.
-**Risiko:**  
-- Harga jual rata-rata (ASP) mengikuti harga naphtha/minyak mentah — margin mudah tertekan saat harga minyak rendah.
-- Impor bebas bea Alkylbenzene (PMK No 10/2022) meningkatkan risiko persaingan importir.
-- Sales volume domestik sangat bergantung konsumsi produk rumah tangga (siklus ekonomi).
+### 4) Dividen & Valuasi
+- **Dividen TTM:** Rp448/lembar (yield 5.0%; Ex-date 2 Juni 2025; payout ratio: 45.5%).
+- **Rata-rata yield 5 tahun:** 4.1%.
+- **Valuasi sangat murah:**  
+  - PB 0.73x  
+  - PE 9.1x  
+  - Bandingkan peers: TPIA PB > 10.4x, PE >30x; LTLS PB 0.42x, PE 7.5x.
 
 ### 5) Rekomendasi
 **6M (Taktis):**
-- Realisasikan arus kas kuat untuk optimalisasi yield dividen tinggi, monitoring risiko harga minyak/feedstock tetap penting.
-**5Y (Tesis):**
-- Pertahankan keunggulan skala, perluas ke pasar ekspor & inovasi produk turunan. Perhatikan risiko deregulation dan tekanan margin komoditas.
+- Fokus pada momentum laba dan arus kas kuat, prospek dividen jumbo tetap, downside terbatas oleh kas & ekuitas besar.
+- Waspada terhadap potensi stagnasi pendapatan jika harga produk utama turun.
 
-### 6) Kesimpulan & Indikasi Strategis
-Jangka Pendek (≤ 6 bulan): ⚠️ Hati‑hati — margin membaik dan dividen tinggi, tapi risiko ASP & persaingan impor mengintai.  
-Jangka Panjang (> 5 tahun): ✅ Positif — fundamental sehat, posisi pasar domestik kuat, posisi kas & struktur modal konservatif.
+**5Y (Tesis):**
+- Tahan sebagai *core defensive holding*:  
+  - Nilai bukunya kokoh, stabil, dividen konsisten.
+  - Ekspansi kompetitor besar (TPIA/BRPT) cenderung tidak langsung menekan UNIC.
+  - Industri kimia hulu tetap strategis untuk ekonomi Indonesia.
+
+### 6) Kesimpulan
+Jangka Pendek (≤6 bulan): ✅ – Arus kas & laba sangat solid, yield & valuasi menarik, risiko rendah.  
+Jangka Panjang (> 5 tahun): ✅ – Modal kuat, posisi kas aman, manajemen risiko baik, dividen dan valuasi terjaga.
 
 ### 7) Catatan Penting
-Analisis ini bersifat edukasi, bukan ajakan untuk membeli atau menjual saham tertentu.  
-Keputusan investasi sepenuhnya ada di tangan investor sesuai profil risiko masing‑masing.
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor.

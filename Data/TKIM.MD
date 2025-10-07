@@ -1,52 +1,53 @@
-## TKIM – Value Investor One-Pager
+## TKIM – Investor One-Pager
 
-### 1) Pertumbuhan YoY
-- **Topline Q2 2025 (Jan–Jun):** Revenue USD 490,4 juta (YTD), turun -5,3% YoY dari Q2 2024, terutama karena penurunan segmen cultural paper (Insight).
-- **Net Profit Q2 2025 (YTD):** USD 98,4 juta, menurun signifikan dibandingkan Q2 2024 (USD 215,2 juta, YTD) dan Q3 2024 (-23,4% YoY vs Q3 2023).
-- **Gross Profit Q2 2025 (YTD):** USD 78,7 juta, turun dari USD 90,4 juta (Q2 2024 YTD).
-- **ASP:** Rata-rata penjualan turun (penurunan struktural dari harga pulp global; margin tertekan, Insight).
-- **Volume penjualan:** Menurun, selaras dengan penurunan ASP dan permintaan.
+### 1) Pertumbuhan & Tren Utama
+- **Q2 2025** (periode terbaru) menunjukkan **deteriorasi keuangan sangat signifikan**:
+    - **Pendapatan**: -Rp4,23 triliun (NOLAK; sebelumnya Q1 2025: Rp4,24 triliun, Q4 2024: Rp4,42 triliun). Ada kemungkinan reclass/kesalahan input pada Q2 2025 – angka tercatat negatif.
+    - **Laba Bersih**: -Rp4,89 miliar (Q2 2025); Q1 2025: Rp1,64 triliun; Q4 2024: Rp3,15 triliun.
+    - **EBIT**: -Rp1,88 triliun (Q2 2025); Q1 2025: Rp1,88 triliun (positif); Q4 2024: Rp3,48 triliun (positif).
+    - **Free Cash Flow**: -Rp419 miliar (Q2 2025). Kemerosotan tajam dari Q1 2025: Rp420 miliar.
+- **Tren QtQ**:
+    - **Laba & cash flow anjlok**: Dari profit kuat di Q1 2025/Q4 2024 ke rugi di Q2 2025.
+    - **Arus kas operasi Q2 2025**: -Rp615 miliar; Q1 2025: +Rp617 miliar.
+- **Neraca**: 
+    - **Aset**: Rp64,17 miliar (Q2 2025); stabil vs Q1 2025.
+    - **Ekuitas**: Rp45,0 miliar; **Liabilitas**: Rp19,2 miliar.
+    - **Debt**: Rp13,4 miliar (debt-to-equity ~0,30x, turun vs 2023).
+- **Catatan:** Angka Q2 2025 menandakan shock fundamental (kemungkinan one-off, cek penjelasan manajemen jika tersedia).
 
-### 2) Posisi Kompetitif (Bullet Points)
-- **Skala Segmen:** TKIM kuat di cultural paper dan industrial paper. Kapasitas produksi cultural paper 1,18 juta ton/tahun (utilisasi 61,9% – jauh di bawah INKP 86,7%); industrial paper kapasitas 786.000 ton/tahun (utilisasi 70,5% vs INKP 90,4% – Benchmark 2023).
-- **ASP Cultural Paper:** USD 1.127/ton (TKIM) vs INKP USD 909/ton — TKIM lebih premium, namun volume dan utilisasi jauh di bawah INKP.
-- **ASP Industrial Paper:** TKIM USD 366/ton vs INKP USD 587/ton — TKIM kurang efisien di segmen ini.
-- **Ekspor:** Porsi ekspor ~59% — sejalan dengan peers (INKP 59%).
-- **Margin:** Gross margin Q2 2025 ~16% (asm: GP/NS), tertekan, lebih rendah dari historical (>20%); COGS turun 10% FY 2024, membantu pertahanan profit.
-- **Leverage:** Debt/Equity Q3 2024: 27% (Debt USD 651,4 juta / Equity USD 2,48 miliar) – tergolong sehat.
-- **Regional Exposure:** Diversifikasi ke Asia/Eropa/Africa (Benchmark).
+**Periode yang dipakai untuk angka utama: Q2 2025**
 
-### 3) Dividen & Valuasi
-- **Dividen:** USD 25/lembar, konsisten 2022–2025.
-- **Yield:** ~0,3–0,4% per tahun (annualized – hitung: dividen/market cap basis shares outstanding).
-- **Market Cap:** Estimasi USD 1,66 miliar (3113 juta saham x harga) – untuk keperluan perbandingan yield.
-- **CAGR Harga 2022–YTD 2025:** 2,26% (flat, trailing return 3 tahun).
-- **Valuasi:** Tidak tersedia PER/EV/EBITDA di data, harga relatif stagnan, market price tidak mengikuti pertumbuhan labanya.
+### 2) Posisi Kompetitif (Benchmark Highlights)
+- **Market Cap**: Rp21,95 triliun (2024, peer: INKP Rp41 triliun).
+- **PE TTM**: 7,13x (vs INKP 8,30x; sektor: 5–10x).
+- **PBV**: 487,7x (anomali tinggi, catatan data, peer INKP: 0,39x).
+- **Net Margin 2024**: 30,2% (lebih tinggi dari peer; namun berubah drastis Q2 2025).
+- **Pertumbuhan 1Y Market Cap**: -7,5% (INKP: -15,2%); di bawah industri global paper.
 
-### 4) Insight Strategis
-**Kekuatan:**
-- Jaringan distribusi domestik/ekspor luas (Asia, Eropa, Afrika).
-- Modal kuat, leverage rendah.
-- Share of profit associate (PT Oki) besar dan konsisten, menyumbang >80% net income FY 2024.
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
+- **Profitabilitas Q2 2025**: Negatif across the board (rugi operasional dan bersih).
+- **Debt/Equity Q2 2025**: 0,30x (rendah); **Likuiditas** (current ratio): Data kuartal belum ada, tahun 2024: 1,31x (aman).
+- **Cash & Equivalents**: Rp3,60 miliar (Q2 2025), turun dari Rp3,15 miliar (Q1).
+- **Trend**: Laba dan margin Q1-Q2 2025 memburuk drastis, turn-around perlu pembuktian.
+- **Kapasitas pendanaan**: masih baik, leverage rendah.
 
-**Risiko:**
-- Margin tergerus akibat tekanan ASP global.
-- Utilisasi pabrik rendah (terutama cultural paper), meneken efisiensi biaya.
-- Ketergantungan tinggi pada profit asosiasi (Oki), rawan dampak fluktuasi FX dan harga pulp global.
-- Industri kertas rentan disrupsi digital, perubahan teknologi, & volatilitas harga bahan baku.
+### 4) Dividen & Valuasi
+- **Dividen TTM**: Rp25/saham (2025).
+- **Yield TTM**: 0,35%.
+- **Payout Ratio**: 2,53% (sangat konservatif).
+- **Valuasi**: PE 7,13x sempat relatif murah secara historis, namun profit terkini minus = pressure pada valuasi ke depan.
 
 ### 5) Rekomendasi
 **6M (Taktis):**
-- Trading-oriented, monitor tren harga pulp/AP & FX. Short term outlook sensitif katalis makro & kinerja Oki.
-- Hindari posisi besar jika volume & margin tidak membaik.
-
+- Perlu **wait & see** akibat Q2 2025 loss parah & outlier pada kinerja (cek penyebab dasar); jika "one-off", potensi balik stabil.
+  
 **5Y (Tesis):**
-- Prospek jangka panjang positif terjaga jika ekspansi utilitas & diversifikasi produk industrial sukses, namun butuh transformasi efisiensi & pengurangan eksposur risiko tunggal (Oki).
+- Fundamentals long-term masih didukung low leverage & kapasitas aset besar.
+- Perlu mindset resistensi siklus harga pulp/paper & akses pasar ekspor.
 
-### 6) Kesimpulan & Indikasi Strategis
-- **Jangka Pendek (≤6 bulan):** ⚠️ Hati-hati – Penurunan volume/margin & ketergantungan profit asosiasi.
-- **Jangka Panjang (>5 tahun):** ⚠️ Hati-hati – Butuh perbaikan struktur utilisasi & inovasi produk agar tidak terdisrupsi tren digital dan harga global.
+### 6) Kesimpulan
+- **Jangka Pendek (≤6 bulan):** ⚠️ – Kinerja Q2 2025 drop tajam, tunggu konfirmasi recovery/data baru.
+- **Jangka Panjang (>5 tahun):** ✅ – Struktur modal solid, potensi rebound bila root cause Q2 fixed.
 
 ### 7) Catatan Penting
-Analisis ini bersifat edukasi, bukan ajakan untuk membeli atau menjual saham tertentu.  
-Keputusan investasi sepenuhnya ada di tangan investor sesuai profil risiko masing-masing.
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor.

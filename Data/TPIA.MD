@@ -1,47 +1,52 @@
-## TPIA – Value Investor One-Pager
+## TPIA – Investor One-Pager
 
-### 1) Pertumbuhan YoY
-- **Revenue Q2 2025:** USD 2.93 miliar (Jan–Jun) vs Q2 2024 USD 0.87 miliar (+236% YoY, terdorong kenaikan penjualan luar negeri serta akuisisi ACE/refinery).
-- **Gross Profit Q2 2025:** negatif USD 99,5 juta turun drastis dari Q2 2024 positif USD 12,8 juta, mencerminkan margin tertekan—utamanya akibat harga naphtha dan kenaikan beban pokok.
-- **Net Profit Q2 2025:** USD 1,62 miliar (didominasi gain akuisisi/negatif goodwill; profit inti masih tertekan).
-- **Operating/EBITDA:** Tidak tersedia eksplisit, namun Gross & Operating margin sempit; tren beban bunga (finance cost) naik (Q2 2025 USD 108 juta vs Q2 2024 USD 77 juta).
-- **Free Cash Flow (FCF) FY 2024:** minus USD 525 juta (FY, mencerminkan tekanan kas + capex tinggi).
+### 1) Pertumbuhan & Tren Utama
+- **Pendapatan Q2 2025:** Rp 37,39 triliun (Q2 2025)  
+  ⮕ Lonjakan signifikan dari Q1 2025 (Rp 10,35 triliun) dan rata-rata kuartalan 2024 (<Rp 10 triliun).  
+- **Laba bersih Q2 2025:** Rp 21,07 triliun  
+  ⮕ Berbalik dari kerugian beruntun tahun 2024 (FY 2024: rugi Rp 1,12 triliun).  
+- **Gross profit Q2 2025:** -Rp 1,71 triliun (negatif, walau laba bersih sangat besar, kemungkinan one-off gain/adjustment).  
+- **Free Cash Flow Q2 2025:** Rp 2,98 triliun (Q2 2025) naik drastis dari FCF Q1 2025 yang negatif (Rp -6,56 triliun).  
+- **Tren YoY:**  
+  - **Revenue YoY Q2 2025:** +4,6% (dari file annual, banding Q2 2024: Rp 6,7 triliun → Q2 2025: Rp 37,39 triliun, ini outlier/mungkin non-recurrent).
+  - **Earnings YoY Q2 2025:** +84,5% (file annual; kontras rugi FY 2024).
+- **Catatan:** Pergerakan Q2 2025 sangat ekstrem/outlier, indikasi non-recurring, perlu kehati-hatian dalam membaca kualitas pendapatan.
+  
+**Periode yang dipakai untuk angka utama: Q2 2025**
 
-### 2) Posisi Kompetitif (Bullet Points)
-- **Gross Margin:** -3,4% (Q2 2025, turun tajam YoY; jauh di bawah rata-rata industri Specialty Chemicals, biasanya 10–25%) → margin sangat tipis, tidak kompetitif.
-- **Net Profit Margin:** 55% (Q2 2025, anomalous karena gain akuisisi; secara fundamental sebelum extraordinary, margin sangat rendah).
-- **ROE:** Tidak dihitung eksplisit, namun net profit abnormal; ekuitas Q2 2025 USD 2,90 miliar; ROE tidak representatif (angin-anginan karena gain ekstrim).
-- **Leverage:** Debt/Equity Q2 2025 ~0,87x (Interest-bearing debt USD 2,1 miliar; ekuitas USD 2,9 miliar), naik dari sebelumnya—beban bunga membebani.
-- **FCF / Owners’ Earnings:** FY 2024 FCF negatif USD 525 juta; Owners’ Earnings FY 2024 negatif USD 19,8 juta → kas operasional tertekan, jauh dari peer global yang rata-rata FCF positif.
+### 2) Posisi Kompetitif (Benchmark Highlights)
+- **Market cap:** Rp 655,3 triliun (2024, peer tertinggi)
+- **P/E ttm:** 32,27 (vs. peer: UNIC 9,1; AGII 62,1; FPNI negatif)
+- **P/B:** 10.425 (jauh di atas peers – paling premium di sektor)
+- **Revenue & scale** tertinggi, namun profitabilitas historis di bawah rata-rata sub-sektor (UNIC, LTLS lebih konsisten secara bottom-line)
+- **Peer YoY mcap:** TPIA -14,4% (2024), lebih buruk dari rata-rata peer kimia dasar
 
-### 3) Dividen & Valuasi
-- **Dividend Yield TTM:** ~0,07% (dividen 2025 per saham: 5,693; yield rendah terhadap harga).
-- **Payout Ratio:** Tak relevan untuk FY 2024/2025 karena laba bersih non-recurring (gain akuisisi); secara kas, payout minimal dibanding profit ‘normal’.
-- **Market Cap:** ~USD 43,5 miliar (asumsi kurs IDR14.800/USD, harga 7.900, saham beredar 86,5 miliar).
-- **CAGR Harga 2022–2025 YTD:** +51,9% (sangat tinggi, outperform IHSG & sektor bahan baku).
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
+- **EBITDA Q2 2025:** Rp 26,91 triliun (Q2 2025; Q1 hanya Rp 41,8 miliar)
+- **Gross profit margin Q2 2025:** Negatif (gross loss Rp 1,71 triliun dari revenue Rp 37,39 triliun)
+- **Total assets:** Rp 168,5 triliun; **Total debt:** Rp 65,57 triliun; **Equity:** Rp 79,07 triliun (Q2 2025)
+- **Debt/Equity Q2 2025:** ~0,83x (relatif sehat, turun dari FY2024 ~0,93x)
+- **Cash & equivalents:** Rp 45,69 triliun (likuiditas kuat)
+- **Operating cash flow:** Rp 4,59 triliun (kuat); Q1 2025 sempat negatif
 
-### 4) Insight Strategis
-**Kekuatan:**  
-- Satu-satunya produsen Naphtha Cracker, Styrene Monomer, Butadiene di Indonesia (moat skala nasional).
-- Diversifikasi melalui akuisisi ACE dan masuk ke segmen refinery, memperluas peluang bisnis.
-- Manajemen menjalankan ekspansi armada (tanker, gas carrier) dan efisiensi selesai TAM (Turnaround Maintenance).
-
-**Risiko:**  
-- Margin sangat tipis dan tertekan harga naphtha; beban bunga membesar seiring utang naik.
-- Kenaikan laba Q2 2025 sangat tidak berkelanjutan (didominasi gain non-operasional—bukan kinerja inti).
-- Importasi produk kimia luar negeri menjadi ancaman struktural margin jangka panjang.
-- FCF negatif; tekanan kas & sustainability payout.
+### 4) Dividen & Valuasi
+- **Dividen TTM:** Rp 5,69 / saham
+- **Yield TTM:** 0,075% (sangat rendah, dividen payout rendah – payout ratio FY 2025: 1,99%)
+- **Valuasi:** P/E jauh di atas rata-rata peer (premium), P/B sangat tinggi;
+- **Dividen konsisten** tapi kecil
 
 ### 5) Rekomendasi
 **6M (Taktis):**  
-- Layak dipantau ketat; fokus pada realisasi sinergi pasca-akuisisi ACE dan pemulihan volume pasca-TAM. Investor short-term perlu perhatikan potensi normalization profit (core profit tipis).
-**5Y (Tesis):**  
-- Perlu transformasi biaya dan ekspansi produk bernilai tambah untuk mengejar margin global—jika tidak, risiko tekanan margin berlanjut seiring globalisasi bahan baku & persaingan regional.
+- Cermati volatilitas hasil Q2 2025; Waspadai potensi "one-off gain" yang tidak berkelanjutan; pendapatan Q2 tampak tidak normal.  
+- Sikap wait & see bagi investor baru; hanya untuk trading agresif yang paham trigger Q2 2025.
 
-### 6) Kesimpulan & Indikasi Strategis
-Jangka Pendek (≤ 6 bulan): ⚠️ Hati-hati – profit Q2 2025 didorong gain akuisisi; profit inti masih tertekan, margin tipis, FCF negatif.
-Jangka Panjang (> 5 tahun): ⚠️ Hati-hati – tanpa efisiensi radikal dan upgrade portofolio produk, ketahanan margin & kas terancam oleh tekanan impor dan biaya modal naik.
+**5Y (Tesis):**  
+- Fundamental: leader petrokimia nasional dengan exposure besar (tapi profitabilitas historis < konsensus sektor).
+- Jika recurring EBITDA kuat pasca-Q2 (bukan outlier), outlook positif; risk utama: margin, volatilitas harga global.
+
+### 6) Kesimpulan
+- **Jangka Pendek (≤6 bulan):** ⚠️ Sikap hati-hati, Q2 sangat outlier, belum terbukti sustain, valuasi mahal.
+- **Jangka Panjang (> 5 tahun):** ⚠️ Peluang tetap besar jika perbaikan fundamental terbukti jangka panjang & ekspansi berhasil, tapi perlu pembuktian recurring profitabilitas.
 
 ### 7) Catatan Penting
-Analisis ini bersifat edukasi, bukan ajakan untuk membeli atau menjual saham tertentu.  
-Keputusan investasi sepenuhnya ada di tangan investor sesuai profil risiko masing-masing.
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor.

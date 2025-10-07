@@ -1,55 +1,59 @@
-## PT TIMAH Tbk (TINS) – Mineral Mining One-Pager
+## TINS – Investor One-Pager
 
-### 1) Pertumbuhan YoY & Profitabilitas
-- **Pendapatan Q2 2025 YTD**: Rp 6.32 triliun (turun -19% YoY dari Rp 7.81 triliun di Q2 2024 YTD).
-- **Gross Profit Q2 2025 YTD**: Rp 845,78 miliar (gross margin ~13,4%; naik dari ~10,5% di Q2 2024).
-- **Operating Profit Q2 2025 YTD**: Tidak dispesifik, tetapi gross profit naik & biaya operasional turun (lihat insight).
-- **Net Profit Q2 2025 YTD**: Rp 416,93 miliar (margin net profit ~6,6%; turun YoY karena penurunan volume penjualan meski ASP naik).
-- **Komposisi Produk**: 100% timah (tidak terdiversifikasi, tidak ada emas/nikel/alumina/tembaga).
-- **Tren ASP**: ASP timah naik 8% YoY di Q2 2025, tapi volume turun signifikan (-28% YoY).
+### 1) Pertumbuhan & Tren Utama
+- **Pendapatan Q2 2025:** Rp2,121,979,000,000  
+  • QtQ: Naik tipis +1.1% dari Q1 2025 (Rp2,097,892,000,000)  
+  • YoY: Turun tajam -32.7% (vs Q2 2024 Rp3,155,298,000,000; *Sumber: TINS-2025Q2.TXT, TINS-2024Q2.TXT*)
+- **Laba Bersih Q2 2025:** Rp183,208,000,000  
+  • QtQ: Naik signifikan +56.7% (Q1 2025: Rp116,859,000,000)  
+  • YoY: *Data Q2 2024: Rp404,918,000,000* → turun -54.7% YoY
+- **EBITDA Q2 2025:** Rp441,070,000,000 (margin EBITDA: 20.8%)
+- **Gross Profit Q2 2025:** Rp463,351,000,000 (gross margin: 21.8%)
+- **YoY Kuartal:** Revenue dan laba turun drastis akibat tekanan harga timah global serta volume penjualan lemah.
+- **Arus Kas Operasi Q2 2025:** Rp171,544,000,000 (Q1 2025: Rp297,253,000,000); FCF Q2 2025: Rp120,769,000,000
+- **Aset & Ekuitas per 30/6/2025:**  
+  • Aset: Rp12,325,097,000,000  
+  • Ekuitas: Rp7,293,796,000,000  
+  • Total Liabilitas: Rp5,031,301,000,000
+- **Leverage** (Debt): Total Debt turun ke Rp1,381,378,000,000 (vs Rp2,042,014,000,000 FY 2024)—trend positif
+- **Cash & ST Investments:** Rp1,807,228,000,000
 
-### 2) Posisi Operasional & Efisiensi
-- **Volume Penjualan Timah Q2 2025 YTD**: Turun 28% YoY (detail agregat, tidak ada angka metrik eksplisit di Q2 2025).
-- **Produksi FY 2023** (benchmark): 15.340 ton metrik; penjualan 14.385 ton metrik.
-- **ASP vs Biaya**: ASP naik 8% (Q2 2025 YoY); COGS per revenue turun (COGS hanya 74% revenue di FY 2024 vs 94% FY 2023).
-- **DIO/DSO/DPO (FY 2024):**
-  - DIO = Avg Inventory / (COGS/365) ≈ 2,716 miliar / (8,026 miliar / 365) ≈ **124 hari**
-  - DSO = Avg Receivable / (Revenue/365) ≈ 894 miliar / (10,856 miliar / 365) ≈ **30 hari**
-  - DPO = Avg Payable / (COGS/365) ≈ 815 miliar / (8,026 miliar / 365) ≈ **37 hari**
-  - (Metode pakai rata-rata 2024 & 2023 untuk kas/beban lancar)
+**Periode yang dipakai untuk angka utama: Q2 2025 (30 Juni 2025)**
 
-### 3) Benchmark Kompetitif (Bullet Points)
-- **Timah:** TINS adalah produsen timah utama di Indonesia (produksi 15.340 ton, penjualan 14.385 ton FY2023). Tidak ada kompetitor domestik setara dalam volume & eksposur, menjadikan TINS pemimpin pasar, namun sangat rentan pada siklus harga global.
-- **Emas, Nikel, Alumina, Copper:** TINS tidak memproduksi atau menjual komoditas ini, sehingga kalah diversifikasi dibanding ANTM, MDKA, AMMN (emas/copper), atau INCO/NCKL (nikel).
+### 2) Posisi Kompetitif (Benchmark Highlights)
+- **Market Cap:** ~Rp16.83T (2024, peers: ANTM Rp76.9T, NCKL Rp72.5T)
+- **PBV TINS:** 2.31x (peer range: 2.22x [NCKL] – 6.78x+ [BRMS, ANTM])
+- **PER TTM:** 15.99x (peer range: 7.82x [DKFT] – 222.7x [BRMS], NCKL 9.45x, ANTM 36.6x)
+- **ROE FY24:** 15.9% (FY/2024)
+- Volume produksi/ekspor timah masih unggul nasional, tapi sangat rentan terhadap harga global.
+
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
+- **Net Profit Margin Q2 2025:** 8.6% (FY24: 10.9%), trend penurunan YoY
+- **Gross Margin Q2 2025:** 21.8% (FY24: 26.1%)
+- **Current Ratio Q2 2025:** Estimasi ~2.04x (Current Asset: Rp5.8T / Current Liab: Rp2.84T)
+- **Debt/Equity Q2 2025:** 0.19x (turun signifikan dari FY24: 0.72x)
+- **Interest Coverage Q2 2025:** EBIT/Interest = 1.91x (Rp270.4 miliar / Rp28.8 miliar)
+- **Kualitas aset cukup baik (cadangan kas, ekuitas dominan); leverage menurun, risiko finansial rendah.
+- **Cash Flow Consistency:** Positif di Q2 2025, membaik dari beberapa kuartal negatif di 2024.
 
 ### 4) Dividen & Valuasi
-- **Total Dividen 2025 YTD:** Rp 63,73 per saham (dibagikan 2025-06-23).
-- **Market Cap (Q3 2025):** Rp 1100 × 7,447,750,144 = **Rp 8,19 triliun**.
-- **CAGR harga saham 2022–YTD 2025:** 5,11%.
-- **Yield Dividen Tahunan Sederhana**: ~5,8% (Rp 63,7 / Rp 1.100).
+- **Dividen TTM:** Rp63.73/saham (2025, yield TTM: 2.82%)
+- **Payout Ratio:** 45.1%, cash payout 26.6%
+- **Valuasi:** PBV 2.31x, PER TTM 15.99x (kompetitif di antara peers, tidak diskon berat namun tidak premium)
 
-### 5) Insight Strategis
-**Kekuatan:**  
-- Rebound profitabilitas (net profit margin naik 364% FY 2024 vs 2023) didorong restrukturisasi biaya & penurunan COGS besar (dampak dari kasus korupsi & efisiensi; COGS/revenue turun dari 94% ke 74%).
-- Penurunan beban bunga, kas relatif stabil Q2 2025 vs Q2 2024 (Rp 1,82 triliun).
+### 5) Rekomendasi
+**6M (Taktis):**
+- Fokus monitoring tren global harga timah dan volume ekspor.
+- Underlying cashflow membaik; waspadai fluktuasi margin akibat volatilitas harga.
+- Potensi sentimen positif dari pembagian dividen tahunan.
 
-**Risiko:**  
-- Ketergantungan harga komoditas global, volatilitas ASP, regulasi ekspor & larangan ekspor timah RI.
-- Penurunan volume akibat kebijakan pemerintah, risiko kasus hukum, dan kurangnya diversifikasi produk meningkatkan risiko siklus dan tekanan laba.
+**5Y (Tesis):**
+- Prospek jangka panjang tetap moderat jika tata kelola ekspor membaik dan harga timah stabil naik.
+- Struktur pendanaan konservatif memberikan fleksibilitas ekspansi/pivot jika diperlukan.
 
-### 6) Rekomendasi
-**6M (Taktis):**  
-- Pantau tren ASP global, musim ekspor, dan peluang perbaikan volume penjualan setelah penurunan 2025.
-- Momentum cost-cutting masih berjalan, payout dividen moderat, likuiditas baik.
+### 6) Kesimpulan
+Jangka Pendek (≤6 bulan): ⚠️ – Margin dan bottom-line volatile; sentimen pasar sensitif harga timah.
+Jangka Panjang (> 5 tahun): ✅ – Ekuitas kuat, ekspansi prospektif bila siklus harga memulih.
 
-**5Y (Tesis):**  
-- Posisi sebagai pure player timah riskan–jika tidak diversifikasi ke hilir (produk turunan timah, hilirisasi mineral) dan menambah komoditas, outlook jangka panjang stagnan.
-- Disiplin capex & efisiensi biaya harus tetap dijaga, FCF historis fluktuatif.
-
-### 7) Kesimpulan & Indikasi Strategis
-Jangka Pendek (≤ 6 bulan): ⚠️ – Margin membaik & kas stabil, tapi risiko volume & harga masih tinggi.  
-Jangka Panjang (> 5 tahun): ⚠️ – Prospek tergantung pada hilirisasi & kebijakan pemerintah; tanpa diversifikasi produk, remain high-risk.
-
-### 8) Catatan Penting
-Analisis ini bersifat edukasi, bukan ajakan untuk membeli atau menjual saham tertentu.  
-Keputusan investasi sepenuhnya ada di tangan investor sesuai profil risiko masing-masing.
+### 7) Catatan Penting
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor.
