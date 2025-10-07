@@ -2,44 +2,45 @@
 
 ## HEADER
 Ticker: MDKA
-Company: -
-Sector: -
-Industry: -
-AsOf: 2024-09-30
+Company: PT Merdeka Copper Gold Tbk
+Sector: Basic Materials
+Industry: Metals & Minerals
+AsOf: 2025-06-30
 
 ## VALUATION
-Market Cap: -
-PER: -
-PBV: -
+Market Cap: IDR 51.8 triliun
+PER: -58.5x
+PBV: 3.5x
 Dividend Yield: -
 
 ## PROFITABILITY
-Revenue Growth YoY: -
-Net Profit Growth YoY: -
-Net Margin: -
-ROE: -
-ROA: -
+Revenue Growth YoY: -0.4%
+Net Profit Growth YoY: -6.3%
+Net Margin: -2.5%
+ROE: -1.9%
+ROA: -1.1%
 
 ## BALANCE & CASH
-DER: 0.78x
-FCF: -
+DER: 0.80x
+FCF: IDR 207 milyar
 
 ## SCORE (0–5 each; integers or 0.5 steps allowed)
-ValuationScore: -
-ProfitabilityScore: -
-BalanceScore: 3
-IncomeScore: -
+ValuationScore: 1
+ProfitabilityScore: 1
+BalanceScore: 2
+IncomeScore: 0
+TotalScore: 4
 
 ## NOTES
 Highlights:
-- Total assets grew to USD 5.15 billion as of Q3 2024
-- Equity increased to USD 2.89 billion
+- Large asset base and significant market capitalization
+- Returned to positive free cash flow in latest quarter
 
 Risks:
-- No profitability or valuation data available
-- Free cash flow and dividend information not disclosed
+- Negative earnings and margins persist
+- No dividend yield and weak profitability metrics
 
 ## METADATA
-Source: MDKA_BalanceSheet_simplified.txt
-Period: Q3 2024
-LastUpdate: 2024-06-30
+Source: Company filings, peer data
+Period: Q2 2025 YTD
+LastUpdate: 2025-06-30

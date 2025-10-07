@@ -1,48 +1,46 @@
 # COMPARE ONE-PAGER (CROSS-INDUSTRY READY)
 
 ## HEADER
-Ticker: NCKL
-Company: PT Trimegah Bangun Persada Tbk
-Sector: Basic Materials
-Industry: Other Industrial Metals & Mining
-AsOf: 2025-09-12
+Ticker: NCKL.JK  
+Company: PT Trimegah Bangun Persada Tbk  
+Sector: Basic Materials  
+Industry: Metals & Minerals  
+AsOf: 2025-06-30
 
 ## VALUATION
-Market Cap: IDR 67.45 triliun
-PER: 8.8x
-PBV: 1.9x
-Dividend Yield: 2.8%
+Market Cap: IDR 72.5 triliun  
+PER: 9.4x  
+PBV: 2.2x  
+Dividend Yield: 2.6%
 
 ## PROFITABILITY
-Revenue Growth YoY: +13%
-Net Profit Growth YoY: +9.1%
-Net Margin: 28.6%
-ROE: 21.2%
-ROA: 13.7%
+Revenue Growth YoY: +2.9%  
+Net Profit Growth YoY: +35.5%  
+Net Margin: 23.7%  
+ROE: 17.5%  
+ROA: 12.2%
 
 ## BALANCE & CASH
-DER: 0.4x
-FCF: IDR 4.46 triliun
+DER: 0.43x  
+FCF: IDR 1.77 triliun
 
 ## SCORE (0–5 each; integers or 0.5 steps allowed)
-ValuationScore: 4
-ProfitabilityScore: 4
-BalanceScore: 4
-IncomeScore: 3
+ValuationScore: 4  
+ProfitabilityScore: 4  
+BalanceScore: 4  
+IncomeScore: 3  
 TotalScore: 15
 
 ## NOTES
 Highlights:
-- Double-digit revenue and profit growth, strong net margin.
-- Low leverage and positive free cash flow.
-- Significant income from associates boosts bottom line.
+- Attractive valuation (PER 9.4x, PBV 2.2x) vs peers
+- Strong net profit growth (+35.5% YoY) and high margins
 
 Risks:
-- Nickel price volatility impacts ASP and segment revenue.
-- High dependence on export to China and affiliated buyers.
-- Rising financial expenses from increased bank loans.
+- Slower revenue growth (+2.9% YoY)
+- Commodity price volatility may impact earnings
 
 ## METADATA
-Source: Company filings, IDX, internal analysis
-Period: Q2 2025 YTD
-LastUpdate: 2025-09-12
+Source: Company filings, IDX, peer comparison  
+Period: Q2 2025 YTD  
+LastUpdate: 2025-06-30

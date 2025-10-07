@@ -1,45 +1,45 @@
 # COMPARE ONE-PAGER (CROSS-INDUSTRY READY)
 
 ## HEADER
-Ticker: MEGA
-Company: Bank Mega Tbk
-Sector: Financial Services
-Industry: Banks - Regional
-AsOf: 2025-09-11
+Ticker: MEGA.JK  
+Company: Bank Mega Tbk  
+Sector: Financials  
+Industry: Banks  
+AsOf: 2025-06-30
 
 ## VALUATION
-Market Cap: IDR 38.5 triliun
-PER: 14.6x
-PBV: 1.8x
-Dividend Yield: 2.7%
+Market Cap: IDR 38.2 triliun  
+PER: 13.8x  
+PBV: 1.7x  
+Dividend Yield: 2.6%
 
 ## PROFITABILITY
-Revenue Growth YoY: +0.7%
-Net Profit Growth YoY: -25.1%
-Net Margin: 25.6%
-ROE: 12.4%
+Revenue Growth YoY: -1.1%  
+Net Profit Growth YoY: +94.5%  
+Net Margin: 38.0%  
+ROE: 12.4%  
 ROA: 2.0%
 
 ## BALANCE & CASH
-DER: 5.4x
-FCF: IDR 15.3 triliun
+DER: 5.4x  
+FCF: IDR -8.0 triliun
 
 ## SCORE (0–5 each; integers or 0.5 steps allowed)
-ValuationScore: 4
-ProfitabilityScore: 2
-BalanceScore: 2
+ValuationScore: 4  
+ProfitabilityScore: 3  
+BalanceScore: 1  
 IncomeScore: 2.5
 
 ## NOTES
 Highlights:
-- Low PER and PBV versus sector peers
-- Consistently positive free cash flow
+- Attractive valuation (PER and PBV below sector average)
+- Net profit growth surged YoY
 
 Risks:
-- Weak credit quality (high Loan at Risk, rising impairment)
-- Net profit and deposit base declining
+- High leverage (DER >5x)
+- Negative free cash flow latest quarter
 
 ## METADATA
-Source: Company filings, IDX, internal analysis
-Period: Q2 2025 YTD
-LastUpdate: 2025-09-11
+Source: Company filings, peer data  
+Period: Q2 2025 YTD  
+LastUpdate: 2025-06-30

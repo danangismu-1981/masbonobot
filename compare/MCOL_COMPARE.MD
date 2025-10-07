@@ -1,45 +1,46 @@
 # COMPARE ONE-PAGER (CROSS-INDUSTRY READY)
 
 ## HEADER
-Ticker: MCOL
-Company: -
-Sector: -
-Industry: -
-AsOf: 2024-12-31
+Ticker: MCOL.JK  
+Company: PT Prima Andalan Mandiri Tbk  
+Sector: Energy  
+Industry: Coal  
+AsOf: 2025-06-30
 
 ## VALUATION
-Market Cap: -
-PER: -
-PBV: -
-Dividend Yield: -
+Market Cap: IDR 13.48 triliun  
+PER: 12.9x  
+PBV: 1.56x  
+Dividend Yield: 5.2%
 
 ## PROFITABILITY
-Revenue Growth YoY: -
-Net Profit Growth YoY: -
-Net Margin: -
-ROE: -
-ROA: -
+Revenue Growth YoY: -26.0%  
+Net Profit Growth YoY: -59.5%  
+Net Margin: 14.7%  
+ROE: 19.4%  
+ROA: 14.9%
 
 ## BALANCE & CASH
-DER: 0.3x
-FCF: -
+DER: 0.31x  
+FCF: IDR 1.03 triliun
 
 ## SCORE (0–5 each; integers or 0.5 steps allowed)
-ValuationScore: -
-ProfitabilityScore: -
-BalanceScore: 4
-IncomeScore: -
+ValuationScore: 4  
+ProfitabilityScore: 2  
+BalanceScore: 4  
+IncomeScore: 3  
+TotalScore: 13
 
 ## NOTES
 Highlights:
-- Low debt with DER at 0.3x
-- Strong equity position relative to liabilities
+- Low valuation multiples (PER, PBV) vs. peers
+- Strong balance sheet with low DER and positive FCF
 
 Risks:
-- No profitability or cash flow data available
-- Market valuation metrics not provided
+- Sharp YoY decline in revenue and profit
+- Dividend yield below recent historical average
 
 ## METADATA
-Source: MCOL_BalanceSheet_simplified.txt
-Period: FY 2024
-LastUpdate: 2024-12-31
+Source: Company filings, IDX, peer data  
+Period: Q2 2025 YTD  
+LastUpdate: 2025-06-30
