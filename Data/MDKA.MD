@@ -1,61 +1,52 @@
-## MDKA – Mineral Mining One-Pager
+## MDKA – Investor One-Pager
 
-### 1) Pertumbuhan YoY & Profitabilitas
-- **Data Q3 2024 YTD** (per 30 Sep 2024):
-    - Data pendapatan, gross profit, operating profit, dan net profit serta margin *TIDAK tersedia* pada file yang dianalisis, sehingga tidak dapat dihitung atau dibandingkan secara YoY.
-    - Komposisi produk (emas/nikel/alumina/timah/tembaga) dan kontribusi pada laba tidak dapat ditampilkan karena tidak ada detail breakdown di file ini.
-- **Highlights posisi ekuitas & aset**:
-    - Total aset: USD 5,15 miliar (Q3 2024), naik +10% YoY (vs USD 4,69 miliar Q3 2023).
-    - Ekuitas: USD 2,89 miliar (Q3 2024), tumbuh +10% YoY (vs USD 2,62 miliar Q3 2023).
-    - Total liabilitas: USD 2,26 miliar, selaras dengan ekspansi aset.
-    - Cash & setara kas: USD 438 juta (Q3 2024), stabil.
-- **KESIMPULAN**: Tidak ada data profitabilitas detail; kenaikan aset dan ekuitas menunjukkan ekspansi dan penguatan struktur neraca.
+### 1) Pertumbuhan & Tren Utama
+- **Pendapatan Q2 2025:** Rp5,719 triliun *(Q2 2025)*, turun signifikan dari Q1 2025: Rp8,334 triliun & Q4 2024: Rp9,253 triliun *(QtQ -31%; YoY tren negatif)*.
+- **Laba Bersih Q2 2025:** -Rp195,8 miliar *(negatif, Q2 2025)*. Laba bersih Q1 2025 juga minus (-Rp62 miliar); Q4 2024 sempat positif (Rp182,3 miliar), menunjukkan performa memburuk *secara QtQ*.
+- **Gross Profit Q2 2025:** Rp783 miliar *(Q2 2025)*, turun dari Q1 2025: Rp957 miliar.
+- **Operating Cash Flow Q2 2025:** Rp2,08 triliun *(Q2 2025, per quarter—not annualized)*, membaik dari Q1 2025: Rp0,91 triliun.
+- **Free Cash Flow Q2 2025:** Rp207,4 miliar (positif, membalik dari Q1 2025 yang negatif: -Rp1,7 triliun).
+- **YoY Revenue Growth:** -0,39% *(FY24 vs FY23; FY24: Rp36,25T, FY23: Rp26,35T; ada anomali data annual, tetap gunakan data per ketentuan)*
+- **YoY Quarter Earnings Growth:** -632,5% (*FY24 vs FY23, menunjukkan penurunan laba ekstrem; sumber annual*).
 
-### 2) Posisi Operasional & Efisiensi
-- **Volume produksi/penjualan per komoditas & ASP**: *Tidak tersedia* pada file ini.
-- **DIO/DSO/DPO (menggunakan metode rata-rata Q3 2024 & Q3 2023)**:
-    - Rata-rata Inventory: (USD 374,3 juta + USD 453,7 juta) / 2 = USD 414,0 juta
-    - DIO: **Data COGS tidak tersedia**, sehingga DIO tidak bisa dihitung.
-    - Rata-rata Receivable: (USD 253,3 juta + USD 166,0 juta) / 2 = USD 209,7 juta
-    - DSO: **Data penjualan tidak tersedia**, DSO tidak dapat dihitung.
-    - Rata-rata Payable: (USD 279,1 juta + USD 338,5 juta) / 2 = USD 308,8 juta
-    - DPO: **Data COGS tidak tersedia**, DPO tidak dapat dihitung.
-- **Catatan**: Tidak ada detail breakdown persediaan atau penjualan untuk komoditas individual.
+**Periode yang dipakai untuk angka utama: Q2 2025**
 
-### 3) Benchmark Kompetitif (Bullet Points)
-- **Emas:** MDKA merupakan salah satu produsen besar di Indonesia, namun detail volume vs MDKA/AMMN tidak tersedia di file ini → implikasi: sulit menilai pangsa pasar aktual dan efisiensi operasi.
-- **Nikel, Tembaga, Alumina, Timah:** Tidak ada data produksi/penjualan spesifik, sehingga tidak bisa membandingkan langsung dengan INCO, NCKL, TINS, dll.
-- **Implikasi:** Keterbatasan data membatasi prediksi posisi kompetitif dan strategi nilai tambah di pasar mineral nasional.
+### 2) Posisi Kompetitif (Benchmark Highlights)
+- **Market Cap:** Rp51,76 triliun (FY24; peers: AMMN Rp502T, ANTM Rp77T, NCKL Rp73T).
+- **PER TTM:** -58,45 (negatif; di bawah peers, cerminan laba negatif).
+- **PBV TTM:** 3,52 (FY24; lebih rendah dari rata-rata sub-sektor PBV: EMAS 16,77; peers: ARCI 4,65, PSAB 2,80, MBMA 2,67, NCKL 2,22).
+- **Net Income FY24:** -Rp902,8 miliar; peers bervariasi dari positif (NCKL, ARCI, ANTM, AMMN, MBMA) hingga negatif (EMAS).
+- **Total Assets MDKA:** Tertinggi kedua setelah AMMN.
+
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
+- **Gross Profit Margin Q2 2025:** 13,7% (783m/5,72T; *turun dari Q1 2025: 11,5%*).
+- **Operating Margin Q2 2025:** 10,1% (575m/5,72T).
+- **Net Margin Q2 2025:** Negatif, -3,4%.
+- **Total Assets Q2 2025:** Rp85,75 triliun.
+- **Total Equity Q2 2025:** Rp46,57 triliun.
+- **Debt to Equity Q2 2025:** ~0,63 (Total Debt Rp29,44T/Equity Rp46,57T).
+- **Current Ratio Q2 2025:** Sangat lemah (Current Assets Rp1,07T vs Current Liabilities Rp16,66T).
+- **Interest Expense Q2 2025:** Rp550,6 miliar (sangat tinggi, tekan laba bersih).
+- **Arus kas Operasi stabil membaik di Q2 2025 namun FCF masih sangat kecil secara relatif.**
 
 ### 4) Dividen & Valuasi
-- **Dividen:** Tidak tersedia data dividen tahun berjalan di file ini.
-- **Market cap:** Tidak ada data harga saham & jumlah saham; market cap & Rasio valuasi tidak bisa dihitung.
-- **CAGR:** Tidak tersedia.
-- **Indikator sederhana:** Ekuitas dan cash strong, namun rasio valuasi tidak dapat ditampilkan.
+- **Dividen:** Data periode terbaru tidak tersedia.
+- **Valuasi TTM:** PER negatif, PBV cukup tinggi (3,52x; premium terhadap beberapa peers, diskon terhadap beberapa lain).
+- **Kinerja harga:** Market cap turun 21% YoY (FY24).
 
-### 5) Insight Strategis
-**Kekuatan:**
-- Neraca sangat solid; kenaikan aset dan ekuitas + kas besar menjadi modal ekspansi atau manuver strategis.
-- Diversifikasi aset tambang (aset tetap, mining properties, goodwill) memperkuat fondasi pertumbuhan ke depan.
+### 5) Rekomendasi
+**6M (Taktis):**  
+- Fokus perbaikan struktural (arus kas, pengendalian beban bunga).
+- Hindari ekspansi agresif sebelum kualitas pendanaan membaik.
+- Short-term outlook cenderung negatif jika tren rugi berlanjut.
 
-**Risiko:**
-- Data profitabilitas absen – tidak diketahui apakah ekspansi aset diikuti profit dan efisiensi biaya.
-- Ketergantungan pada dinamika harga komoditas utama (emas/nikel); volatilitas dapat memengaruhi kinerja Q-to-Q.
-- Potensi lonjakan utang (lihat kenaikan bonds payable + bank loan Q3 2024) → risiko likuiditas bila arus kas operasi melemah.
+**5Y (Tesis):**  
+- Recovery prospek sangat tergantung pembalikan laba, efisiensi operasional, & keberhasilan manajemen proyek.
+- Potensi pertumbuhan tetap ada mengingat posisi aset dan skala, namun risiko eksekusi & leverage tinggi.
 
-### 6) Rekomendasi
-**6M (Taktis):**
-- Pantau katalis fundamental: rilis kinerja triwulan berikutnya, tren harga emas/nikel global, serta potensi efisiensi operasional.
-- Perhatikan porsi kas besar – ruang pembagian dividen tetap terbuka jika profitabilitas konsisten.
+### 6) Kesimpulan
+- **Jangka Pendek (≤6 bulan): ⚠️** – Potensi tekanan laba & arus kas; monitoring ketat arus kas & leverage sangat disarankan.
+- **Jangka Panjang (> 5 tahun): ⚠️** – Ada upside jika turnaround berjalan, tapi eksekusi & struktur modal adalah kunci.
 
-**5Y (Tesis):**
-- Optimalkan diversifikasi & integrasi tambang–hilir agar risiko harga komoditas termitigasi.
-- Investasi strategis ke produk bernilai tambah (downstream, refineri, MHP) akan menjadi pendorong nilai jangka panjang.
-
-### 7) Kesimpulan & Indikasi Strategis
-Jangka Pendek (≤ 6 bulan): ⚠️ – Data profitabilitas belum tersedia; fokus ke siklus harga; monitor laporan keuangan berikutnya.  
-Jangka Panjang (> 5 tahun): ✅ – Struktur neraca solid + ekspansi aset, peluang pertumbuhan melalui diversifikasi dan hilirisasi besar.
-
-### 8) Catatan Penting
-Analisis ini bersifat edukasi, bukan ajakan untuk membeli atau menjual saham tertentu.  
-Keputusan investasi sepenuhnya ada di tangan investor sesuai profil risiko masing-masing.
+### 7) Catatan Penting
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor.

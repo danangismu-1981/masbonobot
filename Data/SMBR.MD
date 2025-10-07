@@ -1,68 +1,47 @@
-**One Page Investment Brief – SMBR (Q2 2025 YTD)**
+## SMBR – Investor One-Pager
 
----
+### 1) Pertumbuhan & Tren Utama
+- **Pendapatan Q2 2025:** Rp566,2 miliar (Q2 2025) — **naik** 8,6% QoQ dari Rp527,8 miliar (Q1 2025); **turun** 17,2% YoY dari Rp683,3 miliar (Q4 2024, catatan: per Q2 2024* pendapatan Rp402,7 miliar).
+- **Laba bersih Q2 2025:** Rp30,7 miliar — **turun** 37,4% QoQ dari Rp48,96 miliar (Q1 2025); **jauh menurun** YoY dari Rp93,64 miliar (Q4 2024).
+- **Gross profit**: Rp157,75 miliar (Q2 2025) — turun dari Rp175,99 miliar (Q1 2025) dan Rp229,74 miliar (Q4 2024).
+- **EBITDA Q2 2025:** Rp60,0 miliar — tajam turun dari Rp124,3 miliar (Q1 2025; efek musiman/one-off?).
+- **FCF Q2 2025:** Minus Rp109,9 miliar — kontraksi besar dari positif Rp11,1 miliar (Q1 2025); kuatkan risiko likuiditas jika tren berlanjut.
+- **Aset**: Rp4,84 triliun | **Ekuitas**: Rp3,32 triliun  | **Liabilitas:** Rp1,52 triliun (Q2 2025), relatif stabil dari Q1 2025.
+- **Catatan**: Laju pendapatan pulih QoQ, namun laba dan kas anjlok; biaya finansial tinggi dan profitabilitas tergerus.
+- **Periode yang dipakai untuk angka utama: Q2 2025 (per 30 Juni 2025)**
 
-### 1. **Snapshot**
-- **CAGR Saham (2022–Q2 2025 YTD):** -7,87%
-- **Jumlah Saham Beredar:** 9.932.529.664
-- **Dividen Terakhir & Yield (2025):** Rp2,603/saham; yield ~0,9% (dividen tahunan/price Q2 2025 YTD)
-- **EPS (Q2 2025 YTD):** Rp8,02 (Laba bersih Rp79,6 miliar / 9,93 miliar saham)
-- **PER (Q2 2025 YTD):** ~18,4x (annualized, trailing)
-- **BVPS (Q2 2025 YTD):** Rp319,4 (Ekuitas Rp3,17 triliun / 9,93 miliar saham)
-- **PBV (Q2 2025 YTD):** ~0,92x
-- **Leverage (Liabilitas/Ekuitas Q2 2025 YTD):** 0,49x (Rp1,56 triliun / Rp3,17 triliun)
-- **Posisi Kas (Q2 2025 YTD):** Rp29,8 miliar (turun signifikan, sebelumnya Rp98,4 miliar FY 2023)
-- **Utang Bersih (Q2 2025 YTD):** Rp576 miliar (kas Rp29,8 miliar, pinjaman bank Rp606 miliar)
+### 2) Posisi Kompetitif (Benchmark Highlights)
+- **P/E trailing**: 13,4x (Q4 2024, peers: SMCB 9,7x, INTP 11,1x, SMGR 83,8x).
+- **PBV**: 861x (data Q4 2024 tampak anomali, peer PBV: SMCB 0,54x, INTP 1,06x).
+- **ROE/Q4 2024**: 3,95% vs peers SMCB ~5,8% (estimasi) — margin tertinggal dibanding pemain besar.
+- **Market cap**: Rp2,86 triliun — cenderung lebih kecil; posisi pasar lemah melawan INTP dan SMGR (market cap>Rp18 triliun).
 
----
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
+- **Gross margin Q2 2025:** 27,9% (menurun dari 33,4% Q1 2025 dan 33,6% Q4 2024).
+- **Lab net margin Q2 2025:** ~5,4% (turun tajam dari 9,3% Q1 2025 & 13,7% Q4 2024).
+- **EBITDA margin Q2 2025:** ~10,6% (eks: Q1 2025 23,6%). Margin menipis.
+- **Debt/equity Q2 2025:** 0,19x (masih sangat konservatif; ruang leverage tinggi; Q4 2024: 0,16x).
+- **Arus kas operasi Q2 2025:** Minus Rp11,48 miliar; musim/lompatan investasi atau masalah efisiensi?
+- **Kas & simpanan Q2 2025:** Rp13,2 miliar (turun drastis dari Rp32,4 miliar Q1 2025).
 
-### 2. **Growth YoY & Profitability**
-- **Pendapatan (Q2 2025 YTD):** Rp1,09 triliun (+31% YoY vs Q2 2024: Rp835 miliar)
-- **Laba Bersih (Q2 2025 YTD):** Rp79,6 miliar (vs Q2 2024: Rp7,3 miliar, lonjakan signifikan)
-- **Margin (Q2 2025 YTD):**
-  - **Gross:** 30,5%
-  - **Operating:** 12,2%
-  - **Net:** 7,3%
-- **Arus Kas Operasi (Q2 2025 YTD):** Rp139 miliar (FY 2024: Rp183 miliar)
-- **Capex (Q2 2025 YTD):** Rp15,0 miliar (FY 2024: Rp54,1 miliar)
-- **Free Cash Flow (FY 2024):** Rp145 miliar (turun dari Rp199 miliar FY 2023)
-- **Owner’s Earnings (FY 2024):** Rp137 miliar (turun dari Rp163 miliar FY 2023)
-- **Siklus Kas (CCC FY 2024):** Meningkat (piutang dari SMGR naik signifikan, tekanan modal kerja)
-- **Highlight Kuartal Terbaru:** Volume penjualan naik 21% YoY, ASP naik, namun kas turun tajam akibat pelunasan utang & likuidasi deposito.
+### 4) Dividen & Valuasi
+- **Dividen 2025:** Rp2,60 per saham (ex-date: 11 Juni 2025); yield TTM: 0,90%
+- **Payout ratio TTM:** 12,1% | **Cash payout:** 29,5% — cukup konservatif.
+- **Valuasi:** Secara PE masih wajar dibanding peers sub-sektor BEI, namun PBV sangat tinggi/outlier (perhitungan akuntansi?); perlu kehati-hatian.
 
----
+### 5) Rekomendasi
+**6M (Taktis):**
+- Hati-hati terkait kas minus & shrinking margin. Arus kas operasi dan FCF buruk berturut turut, meski pendapatan membaik.
+- Margin tipis bisa membebani pergerakan harga saham, walau leverage rendah (aman).
 
-### 3. **Competitive Position**
-- **Market Share:** 3,3% nasional (terkecil di antara peers besar)
-- **Utilisasi Kapasitas:** 55,7% (di bawah SMCB/SMGR, di atas CMNT)
-- **Margin:** Lebih rendah dari INTP/SMGR, namun efisiensi distribusi membaik pasca akuisisi SMGR.
-- **Iklan/Penjualan:** Data tidak tersedia, namun efisiensi biaya distribusi menjadi keunggulan.
-- **CCC:** Memburuk akibat piutang SMGR, risiko likuiditas meningkat.
-- **Komposisi Domestik/Ekspor:** 100% domestik.
-- **Kekuatan (Moat):** Bagian dari grup SMGR (akses proyek pemerintah, DMO batubara), pemimpin pasar Sumbagsel.
-- **Kelemahan:** Ketergantungan pasar Sumatera Selatan, sensitif pada permintaan regional & proyek infrastruktur.
+**5Y (Tesis):**
+- Struktur keuangan sehat, leverage rendah.
+- Namun, tren pelemahan profitabilitas dan marjin — pasar domestik masih sangat kompetitif, risiko tetap tinggi.
+- Prospek jangka panjang sangat bergantung pada efisiensi operasional & sinergi bisnis di ekosistem BUMN.
 
----
+### 6) Kesimpulan
+Jangka Pendek (≤6 bulan): ⚠️ – Recovery pendapatan namun margin dan FCF lemah; perbaikan kas perlu dipantau ketat.
+Jangka Panjang (> 5 tahun): ⚠️ – Fundamental cukup sehat (leverage rendah), tapi kebutuhan efisiensi & transformasi jelas masih besar; ruang kenaikan valuasi/return terbatas jika tidak ada perbaikan profitabilitas.
 
-### 4. **Valuation & Quality Takeaways**
-- **PER (Q2 2025 YTD):** ~18,4x (annualized)
-- **PBV (Q2 2025 YTD):** ~0,92x
-- **Dividend Yield:** ~0,9%
-- **Risiko Utama:** Likuiditas kas menipis, CCC memburuk, permintaan regional fluktuatif, tekanan margin energi.
-
----
-
-### 5. **Strategic Recommendations**
-- **6M (Taktis):** Fokus perbaikan kas & efisiensi modal kerja, pantau realisasi proyek pemerintah & tren permintaan regional.
-- **5Y (Tesis):** Diversifikasi pasar di luar Sumbagsel, maksimalkan sinergi SMGR, perbaiki struktur modal & efisiensi operasional.
-
----
-
-### 6. **Kesimpulan & Indikasi Strategis**
-- **Jangka Pendek (≤6 bulan):** ⚠️ Hati-hati – Kas menipis, tekanan modal kerja, risiko likuiditas tinggi.
-- **Jangka Panjang (>5 tahun):** ✅ Positif – Sinergi SMGR, peluang proyek pemerintah, potensi perbaikan efisiensi.
-
----
-
-### 7. **Catatan Penting**
-*Disclaimer: Brief ini untuk edukasi, bukan rekomendasi investasi. Selalu lakukan analisis mandiri sebelum mengambil keputusan.*
+### 7) Catatan Penting
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor.

@@ -1,64 +1,69 @@
-## ISSP – Steel Value Investor One-Pager
+## ISSP – Investor One-Pager
 
-### 1) Pertumbuhan YoY (periode terbaru)
-- **Revenue (Q2 2025 YTD):** IDR 2.61 triliun, turun -6.5% YoY dari Q2 2024 YTD (IDR 2.80 triliun).
-    - Penurunan didorong segmen Steel Pipe Mill (-10.8%) & Spiral Pipe Mill (-17.6%) akibat turunnya permintaan proyek konstruksi.
-    - **Segmen Strips & Plate melonjak +65% YoY**, kontributor positif namun dengan pangsa masih kecil.
-- **Gross profit (Q2 2025 YTD):** IDR 521 miliar, naik +6% YoY; **gross margin** naik signifikan menjadi ~20% (dari 17.6% di Q2 2024 YTD, inferensi dari gross profit/revenue).
-    - Didukung harga HRC murah impor China & ASP produk turun terbatas.
-- **Laba bersih (Q2 2025 YTD):** IDR 213 miliar, naik +2% YoY, meski tekanan devisa & volume.
+### 1) Pertumbuhan & Tren Utama
+- **Pendapatan Q2 2025 YTD:** Rp2,616 triliun (Q2 2025: Rp1,334T; Q1 2025: Rp1,280T)
+    - **QtQ:** +4% vs Q1 2025 (Rp1,280T); 
+    - **YoY:** Penurunan, Q2 2024 YTD: Rp2,797T → Q2 2025 YTD: Rp2,616T (YoY -6.5%)
+- **Laba bersih Q2 2025 YTD:** Rp213,36 miliar (Q2 2025: Rp128,83M; Q1 2025: Rp84,53M)
+    - **QtQ:** +52%  
+    - **YoY:** Q2 2024 YTD: Rp209,59M → Q2 2025 YTD: Rp213,36M (YoY +1.8%)
+- **Aset total:** Rp8,391T (Q2 2025), relatif stabil vs FY2024 (Rp8,295T)
+- **Pertumbuhan EBITDA Q2 2025 YTD:** Rp373,81M  (Q2: Rp219,80M; Q1: Rp154,02M)
+- **Free Cash Flow Q2 2025 YTD:** Rp444,99M (Q2: Rp300,49M; Q1: Rp144,50M) – ada akselerasi kuat
+- **Catatan:** Margin laba cenderung stabil, namun topline masih flat/penurunan ringan YoY
 
-### 2) Unit Economics & Kapasitas
-- **Sales volume FY 2023:** 363.6 ribu ton; update volume Q2 2025 tidak tersedia, namun tren Insight Q2 2025 → volume segmen utama menurun kecuali Strips/Plate.
-- **ASP FY 2023 (from Benchmark):** USD 1,151/ton (IDR 17.75 juta/ton).
-    - **ASP cenderung turun** di 2024/2025 mengikuti harga HRC & tekanan impor.
-- **Production volume FY 2023:** 404.1 ribu ton.
-- **Production capacity:** 600 ribu ton/tahun.
-- **Utilization (FY 2023):** 67% (404.1/600).
-    - Belum ada data pasti 2024–25, tapi volume menurun → utilisasi kemungkinan turun.
-- **Product Mix:** Dominasi downstream: steel pipe, plate, galvanize, coating. Tidak produksi HRC/CRC sendiri → fleksibel sourcing.
+**Periode yang dipakai untuk angka utama: Q2 2025 YTD (Jan–Jun 2025)**
 
-### 3) Posisi Kompetitif (berdasarkan Benchmark)
-- **ASP tertinggi:** ISSP USD 1,151/ton vs GGRP 843, KRAS 1,058 → margin lebih tebal, pricing power lebih kuat (produk lebih spesialis).
-- **Utilization:** ISSP 67% (FY 2023) vs GGRP 70% → efisiensi baik, unggul jauh atas KRAS (26%).
-- **Product Mix:** ISSP fokus downstream (pipe/plate/galv), tidak terpapar harga HRC/CRC global langsung; lebih tahan gejolak pasar komoditas.
-- **Margin:** Gross margin Q2 2025 ~20% vs rerata sektor ±13–16% → keunggulan struktur biaya & pricing.
+---
+
+### 2) Posisi Kompetitif (Benchmark Highlights)
+- **ISSP P/E TTM:** 5,5x | **P/B MRQ:** 0,6x (Q2 2025, banding FY2024 peers)
+- Banding peer utama 2024:
+    - **KRAS**: P/E -5,3x, P/B 1293x (distorsi besar oleh loss)
+    - **CTBN**: P/E 8,0x, P/B 2,1x
+    - **GGRP**: P/E -10x, P/B 0,26x
+    - **GDST:** P/E 16,4x, P/B 0,73x
+- **Kesimpulan:** ISSP relatif undervalued dengan profitabilitas positif & konsisten dibanding mayoritas peer, valuasi wajar/menarik untuk sektor
+
+---
+
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
+- **Net Profit Margin Q2 2025 YTD:** ~8,2%
+    - Konsisten dengan FY2024 (8,7%) & Q2 2024 YTD (7,5%)
+- **Gross Profit Margin Q2 2025 YTD:** ~21,2% (Ann. dari H1 2025: Gross Profit Rp520,99M / Revenue Rp2,616T)
+- **ROE** & **ROA** (FY2024): 10,5% & 6,4%
+- **Debt/Equity Q2 2025:** 0,46x (Total Debt Rp2,36T / Total Equity Rp5,14T) – menurun, menunjukkan de-leveraging
+- **Current Ratio Q2 2025:** 2,8x (Current Assets Rp5,16T / Current Liabilities Rp1,82T) – posisi sangat likuid
+- **Arus Kas Operasi Q2 2025 YTD:** Rp692,72M, jauh membaik vs H1 2024 (Rp442,1M)
+
+---
 
 ### 4) Dividen & Valuasi
-- **Market cap** (Sept 2025): ~IDR 2.90 triliun (410 x 7,065,339,904).
-- **Dividen yield:** 2025: IDR 16/unit (annualized), yield ~3.9% (dibanding harga YTD).
-- **Dividen tumbuh**: IDR 9/unit (2022) → 15 (2024) → 16 (2025).
-- **CAGR harga saham:** +30.5% (2022–2025 YTD), sangat tinggi untuk emitten sektor baja.
-- **Valuasi fundamental berbasis laba bersih Q2 2025 (annualised PE ~6–7x, konservatif).
+- **Dividen TTM (2025):** Rp16/saham (~3,8% yield; sumber: file dividend 2025)
+- **Average 5Y Yield:** 2,5% – dividend meningkat 2024 dan 2025
+- **Payout Ratio TTM:** 21,2% (moderate & sustainable)
+- **Valuasi:** 
+    - **P/E TTM:** 5,5x – jauh di bawah rata-rata IHSG & peer positif
+    - **P/B:** 0,6x – di bawah rata-rata industri
 
-### 5) Insight Strategis
-**Kekuatan:**
-- Pricing power lewat downstream (pipe/plate/galv), produk spesialis, tidak sensitif harga komoditas HRC.
-- Gross margin defensif saat harga bahan baku turun; benefit besar dari HRC impor murah.
-- Low leverage; net debt menurun tajam; kas tumbuh solid.
-- Konsisten bayar dividen, pricing outperform peers utama.
+---
 
-**Risiko:**
-- Volume tertekan akibat permintaan konstruksi lesu & banjir baja murah impor (China).
-- Risiko kurs: trade payables dominan dalam USD, IDR lemah → FX loss.
-- Ketergantungan bahan baku HRC, potensi harga naik mendadak → meremas margin, terutama bila ASP turun karena over-supply/kompetisi.
-
-### 6) Rekomendasi
+### 5) Rekomendasi
 **6M (Taktis):**
-- Focus kawal margin melalui sourcing HRC murah, cost discipline, percepat bauran produk naik margin (strips/plate/galv).
-- Monitor tekanan ekspor-impor baja China, siapkan defensive mode jika safeguard makin longgar.
+- Fokus pada eksekusi penjualan & margin, arus kas sangat sehat, leverage makin rendah
+- Buyback/akuisisi/investasi organik layak dipertimbangkan
 
 **5Y (Tesis):**
-- Peningkatan downstream, diversifikasi end-user otomatis/alat berat/infrastruktur jadi driver resilient cashflow.
-- Proyeksi margin di atas rata-rata peer jika tetap disiplin biaya & maintain pricing power.
-- Potensi reward bagi pemegang saham: yield terjaga, valuasi rerate jika utilisasi/projects bangkit.
+- Struktur finansial makin sehat, basis aset kuat & likuiditas aman
+- Prospek didukung kebutuhan infrastruktur nasional; ISSP bisa konsolidasikan posisi pasar baja pipa domestik
 
-### 7) Kesimpulan & Indikasi Strategis
-Jangka Pendek (≤ 6 bulan): ⚠️ – Margin kuat, tapi volume & outlook proyek konstruksi lemah, risiko FX/legal safeguard perlu diawasi.
-Jangka Panjang (> 5 tahun): ✅ – Downstream focus, margin superior, risk transfer ke customer/produk spesialis, prospek ROIC tinggi.
+---
 
-### 8) Catatan Penting
-- Analisis berbasis data per Q2 2025 (YTD). Perubahan harga HRC, kurs, safeguard bisa ubah outlook.
-- Annualisasi laba dengan metode [laba Q2 2025 x 2].
-- Inferensi margin, yield, utilisasi menggunakan data benchmark, laporan publik, dan Insight.  
-- Bukan saran beli/jual. Investor harap lakukan kajian lanjutan.
+### 6) Kesimpulan
+Jangka Pendek (≤6 bulan): ✅ – Likuiditas tinggi, pertumbuhan laba positif, valuasi atraktif
+Jangka Panjang (> 5 tahun): ✅ – Deleveraging berjalan, profit konsisten, kebijakan dividen menarik, positioning solid di sektor
+
+---
+
+### 7) Catatan Penting
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor.

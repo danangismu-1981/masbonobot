@@ -1,71 +1,53 @@
-**One Page Investment Brief – INTP (Q2 2025 YTD)**
+## INTP – Investor One-Pager
 
----
+### 1) Pertumbuhan & Tren Utama
+- **Pendapatan Q2 2025:** Rp4,057 triliun  _(Q2 2025)_; naik tipis dari Q2 2024 Rp4,042 triliun _(YoY +0,4%)_.
+- **Laba Bersih Q2 2025:** Rp284,08 miliar, meningkat signifikan (YoY Q2 2024: Rp196,68 miliar, +44,5% YoY).
+- **EBITDA Q2 2025:** Rp466,16 miliar _(Q2 2025)_, naik dari Q2 2024 Rp354,19 miliar _(YoY +31,7%)_.
+- **Gross Profit Margin Q2 2025:** 30,2% _(1.222/4.057)_, relatif stabil dengan tren setahun terakhir.
+- **Free Cash Flow Q2 2025:** Rp261,53 miliar, membaik signifikan dibanding Q1 2025 (-Rp135 miliar) dan Q2 2024 (Rp89,92 miliar).
+- **Aset & Ekuitas Q2 2025:** Total aset Rp29,11 triliun; ekuitas Rp21,74 triliun.
+- **Tren Kuartalan:** Laba operasi dan free cash flow menguat sejak Q1 2025, menunjukkan perbaikan operasi inti dan efisiensi.
+  
+**Periode yang dipakai untuk angka utama: Q2 2025**
 
-### 1. Snapshot  
-- **CAGR Saham (2022–Q2 2025 YTD):** -6,69%  
-- **Jumlah Saham Beredar:** 3.515.599.872  
-- **Dividen Terakhir (2025):** Rp259/saham (yield 3,6% annualized, payout stabil)  
-- **EPS (Q2 2025 YTD):** Rp141/saham (Net Profit: Rp494,8 miliar)  
-- **PER (Q2 2025 YTD):** 25,1x (annualisasi sederhana)  
-- **BVPS (Q3 2024):** Rp6.043 (Ekuitas: Rp21,24 triliun)  
-- **PBV (Q3 2024):** 1,18x  
-- **Leverage (Q3 2024):** 0,34x (Liabilitas/Ekuitas: Rp7,28 triliun/Rp21,24 triliun)  
-- **Kas & Setara Kas (Q3 2024):** Rp2,70 triliun  
-- **Utang Bersih (Q3 2024):** Net cash (kas > pinjaman bank Rp2 triliun)
+### 2) Posisi Kompetitif (Benchmark Highlights)
+- **Market Cap:** Rp23,03 triliun _(2024)_ – terbesar di sektor bahan bangunan Indonesia.
+- **P/E TTM:** 11,14 x, lebih rendah dan lebih atraktif vs peer utama:
+    - SMGR: 83,80 x
+    - SMCB: 9,71 x
+    - CMNT: Negatif (rugi)
+- **ROE FY 2024:** 9,1% _(FY 2024)_, solid, lebih tinggi vs mayoritas peers.
+- **Likuiditas tinggi & leverage rendah** dibanding pemain utama: Debt/Equity 0,02 (Q2 2025).
 
----
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
+- **Net Profit Margin Q2 2025:** 7,0% _(284/4,057)_; membaik dari rata-rata FY 2024 (10,8%); Q2 cenderung lebih rendah musiman.
+- **EBIT Margin Q2 2025:** 9,8%
+- **Kualitas Aset:** NPL tidak relevan (sektor produsen); tidak ada indikasi aset bermasalah.
+- **Struktur Pendanaan:** 
+    - Debt/Equity sangat rendah (0,022), konservatif.
+    - Current ratio tinggi, likuiditas sangat baik.
+- **Cash & Equivalents Q2 2025:** Rp3,43 triliun; coverage sangat baik terhadap utang jangka pendek.
 
-### 2. Growth YoY & Profitability  
-- **Pendapatan (Q2 2025 YTD):** Rp8,03 triliun (-1,1% YoY, penurunan volume nasional -3,1%)  
-- **Laba Bersih (Q2 2025 YTD):** Rp494,8 miliar (-14% YoY, margin tertekan)  
-- **Margin (Q2 2025 YTD):** Gross 29,2%, Operating 7,5%, Net 6,2% (semua turun YoY)  
-- **Arus Kas Operasi (Q2 2025 YTD):** Rp537 miliar (masih positif, turun signifikan YoY)  
-- **Capex (Q2 2025 YTD):** Rp405 miliar (stabil, ekspansi Grobogan)  
-- **Free Cash Flow (FY 2024):** Rp2,75 triliun (stabil, data Q2 2025 belum tersedia)  
-- **Owner’s Earnings (FY 2024):** Rp2,92 triliun  
-- **Siklus Kas (CCC, FY 2023):** ~90 hari (stabil, relatif efisien)  
-- **Highlight Kuartal Terbaru:**  
-  - Volume penjualan turun, margin tertekan akibat biaya bahan baku & overhead pabrik baru  
-  - Kas tetap kuat, utang rendah  
-  - Efisiensi biaya logistik dari transfer produksi ke Grobogan
+### 4) Dividen & Valuasi
+- **Dividen TTM (2024/25):** Rp259/lembar (yield TTM: 3,8%), payout ratio: 42,7%.
+- **Valuasi:**
+    - P/E TTM 11,1x (jauh di bawah rata-rata peers, kecuali SMCB).
+    - P/B 1,06x masih wajar untuk sektor blue-chip cyclical.
+- **Tren Dividen:** Fluktuatif, payout fleksibel mengikuti laba tahunan.
 
----
+### 5) Rekomendasi
+**6M (Taktis):**
+- Pertahankan sikap defensif optimis; FCF membaik, tekanan kompetisi tetap namun posisi kas-kuat.
+- Monitor kenaikan harga bahan baku & permintaan domestik pasca lebaran.
 
-### 3. Competitive Position  
-- **Skala Penjualan (Q2 2025):** INTP no.2 nasional (market share 28,6%, volume 18,8 juta ton)  
-- **Margin:** Di atas rata-rata industri, namun menurun akibat tekanan harga & biaya  
-- **Iklan/Penjualan:** Tidak tersedia, namun ekspansi brand fighting tinggi  
-- **CCC:** ~90 hari, efisien vs kompetitor  
-- **Komposisi Domestik/Ekspor:** 98% domestik, ekspor <2% (ekspor turun 45% FY 2024)  
-- **Moat:** Jaringan distribusi kuat di Jawa, efisiensi operasional, kas solid  
-- **Kelemahan:** Ketergantungan pada pasar domestik, sensitif pada siklus infrastruktur & harga jual rata-rata (ASP)  
+**5Y (Tesis):**
+- Prospek infrastruktur & properti mendorong demand jangka panjang.
+- Model balance sheet kuat, cocok untuk investor dividen & stabilitas.
+  
+### 6) Kesimpulan
+**Jangka Pendek (≤6 bulan):** ⚠️ – Posisi likuid & profitabilitas membaik, tapi volume masih stagnan & kompetisi ketat.
+**Jangka Panjang (>5 tahun):** ✅ – Fundamental solid, kas kuat, pangsa pasar terjaga, sangat defensif jika siklus membaik.
 
----
-
-### 4. Valuation & Quality Takeaways  
-- **PER (Q2 2025 YTD):** 25,1x (premium industri, laba menurun)  
-- **PBV (Q3 2024):** 1,18x (masih wajar)  
-- **Dividend Yield:** 3,6% (stabil, payout moderat)  
-- **Risiko Utama:** Penurunan permintaan domestik, tekanan harga, biaya energi, ketergantungan proyek infrastruktur
-
----
-
-### 5. Strategic Recommendations  
-- **6M (Taktis):**  
-  - Fokus efisiensi biaya & optimalisasi utilisasi pabrik Grobogan  
-  - Monitor permintaan semen di Jawa & Kalimantan, waspadai penurunan proyek IKN  
-- **5Y (Tesis):**  
-  - Diversifikasi pasar ekspor & inovasi produk hijau  
-  - Investasi teknologi efisiensi energi & digitalisasi rantai pasok
-
----
-
-### 6. Kesimpulan & Indikasi Strategis  
-- **Jangka Pendek (≤6 bulan):** ⚠️ Hati-hati – Margin dan volume tertekan, outlook permintaan lemah  
-- **Jangka Panjang (>5 tahun):** ✅ Positif – Fundamental kuat, kas solid, peluang efisiensi & ekspansi tetap terbuka
-
----
-
-### 7. Catatan Penting  
-*Disclaimer: Brief ini untuk edukasi, bukan rekomendasi investasi. Risiko pasar tetap perlu dipertimbangkan secara mandiri.*
+### 7) Catatan Penting
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor.

@@ -1,73 +1,47 @@
----
-## One Page Investment Brief: **SMGR (Q2 2025 YTD)**
+## SMGR – Investor One-Pager
 
-### 1. **Snapshot**
-- **CAGR Saham (2022–Q2 2025 YTD):** -20,05%
-- **Saham Beredar:** 6.751.540.224
-- **Dividen Terakhir (2025):** Rp96,215/saham (Yield Q2 2025 YTD: ~3,4% dari harga rata-rata 2024)
-- **EPS (Q2 2025 YTD):** Rp5,6/saham (Net Profit: Rp37,9 miliar; annualisasi sangat rendah, penurunan tajam)
-- **PER (Q2 2025 YTD, annualisasi):** ~252x (sangat tinggi, akibat laba menurun tajam)
-- **BVPS (Q2 2025 YTD):** Rp7.092 (Ekuitas: Rp47,86 triliun)
-- **PBV (Q2 2025 YTD):** ~0,40x
-- **Leverage (Liabilitas/Ekuitas Q2 2025 YTD):** 0,60x (Rp28,71 triliun/Rp47,86 triliun)
-- **Posisi Kas (Q2 2025 YTD):** Rp4,99 triliun
-- **Utang Bersih (Q2 2025 YTD):** Rp7,77 triliun (Bank Loan & Bonds – Cash)
+### 1) Pertumbuhan & Tren Utama
+- **Kinerja Q2 2025 memburuk signifikan:**
+  - **Revenue: -Rp7,639 triliun** (Q2 2025)*, turun tajam dari Rp7,655 triliun (Q1 2025) dan secara tidak biasa menjadi negatif—indikasi adanya penyesuaian akuntansi besar/belum umum (mohon diperiksa ke spidol laporan).
+  - **Net Income: -Rp42,54 miliar** (Q2 2025), anjlok dari +Rp42,58 miliar (Q1 2025).
+  - **EBITDA: -Rp963 miliar** (Q2 2025) vs +Rp965 miliar (Q1 2025); perubahan besar ke negatif.
+- **Margin kotor, EBIT, EBITDA** semua negatif/terkontraksi pada Q2 2025:
+  - **EBIT Margin:** Negatif Q2 2025 vs 4%+ (FY 2024), memburuk tajam.
+  - **YoY Revenue Growth:** -1,95% (FY 2024 data, dari file tahunan).
+  - **YoY Earnings Growth:** -243% (FY 2024 data).
+- **Tren Kuartal:** Q1 2025 masih positif, Q2 2025 membalik negatif hampir di seluruh lini (waspada anomali, cek laporan keuangan untuk penjelasan lebih lanjut).
+- **Periode yang dipakai untuk angka utama: Q2 2025 (per 30 Juni 2025)**
 
----
+### 2) Posisi Kompetitif (Benchmark Highlights)
+- **Market cap**: Rp18,30 triliun (2024, peer data)
+- **Valuasi sangat tinggi:** PER trailing 83,8x & PB 424,7x (ekstrem, tidak wajar dibanding peer utama).
+- **Peer utama**: INTP.JK (PER 11,1x; PB 1,06x) menunjukkan valuasi SMGR jauh premium vs industri.
+- **Market share** tetap besar, tetapi profitabilitas & kinerja loyo pada 2025.
+- **Yearly market cap change:** -31% (2024; peer data).
 
-### 2. **Growth YoY & Profitability**
-- **Pendapatan (Q2 2025 YTD):** Rp15,61 triliun (**-4,8% YoY**)
-- **Laba Bersih (Q2 2025 YTD):** Rp37,9 miliar (**-92,5% YoY**; Q2 2024: Rp503,5 miliar)
-- **Margin**:
-  - **Gross Margin (Q2 2025 YTD):** 20,1% (**turun** dari 23,5% Q2 2024)
-  - **Operating Margin:** <5% (tertekan)
-  - **Net Margin:** 0,2% (**sangat rendah**)
-- **Arus Kas Operasi (Q2 2025 YTD):** Rp1,17 triliun (**+14,9% YoY**)
-- **Capex (Q2 2025 YTD):** Rp327,7 miliar (rendah)
-- **Free Cash Flow (2024):** Rp2,78 triliun (**turun** dari Rp3,99 triliun 2023)
-- **Owner’s Earnings (2024):** **Negatif** Rp225 miliar (2023: Rp6,91 triliun)
-- **Siklus Kas (CCC):** Tidak tersedia Q2 2025; historis: lebih baik dari pesaing
-- **Highlight Q2 2025:** Penurunan ASP & volume, kenaikan biaya variabel (batubara), efisiensi tenaga kerja.
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
+- **Total assets:** Rp76,54 triliun | **Total equity:** Rp47,52 triliun | **Total liabilities:** Rp29,03 triliun (Q2 2025).
+- **Net Debt** menurun: Rp6,08 triliun (Q2 2025, dari debt & cash setara).
+- **Cash & short-term:** Rp4,10 triliun (Q2 2025).
+- **Kualitas pendanaan:** Debt-to-Equity ratio FY 2024 hanya 0,59x (cukup konservatif).
+- **Operating cash flow:** -Rp353 miliar (Q2 2025) vs +Rp355 miliar (Q1 2025).
+- **Free cash flow:** -Rp237 miliar (Q2 2025), mengindikasikan tekanan likuiditas.
 
----
+### 4) Dividen & Valuasi
+- **Dividend TTM (12 bulan):** Rp96,22 per saham (2025; yield 3,6% TTM—relatif menarik vs bunga deposito).
+- **Payout ratio (2025):** Sangat tinggi, 297% dari laba (unsustainable jika profit negatif berlanjut).
+- **Valuasi**: PER dan PB sangat outlier (PER>80x; PB>400x pada 2024/2025).
 
-### 3. **Competitive Position**
-- **Market Share (Q2 2025 YTD):** 50,5% (terbesar nasional)
-- **Penjualan (Q2 2025 YTD):** Rp28,24 triliun (FY 2024)
-- **Margin:** Di bawah INTP (GPM SMGR 20,1% vs INTP ~23%)
-- **Iklan/Penjualan:** Tidak tersedia
-- **CCC:** Lebih efisien dari CMNT & SMBR
-- **Domestik/Ekspor:** Domestik dominan, ekspor ±21% volume
-- **Kekuatan:** Market leader, akses proyek pemerintah (IKN, DMO Coal)
-- **Kelemahan:** Margin tertekan, sensitif harga batubara, kehilangan volume saat menaikkan harga (tidak diikuti pesaing)
+### 5) Rekomendasi
+**6M (Taktis):**
+- Fokus monitoring laporan Q3 2025. Hati-hati aksi korporasi/penyesuaian besar. Kas tetap terjaga tapi arus kas memburuk.
 
----
+**5Y (Tesis):**
+- Perlu transformasi efisiensi dan restrukturisasi bisnis agar kembali ke profitabilitas wajar. Jaga market share, reformasi struktur biaya mutlak.
 
-### 4. **Valuation & Quality Takeaways**
-- **PER (Q2 2025 YTD, annualisasi):** ~252x (**tidak menarik**)
-- **PBV (Q2 2025 YTD):** 0,40x (**diskon terhadap aset**)
-- **Dividend Yield (Q2 2025 YTD):** ~3,4%
-- **Risiko Utama:** Penurunan laba struktural, tekanan biaya energi, persaingan harga, risiko proyek pemerintah tertunda.
+### 6) Kesimpulan
+- **Jangka Pendek (≤6 bulan): ⚠️** — Risiko tinggi, tren memburuk drastis, valuasi tidak menarik; hanya untuk pemantauan.
+- **Jangka Panjang (>5 tahun): ⚠️** — Potensi tetap ada jika turnaround, tapi butuh waktu dan proof of execution.
 
----
-
-### 5. **Strategic Recommendations**
-- **6M (Taktis):**
-  - Fokus efisiensi biaya & kas, hindari ekspansi agresif.
-  - Pantau harga batubara & volume penjualan domestik.
-  - Optimalkan proyek pemerintah (IKN) untuk stabilisasi permintaan.
-- **5Y (Tesis):**
-  - Diversifikasi produk & pasar ekspor.
-  - Investasi efisiensi energi & digitalisasi operasional.
-  - Jaga posisi kas & leverage rendah untuk menghadapi siklus industri.
-
----
-
-### 6. **Kesimpulan & Indikasi Strategis**
-- **Jangka Pendek (≤6 bulan):** ⚠️ **Hati-hati** – Laba & margin tertekan, outlook volume belum pulih, risiko biaya energi tinggi.
-- **Jangka Panjang (>5 tahun):** ✅ **Positif** – Market leader, valuasi PBV murah, potensi rebound jika efisiensi & permintaan membaik.
-
----
-
-### 7. **Catatan Penting**
-*Disclaimer: Brief ini untuk edukasi, bukan rekomendasi investasi. Selalu lakukan riset lanjutan & konsultasi profesional sebelum mengambil keputusan investasi.*
+### 7) Catatan Penting
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor. Data Q2 2025 perlu dicek ke laporan resmi untuk klarifikasi sejumlah anomali data.

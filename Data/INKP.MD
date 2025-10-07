@@ -1,53 +1,50 @@
-## INKP – Value Investor One-Pager
+## INKP – Investor One-Pager
 
-### 1) Pertumbuhan YoY
-- **Revenue Q2 2025:** USD 1.56 miliar (-9.7% YoY vs Q2 2024; -19% vs Q2 2023, tren menurun sejak 2023).
-- **Gross Profit Q2 2025:** USD 474,8 juta (margin ~30.4%; menurun dari USD 538,5 juta Q2 2024).
-- **Net Profit Q2 2025:** USD 163,7 juta (-41% YoY vs Q2 2024, -39% vs Q2 2023; FY 2024: -8% YoY dari FY 2023).
-- **ASP (Average Selling Price):** Turun di semua produk (Q3 2024–Q2 2025; data Benchmark 2023: Pulp USD 544/ton, Cultural Paper USD 909/ton, Industrial Paper USD 586/ton).
-- **Volume/Jumlah Produksi:** Utilisasi tinggi, namun ada penurunan volume cultural paper di Q2 2025.
-- **FCF & Owner’s Earnings FY 2024:** FCF -USD 977,5 juta, Owner’s Earnings -USD 682,4 juta (signifikan negatif, pressure dari capex besar pabrik baru).
+### 1) Pertumbuhan & Tren Utama
+- **Pendapatan Q2 2025:** Rp12,388 triliun (turun -14.4% QtQ vs Q1 2025: Rp12,990 triliun).
+- **Laba bersih Q2 2025:** Rp332 miliar (turun signifikan -85.7% QtQ vs Q1 2025: Rp2,325 miliar).
+- **Gross profit Q2 2025:** Rp3,827 triliun (turun -1.3% QtQ).
+- **EBIT Q2 2025:** Rp1,911 triliun (turun -51.9% QtQ).
+- **Arus kas operasi Q2 2025:** Rp1,905 miliar (turun -31.3% QtQ).
+- **Pendapatan dan laba Q2 2025 jauh menurun dibanding Q2 2024 (YoY):**
+  - **Revenue Q2 2024:** Rp13,495 triliun → YoY -8.2%.
+  - **Net profit Q2 2024:** Rp2,494 miliar → YoY -86.7%.
+- Penurunan marjin karena tekanan gross margin (Q2 2025: 30.9% vs Q2 2024: 33.8%).
+**Periode yang dipakai untuk angka utama: Q2 2025**
 
-### 2) Posisi Kompetitif (Benchmark Sector)
-- **Scale:** INKP produsen pulp & kertas terbesar Indonesia (pulp cap. 3,1 jt ton, industrial paper cap. 2,3 jt ton, utilisasi 99%/90% untuk pulp/industrial paper).
-- **Peers (TKIM, FASW, SPMA, ALDO):** INKP unggul kapasitas dan volume, ASP cultural paper di bawah TKIM (USD 909 vs 1.127/ton 2023).
-- **Geografi:** ~41% pendapatan domestik, 59% ekspor. Eksposur ekspor lebih tinggi dari peers; resiko pasar Asia menonjol.
-- **Margin:** Gross margin unggul peers dengan skala besar & efisiensi, namun 2024–2025 tertekan capex/debt.
-- **Utilization:** Tertinggi di segmen pulp & industrial paper vs peers.
+### 2) Posisi Kompetitif (Benchmark Highlights)
+- **Market cap (2024):** Rp41,032 triliun – terbesar di subsektor kertas.
+- **PE TTM:** 8.3x (Q4 2024), di atas rata-rata sektor (KMTR: 5.1x, PNGO: 9.1x, IFII: 10.4x).
+- **PBV TTM:** 0.39x, jauh di bawah peers (TKIM: 487.7x, INRU: 782.4x, sektor: >1x), mengindikasikan valuasi murah berbasis ekuitas.
+- **Segmentasi:** Salah satu pemain terbesar di industri pulp & paper Indonesia, basis aset dan revenue jauh melampaui pesaing utama (TKIM revenue 2024: Rp15,917 triliun).
 
-### 3) Dividen & Valuasi
-- **Dividen stabil:** USD 50/lembar (2022–2025).
-- **Dividend Yield:** ~0,65–0,75% p.a. (annualisasi, run-rate harga ekuitas).
-- **Market Cap:** ~USD 2,2 miliar (berdasarkan outstanding shares).
-- **Saham CAGR 2022–YTD 2025:** -2,97% (tidak outperform; sentimen lesu).
-- **Debt/Equity Q3 2024:** ~0,64x (Hutang Berbunga/Equity annualisasi; utang naik signifikan akibat pabrik baru).
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
+- **Net margin Q2 2025:** 2.7% (vs Q1 2025: 17.9% – tekanan berat QtQ/YtY).
+- **Gross margin Q2 2025:** 30.9%.
+- **ROA/ROE FY2024:** 3.6% / 6.6% (menurun vs FY2023).
+- **Current ratio Q2 2025:** estimasi >2, sangat likuid (current asset: Rp106,3 triliun > current liabilities: Rp38,92 triliun).
+- **Total debt Q2 2025:** Rp81,38 triliun (naik dari FY2024: Rp74,93 triliun), menambah tekanan beban bunga (interest expense Q2 2025: Rp1,26 triliun).
+- **Total equity Q2 2025:** Rp106,4 triliun; **Total assets:** Rp200,1 triliun.
+- **Free cash flow Q2 2025:** minus Rp195 miliar, arus kas cenderung negatif akibat belanja modal tinggi.
 
-### 4) Insight Strategis
-**Kekuatan:**
-- Skala produsen terbesar, pemimpin regional (kapasitas dan ekspor unggul).
-- Diversifikasi produk & geografis (ekspor >50%).
-- Infrastruktur distribusi kuat.
-
-**Risiko:**
-- Tren ASP & volume menurun → tekanan margin & pertumbuhan.
-- Leverage & beban bunga naik tajam (capex masif pabrik Karawang).
-- FCF & owner's earnings 2024 sangat negatif.
-- High exposure pasar Asia; sensitif pelemahan demand regional.
-- Risiko volatilitas harga pulp global dan fluktuasi FX/IDR.
+### 4) Dividen & Valuasi
+- **Dividen TTM (per saham):** Rp50, yield TTM: 0.66% (2025, ex-date: 25 Jun 2025).
+- **Dividend payout ratio:** 5.5% – sangat konservatif.
+- **Valuasi PBV:** 0.39x, PE TTM: 8.3x – diskon besar terhadap aset & peer group.
+- **Average dividen yield 5 tahun:** 0.60%.
 
 ### 5) Rekomendasi
 **6M (Taktis):**
-- Cocok untuk investor yang mengincar momentum katalis jangka pendek (pabrik baru Karawang rampung Q1 2025 sebagai potensi rerating).
-- Perlu kehati-hatian, menunggu konfirmasi pemulihan revenue/ASP paska commissioning.
+- Waspada tekanan earnings & arus kas negatif; downside pada margin dan earnings short term.
+- Valuasi diskon, tapi perbaikan kinerja harus menjadi konfirmasi.
 
 **5Y (Tesis):**
-- Hanya layak bagi investor yang tahan volatilitas, berorientasi jangka panjang, dan percaya recovery demand global pulp/paper.
-- Aksi korporasi/ekspansi harus dikawal oleh penguatan neraca & pengendalian leverage.
+- Prospek cukup stabil secara struktural (market leader, aset besar), namun sensitivitas tinggi terhadap siklus industri & capex.
+- Valuasi atraktif jangka panjang jika turnaround margin sukses dan leverage terkelola.
 
-### 6) Kesimpulan & Indikasi Strategis
-- **Jangka Pendek (≤ 6 bulan):** ⚠️ Hati-hati – Revenue/margin/laba masih menurun & tekanan kas tinggi hingga pabrik baru beroperasi.
-- **Jangka Panjang (> 5 tahun):** ⚠️ Hati-hati – Recovery jangka panjang bergantung pada sukses ekspansi, manajemen utang, dan tren permintaan global.
+### 6) Kesimpulan
+Jangka Pendek (≤6 bulan): ⚠️ – Margin & earnings sangat tertekan, arus kas keluar, risiko downside masih tinggi walaupun valuasi murah.
+Jangka Panjang (> 5 tahun): ✅ – Fundamental aset tangguh dan posisi pasar kuat, valuasi sangat rendah; potensi recovery jika cashflow & leverage membaik.
 
 ### 7) Catatan Penting
-Analisis ini bersifat edukasi, bukan ajakan untuk membeli atau menjual saham tertentu.  
-Keputusan investasi sepenuhnya ada di tangan investor sesuai profil risiko masing-masing.
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor.
