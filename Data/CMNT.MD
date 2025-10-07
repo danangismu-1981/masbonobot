@@ -1,73 +1,56 @@
-**One Page Investment Brief – CMNT (Q2 2025 YTD)**
+## CMNT – Investor One-Pager
 
----
+### 1) Pertumbuhan & Tren Utama
+- **Pendapatan Q2 2025:** Rp2,140 triliun (↑ +11.2% QtQ dari Q1 2025: Rp1,925 triliun; namun tren YoY datar, Q2 2024: Rp2,095 triliun).
+- **Laba Bersih Q2 2025:** Rp121,5 miliar (rebound kuat setelah rugi besar Q1 2025: -Rp289,8 miliar & Q4 2024: -Rp539,6 miliar).
+- **Arus Kas Operasi Q2 2025:** Rp329 miliar (naik tajam dari Q1 2025: Rp11,9 miliar).
+- **Free Cash Flow Q2 2025:** Rp221,3 miliar (vs Q1 2025: -Rp4,14 miliar).
+- **Gross Profit Margin Q2 2025:** 21.3% (Rp454,9 miliar dari sales Rp2,14 triliun; membaik vs Q1 2025: 17.4%).
+- **Tren YoY (FY2024 vs FY2023):** 
+  - Revenue turun -7.9% (FY2024: Rp8,86T; FY2023: Rp9,61T).
+  - Laba bersih FY2024 rugi besar: -Rp716,3 miliar (FY2023: laba Rp512,9 miliar).
+- **Periode yang dipakai untuk angka utama: Q2 2025**
 
-### 1. **Snapshot**
-- **CAGR Saham (2022–Q2 2025 YTD):** -3,37%
-- **Jumlah Saham Beredar:** 17,13 miliar
-- **Dividen Terakhir & Yield:** Tidak ada dividen sejak 2022 (Q2 2025 YTD: 0)
-- **EPS (Q2 2025 YTD):** -10,5 (Net Loss Q2 2025: -179,6 miliar; EPS = -179,6 miliar / 17,13 miliar)
-- **PER (Q2 2025 YTD):** Negatif (rugi bersih)
-- **BVPS (Q3 2024):** 222 (Ekuitas Q3 2024: 3,81 triliun; BVPS = 3,81 triliun / 17,13 miliar)
-- **PBV (Q3 2024):** 3,7x (Harga 825; BVPS 222)
-- **Leverage (Q3 2024):** 3,5x (Liabilitas 13,4T / Ekuitas 3,8T)
-- **Posisi Kas (Q3 2024):** 418 miliar
-- **Utang Bersih (Q3 2024):** ~7,97 triliun (Bank loan 8,18T – kas 418M)
+### 2) Posisi Kompetitif (Benchmark Highlights)
+- **Size & Market Position:** CMNT total aset Q2 2025: Rp16,7T, lebih kecil dibanding INTP (Rp30,4T) & SMGR (Rp76,9T).
+- **Profitabilitas Peer (2024):**
+  - INTP: Net income Rp2T, PE 11,1x, PB 1,06x
+  - SMGR: Net income Rp0,72T, PE 83,8x, PB 424x
+  - CMNT: Net loss Rp716,3M, PE -30,2x, PB 5,17x
+- **Valuasi:**
+  - CMNT PB masih jauh premium vs rata-rata sektor/material.
+  - CMNT underperformed peer utama, baik sisi profit growth, margin, maupun return (YoY).
 
----
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
+- **EBITDA Q2 2025:** Rp313 miliar (kuartal recover signifikan, Q1 turun ke bawah nol).
+- **Net Margin Q2 2025:** 5,7% (laba Rp121,5 milyar).
+- **Return on Equity (FY 2024):** -22,7% (menurun drastis vs +12,9% FY 2023).
+- **Leverage Q2 2025:** 
+  - Total debt: Rp8,61T (turun tipis dari Q1 2025: Rp9,18T).
+  - Debt/Asset Ratio ~0,52 (stabil; high vs peer).
+  - Current Ratio Q2 2025: 0,48x (masih di bawah threshold sehat, sektor >1x).
+- **Kualitas aset:** Cash & investment Q2 2025: Rp417 miliar (relatif tipis, likuiditas ketat).
+- **Ekuitas Q2 2025:** Rp2,97T (penurunan YoY, capital buffer tipis).
 
-### 2. **Growth YoY & Profitability**
-- **Pendapatan (Q2 2025 YTD):** 4,07T (-2,3% YoY vs Q2 2024: 4,16T)
-- **Laba Bersih (Q2 2025 YTD):** -179,6M (rugi, membaik dari Q2 2024: -434,9M)
-- **Margin (Q2 2025 YTD):**
-  - Gross: 19,4% (789M/4,07T)
-  - Operating: 4,0% (161M/4,07T)
-  - Net: -4,4% (-179,6M/4,07T)
-- **Arus Kas Operasi (Q2 2025 YTD):** 341M (turun dari Q2 2024: 1,01T)
-- **Capex (FY 2024):** 375M
-- **Free Cash Flow (FY 2024):** 1,92T (tinggi karena perubahan modal kerja)
-- **Owner’s Earnings (FY 2024):** 1,13T
-- **Siklus Kas (CCC):** Tidak tersedia Q2 2025; historis: lebih panjang dari kompetitor.
-- **Highlight Kuartal Terbaru:** ASP turun, pasar Vietnam melemah, Indonesia stabil, rugi bersih menurun.
+### 4) Dividen & Valuasi
+- **Dividen:** Tidak ada pembagian dividen atau data yield terbaru yang tersedia.
+- **Valuasi:**  
+  - PB Q2 2025: 5,17x (premium terhadap sektor & peer utama).
+  - PE TTM: -30,2x (negatif karena rugi FY2024).
+  - Market Cap: Rp13,79T (Q2 2025).
 
----
+### 5) Rekomendasi
+**6M (Taktis):**
+- Fokus konsolidasi arus kas & kontrol biaya. Recovery operasional terlihat, namun risiko leverage dan profitabilitas rendah masih besar.
+- Aksi efisiensi dan penurunan utang penting untuk stabilkan fundamental jangka pendek.
 
-### 3. **Competitive Position**
-- **Skala Penjualan:** CMNT 8,8T vs INTP 16,5T vs SMGR 28,2T (FY 2024)
-- **Margin Gross:** CMNT 19,4% (Q2 2025 YTD) vs INTP ~30% vs SMGR ~25% (estimasi industri)
-- **Iklan/Penjualan:** Tidak tersedia
-- **CCC:** Lebih panjang, modal kerja besar
-- **Komposisi Domestik/Ekspor:** 70% domestik, 30% Vietnam
-- **Kekuatan (Moat):** Diversifikasi geografis (Sumatra, Jawa, Vietnam), ekspor kuat
-- **Kelemahan:** Margin rendah, eksposur utang USD tinggi (77% utang jangka panjang), sensitif kurs, utilisasi rendah (47,5% vs SMGR 71%)
+**5Y (Tesis):**
+- Hanya menarik jika CMNT bisa membuktikan keberlanjutan profit/arus kas positif dan perbaikan struktur modal.
+- Kinerja pasar domestik semen tetap oversupplied, margin akan tetap tertekan jika tidak ada inovasi/ekspansi pasar.
 
----
+### 6) Kesimpulan
+Jangka Pendek (≤6 bulan): ⚠️ – Tren perbaikan (Q2 2025), namun fundamental masih rentan (leverage & margin).
+Jangka Panjang (>5 tahun): ⚠️ – Perlu bukti pemulihan struktur modal dan profit stabil; posisi pasar masih lemah.
 
-### 4. **Valuation & Quality Takeaways**
-- **PER:** Negatif (rugi)
-- **PBV:** 3,7x (Q3 2024)
-- **Dividend Yield:** 0%
-- **Risiko Utama:** Rugi berlanjut, tekanan harga jual, volatilitas kurs USD, utilisasi rendah, leverage tinggi.
-
----
-
-### 5. **Strategic Recommendations**
-- **6M (Taktis):**
-  - Fokus efisiensi biaya & penguatan pasar domestik
-  - Perbaiki utilisasi pabrik & kelola risiko kurs USD
-  - Pantau pemulihan permintaan pasca-pemilu & proyek infrastruktur
-- **5Y (Tesis):**
-  - Diversifikasi ekspor & penetrasi pasar domestik
-  - Deleveraging & restrukturisasi utang USD
-  - Investasi teknologi efisiensi energi & digitalisasi distribusi
-
----
-
-### 6. **Kesimpulan & Indikasi Strategis**
-- **Jangka Pendek (≤ 6 bulan):** ⚠️ Hati-hati – Rugi berlanjut, tekanan ASP, leverage tinggi, namun ada perbaikan laba bersih dan kas.
-- **Jangka Panjang (> 5 tahun):** ⚠️ Hati-hati – Prospek pemulihan ada, tapi risiko struktural (margin, kurs, utilisasi) masih tinggi.
-
----
-
-### 7. **Catatan Penting**
-*Disclaimer: Brief ini untuk edukasi, bukan rekomendasi investasi. Data diolah dari laporan keuangan dan insight industri per Q2 2025 YTD. Risiko pasar dan perubahan makro dapat mempengaruhi hasil aktual.*
+### 7) Catatan Penting
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor.

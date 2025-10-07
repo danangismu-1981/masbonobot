@@ -1,55 +1,46 @@
-## BRPT – Value Investor One‑Pager (Chemicals)
+## BRPT – Investor One-Pager
 
-### 1) Pertumbuhan YoY (Q2 2025 YTD vs Q2 2024 YTD)
-- **Revenue**: USD 4,002,347 ribu (Q2 2025 YTD = Q1+Q2) vs USD 1,777,808 ribu (Q2 2024 YTD) ⇒ Tumbuh +125% YoY, didorong akuisisi Aster Chemical & Energy (konfirmasi insight: segmen petrokimia +237,7% YoY Q2 2025).
-- **Gross Profit**: USD 256,913 ribu (Q2 2025 YTD) vs USD 361,966 ribu (Q2 2024 YTD) ⇒ Turun -29% YoY, menekan margin akibat naiknya COGS dan akuisisi entitas baru dengan margin lebih tipis.
-- **EBITDA**: Tidak tersedia eksplisit; proksi: profit before tax (Q2 2025 YTD: USD 1,996,618 ribu vs Q2 2024 YTD: USD 147,484 ribu; +1.254% YoY.) Namun, angka ini sangat dipengaruhi by one-off (gains from acquisition — lihat insight).
-- **Net Profit (Profit Attributable to Parent)**: Q2 2025 YTD USD ~1,753,386 ribu; Q2 2024 YTD USD ~64,422 ribu (+2.623% YoY); faktor utama: pengakuan laba akuisisi (bukan operasional berulang).
-- **Margin**: Gross profit margin Q2 2025 YTD jauh turun ke 6,4% dari 20% di Q2 2024 YTD (lihat detail di bawah).
+### 1) Pertumbuhan & Tren Utama
+- **Pendapatan Q2 2025:** -12,789 miliar (negatif kemungkinan akibat perubahan pelaporan, bandingkan dengan Q1 2025: 12,841 miliar; Q4 2024: 13,169 miliar). **PERINGATAN**: Data Q2 2025 sangat tidak lazim—indikasi potensi restatement atau penyesuaian pelaporan (wajib investigasi lanjutan).
+- **Laba bersih Q2 2025:** -259 miliar (terjun dari Q1 2025: +268 miliar; Q2 2024: +425 miliar; Q4 2024: +507 miliar). Tren jelas penurunan => Q2 2025 negatif pertama setelah beberapa kuartal positif.
+- **Tren Kuartalan:** Q2 2024 – Q1 2025 konsisten laba positif lalu Q2 2025 terjun negatif.
+- **Total aset Q2 2025:** 246,5 triliun (naik signifikan dari Q1 2025: 180,8T; Q4 2024: 170,2T). Liabilitas & ekuitas juga tumbuh tajam serupa–indikasi aksi korporasi besar atau akuisisi.
+- **Free cash flow Q2 2025:** 7,22 triliun (berubah drastis–Q1 2025: -7,2T; Q4 2024: 4,01T). Arah kas bisnis sangat volatil.
+- **Growth YoY (label FY24):**  
+   - Laba bersih FY24: 913 miliar turun dari FY22: 27 miliar, FY23: 403 miliar (trennya menurun).
+   - Pendapatan FY24: 38,6T dari FY23: 42,6T (–9% YoY).
+- **Periode yang dipakai untuk angka utama:** Q2 2025
 
-### 2) Posisi Kompetitif (Relatif – data internal)
-- **GPM (Gross Profit Margin):** Q2 2025 YTD: 6,4% (256,913/4,002,347); Q2 2024 YTD: 20,4% (361,966/1,777,808). Penurunan signifikan akibat konsolidasi margin lebih rendah dari bisnis akuisisi & efek biaya bahan baku.
-- **Days Inventory Outstanding (DIO):**  
-  - Q2 2025: Tidak ada data, gunakan 2024: Rata-rata inventory 2024 (377,208 K) / COGS 2024 (1,868,192 K/2 utk YTD) × 365 ≈ 74 hari. (FY 2023: ~59 hari). Trennya naik.
-- **DSO/DPO:** Data Q2 2025 tidak cukup; Q2 2024 menunjukan DSO konservatif (avg AR/Revenue × 365 ≈ 45 hari), DPO (avg AP/COGS × 365) ≈ 38 hari.
-- **Leverage & Coverage:**  
-  - Debt meningkat paska akuisisi (Total Liabilitas Q2 2025: USD 6,076,376 ribu vs equity USD 4,113,962 ribu; Net debt/EBITDA tidak konkrit, proksi: biaya bunga (finance costs) Q2 2025 YTD USD 273,345 ribu > gross profit YTD USD 256,913 ribu ⇒ tekanan coverage, masih rawan jika one-off/laba non-cash di-netralisasi).
-- **Operasional & Pangsa:**  
-  - Pangsa pasar petrokimia domestik ~50% untuk olefin (dominan).
-  - Kapasitas operasional penuh (utilisasi sudah optimal paska turnaround Q3 2024; Q2 terganggu perawatan).
-  - Biaya feedstock sangat sensitif ke harga minyak/gas; spread petrokimia cenderung tipis jika feedstock mahal.
-  - Efek FX & derivatives sering skala besar (penggerak utama profitabilitas tertentu, non-operasional).
-  - Tidak ada perbandingan peer langsung; secara struktur, BRPT tetap “scale leader” domestik namun rentan margin tipis & beban finansial tinggi.
+### 2) Posisi Kompetitif (Benchmark Highlights)
+- **BRPT** valuasi jauh di atas peers:  
+   - **P/E TTM:** 1.013,8x (peer TPIA: 32x; ESSA: 19,3x; UNIC: 9,1x).
+   - **P/B MRQ:** 9.947x (peer rata-rata jauh lebih rendah; misal UNIC 0,73x, LTLS 0,43x).
+- **Market cap:** 360,8T (lebih kecil dari TPIA 655T, jauh di atas peers lainnya).
+- **Profitabilitas/Net Income:** Laba bersih Q2 2025 negatif, peer semacam ESSA, LTLS tetap positif.
 
-### 3) Dividen & Valuasi
-- **Market Cap**: ~USD 14,400 juta (shares 93,704,396,800 × harga per 12/9/2025 vs kurs; harga tetap tidak disebut/dirahasiakan).
-- **Dividen**: USD 0,87 terakhir (2024); yield sangat kecil relatif harga terbaru (tidak representatif karena payout rendah, DPS turun dari 2022: USD 3,1 → 2024: USD 0,87).
-- **CAGR Saham 2022–YTD 2025**: +52,13% p.a. — revaluasi pasca aksi korporasi dan growth expectation, meski kinerja fundamental margin turun.
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
+- **Gross Profit Q2 2025:** -2.040T (negatif, sangat kontras vs Q1 2025: +2,04T; Q4 2024: +2,60T).
+- **EBIT Q2 2025:** -2,296T (Q1 2025: +2,33T; Q4 2024: +3,24T).
+- **EBITDA Q2 2025:** 28,98T (data kemungkinan error atau restatement → banding: Q1 2025: 2,17T; Q4 2024: 2,88T).
+- **Total Debt Q2 2025:** 107T (naik dari Q1 2025: 85,4T; Q4 2024: 75T).
+- **Leverage:** Debt/Equity Q2 2025 = 1,45x (naik dari FY24: 1,51x).
+- **Cash & Short-Term Inv Q2 2025:** 50,5T (naik tinggi dari Q1 2025: 32,8T).
+- **Arus kas operasi Q2 2025:** +5,25T (pulih vs Q1 2025: -5,25T; Q4 2024: +5,0T).
 
-### 4) Insight Strategis
-**Kekuatan:**  
-- Kapasitas produksi petrokimia nomor satu; pangsa pasar domestik sangat dominan dan sinergi kuat ke segmen energi (power generation).
-- Akuisisi Aster Chemical & Energy mendongkrak pendapatan dan aset, membuka potensi sinergi operasional.
-
-**Risiko:**  
-- Margin turun tajam; profitabilitas operasional mendatar, masih sangat tergantung windfall gain, akuntansi, FX & derivatif.
-- Biaya bahan baku (naphtha/gas) volatil dan membebani saat siklus harga naik.
-- Leverage tinggi, finance cost menggerus gross profit.
-- Cash flow operasional sering negatif/berisiko, FCF FY 2024 besar minus.
+### 4) Dividen & Valuasi
+- **Dividen terakhir (2024):** 0,873 per saham (**yield**: 0,085%; turun tajam YoY).
+- **5Y average yield:** Hanya 0,18% (sangat rendah untuk investor income).
+- **Valuasi:** P/E, P/B jauh di atas peers, refleksi ekspektasi tinggi/mungkinan overvalued atau anomali neraca.
 
 ### 5) Rekomendasi
-**6M (Taktis):**  
-- Prioritaskan monitoring arus kas dan keberlanjutan efisiensi pasca akuisisi besar; short-term profit bisa misleading akibat one-off.  
-- Antisipasi dampak penstabilan volume pasca turnaround Q3, namun waspadai harga bahan baku.
+**6M (Taktis):**
+- Waspada tinggi–fokus pada klarifikasi data Q2 2025 (potensi one-off/non-recurring). Hindari penempatan besar sebelum ada penjelasan.
+**5Y (Tesis):**
+- Hanya cocok untuk investor dengan toleransi risiko ekstrim dan horizon sangat panjang. Pilih peer dengan profitabilitas & valuasi lebih masuk akal jika skala/brand bukan faktor kunci.
 
-**5Y (Tesis):**  
-- Pertumbuhan kapasitas dan scale menawarkan defensif market share domestik, tapi “risiko margin tipis & leverage” sangat nyata tanpa perbaikan struktur biaya & arus kas.  
-- Potensi upside berbasis stabilisasi ekonomi dan recovery industri global, tapi perlu disiplin balance sheet.
-
-### 6) Kesimpulan & Indikasi Strategis
-Jangka Pendek (≤ 6 bulan): ⚠️ Hati-hati – Kinerja didorong gain akuisisi one-off, margin sangat tipis, leverage tinggi; cash flow perlu perhatian ekstra.  
-Jangka Panjang (> 5 tahun): ⚠️ Hati-hati – Peluang pertumbuhan tetap ada berkat skala dan pangsa, namun tantangan margin tipis dan beban utang/biaya bunga harus dikurangi untuk return jangka panjang.
+### 6) Kesimpulan
+Jangka Pendek (≤6 bulan): ⚠️ – Arah fundamental mendadak negatif dan/atau anomali akut pada pelaporan Q2 2025. Butuh transparansi management.
+Jangka Panjang (>5 tahun): ⚠️ – Skala besar, tapi tren earnings melemah tajam, yield mini, dan valuasi premium sekali. Pullback menunggu katalis nyata.
 
 ### 7) Catatan Penting
-Analisis ini bersifat edukasi, bukan ajakan untuk membeli atau menjual saham tertentu.  
-Keputusan investasi sepenuhnya ada di tangan investor sesuai profil risiko masing‑masing.
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Data Q2 2025 sangat anomali—investor wajib investigasi lebih lanjut sebelum bertindak.

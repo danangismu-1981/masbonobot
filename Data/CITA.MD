@@ -1,48 +1,56 @@
-## CITA – Value Investor One-Pager
+## CITA – Investor One-Pager
 
-### 1) Pertumbuhan YoY
-- **Pendapatan (Revenue):** Q2 2025 YTD (Jan–Jun) IDR 1,392,385 miliar, naik +6,3% YoY dari Q2 2024 YTD (IDR 1,309,688 miliar).
-- **Gross Profit:** Q2 2025 YTD IDR 595,129 miliar, naik +9,3% YoY dari Q2 2024 YTD (IDR 544,487 miliar). Margin meningkat, didukung efisiensi COGS.
-- **Net Profit:** Q2 2025 YTD IDR 1,652,645 miliar, tumbuh signifikan +90,7% YoY dari Q2 2024 YTD (IDR 866,249 miliar). Lompatan laba bersih didorong kontribusi asosiasi (PT WHW – downstream alumina refinering), menyumbang ~85% laba (insight Q3 2024).
-- **FCF (FY 2024):** IDR 172,3 miliar; Owner’s Earnings (FY 2024): IDR 2,085,3 miliar, melonjak vs tahun sebelumnya.
-- **Volume produksi/lifting:** Data spesifik lifting/produksi MBOE, MMSCFD, atau ASP oil/gas TIDAK tersedia di file. Namun, terdapat catatan penurunan volume produksi akibat larangan ekspor bauksit mentah (Q2 2025).
-- **Pendapatan dari ekspor menurun tajam sejak 2024 (tanpa Glencore). Seluruh penjualan ke PT WHW Grup.**
+### 1) Pertumbuhan & Tren Utama
+- **Pendapatan Q2 2025:** Rp721,77 miliar (Q2 2025).
+    - **Naik** +15% dibanding Q1 2025 (Rp670,61 miliar).
+    - **YoY (Q2 2025 vs Q2 2024):** turun -16% dari Rp862,70 miliar (estimasi dari Q2 2024–Q2 2025, annualisasi sederhana).
+- **Laba bersih Q2 2025:** Rp620,85 miliar.
+    - **Turun** -40% dibanding Q1 2025 (Rp1,03 triliun).
+    - QtQ penurunan karena faktor non-operasional, laba sebelum pajak juga menurun.
+- **Aset:** Rp8,30 triliun (Q2 2025), **turun** -6% dari Q1 2025 (Rp9,06 triliun).
+- **Ekuitas:** Rp7,97 triliun (Q2 2025), **turun** -8% QoQ.
+- **Likuiditas:** Kas dan setara kas Q2 2025 turun drastis ke Rp959,58 miliar dari Rp2,34 triliun di Q1 2025 (penurunan -59%).
+- **Operating cash flow (OCF):** Rp155,53 miliar (Q2 2025), membaik 7,8% dari Q1 2025.
+- **Free cash flow (FCF):** Rp134,61 miliar (Q2 2025), stabil QtQ.
 
-### 2) Posisi Kompetitif (Bullet Points)
-- **Oil & Gas Production/Reserves/ASP:** Data tidak tersedia untuk CITA maupun peers (ENRG, PGAS, ELSA); tidak dapat dibandingkan secara langsung.
-- **Margin Operasional:** Gross margin Q2 2025 YTD ~43% (>35% di sektor mining tipikal), menunjukkan efisiensi kuat.
-- **Downstream Advantage:** Koneksi terintegrasi ke PT WHW (alumina refinery) memberi captive market & marjin stabil; berbeda dari peers yang lebih terpukul fluktuasi harga komoditas.
-- **Revenue Concentration:** Hampir 100% revenue berasal dari afiliasi, risiko fokus pelanggan.
+**Periode yang dipakai untuk angka utama: Q2 2025**
 
-### 3) Dividen & Valuasi
-- **Dividen berjalan (2025/2024):** IDR 328/unit (2025); IDR 117/unit (2024). Eskalasi tajam dibanding tahun-tahun sebelumnya (2023: IDR 10; 2022: IDR 55).
-- **Dividend Yield:** FY 2025 ~8% (annualisasi: 328/4080, menggunakan harga terakhir dari file).
-- **Market Cap:** ~IDR 16 Triliun (run-rate: 4.08 x 3,960 juta saham).
-- **CAGR Harga Saham (2022 s/d 2025 YTD):** +11,41%.
+### 2) Posisi Kompetitif (Benchmark Highlights)
+- **P/E TTM**: 5,0x vs. peer sub-sektor negatif atau jauh lebih tinggi. 
+- **P/B MRQ**: 2,0x – lebih murah dari sebagian besar peer utama (AMMN, ANTM, BRMS sangat tinggi).
+- **Net profit margin** (2024): 104% – catatan luar biasa, peer mayoritas jauh lebih rendah atau negatif/net loss, tapi margin ini kemungkinan efek non-recurring/high non-operational gain.
+- **Market cap:** Rp16,24 triliun (jauh lebih besar dari peer aluminium lain, kecuali NCKL).
 
-### 4) Insight Strategis
-**Kekuatan:**  
-- Marjin tinggi & defensif—dominasi supply chain ke pabrik sendiri (PT WHW).
-- Net profit melonjak, didorong share of profit dari downstream WHW.
-- Solid cash position Q2 2025: IDR 892 miliar, berlipat dibanding 2023.
-- Dividend payout tinggi, potensi recurring yield menarik.
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
+- **Profitabilitas**:
+    - **EBIT Q2 2025:** Rp660,8 miliar.
+    - **EBITDA Q2 2025:** Rp670,0 miliar.
+    - **Gross margin Q2 2025:** 45,7%.
+    - **Operating margin Q2 2025:** 34,4%.
+- **Aset dan Liabilitas**:
+    - **Total Liabilitas rendah:** Rp322 miliar vs. aset Rp8,30 triliun (DER sangat rendah, Q2 2025).
+    - **Current ratio tinggi:** Current asset Rp2,06 triliun vs. current liabilities Rp269 miliar (>7,6x).
+- **Utang:** Tidak ada total debt yang signifikan, struktur sangat konservatif.
 
-**Risiko:**  
-- Ketergantungan ekstrim pada satu buyer (PT WHW & entitas afiliasi).
-- Produksi terbatas akibat larangan ekspor bauksit, menyebabkan utilisasi asset tidak optimal.
-- Tidak adanya diversifikasi pelanggan meningkatkan risiko operasional.
-- Tidak ada paparan direct oil/gas lifting; sensitivitas terhadap harga global terbatas.
+### 4) Dividen & Valuasi
+- **Dividen TTM:** Rp328/lembar (Q2 2025); **yield TTM** sangat tinggi 8%.
+- **Payout ratio:** 39,7% (Q2 2025).
+- **Avg. 5-yr dividend yield:** 2,9% – yield TTM jauh di atas rerata sejarah.
+- **Valuasi P/E** jauh di bawah peer tumbuh cepat, P/B juga lebih rendah dari mayoritas pelaku industri.
 
 ### 5) Rekomendasi
 **6M (Taktis):**
-- Fokus pada tata kelola supply chain & pengendalian biaya. Trading jangka pendek dapat menarik dengan katalis dividen tinggi, selama WHW tetap perform.
-**5Y (Tesis):**
-- Potential compounding melalui penguatan integrasi downstream (alumina/aluminium) dan kemungkinan ekspansi value chain; investor jangka panjang sebaiknya monitor kebijakan ekspor & inisiasi diversifikasi pelanggan.
+- Monitor volatilitas laba bersih (Q1–Q2 sangat fluktuatif).
+- Perhatikan arus kas – penurunan kas Q2 signifikan; waspada pembalikan non-operational.
+- Momentum yield & valuasi mendukung tactical buy pada koreksi, terutama untuk pencari dividen.
 
-### 6) Kesimpulan & Indikasi Strategis
-Jangka Pendek (≤ 6 bulan): ✅ – Prospek tetap positif; didukung profitabilitas dan cashflow kuat, serta dividen yield di atas rata-rata sektor.  
-Jangka Panjang (> 5 tahun): ⚠️ – Prospek moderat-positif tetapi perlu mitigasi risiko konsentrasi pelanggan dan menanti kejelasan ekspansi/ekspor.
+**5Y (Tesis):**
+- Fundamental sangat kuat (DER rendah, ROE tinggi, payout besar).
+- CITA masih unggul dalam efisiensi & defensif atas siklus industri logam. Namun sumber laba luar biasa Q4 2024–Q1 2025 perlu diuji keberlanjutannya.
+
+### 6) Kesimpulan
+Jangka Pendek (≤6 bulan): ⚠️ – (Fluktuasi laba, kas turun tajam, risiko pembalikan pendapatan non-operasional)
+Jangka Panjang (>5 tahun): ✅ – (Struktur permodalan solid, dividennya sangat kompetitif, valuasi rendah di antara peer sektor)
 
 ### 7) Catatan Penting
-Analisis ini bersifat edukasi, bukan ajakan untuk membeli atau menjual saham tertentu.  
-Keputusan investasi sepenuhnya ada di tangan investor sesuai profil risiko masing-masing.
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor.

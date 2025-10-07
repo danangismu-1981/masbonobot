@@ -1,54 +1,49 @@
-## DPNS – Value Investor One-Pager
+## DPNS – Investor One-Pager
 
-### 1) Pertumbuhan YoY
-- **Revenue Q2 2025:** Rp7,73 miliar (YTD), turun drastis >90% YoY (Q2 2024: Rp35,07 miliar; FY 2024: Rp79,45 miliar; FY 2023: Rp116,2 miliar).
-- **Gross Profit Q2 2025:** Rp0,29 miliar, anjlok 96% YoY (Q2 2024: Rp8,86 miliar; penurunan sejalan dengan margin kotor turun dari 25% (FY 2023) ke ~3% Q2 2025).
-- **Net Profit Q2 2025:** Rp0,28 miliar (mayoritas berasal dari pendapatan bunga, bukan operasi inti), jatuh lebih dari 95% YoY (FY 2024: Rp14,31 miliar).
-- **Operating Profit Q2 2025:** Negatif Rp0,67 miliar.
-- **EBITDA**: Tidak tersedia, namun operating cash flow Q2 2025 juga negatif.
-- **Catatan:** Kinerja Q2 2025 sangat lemah karena penjualan utama (lem kayu) anjlok dan pelanggan terbesar stop operasi.
+### 1) Pertumbuhan & Tren Utama
+- **Pendapatan Q2 2025**: *Data tidak tersedia pada periode terbaru (Q2 2025);* terakhir tersedia **Q1 2025: Rp6,86 miliar** (turun signifikan dari Q2 2024: Rp17,23 miliar).
+- **Laba Sebelum Pajak Q2 2025**: *Data tidak tersedia pada periode terbaru.*
+- **Net Cash Flow Q2 2025**: **Rp-16,69 miliar** (Q2 2025); memburuk dari Q1 2025: Rp-9,30 miliar.
+- **Arus Kas Operasi Q2 2025**: **Rp-8,23 miliar**; menurun tajam dari Q1 2025: Rp0,43 miliar, Q4 2024: data tidak tersedia.
+- **Aset & Ekuitas** (Q2 2025):
+  - **Total Aset:** Rp342,7 miliar (turun dari Q4 2024: Rp358,0 miliar).
+  - **Total Ekuitas:** Rp336,3 miliar.
+  - **Total Liabilitas:** Rp6,37 miliar (menurun drastis vs Q4 2024: Rp22,7 miliar).
+- **Free Cash Flow Q2 2025:** **Rp-8,23 miliar** (vs Q1 2025: Rp0,43 miliar).
+- **Tren**: Penurunan signifikan pada arus kas dan modal kerja; pendapatan juga menunjukkan penurunan tajam QtQ.
+- **Periode yang dipakai untuk angka utama: Q2 2025**
 
-### 2) Posisi Kompetitif (Bullet Points)
-- **Gross Margin:** Q2 2025 hanya 3,8% (Q2 2024: 25,3%; FY 2023: 30%) → jauh di bawah margin normal sektor specialty chemicals; menandakan kehilangan daya saing/volume.
-- **Net Profit Margin:** ~3,7% Q2 2025, turun tajam (Q2 2024: 25%; FY 2024: 18%; mayoritas didukung pendapatan non-operasional).
-- **ROE:** Tidak dapat dihitung meaningful untuk Q2 2025 karena profit mini dan equity sangat besar (ekuitas Q2 2025: Rp335,4 miliar vs net profit hanya Rp0,28 miliar).
-- **Leverage:** Amat rendah (liability Q2 2025 c.7% dari total aset); Neraca sangat sehat, namun ini lebih refleksi aktivitas rendah daripada kekuatan struktural.
-- **FCF / Owners’ Earnings:** FY 2024 Owner’s Earnings FCF: negatif Rp6,0 miliar, berbalik dari positif di FY 2023 (Rp23,5 miliar); pelemahan berasal dari working capital tersedot dan penurunan laba.
-- **Capex:** Minim, penyerapan kas didominasi investasi ke instrumen keuangan, bukan ekspansi operasional.
+### 2) Posisi Kompetitif (Benchmark Highlights)
+- **PBV (Price to Book, Q4 2024):** 0,30x (DPNS) – terendah di peer-group (rata-rata>0,5x, AVIA 2,57x, EKAD 0,55x), menandakan undervalued secara book value.
+- **Market cap:** Rp100,66 miliar – sangat kecil vs peers (AVIA: Rp24,5 triliun, CLPI: Rp389 miliar).
+- **Profitabilitas** periode terakhir (2024): Margin laba bersih 18,0%, relatif kompetitif vs peers yang positif, namun mendapat tekanan di 2025 (belum ada data laba Q2 2025).
+- **Likuiditas:** Rasio lancar ekstrem tinggi (data FY 2024: 17,3x), jauh dari peer.
 
-### 3) Dividen & Valuasi
-- **Dividen 2025 (YTD):** Rp5/lembar (terendah 3 tahun terakhir; 2023: Rp15; 2024: Rp10).
-- **Dividend Yield:** ~1,6% (Rp5 ÷ harga terakhir; annualisasi kemungkinan lebih rendah stabilitas pendapatan).
-- **Payout Ratio:** Implied near 100% dari profit setara Q2 2025, tapi nominal sangat kecil.
-- **Market Cap:** ~Rp103,1 miliar (per 331 juta saham beredar).
-- **Harga CAGR 2022-YTD 2025:** -2,72% (tren turun, inline dengan fundamental).
-- **Perhatian:** Dividen tidak didukung arus kas operasi; tidak sustainable jika bisnis tidak pulih.
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
+- **Margin Laba Bersih FY 2024:** 18,0%.
+- **ROE & ROA FY 2024:** ROE 4,3%, ROA 4,0% (memoderasi vs 2022-2023).
+- **Leverage Sangat Rendah:** Debt-to-Equity 0,07x (FY 2024).
+- **Likuiditas:** Aset lancar, kas singkat dan ekuitas dominasikan neraca.
+- **Kualitas Aset:** Aset turun YoY; perputaran aset dan profitabilitas menurun sejak 2023.
 
-### 4) Insight Strategis
-**Kekuatan:**
-- Neraca sangat likuid & minim utang; dana besar di aset keuangan (bond/deposito) menjaga likuiditas.
-- Produk formaldehyde & melamine/urea punya potensi sebagai revenue bridge, meskipun margin tipis.
-
-**Risiko:**
-- Ketergantungan ekstrem pada 1 pelanggan utama (PT Erna Juliawati, 70% penjualan; stop beli Q2 2025).
-- Model bisnis core (lem kayu) terdisrupsi—industri utama turun, volume ekspor kayu Indonesia merosot.
-- Gross dan net margin sangat rendah, bergantung pada income non-operasional, bukan core bisnis.
-- Prospek jangka pendek suram tanpa diversifikasi/market baru.
+### 4) Dividen & Valuasi
+- **Dividen TTM (2025):** Rp5/lembar (yield TTM: **1,7%**; rata-rata 5-tahun: 2,3%).
+- **P/B Q4 2024:** 0,30x (diskon signifikan terhadap peers, potensi value play).
+- **Tidak ada data PE terbaru; data FY 2024 profit terakhir tersedia.**
+- **Konsistensi Dividen:** Dividen menurun tahun 2025 (sebelumnya Rp10–15/lembar).
 
 ### 5) Rekomendasi
-**6M (Taktis):**
-- Layak hanya untuk “turnaround watch”; amati perbaikan demand kayu/plywood, cari update kontrak baru.
-- Defensive play: monitor hasil investasi keuangan, bukan sebagai bisnis chemicals.
+**6M (Taktis):**  
+- Fokus monitor kas & pendapatan; risiko pemburukan likuiditas jika tren Q2 2025 berlanjut.
+- Kehati-hatian: arus kas operasi negatif, prospek dividen menurun.
 
-**5Y (Tesis):**
-- Perlu transformasi radikal pada model bisnis dan struktur biaya jika ingin tetap relevan & growing.
-- Sukses diversifikasi ke beyond-wood products (melamine, formaldehyde, hardener) jadi satu-satunya jalan keluar.
-- Kegagalan beradaptasi = risiko delisting/irrelevansi sebagai produsen kimia khusus.
+**5Y (Tesis):**  
+- Prospek jangka panjang defensif (neraca kuat, undervalued PB), namun top-line growth perlu pemulihan signifikan agar value realisasi.
+- Potensi re-rating jika profit kembali tumbuh dan arus kas membaik; risiko stagnasi pendapatan.
 
-### 6) Kesimpulan & Indikasi Strategis
-- **Jangka Pendek (≤ 6 bulan):** ❌ Buruk – Core business hampir berhenti total, profit hanya dari bunga.
-- **Jangka Panjang (> 5 tahun):** ⚠️ Hati-hati – Perlu transformasi bisnis menyeluruh; keuangan kuat tapi fundamental lemah.
+### 6) Kesimpulan
+- **Jangka Pendek (≤6 bulan):** ⚠️ – Sinyal risiko jangka pendek pada arus kas & pendapatan; monitor ketat.
+- **Jangka Panjang (> 5 tahun):** ✅ – Valuasi menarik & struktur keuangan sehat memberikan margin aman, jika DPNS bisa pulihkan bisnis.
 
 ### 7) Catatan Penting
-Analisis ini bersifat edukasi, bukan ajakan untuk membeli atau menjual saham tertentu.  
-Keputusan investasi sepenuhnya ada di tangan investor sesuai profil risiko masing-masing.
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor. Selalu cek pembaruan data & bacaan lanjutan sebelum mengambil keputusan.

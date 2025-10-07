@@ -1,45 +1,49 @@
-## AVIA – Value Investor One-Pager
+## AVIA – Investor One-Pager
 
-### 1) Pertumbuhan YoY
-- **Revenue Q2 2025 YTD:** Rp 3.884 miliar (Q2 2025), naik +7% YoY (vs Q2 2024 Rp 3.620 miliar, data YTD Jan–Jun).
-- **Gross Profit Q2 2025 YTD:** Rp 1.674 miliar, naik +2,7% YoY (vs Q2 2024 Rp 1.629 miliar).
-- **Net Profit Q2 2025 YTD:** Rp 782 miliar, turun -3,3% YoY (vs Q2 2024 Rp 808 miliar), koreksi dipicu naiknya COGS (raw materials +19%) & beban opex.
-- **Trend EBITDA:** Tidak tersedia khusus, estimasi operasional profit tetap positif; margin melemah seiring cost push di input utama.
-- **FCF FY 2024:** Rp 1.327 miliar (+FCF tahunan stabil, konsisten dengan tahun sebelumnya).
+### 1) Pertumbuhan & Tren Utama
+- **Pendapatan Q2 2025:** Rp1,87 triliun, turun -7,6% QtQ dari Q1 2025 (Rp2,02 triliun) dan -9,7% YoY dari Q2 2024 (Rp1,72 triliun).
+- **Laba bersih Q2 2025:** Rp335 miliar, turun -25% QtQ (Q1 2025: Rp447 miliar) dan -7,5% YoY (Q2 2024: Rp362 miliar).
+- **Margin laba bersih Q2 2025:** 18,0%, melemah vs Q1 2025 (22,1%) dan Q2 2024 (21,1%).
+- **Gross Profit Q2 2025:** Rp749 miliar (gross margin: 40,1%), turun dari Q2 2024 (Rp744 miliar, gross margin: 43,4%).
+- **Arus kas operasi Q2 2025:** Rp156 miliar, turun signifikan dari Q1 2025 (Rp447 miliar); free cash flow Q2 2025: Rp41 miliar.
+- **Tren 2024 ke 2025:** Pertumbuhan pendapatan melambat (2024 revenue full year: Rp7,47 triliun vs 2023: Rp7,02 triliun; +6,4% YoY). Namun, Q2 2025 menandai pelambatan parah QtQ & YoY.
+- **Kinerja per segmen (2024):** Penjualan “Architectural Solution” berkontribusi 78,3% dari total revenue, “Trading Goods” 21,7%.
+- **Aset Q2 2025:** Rp10,88 triliun; ekuitas Rp9,55 triliun; liabilitas Rp1,33 triliun.
+  
+**Periode yang dipakai untuk angka utama: Q2 2025 (30 Juni 2025)**
 
-### 2) Posisi Kompetitif (Bullet Points)
-- **Gross Margin:** Q2 2025 YTD 43,1% (Rp 1.674 miliar/3.884 miliar); relatif tinggi, mengungguli banyak peer sektor kimia domestik (rata-rata ~25–30%).
-- **Net Profit Margin:** Q2 2025 YTD 20,1%; turun tipis YoY dari 22,3%, masih sangat kuat untuk sektor specialty chemicals.
-- **ROE:** Berdasarkan FY 2024: Net profit Rp 1,66 triliun; Equity Rp 10,16 triliun → ROE ~16% (masih atraktif).
-- **Leverage:** D/E Ratio rendah; Liabilities/Ekuitas Q2 2025: Rp 1,22 triliun/10,04 triliun ~0,12x (sangat rendah, risiko finansial minimal).
-- **FCF / Owners’ Earnings:** FCF FY 2024 Rp 1,33 triliun; Owner’s Earnings Rp 1,40 triliun — solid untuk kas bebas.
+### 2) Posisi Kompetitif (Benchmark Highlights)
+- **Market cap:** Rp24,5 triliun (2024) – jauh di atas peers domestik seperti APLI, EKAD, dan CLPI.
+- **Valuasi:** PBV 2,57x; PE TTM 15,0x – premium terhadap peers utama (ex: CLPI PE 6,4x, EKAD 21,4x, sektor median jauh di bawah AVIA).
+- **Profitabilitas terjaga:** Laba bersih & margin jauh di atas peers industri dengan ROE dan net margin di kisaran 15%+.
+- **Kesehatan modal:** Total debt/equity VERY low (0,036x, Q2 2025).
+- **Brand & distribusi:** Salah satu pemain cat dekoratif terbesar Indonesia; skala usaha dan distribusi menjadi entry barrier.
 
-### 3) Dividen & Valuasi
-- **Dividen per Saham (2024 & 2025):** Rp 22/saham (2024), Rp 11/saham (YTD 2025).
-- **Dividend Yield:** ~2,6% (YTD 2025, dihitung dari DPS Rp 11 pada harga Rp 428).
-- **Payout Ratio (FY 2024):** ~79% (Dividen Rp 22/saham ~Rp 1,32 triliun dibagi net profit Rp 1,66 triliun).
-- **Market Cap (per 12 Sep 2025):** Rp 25,79 triliun (Rp 428 x 60,173 miliar saham).
-- **Harga CAGR 2022–YTD 2025:** -5,52% (tren minor bearish dalam periode tersebut).
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
+- **ROE Q2 2025 (annualisasi):** Estimasi ~14,1% (335,5+447,0m/2 x4 ÷ ekuitas rata-rata Q2-Q1 2025).
+- **ROA Q2 2025 (annualisasi):** Estimasi ~6,2%.
+- **Leverage Q2 2025:** Debt/Asset 0,3%; Debt/Equity 3,6% – sangat rendah, bukti balance sheet kuat.
+- **Likuiditas:** Kas & setara kas + investasi jangka pendek Q2 2025 Rp1,74 triliun; current ratio sangat sehat (>6x dari info historis).
+- **Kualitas aset tetap solid:** Tidak ada indikasi non-performing asset besar.
 
-### 4) Insight Strategis
-**Kekuatan:**  
-- Market leader di kategori cat premium domestik, gross margin tinggi & model bisnis kas kuat (+FCF berulang).
-- Diversifikasi produk & penetrasi ke low/mid segment (produk ekonomis GM385, Non-Sag Glue) memperluas pasar.
-- Beban bunga & leverage sangat rendah → risiko finansial minimal.
-
-**Risiko:**  
-- Kinerja musiman dengan demand terkonsentrasi menjelang Lebaran & akhir tahun → potensi volatilitas inventory & working capital.
-- ASP (Average Selling Price) turun -2% YoY Q2 2025 akibat pergeseran product mix ke low-end.
-- Margin tergerus kenaikan biaya bahan baku, listrik, transport & tenaga kerja periodik (THR/Eid).
+### 4) Dividen & Valuasi
+- **Dividen TTM:** Rp22/lembar; yield trailing 12 bulan: **5,47%** (sangat atraktif untuk sektor basic materials).
+- **Payout ratio (2024):** 82,1%; cash payout ratio bahkan di atas 100% (waspada sustainability).
+- **Valuasi premium:** PBV 2,57x vs industry median <1x; PE TTM 15x, di atas CLPI (6,4x) dan sektor PE<10x.
+- **Yield AVG 3 tahun:** 4,35%.
 
 ### 5) Rekomendasi
-**6M (Taktis):** Monitor margin di tengah kompetisi harga, antisipasi fluktuasi sales akibat tekanan input cost dan distribusi menjelang high season Q4.
-**5Y (Tesis):** Fondasi fundamental kuat untuk konsolidasi market share di segmen premium–ekonomis; strategi ekspansi distribusi & R&D produk mendukung pertumbuhan jangka panjang.
+**6M (Taktis):**
+- Fokus efisiensi, cost control, review manajemen modal kerja. Antisipasi penurunan demand mengingat turunnya margin & cash flow Q2 2025.
+- Jaga payout dividen, jangan agresif buyback mengingat cash flow risiko.
 
-### 6) Kesimpulan & Indikasi Strategis
-Jangka Pendek (≤ 6 bulan): ⚠️ Hati-hati – tekanan margin & kenaikan biaya tetap jadi perhatian, namun likuiditas & posisi keuangan aman.
-Jangka Panjang (> 5 tahun): ✅ Positif – sinyal sehat dari arus kas, ROE atraktif, produk bermerk kuat, ekspansi distribusi dan pipeline diversifikasi menambah potensi.
+**5Y (Tesis):**
+- Brand, distribusi, dan pangsa pasar sangat kuat.
+- Risiko utama: pertumbuhan stagnant, margin menciut jika pasar properti lesu.
+
+### 6) Kesimpulan
+Jangka Pendek (≤6 bulan): ⚠️ Potensi tekanan margin, arus kas melambat, risiko pertumbuhan rendah – defensive stance.
+Jangka Panjang (> 5 tahun): ✅ Dominasi pasar, fundamental sehat, yield tetap menarik – stok layak untuk core holding jangka panjang.
 
 ### 7) Catatan Penting
-Analisis ini bersifat edukasi, bukan ajakan untuk membeli atau menjual saham tertentu.  
-Keputusan investasi sepenuhnya ada di tangan investor sesuai profil risiko masing-masing.
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor.

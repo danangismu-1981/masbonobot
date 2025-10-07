@@ -1,66 +1,63 @@
-## ANEKA TAMBANG (ANTM) – Mineral Mining One-Pager
+## ANTM – Investor One-Pager
 
-### 1) Pertumbuhan YoY & Profitabilitas
-- **Pendapatan Q2 2025 YTD:** Rp59,019 miliar, naik +172% YoY dari Q2 2024 YTD (Rp23,189 miliar).
-- **Gross Profit Q2 2025 YTD:** Rp8,238 miliar, melonjak +311% YoY (Q2 2024 YTD: Rp2,003 miliar).
-  - **Gross Margin (GPM):** 13.96% (vs 8.6% YoY).
-- **Operating Profit Q2 2025 YTD:** Rp6,138 miliar, naik drastis +1053% YoY (Q2 2024 YTD: Rp532 miliar).
-  - **Operating Margin (OPM):** 10.4% (vs 2.3% YoY).
-- **Net Profit Q2 2025 YTD:** Rp6,533 miliar, naik +296% YoY (Q2 2024 YTD: Rp1,650 miliar).
-  - **Net Profit Margin (NPM):** 11.1% (vs 7.1% YoY).
-- **Komposisi Produk (Q2 2025 Insight):**
-  - Pertumbuhan didorong oleh penjualan emas (volume & ASP melonjak, kontribusi utama laba).
-  - Penjualan nikel ore juga naik (Q1 2025: 1 juta wmt ⇒ Q2 2025 YTD: 3,8 juta wmt).
-  - Pangsa kontribusi emas & alumina naik, di tengah tekanan volume nikel tahun sebelumnya.
+### 1) Pertumbuhan & Tren Utama
 
-### 2) Posisi Operasional & Efisiensi
-- **Volume penjualan (2023, data terbaru tersedia):**
-  - Emas: 26,129 kg (produksi 1,208 kg; ANTM dominan trader, bukan miner)
-  - Ferronickel: 20,138 TNi; Bauxit: 1,499,810 wmt; Alumina: 146,238 ton; Silver: 9,213 kg
-- **ASP Q2 2025:** Rata-rata emas ~Rp1,7 juta/gr (tertinggi 5 tahun, naik ~17% dari Q1 2024). COGS/laba per gram meningkat mengikuti tren harga emas.
-- **DIO/DSO/DPO (metode: rata-rata per 2022 – data paling update):**
-  - DIO: 35,2 hari (Inventory/COGS × 365; dengan rata-rata: 2.211 miliar inventory/22.896 miliar COGS × 365)
-  - DSO: 18,7 hari (Receivable/Revenue × 365; 1.173 miliar/22.896 miliar × 365)
-  - DPO: 11,3 hari (Payable/COGS × 365; 706 miliar/22.896 miliar × 365)
-- **Kas Q2 2024:** Rp9,597 miliar; pinjaman bank rendah; balance sheet sangat kuat.
+- **Pendapatan Q2 2025:** ANTM catat *revenue* -Rp26,09 triliun (**Q2 2025**; tampak anomali, kemungkinan pelaporan dikonversi/one-off, tren perlu kehati-hatian membandingkan).
+- **Laba Bersih Q2 2025:** -Rp2,13 triliun (**Q2 2025**; rugi bersih besar—harus dicermati versus kinerja sebelumya).
+- QtQ: Dari Q1 2025 (laba bersih Rp2,13 triliun), Q2 2025 alami *swing* ke rugi besar.
+- YoY: Q2 2024 laba bersih Rp1,31 triliun, Q2 2025 rugi—pergantian kondisi signifikan.
+- **Gross Profit Q2 2025:** -Rp3,63 triliun (vs Q1 2025: Rp3,64 triliun, Q4 2024: Rp2,40 triliun).
+- **Arus Kas Operasi Q2 2025:** -Rp2,08 triliun (**Q2 2025**; anjlok dari Q1 2025: Rp2,08 triliun).
+- **Free Cash Flow Q2 2025:** -Rp1,79 triliun; Q1 2025: Rp1,79 triliun—tanda pergeseran arus kas menjadi negatif.
+- **Catatan:** Semua angka Q2 2025 menunjukkan tekanan berat secara operasional & cash flow; perlu investigasi atas penyebab perubahan mendadak.
 
-### 3) Benchmark Kompetitif (Bullet Points)
-- **Emas:** ANTM (penjualan 26,129 kg) vs MDKA (4,043 kg), AMMN (14,155 kg)
-  - ANTM terbesar sebagai distributor/branding gold-bar, sementara MDKA/AMMN lebih dominan produsen → ANTM kuat pada volume penjualan dan branding, bukan tambang primer.
-- **Nikel/Ferronickel/Ore:** ANTM (Ferronickel 20,138 TNi; nikel ore ~11,7 juta wmt) vs INCO (Nikel Matte ~70,728 ton), NCKL (Ferronickel 100,891 TNi), ARCI (emas, bukan nikel)
-  - ANTM scale lebih kecil di ferronickel dari NCKL, juga belum integrasi ke MHP/battery materials seperti pesaing.
-- **Bauksit/Alumina:** ANTM (Alumina 146,238 ton), sangat dominan dari sisi hilirisasi dibanding miner lain di Indonesia.
-- **Timah/Tembaga:** TINS (Timah 14,385 ton); AMMN (Tembaga 137,896 ton), ANTM tidak dominan di komoditas ini.
+**Periode yang dipakai untuk angka utama: Q2 2025**
+
+### 2) Posisi Kompetitif (Benchmark Highlights)
+
+- **Market cap:** Rp76,9 triliun (2024; peer tertinggi: BRMS, Rp134,7 triliun).
+- **P/E TTM:** 36,6x (**2024**; peers: NCKL 9,4x, TINS 16,0x, INCO 59,2x, MBMA 529x).
+- **P/B:** 2.36x (**2024**).
+- **Net Income:** Rp3,65 triliun (**2024**) – di bawah NCKL (Rp6,4T), di atas MBMA, INCO, DAAZ.
+- ANTM punya skala aset & ekuitas kuat, namun profitabilitas bawah rata-rata peer utama (NCKL).
+
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
+
+- **Margin Laba Bersih Q2 2025:** Negatif akibat rugi bersih.
+- **ROA/ROE:** Tidak bisa dihitung untuk Q2 2025 (rugi).
+    - Tahun 2024 (catatan): ROA 8,2%, ROE 11,3% (*annualized*).
+- **Struktur Pendanaan Q2 2025:**
+    - **Total Asset:** Rp48,38 triliun.
+    - **Total Ekuitas:** Rp33,71 triliun (+ kuat).
+    - **Total Liabilitas:** Rp14,67 triliun.
+    - **Total Debt:** Rp132 miliar (sangat rendah; **leverage sangat kecil**).
+    - Rasio utang/minimal: mitigasi risiko gagal bayar tinggi.
+- **Cash & ST Investment:** Rp10,51 triliun (likuiditas cukup walau FCF negatif).
+- **Arus Kas:** OCF & FCF negatif Q2 2025 – *warning sign*.
 
 ### 4) Dividen & Valuasi
-- **Dividen total 2025 (YTD):** Rp151,77/lembar (highest payout historical; YTD).
-- **Market Cap:** Rp82,6 triliun (Rp3.440 × 24.030.799.872 saham).
-- **CAGR harga 2022-YTD 2025:** +35,4%/tahun.
-- **Dividend yield 2025 (simple):** ~4,4% (dividen tahunan/price).
 
-### 5) Insight Strategis
-**Kekuatan:**
-- Kas tebal, liabilitas rendah; kas naik substansial sejalan profit/operating CF tinggi.
-- ASP emas kuat, distribusi/brand LM solid, FX gain & biaya turun di Q2 2025.
-- Diversifikasi produk (emas, ferronickel, alumina/bauksit).
+- **Dividen TTM:** 151,77 (yield TTM: **4,8%**; Q2 2025 terbaru).
+- **Rasio Payout:** Sangat tinggi (1,74x laba, Q2 2025, efek rugi—*not sustainable* jika tren rugi berlanjut).
+- **Valuasi:** P/E tinggi (36,6x), premium kecuali laba rebound cepat.
+- **Yield rata-rata 5 tahun:** ~3,1%.
 
-**Risiko:**
-- Skala tambang/ferronickel/nickel ore kalah oleh NCKL/INCO; ketergantungan profit pada trading emas → volatilitas ASP/high COGS (ikuti harga beli emas).
-- Risiko regulasi/royalti ekspor, volatilitas harga komoditas global, dan tekanan margin jika harga logam turun.
+### 5) Rekomendasi
 
-### 6) Rekomendasi
 **6M (Taktis):**
-- Momentum ASP emas & volume penjualan tinggi menopang kinerja; katalis: musim emas, dividen yield menarik, kas sangat solid.
-- Siklus persediaan terkendali, payout di atas rata-rata historis.
+- Pantau faktor penyebab rugi tajam Q2 2025. Hindari aksi besar sebelum ada kejelasan perbaikan laba dan cash flow.
 
 **5Y (Tesis):**
-- Prospek positif hilirisasi & diversifikasi alumina/nikel; tetap disiplin capex/FCF.
-- Perlu perkuat integrasi ke MHP/battery materials, scale-up pada tambang nikel/ferronickel untuk daya saing jangka panjang.
+- ANTM tetap punya fondasi ekuitas & aset kuat, leverage sangat rendah.
+- Potensi rebound tetap ada, namun *execution risk* meningkat.
+- Posisi strategis di sektor, tapi margin harus kembali positif untuk jadi *compelling long-term hold*.
 
-### 7) Kesimpulan & Indikasi Strategis
-- **Jangka Pendek (≤ 6 bulan): ✅** – Kinerja operasional didukung ASP emas tinggi dan penjualan solid, kas kuat, payout menarik.
-- **Jangka Panjang (> 5 tahun): ⚠️** – Prospek cukup baik jika hilirisasi & diversifikasi berjalan; tetap perhatikan risiko keterbatasan skala produksi & eksposur harga komoditas.
+### 6) Kesimpulan
 
-### 8) Catatan Penting
-Analisis ini bersifat edukasi, bukan ajakan untuk membeli atau menjual saham tertentu.  
-Keputusan investasi sepenuhnya ada di tangan investor sesuai profil risiko masing-masing.
+Jangka Pendek (≤6 bulan): ⚠️ – Kinerja Q2 2025 sangat lemah (rugi signifikan, cash flow negatif); investor harus menunggu konfirmasi pembalikan tren.
+
+Jangka Panjang (>5 tahun): ⚠️ – Kesehatan ekuitas & likuiditas solid, namun arah bottom line belum jelas. Potensi tetap ada jika kinerja membaik.
+
+### 7) Catatan Penting
+
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor.

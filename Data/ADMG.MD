@@ -1,51 +1,49 @@
-## ADMG – Value Investor One‑Pager (Chemicals)
+## ADMG – Investor One-Pager
 
-### 1) Pertumbuhan YoY
-- **Revenue (Q2 2025 YTD):** USD 102,049,201* naik +25% YoY dari Q2 2024 YTD (USD 79,192,745).
-- **Gross Profit (Q2 2025 YTD):** USD 942,560* turun sekitar -24% YoY (Q2 2024 YTD: USD 1,559,983). Margin melemah.
-- **EBITDA:** Tidak tersedia spesifik. Namun, Free Cash Flow Q2 2024 (annualisasi): positif, Owner’s Earnings juga mulai membaik (lihat bagian lain).
-- **Profit before tax (Q2 2025 YTD):** Rugi USD -1,057,823 vs rugi USD -3,635,390 pada Q2 2024 YTD (penurunan rugi, indikator perbaikan).
-- **Net Profit (Q2 2025 YTD):** Rugi USD -1,031,330, membaik dibanding rugi USD -3,492,017 tahun lalu.
-- *Q2 2025 YTD = Jan–Jun, Q2 2024 YTD = Jan–Jun. Data dari Income Statement (YTD).
+### 1) Pertumbuhan & Tren Utama
+- **Pendapatan Q2 2025:** Rp524,1 miliar, *turun* -8.5% QoQ dari Q1 2025 (Rp572,4 miliar); secara YoY Q2’24 ke Q2’25 naik +20.7%.
+- **Laba Bersih Q2 2025:** Rp16,8 miliar, *pulih signifikan* dari rugi bersih Q1 2025 (Rp-16,96 miliar) dan Q4 2024 (Rp-101,82 miliar).
+- **Gross Profit Q2 2025:** Rp22,9 miliar naik lebih dari 2x QoQ (Q1 2025: rugi bruto Rp3,86 miliar), serta pulih dari tren rugi tahun 2023/2024.
+- **Free Cash Flow Q2 2025:** Masih *negatif* Rp-29,99 miliar, membalikkan posisi Q1 2025 yang positif (Rp83,8 miliar).
+- **Aset Q2 2025:** Rp2,62 triliun (+2,85% QoQ dari Q1 2025).
+- **Liabilitas Total Q2 2025:** Rp732,7 miliar (+15.5% QoQ dari Q1 2025).
+- **Modal Sendiri Q2 2025:** Rp1,88 triliun (-1,38% QoQ).
+- **Tren 2024**: Pendapatan FY2024 Rp1,77 triliun, rugi bersih FY2024 Rp-164,66 miliar, membaik dari FY2023 (rugi Rp-294,99 miliar).
+  
+**Periode yang dipakai untuk angka utama: Q2 2025 (30 Juni 2025)**
 
-### 2) Posisi Kompetitif (Benchmark/Relatif)
-- **Gross Profit Margin (GPM, Q2 2025 YTD):** ~0.92% (Rendah; Q2 2024 YTD: 1.97%). Margin tipis, kalah dibanding rata-rata industri petrokimia regional yang biasa 5–15%.
-- **DIO (Days Inventory Outstanding, Q2 2024, annualisasi):** DIO = Avg Inventory/COGS x 365 = (29,298,735/106,757,502)×365 ≈ 100 hari. Ini tinggi, mengindikasikan slow-moving inventory.
-- **DSO (Q2 2024):** DSO = Avg AR/Revenue x 365 = (7,619,637/52,604,478) x 365 ≈ 53 hari. Standar untuk agro/kimia.
-- **DPO (Q2 2024):** DPO = Avg AP/COGS x 365 = (21,826,681/106,757,502) x 365 ≈ 75 hari. Relatif sehat.
-- **Leverage & Coverage (Q2 2025):** Tidak ada bank loan; finance costs kecil (USD 46,034) jauh di bawah gross profit. Namun, interest cover (EBIT/finance cost) masih negatif akibat EBIT minus.
-- **Operasional:** Satu-satunya produsen Mono Ethylene Glycol (MEG) di Indonesia, namun tertekan oleh kebijakan impor dan penurunan permintaan ekspor.
+### 2) Posisi Kompetitif (Benchmark Highlights)
+- **Valuasi rendahan:** PBV Q2 2025: 0,29x (vs median sektor 0,72x–1,80x; peer TPIA 10.424x), PE masih negatif (PE TTM -4,12; industri variasi luas).
+- **Margin & profitabilitas:** Kalah jauh dibanding UNIC (PE 9,1x, net margin positif), serta peers seperti LTLS.
+- **Skala & aset:** Aset ADMG sangat kecil (2,6T) vs TPIA (91T), BRPT (170T) → ADMG pemain sangat kecil.
+- **Likuiditas saham:** Market cap Rp540,6 miliar, sangat kecil dibanding peers (TPIA > 650T).
+- **Efisiensi tenaga kerja:** ADMG 578 karyawan vs peer range 332–3.325.
 
-### 3) Dividen & Valuasi
-- **Dividen:** Tidak ada dividen kuartal maupun tahun berjalan.
-- **Market Cap (per 12 Sep 2025):** ~USD 38.5 juta (148 × 3,889,179,904 saham).
-- **Yield:** 0% (tidak ada dividen).
-- **CAGR Saham (2022–YTD):** -0.74% (negatif, underperform industri).
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
+- **Margin usaha Q2 2025:** EBIT margin 2,9% (Rp15,4 miliar/524,1 miliar).
+- **Struktur modal sehat:** Debt-to-equity sangat rendah (total debt Rp2,00 miliar vs equity Rp1,88 triliun; DER ≈ 0,001).
+- **Likuiditas cukup:** Current assets/Rp1,01 triliun vs current liabilities/Rp662 miliar (~1,53x).
+- **Gross margin:** 4,4% di Q2 2025, naik tajam dari tren negatif 2023-2024.
+- **Arus kas operasional Q2 2025:** negatif Rp-29,54 miliar (membaik dibanding Q2/Q4 2024).
+- **Kualitas aset:** Kas & setara kas Q2 2025 Rp174,4 miliar (13,3% current asset).
 
-### 4) Insight Strategis
-**Kekuatan:**  
-- Satu-satunya produsen MEG di Indonesia, basis domestik kuat.  
-- Berhasil mengurangi beban SDM & G&A (penurunan karyawan, efisiensi).
-
-**Risiko:**  
-- Margin kotor sangat tipis; slow-moving inventory tinggi.  
-- Pemerintah membuka keran impor EG, potensi tekanan harga dan volume.  
-- Tidak ada dividen, rugi bersih beruntun; turnaround belum terbukti kuat.  
-- Dampak naik/turunnya kurs USD ke posisi keuangan.
+### 4) Dividen & Valuasi
+- **Dividen:** *Tidak ada riwayat dan yield dividen—tidak tersedia di semua periode*.
+- **Valuasi:** PBV sangat rendah (0,29x, Q2 2025); PE TTM masih minus karena akumulasi rugi (tidak meaningful).
+- **Perbandingan:** Jauh di bawah valuasi sektor/peers—harga diskon, *tapi mencerminkan risiko kinerja dan size*.
 
 ### 5) Rekomendasi
-**6M (Taktis):**  
-- Fokus efisiensi lebih lanjut (biaya produksi, cut inventory).  
-- Pantau kebijakan impor dan potensi penyesuaian harga domestik.
+**6M (Taktis):**
+- Prioritaskan pemantauan arus kas dan kelanjutan kinerja laba bersih Q3-Q4 2025—indikasi awal turnaround.
+- Trading opportunity: harga diskon ekstrim, *namun likuiditas & volatilitas tinggi*.
 
-**5Y (Tesis):**  
-- Diversifikasi produk petrokimia atau integrasi ke hulu agar tidak hanya bergantung pasar domestik.  
-- Reformasi menyeluruh operasional, capai profitabilitas dan arus kas berkelanjutan.
+**5Y (Tesis):**
+- Jika tren profitabilitas konsisten FY25-26 dan aset tidak menyusut, potensi rerating PBV/valuasi ada.
+- Risiko besar: skala kecil, jejak rugi panjang, pasar/leverage kompetisi.
 
-### 6) Kesimpulan & Indikasi Strategis
-Jangka Pendek (≤ 6 bulan): ⚠️ Hati‑hati – Gross margin tipis, potensi rugi masih tinggi walau biaya mulai efisien.  
-Jangka Panjang (> 5 tahun): ⚠️ Hati‑hati – Fundamental belum stabil, prospek tergantung ekspansi strategi dan adaptasi kebijakan impor.
+### 6) Kesimpulan
+- **Jangka Pendek (≤6 bulan):** ⚠️ – Sinyal awal pemulihan, namun kestabilan profit & arus kas belum teruji.
+- **Jangka Panjang (>5 tahun):** ⚠️ – Potensi rerating tersedia jika sustain recovery, tapi risiko bisnis, kompetisi & likuiditas tetap tinggi.
 
 ### 7) Catatan Penting
-Analisis ini bersifat edukasi, bukan ajakan untuk membeli atau menjual saham tertentu.  
-Keputusan investasi sepenuhnya ada di tangan investor sesuai profil risiko masing‑masing.
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor.

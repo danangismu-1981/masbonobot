@@ -1,50 +1,66 @@
-## IGAR – Value Investor One-Pager
+## IGAR – Investor One-Pager
 
-### 1) Pertumbuhan YoY
-- **Revenue:** Q2 2025 YTD mencapai IDR 456,3 miliar, naik +5,4% YoY vs Q2 2024 (IDR 432,8 miliar), didorong segmen packaging farmasi.
-- **Net Profit:** Q2 2025 YTD IDR 43,8 miliar, tumbuh signifikan +34,4% YoY (vs Q2 2024: IDR 32,4 miliar). FY 2024: Net profit naik +28% YoY (vs FY 2023).
-- **Gross Profit:** Q2 2025 YTD sebesar IDR 70,2 miliar, +12,8% YoY.
-- **COGS:** Q2 2025 naik, namun pertumbuhan revenue mampu menjaga margin profitabilitas.
-- **Operating Profit:** Q2 2025 YTD mencapai IDR 46,7 miliar, naik +11,8% YoY.
-- **Kontributor utama pertumbuhan:** Packaging farmasi, naik konsisten tiap kuartal. 
+### 1) Pertumbuhan & Tren Utama
+- **Pendapatan Q2 2025:** Rp234,2 Miliar (+5,4% QoQ dari Q1 2025 Rp222,1 Miliar).
+- **Laba Bersih Q2 2025:** Rp16,3 Miliar (+20,6% QoQ dari Q1 2025 Rp13,5 Miliar).
+- **Gross Profit Q2 2025:** Rp37,7 Miliar (+15,8% QoQ).
+- **EBITDA Q2 2025:** Rp31,6 Miliar (+18,8% QoQ).
+- **Free Cash Flow Q2 2025:** -Rp20,1 Miliar (melemah tajam QoQ; Q1 2025: -Rp6,9 Miliar, Q4 2024: Rp43,2 Miliar).
+- **Tren YoY Q2 2025 vs Q2 2024:**  
+  - **Pendapatan** tumbuh tipis (+4,2%)  
+  - **Laba bersih** stabil (margin di Q2 2025: 7,0% vs Q2 2024: 6,1%)
+- **Arus Kas Operasi Q2 2025:** -Rp16,5 Miliar (negatif dua kuartal berturut-turut)
+- **YoY Revenue Growth Q2 2025 vs Q2 2024:** +4,2% (data IGAR-FINANCIAL.TXT)
 
-### 2) Posisi Kompetitif (Bullet Points)
-- **Posisi regional:** Fokus utama pada packaging farmasi; tidak ada eksposur minyak/gas, produksi oil/gas, maupun lifting (data tidak relevan).
-- **Margin:** Gross Margin Q2 2025 ~15,4%; Operating Margin ~10,2% – solid untuk industri packaging consumer cyclical.
-- **Balance sheet sangat kuat**: Kas besar, rasio hutang rendah, kas/total aset Q2 2025: 46.6%.
-- **Market share packaging farmasi di Indonesia:** Cenderung stabil; keunggulan pada hubungan klien farmasi.
-- **Catatan:** Tidak terdapat data langsung kompetitor ENRG, PGAS, ELSA karena IGAR berbeda segmen (packaging, bukan O&G).
+**Periode yang dipakai untuk angka utama: Q2 2025 (30 Juni 2025)**
 
-### 3) Dividen & Valuasi
-- **Dividen:** 2025: IDR 5,0/saham (terdistribusi 19 Juni 2025), yield ~1% (berdasarkan harga 510), konsisten payout kecil 3 tahun terakhir.
-- **Market Cap:** ~IDR 473 miliar (510 x 927,780,992).
-- **Harga Saham CAGR 2022–YTD 2025:** +4,1% p.a. (dari file price).
-- **Valuasi konservatif:** Market cap/FCF (2024) di bawah 7x (FCF FY24: IDR 72,5 miliar).
-- **Owner’s Earnings:** FY24: IDR 65,7 miliar (stabil).
+---
 
-### 4) Insight Strategis
-**Kekuatan:**
-- Struktur keuangan sangat sehat (kas besar, hutang minim).
-- Konsisten profit, sangat defensif saat siklus turun.
-- Kompeten segmen niche: pharmaceutical packaging (klien repetitif).
-- OCF & FCF selalu positif.
-**Risiko:**
-- Ketergantungan pada industri farmasi → revenue sangat sensitif pada demand farmasi.
-- Margin bisa tertekan jika harga bahan baku naik atau pesaing harga agresif.
-- Kontribusi financial income tinggi (Q2 2025: 23% net profit) → profitabilitas rentan bila suku bunga turun atau kas digunakan capex besar.
+### 2) Posisi Kompetitif (Benchmark Highlights)
+- **Valuasi Relatif:**
+  - **PE TTM:** 9,0 (2024, peers PBID: 8,6 | SPMA: 9,6 | Sektor Median: ~9–10)
+  - **PB MRQ:** 0,72 (jauh di bawah peers rata-rata; sektor/industri rata-rata jauh lebih tinggi)
+- **Market Cap:** Rp473,2 Miliar (2024) – jauh lebih kecil dari PBID/Jempolan sub-sektor.
+- **Margin Net:** konsisten lebih tinggi dari peers yang rugi atau marginal profit.
+- **Risiko Volatilitas**: Free cash flow kuartalan sangat fluktuatif, investasi besar terhadap aset tetap.
+
+---
+
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
+- **Net Margin Q2 2025:** 7,0% (stabil dari Q2 2024: 6,1%)
+- **Gross Margin Q2 2025:** 16,1% (peningkatan dari Q2 2024: 13,9%)
+- **ROA/ROE (FY 2024):** ROA 5,1% | ROE 5,6% (menurun dari puncak 2022 FY, tetap sehat; data tahunan)
+- **Total Assets Q2 2025:** Rp1.021,2 Miliar | **Total Equity:** Rp852,0 Miliar
+- **Debt-to-Equity Q2 2025:** 0,0007x (sangat rendah, konservatif, robust balance sheet)
+- **Cash & Short-Term Investments Q2 2025:** Rp451,5 Miliar (liquidity tinggi)
+- **Current Ratio:** Sangat tinggi (FY 2024: 15,7x) – sangat likuid, rendah risiko short-term default.
+
+---
+
+### 4) Dividen & Valuasi
+- **Dividend yield TTM:** 0,98% (tinggi dibanding peers yang sering tidak bayar dividen)
+- **Payout Ratio:** 8,9% (FY 2025, konservatif; ruang untuk naik)
+- **Valuasi:** 
+  - **PE TTM:** 9,0 (menarik vs peers, masih diskon)
+  - **PB MRQ:** 0,72 (diskon dalam industri bahan dasar kemasan)
+
+---
 
 ### 5) Rekomendasi
-**6M (Taktis):**
-- Cocok akumulasi bertahap untuk investor risk-averse yang mencari defensif, yield kecil, dan proteksi modal.
-- Potensi upside terbatas, volatilitas rendah, cocok sebagai “anchor” portfolio.
-**5Y (Tesis):**
-- Layak untuk “core holding” jangka panjang selama demand packaging farmasi stabil atau meningkat.
-- Risiko utama: kalau demand farmasi jatuh, performa bisa terganggu – perlu monitor diversifikasi bisnis dan potensi ekspansi sektor lain.
+**6M (Taktis):**  
+- Fokus pada konsistensi arus kas. Waspadai penurunan FCF & kas operasi; namun margin stabil dan konservatif.
+- Pemantauan FCF/OCF 2 kuartal ke depan penting untuk keyakinan recovery.
 
-### 6) Kesimpulan & Indikasi Strategis
-Jangka Pendek (≤ 6 bulan): ✅ Positif – Kinerja Q2 2025 solid, risiko rendah, arus kas kuat, dividen tetap.  
-Jangka Panjang (> 5 tahun): ⚠️ Hati-hati – Sangat tergantung tren industri farmasi; risiko struktural bila tidak diversifikasi.
+**5Y (Tesis):**  
+- Struktur modal kuat, aset likuid besar, risiko leverage rendah. Jika pertumbuhan moderate & margin bertahan, upside dari rerating valuasi atau peningkatan payout/dividen.
+
+---
+
+### 6) Kesimpulan
+Jangka Pendek (≤6 bulan): ⚠️ – Fundamental kuat, namun arus kas negatif dua kuartal perlu perhatian khusus.  
+Jangka Panjang (>5 tahun): ✅ – Struktur modal sangat sehat, valuasi diskon, kinerja margin dan pertumbuhan resilient; upside potensi rerating, safety dari balance sheet.
+
+---
 
 ### 7) Catatan Penting
-Analisis ini bersifat edukasi, bukan ajakan untuk membeli atau menjual saham tertentu.  
-Keputusan investasi sepenuhnya ada di tangan investor sesuai profil risiko masing-masing.
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor.

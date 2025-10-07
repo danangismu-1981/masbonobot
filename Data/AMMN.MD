@@ -1,61 +1,53 @@
-## AMMAN MINERAL INTERNASIONAL (AMMN) – Mineral Mining One-Pager
+## AMMN – Investor One-Pager
 
-### 1) Pertumbuhan YoY & Profitabilitas
-- **Pendapatan (Q2 2025 YTD, Jan–Jun):** USD 184.719 juta (Q1: USD 2,124 ribu*; Q2: USD 182.595 ribu + copper cathode USD 181.675 ribu) — terjadi lonjakan pendapatan pada Q2 2025 seiring mulai penjualan copper cathode.
-- **Gross Profit (Q2 2025 YTD):** USD 49.313 ribu; **Gross Margin** sekitar 26,7% (gross profit / pendapatan). **Catatan:** GPM turun, pencerminan peningkatan COGS per Q2 2025 akibat kenaikan biaya ekspor & cost per ton.
-- **Operating Profit (Q2 2025 YTD):** Negatif USD -132.952 ribu, terutama disebabkan lonjakan SG&A dan beban akrual di tengah tekanan margin dan biaya bunga (lihat finance costs).
-- **Net Profit (Q2 2025 YTD):** Negatif USD -284.055 ribu, kontras dengan FY 2024 (laba bersih USD 641,7 juta). **Net Profit Margin** FY 2024: 24% (USD 641,7 juta / USD 2,66 miliar).
-- **Komposisi produk:** Tahun lalu, gold >50% kontribusi pendapatan. **Q2 2025:** Revenue shift ke copper cathode seiring ekspor konsentrat dihentikan dan smelter beroperasi; gold volume turun drastis akibat grade rendah & pengolahan stock lama.
+### 1) Pertumbuhan & Tren Utama
+- **Pendapatan Q2 2025:** -32,3 triliun (negatif; kemungkinan besar kesalahan input/data error; bandingkan dengan Q1 2025: +35,3 miliar; Q4 2024: +5 triliun).
+- **Laba Bersih Q2 2025:** 2,30 triliun (rebound dari Q1 2025: -2,3 triliun; Q4 2024: -569 miliar).
+- **Gross Profit Q2 2025:** 953 miliar; sebelumnya Q1 2025: -952 miliar.
+- **Tren YoY/QoQ:** Hasil sangat fluktuatif dengan volatilitas tinggi pada pendapatan dan laba terutama di 2 kuartal terakhir (Q2 2025 dan Q1 2025). Laba bersih sempat negatif Q1 2025, kembali positif Q2 2025.
+- **Arus Kas Operasi Q2 2025:** 4,67 triliun; kembali positif secara tajam dari Q1 2025: -4,68 triliun.
+- **Free Cash Flow Q2 2025:** 10,33 triliun (kuat, sangat meningkat dari Q1 2025: -10,35 triliun).
+- **Ekuitas Q2 2025:** 82,1 triliun; naik sedikit dari Q1 2025: 84,1 triliun (catatan: kemungkinan pengaruh fluktuasi saldo di laporan).
+- **Total Aset Q2 2025:** 205,8 triliun (naik dari Q1 2025: 195,7 triliun).
+- **Utang Total Q2 2025:** 98,9 triliun (Q1 2025: 85,9 triliun; ada lonjakan).
 
-### 2) Posisi Operasional & Efisiensi
-- **Volume Produksi/Penjualan Q2 2025:**
-  - Copper cathode: produksi 19.805 ton, penjualan 18.522 ton (93,5% produksi).
-  - Gold: Produksi turun 88% YoY akibat transisi tambang (Phase 7 ke Phase 8) dan grade rendah.  
-  - Konsentrat copper/gold tidak dijual akibat larangan ekspor.
-- **ASP/cost:** ASP gold naik tajam 21% YoY di FY 2024 mendorong margin, namun ASP copper belum terlihat pengaruh besar pada Q2 2025 akibat volume baru hasil smelter.
-- **Mining Cost/ton:** Naik 4% YoY ke USD 2,44/ton (Q2 2025).
-- **DIO/DSO/DPO (FY 2022 data, Annualized):**
-  - **DIO** = Average Inventory / COGS per day ≈ 154.915 / (1.191.250/365) ≈ 47,5 hari.
-  - **DSO** = Avg Receivables / Revenue per day ≈ 246.829 / (2.830.122/365) ≈ 31,8 hari.
-  - **DPO** = Avg Payables / COGS per day ≈ N/A (tidak tersedia).
-  - **Note:** FY 2024 inventory melonjak, sejalan akumulasi stock sebelum smelter, DSO kemungkinan meningkat.
+**Periode yang dipakai untuk angka utama: Q2 2025 (30 Juni 2025)**
 
-### 3) Benchmark Kompetitif (Bullet Points)
-- **Emas:** AMMN (produksi 14.397 kg; penjualan 14.155 kg) jauh lebih besar dari ANTM (1.208 kg) & MDKA (3.933/4.043 kg) → skala pengolahan emas terbesar, leverage ASP emas global optimal.
-- **Tembaga:** AMMN (produksi 141.519 ton; penjualan 137.896 ton) hanya bersaing dengan Freeport, di atas MDKA (12.706/2.206 ton) → superioritas volume & potensi downstream smelter teruji.
-- **Nikel/Alumina/Tins:** AMMN **tidak memiliki exposure** pada nikel maupun timah — minim diversifikasi terhadap volatilitas komoditas lain. Potensi risiko konsentrasi tembaga/emas tinggi.
+### 2) Posisi Kompetitif (Benchmark Highlights)
+- **Market Cap:** 502,2 triliun (2024, peer data).
+- **AMMN unggul dari peers secara aset, ekuitas, dan scale pendapatan (vs BRMS, MDKA, NCKL, ANTM, INCO, dst).**
+- **Profitabilitas (Net Income 2024):** Tertinggi di antara peers utama.
+- **Valuasi Price/Book (PB MRQ, 2024):** 6.227 (PE 201; peer: NCKL PB 2,2 PE 9,4 | ANTM PB 2.364 PE 36,5 | INCO PB 1.045 PE 59).
+- **Kinerja saham 2024:** Yearly market cap change negatif (-23,7%).
+
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
+- **EBIT Q2 2025:** 1,54 triliun (Q1 2025: -1,54 triliun; kembali positif).
+- **EBITDA Q2 2025:** 25,6 PELIK (angka tidak masuk akal/kemungkinan salah satuan, abaikan untuk analisis, gunakan EBIT saja).
+- **Debt to Equity Q2 2025:** ~1,2x (98,9/82,1).
+- **D/E meningkat signifikan dibanding FY2024 (D/E: 1,12 | Catatan PB: 6.227x → sangat premium, kemungkinan ter-distorsi hype/pasar).
+- **Current Ratio Q2 2025:** 45,3/23,4 = ~1,93x (cukup likuid).
+- **Cash & Setara Kas Q2 2025:** 16,3 triliun (Q1: 14,2 triliun).
+- **Aset non-lancar tinggi (Q2: 160,5 triliun); aset lancar tetap lebih rendah dari total liabilitas (moderate risk).**
 
 ### 4) Dividen & Valuasi
-- **Dividen:** Belum ada pembayaran dividen (Q2 2025, YTD 2024 atau historis).
-- **Market Cap (Q2 2025):** 8.000 × 72,518 miliar = **Rp 580 triliun** (kurs sesuai data publikasi).
-- **CAGR Saham (2023–Q3 2025 YTD):** 12,48%.
-- **Valuasi relatif:** Tidak ada data PE, PBV di file; market cap besar menandakan valuasi premium atas konsentrasi aset tembaga-emas.
+- **Dividen:** Tidak ada pembayaran dividen pada periode terbaru, payout & yield semua tertulis “data tidak tersedia”.
+- **Valuasi:** PB sangat tinggi (6.227x, per peer data 2024), PE trailing sangat tinggi (201x); jauh di atas rata-rata sektor.
+- **Indikasi overvalued berdasarkan peer comparison; PE peers biasanya <60, PB peers mayoritas <20.**
 
-### 5) Insight Strategis
-**Kekuatan:**
-- Cadangan tembaga terbesar nasional (hanya dikalahkan Freeport).
-- Transformasi ke hilirisasi (smelter cathode dioperasikan Q1-Q2 2025).
-- Leverage ASP global emas & copper dalam periode volatilitas, realisasi penjualan cathode capai 93,5% produksi.
+### 5) Rekomendasi
+**6M (Taktis):**
+- Fokus monitoring kelangsungan rebound laba Q2 2025.
+- Waspada volatilitas kinerja (laba/pendapatan bisa fluktuatif tajam).
+- Premium valuation cenderung tidak justified oleh earnings visibility jangka pendek.
 
-**Risiko:**
-- Ketergantungan harga komoditas global (emas/copper); volatil & sensitif sentimen makro.
-- Regulasi ekspor konsentrat dan royalti berdampak langsung pada revenue (Q1 2025 revenue drop drastis).
-- Lonjakan utang bank → kenaikan finance cost, FCF/owner’s earnings negatif dua tahun berturut-turut.
-- Turun drastisnya grade tambang (phase transisi), menghimpit volume produksi gold/copper.
+**5Y (Tesis):**
+- Prospek jangka panjang masih kuat didukung cadangan tambang dan aset besar.
+- Monitor manajemen risiko utang yang meningkat tajam.
+- Harus ada perbaikan tata kelola transparansi data & konsistensi cash flow untuk menarik investasi jangka panjang.
 
-### 6) Rekomendasi
-**6M (Taktis):**  
-- Katalis: Recovery penjualan copper cathode ke pasar domestik/ekspor bila izin keluar; potensi bakal kenaikan ASP gold/copper karena geopolitik global.
-- Watch-list: Akselerasi ramp-up smelter & penyelesaian concentrator plant, dampak inventory turnover.
+### 6) Kesimpulan
+Jangka Pendek (≤6 bulan): ⚠️ – Risiko volatilitas tinggi dan valuasi premium, benefit hanya jika rebound sustain.
+Jangka Panjang (> 5 tahun): ✅ – Fundamental aset, skala, dan exposure komoditas tetap menarik jika eksekusi proyek dan pengelolaan utang baik.
 
-**5Y (Tesis):**  
-- Arah: Sukses hilirisasi cathode & downstream, peluang efisiensi cost per ton pasca ekspansi plant.
-- Disiplin capex & balance sheet, diversifikasi komoditas/produk bernilai tambah, mitigasi risiko single-commodity.
-
-### 7) Kesimpulan & Indikasi Strategis
-Jangka Pendek (≤ 6 bulan): ⚠️ – Kinerja keuangan tertekan oleh dampak regulasi ekspor & transisi produksi; recovery produksi copper cathode jadi penentu sentimen.
-Jangka Panjang (> 5 tahun): ✅ – Potensi pertumbuhan besar didukung transformasi hilirisasi, posisi cadangan strategis, dan pengembangan fasilitas pengolahan.
-
-### 8) Catatan Penting
-Analisis ini bersifat edukasi, bukan ajakan untuk membeli atau menjual saham tertentu.  
-Keputusan investasi sepenuhnya ada di tangan investor sesuai profil risiko masing-masing.
+### 7) Catatan Penting
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor.
