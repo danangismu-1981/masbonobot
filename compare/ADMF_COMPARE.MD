@@ -1,45 +1,47 @@
 # COMPARE ONE-PAGER (CROSS-INDUSTRY READY)
 
 ## HEADER
-Ticker: ADMF
-Company: Adira Dinamika Multi Finance Tbk
-Sector: Financial Services
-Industry: Credit Services
-AsOf: 2025-09-11
+Ticker: ADMF.JK  
+Company: Adira Dinamika Multi Finance Tbk  
+Sector: Financials  
+Industry: Consumer Financing  
+AsOf: 2025-06-30
 
 ## VALUATION
-Market Cap: IDR 8.95 triliun
-PER: 6.4x
-PBV: 0.8x
-Dividend Yield: 7.9%
+Market Cap: IDR 9.05 triliun  
+PER: 7.3x  
+PBV: 0.79x  
+Dividend Yield: 8.0%
 
 ## PROFITABILITY
-Revenue Growth YoY: +5.1%
-Net Profit Growth YoY: -27.6%
-Net Margin: 14.1%
-ROE: 12.2%
+Revenue Growth YoY: -19.4%  
+Net Profit Growth YoY: -3.0%  
+Net Margin: 17.5%  
+ROE: 12.2%  
 ROA: 4.3%
 
 ## BALANCE & CASH
-DER: 1.8x
-FCF: IDR 351 miliar
+DER: 1.73x  
+FCF: IDR 744 miliar
 
 ## SCORE (0–5 each; integers or 0.5 steps allowed)
-ValuationScore: 4.5
-ProfitabilityScore: 2
-BalanceScore: 2.5
-IncomeScore: 5
+ValuationScore: 4.5  
+ProfitabilityScore: 2.5  
+BalanceScore: 3  
+IncomeScore: 4.5
 
 ## NOTES
 Highlights:
-- Attractive dividend yield above 7%
-- Valuation is low (PER, PBV) versus sector peers
+- Low valuation multiples (PER, PBV) vs. sector
+- High dividend yield (8%)
+- Consistently positive free cash flow
 
 Risks:
-- Net profit dropped sharply due to higher impairment losses
-- Asset quality deteriorating (NPF up to 2.2%)
+- Revenue and profit growth negative YoY
+- High leverage (DER >1.5x)
+- Market cap declined ~20% YoY
 
 ## METADATA
-Source: Company filings, IDX, internal analysis
-Period: FY 2024
-LastUpdate: 2025-09-11
+Source: Company filings, peer data, dividend report  
+Period: Q2 2025 YTD  
+LastUpdate: 2025-06-30

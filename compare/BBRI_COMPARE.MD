@@ -2,44 +2,44 @@
 
 ## HEADER
 Ticker: BBRI
-Company: Bank Rakyat Indonesia
-Sector: Financial Services
-Industry: Banks - Regional
-AsOf: 2025-09-12
+Company: PT Bank Rakyat Indonesia (Persero) Tbk
+Sector: Financials
+Industry: Banks
+AsOf: 2025-06-30
 
 ## VALUATION
-Market Cap: IDR 624 triliun
-PER: 17.1x
-PBV: 1.9x
-Dividend Yield: 5.1%
+Market Cap: IDR 559.8 triliun
+PER: 9.9x
+PBV: 1.8x
+Dividend Yield: 9.3%
 
 ## PROFITABILITY
-Revenue Growth YoY: +11%
-Net Profit Growth YoY: +0.4%
-Net Margin: 30%
+Revenue Growth YoY: +6.9%
+Net Profit Growth YoY: -8.8%
+Net Margin: 30.1%
 ROE: 19%
-ROA: 3%
+ROA: 3.0%
 
 ## BALANCE & CASH
-DER: 5.5x
-FCF: IDR 13.9 triliun
+DER: 5.3x
+FCF: IDR 0.67 triliun
 
 ## SCORE (0–5 each; integers or 0.5 steps allowed)
-ValuationScore: 3
+ValuationScore: 4
 ProfitabilityScore: 4
-BalanceScore: 2.5
-IncomeScore: 4.5
+BalanceScore: 2
+IncomeScore: 5
 
 ## NOTES
 Highlights:
-- Market leader in micro lending with high NIM (~7.8%)
-- Strong CASA growth supports liquidity and low funding cost
+- Attractive dividend yield above 9%
+- Solid ROE and net margin for sector
 
 Risks:
-- Rising NPL (3.04% Q2 2025) and high DER may pressure profits
-- Net profit growth slowed due to higher interest and provision expenses
+- Net profit declined YoY
+- High leverage (DER >5x)
 
 ## METADATA
-Source: Company filings, IDX, internal analysis
+Source: Company filings, peer data, dividend disclosures
 Period: Q2 2025 YTD
-LastUpdate: 2025-09-12
+LastUpdate: 2025-06-30

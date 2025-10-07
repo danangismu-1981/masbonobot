@@ -1,47 +1,45 @@
 # COMPARE ONE-PAGER (CROSS-INDUSTRY READY)
 
 ## HEADER
-Ticker: BBCA  
-Company: Bank Central Asia  
-Sector: Financial Services  
-Industry: Banks - Regional  
-AsOf: 2025-09-12
+Ticker: BBCA
+Company: PT Bank Central Asia Tbk
+Sector: Financials
+Industry: Banks
+AsOf: 2025-06-30
 
 ## VALUATION
-Market Cap: IDR 970 triliun  
-PER: 17.2x  
-PBV: 3.8x  
-Dividend Yield: 3.2%
+Market Cap: IDR 943 triliun
+PER: 16.5x
+PBV: 3.6x
+Dividend Yield: 4.0%
 
 ## PROFITABILITY
-Revenue Growth YoY: +8.8%  
-Net Profit Growth YoY: +12.8%  
-Net Margin: 57%  
-ROE: 21%  
-ROA: 2.0%
+Revenue Growth YoY: +6.5%
+Net Profit Growth YoY: +6.2%
+Net Margin: 50.6%
+ROE: 20.2%
+ROA: 3.8%
 
 ## BALANCE & CASH
-DER: 0.47x  
-FCF: IDR 50.3 triliun
+DER: 4.3x
+FCF: IDR 5.6 triliun
 
 ## SCORE (0–5 each; integers or 0.5 steps allowed)
-ValuationScore: 2.5  
-ProfitabilityScore: 5  
-BalanceScore: 4.5  
-IncomeScore: 4  
-TotalScore: 16
+ValuationScore: 2
+ProfitabilityScore: 5
+BalanceScore: 3
+IncomeScore: 5
 
 ## NOTES
 Highlights:
-- Leading CASA ratio (83%) and strong deposit growth
-- Consistently high net profit and margin
-- Low cost of funds and robust FCF
+- Consistently high ROE (~20%) and net margin (>50%)
+- Dividend yield at 4% is above sector average
 
 Risks:
-- NPL ratio increased to 2.2% in Q2 2025
-- Aggressive loan growth may pressure asset quality
+- Valuation premium (PER, PBV) above peers
+- High DER typical for banks, but leverage remains a risk
 
 ## METADATA
-Source: Company filings, IDX, BBCA financial statements  
-Period: Q2 2025 YTD  
-LastUpdate: 2025-09-12
+Source: Company filings, peer data, dividend disclosures
+Period: Q2 2025 YTD
+LastUpdate: 2025-06-30

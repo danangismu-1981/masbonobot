@@ -2,46 +2,45 @@
 
 ## HEADER
 Ticker: BBNI
-Company: Bank Negara Indonesia (Persero) Tbk
-Sector: Financial Services
-Industry: Banks - Regional
-AsOf: 2025-09-12
+Company: PT Bank Negara Indonesia (Persero) Tbk
+Sector: Financials
+Industry: Banks
+AsOf: 2025-06-30
 
 ## VALUATION
-Market Cap: IDR 2,523 triliun
-PER: 7.7x
-PBV: 1.0x
-Dividend Yield: 8.6%
+Market Cap: IDR 148.7 triliun
+PER: 7.1x
+PBV: 0.93x
+Dividend Yield: 9.3%
 
 ## PROFITABILITY
-Revenue Growth YoY: +4.5%
-Net Profit Growth YoY: +2.7%
-Net Margin: 19%
-ROE: 13%
-ROA: 1.8%
+Revenue Growth YoY: +20.4%
+Net Profit Growth YoY: -12.1%
+Net Margin: 33.3%
+ROE: 12.8%
+ROA: 1.9%
 
 ## BALANCE & CASH
-DER: 6.3x
-FCF: IDR -66.3 triliun
+DER: 5.76x
+FCF: IDR 63.5 triliun
 
 ## SCORE (0–5 each; integers or 0.5 steps allowed)
-ValuationScore: 4.5
+ValuationScore: 5
 ProfitabilityScore: 3
-BalanceScore: 2
+BalanceScore: 3.5
 IncomeScore: 5
 
 ## NOTES
 Highlights:
-- Attractive valuation with low PER and PBV.
-- High dividend yield (8.6%) and stable net margin.
-- Loan growth and improved credit quality in 2025.
+- Attractive valuation (PER 7.1x, PBV 0.93x)
+- High dividend yield (9.3%)
+- Strong free cash flow in latest quarter
 
 Risks:
-- Free cash flow turned sharply negative in 2024.
-- Rising cost of funds and declining CASA ratio.
-- Net profit declined -5.6% YoY in Q2 2025.
+- Net profit growth negative YoY
+- High leverage (DER >5x)
 
 ## METADATA
-Source: Company filings, IDX, internal analysis
+Source: Company filings, peer data, dividend disclosures
 Period: Q2 2025 YTD
-LastUpdate: 2025-09-12
+LastUpdate: 2025-06-30

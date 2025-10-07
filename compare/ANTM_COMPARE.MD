@@ -1,46 +1,45 @@
 # COMPARE ONE-PAGER (CROSS-INDUSTRY READY)
 
 ## HEADER
-Ticker: ANTM
-Company: PT Aneka Tambang Tbk
+Ticker: ANTM.JK
+Company: Aneka Tambang Tbk
 Sector: Basic Materials
-Industry: Gold
-AsOf: 2025-09-12
+Industry: Metals & Minerals
+AsOf: 2025-06-30
 
 ## VALUATION
-Market Cap: IDR 82.6 triliun
-PER: 17.9x
-PBV: 2.6x
-Dividend Yield: 4.4%
+Market Cap: IDR 76.9 triliun
+PER: 36.6x
+PBV: 2.36x
+Dividend Yield: 4.8%
 
 ## PROFITABILITY
-Revenue Growth YoY: +40%
-Net Profit Growth YoY: +25%
-Net Margin: 6.7%
-ROE: 12%
-ROA: 8.7%
+Revenue Growth YoY: -2.8%
+Net Profit Growth YoY: -2.6%
+Net Margin: 5.3%
+ROE: 11.3%
+ROA: 8.2%
 
 ## BALANCE & CASH
-DER: 0.4x
-FCF: IDR 2.7 triliun
+DER: 0.38x
+FCF: IDR 1.79 triliun
 
 ## SCORE (0–5 each; integers or 0.5 steps allowed)
-ValuationScore: 3
-ProfitabilityScore: 3
+ValuationScore: 2
+ProfitabilityScore: 2
 BalanceScore: 4
-IncomeScore: 4
-TotalScore: 14
+IncomeScore: 3.5
 
 ## NOTES
 Highlights:
-- Gold sales volume and price at record highs in H1 2025, driving revenue up 40% YoY
-- Strong cash position and low leverage support financial flexibility
+- Low leverage with DER at 0.38x and positive FCF
+- Dividend yield above 4% and consistent payout
 
 Risks:
-- Revenue and profit highly sensitive to global commodity price fluctuations
-- Regulatory changes (e.g., export restrictions, royalties) may impact profitability
+- Revenue and net profit growth negative YoY
+- High PER vs. sector peers
 
 ## METADATA
-Source: Company filings, IDX, ANTM disclosures
+Source: Company filings, ANTM-PEERS.TXT, ANTM-FINANCIAL.TXT, ANTM-DIVIDEN.TXT
 Period: Q2 2025 YTD
-LastUpdate: 2025-09-12
+LastUpdate: 2025-06-30

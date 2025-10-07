@@ -2,45 +2,45 @@
 
 ## HEADER
 Ticker: BBTN
-Company: Bank Tabungan Negara (Persero) Tbk
-Sector: Financial Services
-Industry: Banks - Regional
-AsOf: 2025-09-12
+Company: PT Bank Tabungan Negara (Persero) Tbk
+Sector: Financials
+Industry: Banks
+AsOf: 2025-06-30
 
 ## VALUATION
-Market Cap: IDR 19.44 triliun
-PER: -
-PBV: -
-Dividend Yield: 3.9%
+Market Cap: IDR 17.6 triliun
+PER: 5.5x
+PBV: 0.52x
+Dividend Yield: 4.2%
 
 ## PROFITABILITY
-Revenue Growth YoY: +10.1%
-Net Profit Growth YoY: -14.1%
-Net Margin: -
-ROE: -
-ROA: -
+Revenue Growth YoY: +81.6%
+Net Profit Growth YoY: +25.1%
+Net Margin: 18.7%
+ROE: 9.2%
+ROA: 0.64%
 
 ## BALANCE & CASH
-DER: 17.1x
-FCF: IDR -10.39 triliun
+DER: 1.14x
+FCF: IDR 9.8 triliun
 
 ## SCORE (0–5 each; integers or 0.5 steps allowed)
-ValuationScore: 3
+ValuationScore: 5
 ProfitabilityScore: 2
-BalanceScore: 1.5
-IncomeScore: 3
-# TotalScore is optional; will be computed if omitted
+BalanceScore: 3
+IncomeScore: 4
+TotalScore: 14
 
 ## NOTES
 Highlights:
-- Dividend yield above 3% with consistent payout growth.
-- Revenue grew +10% YoY; customer deposits increased 9.3% YoY.
+- Very low valuation multiples (PER, PBV) vs. peers
+- Dividend yield above 4% and positive free cash flow
 
 Risks:
-- Net profit declined -14% YoY in FY 2024.
-- High DER (17.1x) and negative FCF in FY 2024.
+- Profitability metrics (ROE, margin) below top-tier banks
+- Revenue growth volatile; asset quality and leverage require monitoring
 
 ## METADATA
-Source: Company filings, IDX, internal calculations
-Period: FY 2024, Q2 2025
-LastUpdate: 2025-09-12
+Source: Company filings, peer data, dividend disclosures
+Period: Q2 2025 YTD
+LastUpdate: 2025-06-30

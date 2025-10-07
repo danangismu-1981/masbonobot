@@ -1,45 +1,46 @@
 # COMPARE ONE-PAGER (CROSS-INDUSTRY READY)
 
 ## HEADER
-Ticker: ADRO
-Company: Adaro Energy Indonesia Tbk
-Sector: Energy
-Industry: Thermal Coal
-AsOf: 2025-09-12
+Ticker: ADRO.JK  
+Company: Alamtri Resources Indonesia Tbk  
+Sector: Energy  
+Industry: Coal  
+AsOf: 2025-06-30
 
 ## VALUATION
-Market Cap: IDR 49.5 triliun
-PER: 15.2x
-PBV: 1.0x
-Dividend Yield: 9.9%
+Market Cap: IDR 48.1 triliun  
+PER: 4.3x  
+PBV: 0.65x  
+Dividend Yield: 9.98%
 
 ## PROFITABILITY
-Revenue Growth YoY: -68%
-Net Profit Growth YoY: -16%
-Net Margin: 74.9%
-ROE: 29%
-ROA: 24%
+Revenue Growth YoY: -70.1%  
+Net Profit Growth YoY: -76.6%  
+Net Margin: 66.4%  
+ROE: 25.7%  
+ROA: 20.6%
 
 ## BALANCE & CASH
-DER: 0.3x
-FCF: USD 1,166 juta
+DER: 0.25x  
+FCF: IDR 0.70 triliun
 
 ## SCORE (0–5 each; integers or 0.5 steps allowed)
-ValuationScore: 4
-ProfitabilityScore: 2
-BalanceScore: 4
+ValuationScore: 5  
+ProfitabilityScore: 2  
+BalanceScore: 4  
 IncomeScore: 5
 
 ## NOTES
 Highlights:
-- High net margin and ROE despite revenue drop
-- Strong free cash flow and low leverage
+- Very low PER and PBV vs peers
+- High net margin and ROE
+- Dividend yield among the highest in the market
 
 Risks:
-- Revenue and profit declined sharply after coal business divestment
-- Regulatory and export quota risks remain significant
+- Revenue and profit growth sharply negative YoY
+- FCF much lower than prior years
 
 ## METADATA
-Source: Company filings, IDX, internal calculation
-Period: Q2 2025 YTD
-LastUpdate: 2025-09-12
+Source: Company filings, peer data, dividend reports  
+Period: Q2 2025 YTD  
+LastUpdate: 2025-06-30

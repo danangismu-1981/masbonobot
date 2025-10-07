@@ -1,47 +1,45 @@
 # COMPARE ONE-PAGER (CROSS-INDUSTRY READY)
 
 ## HEADER
-Ticker: ABMM
-Company: -
-Sector: Energy
-Industry: Thermal Coal
-AsOf: 2025-09-12
+Ticker: ABMM.JK  
+Company: ABM Investama Tbk  
+Sector: Energy  
+Industry: Coal  
+AsOf: 2025-06-30
 
 ## VALUATION
-Market Cap: IDR 8.04 triliun
-PER: 4.2x
-PBV: 1.0x
-Dividend Yield: 5.2%
+Market Cap: IDR 7.93 triliun  
+PER: 6.0x  
+PBV: 0.58x  
+Dividend Yield: 5.3%
 
 ## PROFITABILITY
-Revenue Growth YoY: -20%
-Net Profit Growth YoY: -56%
-Net Margin: 12%
-ROE: 16%
-ROA: 7%
+Revenue Growth YoY: -17.7%  
+Net Profit Growth YoY: -85.8%  
+Net Margin: 11.6%  
+ROE: 16.4%  
+ROA: 6.7%
 
 ## BALANCE & CASH
-DER: 1.4x
-FCF: USD 159.8 juta
+DER: 1.47x  
+FCF: -IDR 754.9 miliar
 
 ## SCORE (0–5 each; integers or 0.5 steps allowed)
-ValuationScore: 4.5
-ProfitabilityScore: 2
-BalanceScore: 3
+ValuationScore: 4.5  
+ProfitabilityScore: 2  
+BalanceScore: 2  
 IncomeScore: 3.5
 
 ## NOTES
 Highlights:
-- Low PER and PBV indicate attractive valuation.
-- Maintains positive free cash flow and high dividend yield.
-- Coal contracting and investment income remain key revenue streams.
+- Very low valuation multiples (PER, PBV) vs. peers
+- Dividend yield above 5% with moderate payout ratio
 
 Risks:
-- Revenue and profit declined sharply due to lower coal prices.
-- High leverage (DER) and exposure to coal price volatility.
-- Regulatory and export quota risks for coal sector.
+- Sharp YoY decline in profit and revenue
+- Negative free cash flow latest quarter
 
 ## METADATA
-Source: Company filings, IDX, internal analysis
-Period: Q2 2025 YTD / FY 2024
-LastUpdate: 2025-09-12
+Source: Company filings, peer data  
+Period: Q2 2025 YTD  
+LastUpdate: 2025-06-30

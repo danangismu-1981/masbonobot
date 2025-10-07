@@ -2,45 +2,45 @@
 
 ## HEADER
 Ticker: AGII
-Company: Aneka Gas Industri
+Company: PT Samator Indo Gas Tbk
 Sector: Basic Materials
 Industry: Chemicals
-AsOf: 2025-09-12
+AsOf: 2025-06-30
 
 ## VALUATION
-Market Cap: IDR 2.35 triliun
-PER: 21.3x
-PBV: 0.6x
-Dividend Yield: 1.1%
+Market Cap: IDR 3.83 triliun
+PER: 62.1x
+PBV: 1.04x
+Dividend Yield: 0.68%
 
 ## PROFITABILITY
-Revenue Growth YoY: +3%
-Net Profit Growth YoY: -35%
-Net Margin: 3.8%
-ROE: 2.9%
+Revenue Growth YoY: +2.1%
+Net Profit Growth YoY: -45.6%
+Net Margin: 3.6%
+ROE: 2.8%
 ROA: 1.3%
 
 ## BALANCE & CASH
-DER: 1.2x
-FCF: IDR -462 miliar
+DER: 1.12x
+FCF: IDR -23.4 miliar
 
 ## SCORE (0–5 each; integers or 0.5 steps allowed)
-ValuationScore: 3
+ValuationScore: 1
 ProfitabilityScore: 1
-BalanceScore: 1
-IncomeScore: 1
+BalanceScore: 2
+IncomeScore: 2
 TotalScore: 6
 
 ## NOTES
 Highlights:
-- Market leader in industrial and medical gas with 44% and 75–80% share, respectively
-- Revenue growth remains positive (+3% YoY), driven by core gas segment
+- Stable revenue with slight YoY growth (+2.1%)
+- Dividend yield improved to 0.68%
 
 Risks:
-- Profitability pressured by rising costs and high operating expenses
-- High leverage (DER >1x) and negative free cash flow
+- High PER (62.1x) and low net margin (3.6%)
+- Negative free cash flow and declining net profit
 
 ## METADATA
-Source: Company financials, IDX, AGII disclosures
-Period: Q2 2025 YTD / FY 2024
-LastUpdate: 2025-09-12
+Source: Company filings, AGII-PEERS.TXT, AGII-FINANCIAL.TXT, AGII-DIVIDEN.TXT
+Period: Q2 2025 YTD
+LastUpdate: 2025-06-30

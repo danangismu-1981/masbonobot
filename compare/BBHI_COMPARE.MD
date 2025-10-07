@@ -2,45 +2,45 @@
 
 ## HEADER
 Ticker: BBHI
-Company: -
-Sector: Financial Services
-Industry: Banks - Regional
-AsOf: 2025-09-12
+Company: PT Allo Bank Indonesia Tbk
+Sector: Financials
+Industry: Banks
+AsOf: 2025-06-30
 
 ## VALUATION
-Market Cap: IDR 32.6 triliun
-PER: 6.9x
-PBV: 0.9x
-Dividend Yield: 0.7%
+Market Cap: IDR 33.46 triliun
+PER: 67.8x
+PBV: 4.6x
+Dividend Yield: 0.70%
 
 ## PROFITABILITY
-Revenue Growth YoY: +24.1%
-Net Profit Growth YoY: +5.1%
-Net Margin: 26.7%
+Revenue Growth YoY: +39.4%
+Net Profit Growth YoY: +28.5%
+Net Margin: 33.9%
 ROE: 6.4%
-ROA: 3.2%
+ROA: 3.3%
 
 ## BALANCE & CASH
-DER: 0.95x
-FCF: IDR 772 miliar
+DER: 0.92x
+FCF: IDR 569.2 miliar
 
 ## SCORE (0–5 each; integers or 0.5 steps allowed)
-ValuationScore: 4.5
+ValuationScore: 1
 ProfitabilityScore: 2
-BalanceScore: 2
+BalanceScore: 3
 IncomeScore: 1
-TotalScore: 9.5
+TotalScore: 7
 
 ## NOTES
 Highlights:
-- Revenue grew 24.1% YoY in Q2 2025, driven by higher interest income.
-- Low PER (6.9x) and PBV (0.9x) indicate attractive valuation.
+- Strong revenue and profit growth YoY
+- Healthy asset and equity base
 
 Risks:
-- High Loan at Risk (LaR) and rising NPL signal deteriorating credit quality.
-- Low CASA ratio keeps funding costs high and pressures margins.
+- Valuation multiples significantly above peers
+- Low dividend yield and moderate profitability
 
 ## METADATA
-Source: Company filings, BBHI_BalanceSheet_simplified.txt, BBHI_IncomeStatement_simplified.txt, BBHI_CashflowStatement.txt, BBHI_DVInsight.txt, BBHI_price.txt
+Source: Company filings, peer data, BBHI financials
 Period: Q2 2025 YTD
-LastUpdate: 2025-09-12
+LastUpdate: 2025-06-30
