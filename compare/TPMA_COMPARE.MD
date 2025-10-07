@@ -1,45 +1,46 @@
 # COMPARE ONE-PAGER (CROSS-INDUSTRY READY)
 
 ## HEADER
-Ticker: TPMA
+Ticker: TPMA.JK
 Company: Trans Power Marine Tbk
-Sector: Industrials
-Industry: Marine Shipping
-AsOf: 2025-09-12
+Sector: Energy
+Industry: Coal
+AsOf: 2025-06-30
 
 ## VALUATION
-Market Cap: IDR 2.03 triliun
-PER: 3.7x
-PBV: 0.9x
-Dividend Yield: 13.8%
+Market Cap: IDR 2.01 triliun
+PER: 5.0x
+PBV: 1.0x
+Dividend Yield: 13.7%
 
 ## PROFITABILITY
-Revenue Growth YoY: +79%
-Net Profit Growth YoY: +66%
-Net Margin: 27.5%
-ROE: 22%
-ROA: 13%
+Revenue Growth YoY: +85.1%
+Net Profit Growth YoY: -25.2%
+Net Margin: 21.2%
+ROE: 16.9%
+ROA: 10.2%
 
 ## BALANCE & CASH
-DER: 0.7x
-FCF: USD -24.1 juta
+DER: 0.66x
+FCF: IDR 108.2 miliar
 
 ## SCORE (0–5 each; integers or 0.5 steps allowed)
 ValuationScore: 5
-ProfitabilityScore: 4.5
-BalanceScore: 2
+ProfitabilityScore: 3
+BalanceScore: 3
 IncomeScore: 5
 
 ## NOTES
 Highlights:
-- Revenue surged 79% YoY in FY 2024, driven by fleet expansion and TLP consolidation
-- Net profit grew 66% YoY with strong margin and high ROE
+- Very low PER and PBV vs peers
+- High dividend yield (13.7%)
+- Solid net margin and ROE
 
 Risks:
-- Revenue and margin sensitive to coal prices and contract renewals
-- High capex and bank loans led to negative FCF and rising finance costs
+- Net profit declined YoY
+- FCF volatility in recent quarters
 
 ## METADATA
-Source: Company financials, IDX, public filings
-Period: Q2 2025 YTD / FY 2024
-LastUpdate: 2025-09-12
+Source: Company filings, peer data, dividend disclosures
+Period: Q2 2025 YTD
+LastUpdate: 2024-06-30

@@ -1,45 +1,47 @@
 # COMPARE ONE-PAGER (CROSS-INDUSTRY READY)
 
 ## HEADER
-Ticker: UNIC
-Company: Unggul Indah Cahaya Tbk
-Sector: Basic Materials
-Industry: Chemicals
-AsOf: 2025-09-12
+Ticker: UNIC.JK  
+Company: Unggul Indah Cahaya Tbk  
+Sector: Basic Materials  
+Industry: Chemicals  
+AsOf: 2025-06-30
 
 ## VALUATION
-Market Cap: IDR 3.06 triliun
-PER: 11.3x
-PBV: 1.0x
-Dividend Yield: 5.6%
+Market Cap: IDR 3.45 triliun  
+PER: 9.1x  
+PBV: 0.73x  
+Dividend Yield: 5.0%
 
 ## PROFITABILITY
-Revenue Growth YoY: +1.6%
-Net Profit Growth YoY: -4.1%
-Net Margin: 6.0%
-ROE: 6.8%
-ROA: 5.9%
+Revenue Growth YoY: +32.5%  
+Net Profit Growth YoY: +33.6%  
+Net Margin: 6.0%  
+ROE: 6.9%  
+ROA: 6.1%
 
 ## BALANCE & CASH
-DER: 0.15x
-FCF: USD 39.3 juta
+DER: 0.14x  
+FCF: IDR 268.4 miliar
 
 ## SCORE (0–5 each; integers or 0.5 steps allowed)
-ValuationScore: 4
-ProfitabilityScore: 2
-BalanceScore: 4.5
+ValuationScore: 5  
+ProfitabilityScore: 2  
+BalanceScore: 4  
 IncomeScore: 4.5
 
 ## NOTES
 Highlights:
-- Sole Alkylbenzene producer in Indonesia, largest in Asia Pacific
-- Strong free cash flow and low leverage
+- Low valuation multiples (PER, PBV) vs. peers
+- Strong YoY revenue and profit growth
+- Consistent positive free cash flow
 
 Risks:
-- Government policy (import duty 0%) may increase competition
-- Net profit and margin under pressure from lower ASP and demand
+- Profitability ratios (ROE, margin) below sector leaders
+- Dividend payout ratio under 50% may limit yield upside
+- Cyclical sector exposure
 
 ## METADATA
-Source: Company filings, IDX, UNIC price data
-Period: Q2 2025 YTD
-LastUpdate: 2025-09-12
+Source: Company filings, peer data, dividend disclosures  
+Period: Q2 2025 YTD  
+LastUpdate: 2025-06-30
