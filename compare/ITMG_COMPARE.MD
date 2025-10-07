@@ -1,45 +1,45 @@
 # COMPARE ONE-PAGER (CROSS-INDUSTRY READY)
 
 ## HEADER
-Ticker: ITMG
-Company: Indo Tambangraya Megah Tbk
-Sector: Energy
-Industry: Thermal Coal
-AsOf: 2025-09-12
+Ticker: ITMG.JK  
+Company: Indo Tambangraya Megah Tbk  
+Sector: Energy  
+Industry: Coal  
+AsOf: 2025-06-30
 
 ## VALUATION
-Market Cap: IDR 25.3 triliun
-PER: 4.7x
-PBV: 1.3x
-Dividend Yield: 10.0%
+Market Cap: IDR 25.5 triliun  
+PER: 4.6x  
+PBV: 0.85x  
+Dividend Yield: 9.9%
 
 ## PROFITABILITY
-Revenue Growth YoY: -3.0%
-Net Profit Growth YoY: -24.8%
-Net Margin: 16%
-ROE: 19%
-ROA: 16%
+Revenue Growth YoY: -24.5%  
+Net Profit Growth YoY: -63.9%  
+Net Margin: 16.2%  
+ROE: 19.3%  
+ROA: 15.5%
 
 ## BALANCE & CASH
-DER: 0.03x
-FCF: USD 362.6 juta
+DER: 0.24x  
+FCF: IDR 3.3 triliun
 
 ## SCORE (0–5 each; integers or 0.5 steps allowed)
-ValuationScore: 4.5
-ProfitabilityScore: 3
-BalanceScore: 5
-IncomeScore: 5
+ValuationScore: 5  
+ProfitabilityScore: 2  
+BalanceScore: 4  
+IncomeScore: 4.5
 
 ## NOTES
 Highlights:
-- High dividend yield and strong cash position
-- Low leverage and robust free cash flow
+- Very low PER and PBV vs. peers
+- Strong cash position and low leverage
 
 Risks:
-- Coal ASP and revenue declining due to global price drop
-- Rising operating and sales costs pressuring margins
+- Revenue and profit growth sharply negative YoY
+- Dividend yield may fluctuate with coal prices
 
 ## METADATA
-Source: Company filings, IDX, internal calculations
-Period: Q2 2025 YTD / FY 2024
-LastUpdate: 2025-09-12
+Source: Company filings, peer data, dividend records  
+Period: Q2 2025 YTD  
+LastUpdate: 2025-06-30

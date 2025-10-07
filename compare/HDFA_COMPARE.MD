@@ -1,45 +1,46 @@
 # COMPARE ONE-PAGER (CROSS-INDUSTRY READY)
 
 ## HEADER
-Ticker: HDFA
-Company: -
-Sector: -
-Industry: -
-AsOf: 2024-09-30
+Ticker: HDFA.JK  
+Company: Radana Bhaskara Finance Tbk  
+Sector: Financials  
+Industry: Consumer Financing  
+AsOf: 2024-12-31
 
 ## VALUATION
-Market Cap: -
-PER: -
-PBV: -
+Market Cap: IDR 898.4 miliar  
+PER: -20.3x  
+PBV: 1.56x  
 Dividend Yield: -
 
 ## PROFITABILITY
-Revenue Growth YoY: -
-Net Profit Growth YoY: -
-Net Margin: -
-ROE: -
-ROA: -
+Revenue Growth YoY: +39.1%  
+Net Profit Growth YoY: -23.0%  
+Net Margin: -27.1%  
+ROE: -7.5%  
+ROA: -1.4%
 
 ## BALANCE & CASH
-DER: 4.1x
-FCF: -
+DER: 4.57x  
+FCF: IDR -33.2 miliar
 
 ## SCORE (0–5 each; integers or 0.5 steps allowed)
-ValuationScore: -
-ProfitabilityScore: -
-BalanceScore: 1
-IncomeScore: -
+ValuationScore: 1  
+ProfitabilityScore: 0.5  
+BalanceScore: 0.5  
+IncomeScore: 0  
+TotalScore: 2
 
 ## NOTES
 Highlights:
-- Total assets grew to IDR 3.2 trillion in Q3 2024
-- Equity remained stable at around IDR 627 billion
+- Revenue grew strongly (+39.1% YoY) in 2024
+- Price-to-book (PBV) is moderate at 1.56x
 
 Risks:
-- High debt-to-equity ratio (DER) at 4.1x
-- Lack of available profitability and valuation metrics
+- Net loss and negative net margin in 2024
+- High leverage (DER 4.57x) and negative free cash flow
 
 ## METADATA
-Source: HDFA_BalanceSheet_simplified.txt
-Period: Q3 2024
-LastUpdate: 2024-09-30
+Source: Company filings, peer data  
+Period: FY 2024  
+LastUpdate: 2024-12-31

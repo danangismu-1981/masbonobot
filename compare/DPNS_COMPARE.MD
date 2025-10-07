@@ -1,47 +1,45 @@
 # COMPARE ONE-PAGER (CROSS-INDUSTRY READY)
 
 ## HEADER
-Ticker: DPNS
-Company: PT Duta Pertiwi Nusantara Tbk
+Ticker: DPNS.JK
+Company: Duta Pertiwi Nusantara Tbk
 Sector: Basic Materials
-Industry: Specialty Chemicals
-AsOf: 2025-09-12
+Industry: Chemicals
+AsOf: 2024-12-31
 
 ## VALUATION
-Market Cap: IDR 103.3 miliar
-PER: 7.2x
-PBV: 0.3x
-Dividend Yield: 1.6%
+Market Cap: IDR 100.7 triliun
+PER: -
+PBV: 0.30x
+Dividend Yield: 1.7%
 
 ## PROFITABILITY
-Revenue Growth YoY: -55%
-Net Profit Growth YoY: -11%
-Net Margin: 18%
-ROE: 4%
-ROA: 0.1%
+Revenue Growth YoY: -60%
+Net Profit Growth YoY: -67%
+Net Margin: 18.0%
+ROE: 4.3%
+ROA: 4.0%
 
 ## BALANCE & CASH
-DER: 0.02x
-FCF: IDR 23.8 miliar
+DER: 0.07x
+FCF: IDR 23.8 triliun
 
 ## SCORE (0–5 each; integers or 0.5 steps allowed)
 ValuationScore: 4.5
-ProfitabilityScore: 1
+ProfitabilityScore: 2
 BalanceScore: 5
-IncomeScore: 1.5
+IncomeScore: 2
 
 ## NOTES
 Highlights:
-- Very low financial leverage and strong cash position.
-- Valuation multiples (PER, PBV) are low versus peers.
-- FCF remains positive despite operational headwinds.
+- Very low PBV (0.30x) and low DER (0.07x)
+- Strong free cash flow and high liquidity
 
 Risks:
-- Revenue highly concentrated (70% to one customer, which ceased operations).
-- Core business is no longer profitable; recent profits are from financial assets, not operations.
-- Severe revenue decline and industry headwinds threaten sustainability.
+- Sharp YoY decline in revenue and profit
+- Dividend yield below sector average
 
 ## METADATA
-Source: Company filings, IDX, DPNS public disclosures
-Period: Q2 2025 YTD
-LastUpdate: 2025-09-12
+Source: Company filings, IDX, peer data
+Period: FY 2024
+LastUpdate: 2024-12-31

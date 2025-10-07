@@ -1,44 +1,44 @@
 # COMPARE ONE-PAGER (CROSS-INDUSTRY READY)
 
 ## HEADER
-Ticker: HRUM.JK  
-Company: Harum Energy Tbk  
+Ticker: IATA.JK  
+Company: PT MNC Energy Investments Tbk  
 Sector: Energy  
 Industry: Coal  
 AsOf: 2025-06-30
 
 ## VALUATION
-Market Cap: IDR 16.34 triliun  
-PER: 21.96x  
-PBV: 1.09x  
-Dividend Yield: 0%
+Market Cap: IDR 2.29 triliun  
+PER: 42.3x  
+PBV: 1.0x  
+Dividend Yield: -
 
 ## PROFITABILITY
-Revenue Growth YoY: -0.9%  
-Net Profit Growth YoY: -34.6%  
-Net Margin: 4.2%  
-ROE: 3.0%  
-ROA: 2.1%
+Revenue Growth YoY: -48.1%  
+Net Profit Growth YoY: -29.9%  
+Net Margin: 6.5%  
+ROE: 7.1%  
+ROA: 3.4%
 
 ## BALANCE & CASH
-DER: 0.44x  
-FCF: -1.61 triliun
+DER: 1.10x  
+FCF: IDR -32.5 miliar
 
 ## SCORE (0–5 each; integers or 0.5 steps allowed)
-ValuationScore: 3  
+ValuationScore: 2  
 ProfitabilityScore: 1  
 BalanceScore: 2  
 IncomeScore: 0  
-TotalScore: 6
+TotalScore: 5
 
 ## NOTES
 Highlights:
-- Low PBV compared to sector peers
-- Maintains positive equity and asset growth
+- Low PBV relative to sector peers
+- Maintains positive equity and asset base
 
 Risks:
 - Negative free cash flow
-- No recent dividend yield
+- Sharp declines in revenue and profit growth
 
 ## METADATA
 Source: Company filings, peer data  

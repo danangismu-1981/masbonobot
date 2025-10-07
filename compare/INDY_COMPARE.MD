@@ -1,46 +1,46 @@
 # COMPARE ONE-PAGER (CROSS-INDUSTRY READY)
 
 ## HEADER
-Ticker: INDY
-Company: Indika Energy
-Sector: Energy
-Industry: Thermal Coal
-AsOf: 2025-09-12
+Ticker: INDY.JK  
+Company: Indika Energy Tbk  
+Sector: Energy  
+Industry: Coal  
+AsOf: 2025-06-30
 
 ## VALUATION
-Market Cap: IDR 10.46 triliun
-PER: 34.2x
-PBV: 4.1x
-Dividend Yield: 0.8%
+Market Cap: IDR 12.38 triliun  
+PER: -85.3x  
+PBV: 0.64x  
+Dividend Yield: 0.7%
 
 ## PROFITABILITY
-Revenue Growth YoY: -19%
-Net Profit Growth YoY: -79%
-Net Margin: 1.3%
-ROE: 2.4%
-ROA: 0.4%
+Revenue Growth YoY: -30.2%  
+Net Profit Growth YoY: -146.4%  
+Net Margin: 0.4%  
+ROE: 0.7%  
+ROA: 0.3%
 
 ## BALANCE & CASH
-DER: 1.2x
-FCF: USD -160 juta
+DER: 1.19x  
+FCF: IDR -328 miliar
 
 ## SCORE (0–5 each; integers or 0.5 steps allowed)
-ValuationScore: 1
-ProfitabilityScore: 1
-BalanceScore: 1.5
-IncomeScore: 1
-TotalScore: 4.5
+ValuationScore: 2  
+ProfitabilityScore: 0.5  
+BalanceScore: 2  
+IncomeScore: 1  
+TotalScore: 5.5
 
 ## NOTES
 Highlights:
-- Revenue fell 19% in FY 2024, mainly from lower coal prices.
-- Interest-bearing debt declined, reducing finance costs.
+- PBV at 0.64x is well below sector peers
+- Maintains positive equity and asset base
 
 Risks:
-- Negative free cash flow and low net margin.
-- Coal price volatility and regulatory risks (DMO, export quotas).
+- Negative earnings and FCF in recent quarters
+- Dividend yield dropped sharply vs. prior years
 
 ## METADATA
-Source: Company filings, IDX, internal analysis
-Period: Q2 2025 YTD / FY 2024
-LastUpdate: 2025-09-12
+Source: IDX, Company filings  
+Period: Q2 2025 YTD  
+LastUpdate: 2025-06-30

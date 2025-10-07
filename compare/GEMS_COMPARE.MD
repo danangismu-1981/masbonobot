@@ -1,47 +1,47 @@
 # COMPARE ONE-PAGER (CROSS-INDUSTRY READY)
 
 ## HEADER
-Ticker: GEMS
-Company: Golden Energy Mines
-Sector: Energy
-Industry: Thermal Coal
-AsOf: 2025-09-12
+Ticker: GEMS.JK  
+Company: Golden Energy Mines Tbk  
+Sector: Energy  
+Industry: Coal  
+AsOf: 2025-06-30
 
 ## VALUATION
-Market Cap: IDR 53.6 triliun
-PER: 6.2x
-PBV: 3.7x
-Dividend Yield: 6.4%
+Market Cap: IDR 52.4 triliun  
+PER: 10.5x  
+PBV: 5.4x  
+Dividend Yield: 6.6%
 
 ## PROFITABILITY
-Revenue Growth YoY: -7%
-Net Profit Growth YoY: -8.6%
-Net Margin: 17.9%
-ROE: 73%
-ROA: 39%
+Revenue Growth YoY: -27.2%  
+Net Profit Growth YoY: -74.6%  
+Net Margin: 17.5%  
+ROE: 71.7%  
+ROA: 38.2%
 
 ## BALANCE & CASH
-DER: 0.44x
-FCF: USD 466 juta
+DER: 0.87x  
+FCF: IDR 0.52 triliun
 
 ## SCORE (0–5 each; integers or 0.5 steps allowed)
-ValuationScore: 4
-ProfitabilityScore: 4
-BalanceScore: 4
-IncomeScore: 4.5
+ValuationScore: 2  
+ProfitabilityScore: 2  
+BalanceScore: 2.5  
+IncomeScore: 4
 
 ## NOTES
 Highlights:
-- High ROE and strong free cash flow generation
-- Attractive dividend yield above 6%
-- Maintains low leverage (DER < 0.5x)
+- High ROE and ROA relative to sector
+- Attractive dividend yield (6.6%)
+- Maintains positive free cash flow
 
 Risks:
-- Revenue and profit declined due to lower coal prices and demand
-- Rising mining costs pressured margins
-- Regulatory and export quota risks remain significant
+- Sharp YoY decline in revenue and profit
+- High payout ratio may pressure future dividends
+- Valuation multiples above sector peers
 
 ## METADATA
-Source: Company filings, IDX, internal calculations
-Period: Q2 2025 YTD / FY 2024
-LastUpdate: 2025-09-12
+Source: Company filings, peer data, dividend reports  
+Period: Q2 2025 YTD  
+LastUpdate: 2025-06-30
