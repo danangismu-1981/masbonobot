@@ -1,45 +1,45 @@
 # COMPARE ONE-PAGER (CROSS-INDUSTRY READY)
 
 ## HEADER
-Ticker: DUTI
-Company: -
-Sector: Real Estate
-Industry: Real Estate - Development
-AsOf: 2025-09-12
+Ticker: DUTI.JK  
+Company: Duta Pertiwi Tbk  
+Sector: Properties & Real Estate  
+Industry: Real Estate Management & Development  
+AsOf: 2025-06-30
 
 ## VALUATION
-Market Cap: IDR 7.98 triliun
-PER: 5.9x
-PBV: 0.6x
-Dividend Yield: 8.8%
+Market Cap: IDR 8.21 triliun  
+PER: 18.1x  
+PBV: 0.78x  
+Dividend Yield: 8.6%
 
 ## PROFITABILITY
-Revenue Growth YoY: +14.1%
-Net Profit Growth YoY: +4.8%
-Net Margin: 30.5%
-ROE: 11.4%
-ROA: 8.9%
+Revenue Growth YoY: -54.4%  
+Net Profit Growth YoY: -86.9%  
+Net Margin: 19.3%  
+ROE: 7.2%  
+ROA: 5.9%
 
 ## BALANCE & CASH
-DER: 0.2x
-FCF: IDR 441 miliar
+DER: 0.21x  
+FCF: IDR -196 miliar
 
 ## SCORE (0–5 each; integers or 0.5 steps allowed)
-ValuationScore: 5
-ProfitabilityScore: 3.5
-BalanceScore: 4
+ValuationScore: 4  
+ProfitabilityScore: 1  
+BalanceScore: 4  
 IncomeScore: 5
 
 ## NOTES
 Highlights:
-- Low PER and PBV indicate attractive valuation
-- High dividend yield and positive free cash flow
+- Very low PBV and moderate PER versus sector peers
+- High dividend yield (8.6%) and low leverage
 
 Risks:
-- Rising selling and administrative expenses eroding margins
-- Declining cash equivalents and investment income
+- Sharp YoY decline in revenue and profit
+- Recent negative free cash flow
 
 ## METADATA
-Source: Company filings, IDX
-Period: Q2 2025 YTD
-LastUpdate: 2025-09-12
+Source: Company filings, IDX, peer data  
+Period: Q2 2025 YTD  
+LastUpdate: 2025-06-30

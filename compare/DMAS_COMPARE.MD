@@ -1,45 +1,47 @@
 # COMPARE ONE-PAGER (CROSS-INDUSTRY READY)
 
 ## HEADER
-Ticker: DMAS
-Company: Puradelta Lestari Tbk
-Sector: Real Estate
-Industry: Real Estate - Development
-AsOf: 2025-09-12
+Ticker: DMAS.JK  
+Company: PT Puradelta Lestari Tbk  
+Sector: Properties & Real Estate  
+Industry: Real Estate Management & Development  
+AsOf: 2025-06-30
 
 ## VALUATION
-Market Cap: IDR 66.5 triliun
-PER: 5.0x
-PBV: 1.1x
-Dividend Yield: 21.0%
+Market Cap: IDR 6.55 triliun  
+PER: 6.8x  
+PBV: 1.05x  
+Dividend Yield: 21.3%
 
 ## PROFITABILITY
-Revenue Growth YoY: +5.8%
-Net Profit Growth YoY: +10.2%
-Net Margin: 65.7%
-ROE: 18.5%
-ROA: 20.1%
+Revenue Growth YoY: -83.9%  
+Net Profit Growth YoY: -82.3%  
+Net Margin: 65.6%  
+ROE: 18.5%  
+ROA: 16.2%
 
 ## BALANCE & CASH
-DER: 0.07x
-FCF: IDR 663.9 miliar
+DER: 0.14x  
+FCF: IDR -141 miliar
 
 ## SCORE (0–5 each; integers or 0.5 steps allowed)
-ValuationScore: 5
-ProfitabilityScore: 4.5
-BalanceScore: 4.5
-IncomeScore: 5
+ValuationScore: 5  
+ProfitabilityScore: 2  
+BalanceScore: 3  
+IncomeScore: 5  
+TotalScore: 15
 
 ## NOTES
 Highlights:
-- High dividend yield and low valuation multiples
-- Strong net margin and return on equity
+- Very high dividend yield (21.3%)
+- Low valuation multiples (PER 6.8x, PBV 1.05x)
+- Strong net margin (65.6%)
 
 Risks:
-- Declining marketing sales amid economic uncertainty
-- High reliance on industrial land sales
+- Sharp YoY drop in revenue and profit
+- Negative free cash flow latest quarter
 
 ## METADATA
-Source: Company filings, IDX, internal analysis
-Period: Q2 2025 YTD
-LastUpdate: 2025-09-12
+Source: Company filings, peer data  
+Period: Q2 2025 YTD  
+LastUpdate: 2025-06-30

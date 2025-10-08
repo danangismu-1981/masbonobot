@@ -1,44 +1,44 @@
 # COMPARE ONE-PAGER (CROSS-INDUSTRY READY)
 
 ## HEADER
-Ticker: ASRI.JK
-Company: Alam Sutera Realty Tbk
+Ticker: FMII.JK
+Company: Fortune Mate Indonesia Tbk
 Sector: Properties & Real Estate
 Industry: Real Estate Management & Development
 AsOf: 2025-06-30
 
 ## VALUATION
-Market Cap: IDR 3.42 triliun
-PER: 43.7x
-PBV: 0.30x
+Market Cap: IDR 2.34 triliun
+PER: 329.1x
+PBV: 3362.2x
 Dividend Yield: -
 
 ## PROFITABILITY
-Revenue Growth YoY: -41.3%
-Net Profit Growth YoY: +141.4%
-Net Margin: 1.6%
-ROE: 0.5%
-ROA: 0.3%
+Revenue Growth YoY: -100.0%
+Net Profit Growth YoY: -442.6%
+Net Margin: 29.3%
+ROE: 1.5%
+ROA: 1.3%
 
 ## BALANCE & CASH
-DER: 0.94x
-FCF: IDR 356 miliar
+DER: 0.14x
+FCF: IDR 2.02 miliar
 
 ## SCORE (0–5 each; integers or 0.5 steps allowed)
-ValuationScore: 2.5
+ValuationScore: 0
 ProfitabilityScore: 1
-BalanceScore: 2
+BalanceScore: 4
 IncomeScore: 0
-TotalScore: 5.5
+TotalScore: 5
 
 ## NOTES
 Highlights:
-- Net profit rebounded strongly YoY (+141%)
-- PBV is very low (0.30x), indicating deep value
+- Very low leverage (DER 0.14x)
+- Maintains positive free cash flow
 
 Risks:
-- Revenue shrank sharply YoY (-41%)
-- Dividend yield is absent
+- Extremely high PER and PBV
+- Revenue and profit growth sharply negative
 
 ## METADATA
 Source: Company filings, peer data

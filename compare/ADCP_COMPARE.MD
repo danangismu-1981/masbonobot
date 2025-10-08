@@ -1,44 +1,44 @@
 # COMPARE ONE-PAGER (CROSS-INDUSTRY READY)
 
 ## HEADER
-Ticker: DILD.JK  
-Company: Intiland Development Tbk  
+Ticker: ADCP.JK  
+Company: PT Adhi Commuter Properti Tbk  
 Sector: Properties & Real Estate  
 Industry: Real Estate Management & Development  
 AsOf: 2025-06-30
 
 ## VALUATION
-Market Cap: IDR 1.37 triliun  
-PER: -7.62x  
-PBV: 0.24x  
-Dividend Yield: -
+Market Cap: IDR 1.31 triliun  
+PER: 51.4x  
+PBV: 0.50x  
+Dividend Yield: 0.0%
 
 ## PROFITABILITY
-Revenue Growth YoY: -11.8%  
-Net Profit Growth YoY: -99.6%  
-Net Margin: 6.8%  
-ROE: 2.6%  
-ROA: 1.3%
+Revenue Growth YoY: -51.0%  
+Net Profit Growth YoY: -99.8%  
+Net Margin: 14.3%  
+ROE: 1.6%  
+ROA: 0.6%
 
 ## BALANCE & CASH
-DER: 1.03x  
-FCF: IDR 124.2 miliar
+DER: 1.61x  
+FCF: IDR -49.3 miliar
 
 ## SCORE (0–5 each; integers or 0.5 steps allowed)
-ValuationScore: 4  
+ValuationScore: 2  
 ProfitabilityScore: 1  
-BalanceScore: 2.5  
+BalanceScore: 2  
 IncomeScore: 0  
-TotalScore: 7.5
+TotalScore: 5
 
 ## NOTES
 Highlights:
-- Very low PBV (0.24x) vs. peers
-- Positive free cash flow latest quarter
+- PBV at 0.50x is below sector average, indicating undervaluation
+- Maintains positive net margin despite revenue drop
 
 Risks:
-- Negative PER, indicating recent net losses
 - Revenue and profit growth sharply negative YoY
+- Free cash flow remains negative
 
 ## METADATA
 Source: Company filings, peer data  
