@@ -1,70 +1,44 @@
 ## CUAN – Investor One-Pager
 
 ### 1) Pertumbuhan & Tren Utama
-- **Penurunan signifikan kinerja kuartalan:**  
-  - *Revenue Q2 2025:* **-Rp3,543 T** (negatif; Q1 2025: Rp3,550 T, Q4 2024: Rp4,684 T)  
-  - *Laba Bersih Q2 2025:* **-Rp28,28 M** (rugi; Q1 2025: Rp28,31 M laba, Q4 2024: Rp2,14 T laba)
-- **Gross Profit Q2 2025:** **-Rp280,06 M** (negatif; Q1 2025: Rp280,8 M positif; Q2 2024: Rp773,7 M)
-- **Operating Cash Flow Q2 2025:** **Rp1,45 T** (pemulihan setelah Q1 2025: -Rp1,45 T outflow)
-- **Free Cash Flow Q2 2025:** **Rp4,04 T** (kuat, ada lonjakan besar namun sumber kualitas perlu dianalisis lebih lanjut)
-- **Aset & Ekuitas:**
-  - *Total Aset Q2 2025:* Rp34,61 T (naik dari Q1 2025: Rp32,29 T)
-  - *Total Ekuitas Q2 2025:* Rp9,09 T (Q1 2025: Rp9,39 T)
-- **Tren YoY (Q2 2024 → Q2 2025):**
-  - *Revenue:* Turun tajam (Q2 2024: Rp3,71 T, Q2 2025: negatif)
-  - *Laba Bersih:* Memburuk (Q2 2024: Rp5,89 M, Q2 2025: rugi Rp28,28 M)
-- **Catatan:** Revenue negatif akibat eliminasi besar/penyesuaian, bukan penjualan murni.
-
-**Periode yang dipakai untuk angka utama: Q2 2025 (30 Juni 2025)**
-
----
+- **Pendapatan Q2 2025:** Rp3,950 triliun, naik +11% QoQ (Q1 2025: Rp3,550 triliun), tapi -15% dari rata-rata kuartalan FY2024 (FY2024: Rp12,95 triliun/tahun, rata-rata kuartal ~Rp3,24 triliun).
+- **Laba Bersih Q2 2025:** Rp3,22 miliar, anjlok -89% QoQ (Q1 2025: Rp28,3 miliar), terjun -99% vs rata-rata Rp649,5 miliar/kuartal FY2024.
+- **Gross Profit Q2 2025:** Rp497,1 miliar, naik +77% QoQ (Q1 2025: Rp280,8 miliar).
+- **EBITDA Q2 2025:** Rp365,3 miliar, stabil (+2% QoQ); jauh di bawah rata-rata FY2024 (FY2024: Rp1,88 triliun/tahun, rata-rata kuartal ~Rp470 miliar).
+- **Free Cash Flow Q2 2025:** Negatif Rp1,72 triliun; memburuk dari Q1 2025 (-Rp4,05 triliun). Arus kas operasi positif Rp790 miliar.
+- **Aset (Q2 2025):** Rp34,61 triliun, naik +7% QoQ (Q1 2025: Rp32,29 triliun).
+- **Ekuitas (Q2 2025):** Rp9,09 triliun, naik tipis.
+- **YoY 1Q25 vs 1Q24:** Pendapatan +159%, namun penurunan tajam laba bersih pada Q2 2025 memperlihatkan volatitas eksekusi.
+- **Periode yang dipakai untuk angka utama: Q2 2025 (30 Juni 2025)**
 
 ### 2) Posisi Kompetitif (Benchmark Highlights)
-- **Valuasi Price to Earnings (PE TTM):** 85,66 (2024, peer: median 6–41; jauh di atas rata-rata sektor batubara)
-- **Price to Book (PB MRQ):** 36.535 (2024, peer: 0,65–21), mengindikasikan premium ekspektasi ekstrem atau anomali valuasi.
-- **Market Cap:** Rp180,99 T (besar, namun peers seperti BYAN/DSSA mencapai >Rp600 T)
-- **Profitabilitas & ukuran jauh di bawah pemain besar (BYAN, ADRO, ADMR), margin juga underperform.**
-
----
+- **Valuasi mahal:** PBV 36.5x, PE TTM 85.7x (FY2024), jauh di atas rata-rata peers sektor batubara (PBV peers range: 0,65–21,9x; PE TTM peers range: 3,3–175x).
+- **Profitabilitas rendah:** Net margin hanya 0,08% di Q2 2025 (Q1 2025: 0,8%), tertinggal dibanding peers utama seperti BYAN, ADRO, PTBA, GEMS yang rata-rata margin >10%.
+- **Scale & size:** Aset CUAN lebih kecil dibanding BYAN, DSSA, dan ADRO, serta market cap cenderung premium dibanding fundamental.
 
 ### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
-- **Margin laba kotor & bersih Q2 2025 negatif**; peningkatan volatilitas sejak Q4 2024.
-- **Debt to Equity Q2 2025:** 1,87x (*[Q1 2025: 1,68x]*, total debt naik ke Rp16,98 T), leverage naik vs peers (umumnya <1x).
-- **Current Ratio:** Data Q2 2025 tidak lengkap, namun *Q1 2025: 1,84x*, indikasi likuiditas moderat.
-- **Cash & Short-term Investments Q2 2025:** Rp2,04 T, menurun dari Q1 2025: Rp3,80 T.
-- **Kualitas aset rentan (gross profit & net loss), arus kas utama positif didorong perubahan non-operasional.**
-- **Free Cash Flow Q2 2025 tinggi, namun capital expenditure juga besar sehingga perlu sustainable check.**
-
----
+- **Margin Q2 2025:** Gross margin 12,6%, net margin 0,08%.
+- **Leverage Q2 2025:** Debt/Equity 1,87x, Debt/Asset 0,49x – leverage tinggi untuk sektor batubara Indonesia.
+- **Arus kas operasi+investasi:** Dominan negatif YTD, hanya positif di Q2.
+- **Struktur pendanaan:** Total debt Rp16,98 triliun (Q2 2025), masih naik dari sebelumnya.
+- **Kesehatan modal kerja:** Current ratio >1, kas setara Rp2,04 triliun; namun turun >Rp2 triliun sepanjang semester.
+- **Kualitas aset:** Utama di properti pertambangan, risiko impairment tinggi jika harga batubara melemah.
 
 ### 4) Dividen & Valuasi
-- **Dividen TTM:** Rp2,93 (ex-date: 30 Apr 2025)
-- **Dividend yield TTM:** **0,18%** (sangat rendah dibanding peers batubara)
-- **Payout Ratio:** 15,61%, cash payout ratio negatif (problem cash/earnings-linkage)
-- **Valuasi** (Q4 2024):  
-  - **PE**: 85,66x (vs GEMS 10,5x; ITMG 4,6x; PTBA 6,9x)  
-  - **PB**: 36,54x (vs peer arus 0,65–21x)  
-  - Valuasi jauh lebih mahal dari sektor.
-
----
+- **Dividen 2025:** Rp2,93 per saham, yield TTM sangat kecil (0,18%). Payout ratio 15,6%.
+- **Valuasi mahal:** PBV 36.5x (2024), PE TTM 85.7x.
+- **Yield rata-rata peers jauh lebih tinggi, payout peers >15–40%.**
 
 ### 5) Rekomendasi
 **6M (Taktis):**  
-- Fokus pada perbaikan fundamental dan transparansi atas distorsi revenue/laba — waspada volatilitas kinerja.
-- Short-term: Pengawasan arus kas operasional/murni penting, hindari over-leverage.
+- Hindari aksi agresif. Monitor volatilitas dan perhatikan potensi reversal harga batubara. Risiko downside tetap tinggi tanpa katalis kuat.
 
 **5Y (Tesis):**  
-- Jika manajemen dapat atasi anomali dan normalisasi margin, potensi perbaikan siginifikan. Namun sustainability pertumbuhan & kelanjutan investasi perlu dicermati (free cash flow sustainability, diversifikasi pendapatan).
-
----
+- Potensi tetap ada di pertumbuhan aset & ekspansi, namun valuasi sangat mahal, eksekusi harus konsisten prima agar imbal hasil jangka panjang menarik.
 
 ### 6) Kesimpulan
-
-- **Jangka Pendek (≤6 bulan):** ⚠️ – Volatilitas sangat tinggi, profitabilitas & cash flow tidak konsisten, valuasi overvalued terhadap sektor.
-- **Jangka Panjang (>5 tahun):** ⚠️ – Terdapat potensi jika turnaround terwujud, tetapi struktur pendanaan dan kualitas laba perlu fundamental improvement.
-
----
+- **Jangka Pendek (≤6 bulan):** ⚠️ – Risiko volatilitas laba sangat tinggi, FCF negatif, valuasi jauh di atas peers.
+- **Jangka Panjang (>5 tahun):** ⚠️ – Prospek tergantung pada ekspansi produksi & harga batubara; premi valuasi hanya layak jika eksekusi dan volume tumbuh pesat.
 
 ### 7) Catatan Penting
-
 Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor.
