@@ -1,47 +1,46 @@
 # COMPARE ONE-PAGER (CROSS-INDUSTRY READY)
 
 ## HEADER
-Ticker: PUDP
-Company: -
-Sector: Real Estate
-Industry: Real Estate Services
-AsOf: 2025-09-11
+Ticker: PUDP.JK
+Company: Pudjiadi Prestige Tbk
+Sector: Properties & Real Estate
+Industry: Real Estate Management & Development
+AsOf: 2025-06-30
 
 ## VALUATION
-Market Cap: IDR 151.6 miliar
+Market Cap: IDR 349.3 miliar
 PER: -
-PBV: 0.3x
-Dividend Yield: 2.2%
+PBV: 0.69x
+Dividend Yield: 2.0%
 
 ## PROFITABILITY
-Revenue Growth YoY: +9.7%
-Net Profit Growth YoY: -1,278%
-Net Margin: -4.2%
+Revenue Growth YoY: -13.7%
+Net Profit Growth YoY: -
+Net Margin: -8.4%
 ROE: -0.7%
-ROA: -
+ROA: -0.7%
 
 ## BALANCE & CASH
 DER: 0.04x
-FCF: IDR -7.0 miliar
+FCF: IDR -2.35 miliar
 
 ## SCORE (0–5 each; integers or 0.5 steps allowed)
-ValuationScore: 4
-ProfitabilityScore: 1
-BalanceScore: 2
+ValuationScore: 3.5
+ProfitabilityScore: 0.5
+BalanceScore: 4
 IncomeScore: 2
-TotalScore: 9
+TotalScore: 10
 
 ## NOTES
 Highlights:
-- Low PBV (0.3x) indicates deep value.
-- Revenue grew nearly 10% YoY, mainly from property sales.
+- Very low PBV (0.69x) compared to peers
+- Low leverage (DER 0.04x) and strong equity base
 
 Risks:
-- Net profit turned sharply negative YoY.
-- High fixed costs and rising expenses pressure margins.
-- Property sales vulnerable to economic downturns.
+- Negative profitability (Net Margin, ROE, ROA all negative)
+- Negative free cash flow and declining revenue
 
 ## METADATA
-Source: Company filings, IDX, public disclosures
+Source: Company filings, IDX, peer data
 Period: Q2 2025 YTD
-LastUpdate: 2025-09-11
+LastUpdate: 2025-06-30

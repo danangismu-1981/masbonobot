@@ -1,45 +1,45 @@
 # COMPARE ONE-PAGER (CROSS-INDUSTRY READY)
 
 ## HEADER
-Ticker: RDTX
-Company: RDTX Property & Investment
-Sector: Real Estate
-Industry: Real Estate Services
-AsOf: 2025-09-11
+Ticker: RDTX.JK  
+Company: Roda Vivatex Tbk  
+Sector: Properties & Real Estate  
+Industry: Real Estate Management & Development  
+AsOf: 2025-06-30
 
 ## VALUATION
-Market Cap: IDR 3.19 triliun
-PER: 11.1x
-PBV: 1.0x
-Dividend Yield: 2.3%
+Market Cap: IDR 3.31 triliun  
+PER: 10.7x  
+PBV: 1.03x  
+Dividend Yield: 3.5%
 
 ## PROFITABILITY
-Revenue Growth YoY: -0.5%
-Net Profit Growth YoY: -4.9%
-Net Margin: 54%
-ROE: 9%
-ROA: 5%
+Revenue Growth YoY: +4.8%  
+Net Profit Growth YoY: +2.2%  
+Net Margin: 54%  
+ROE: 9.5%  
+ROA: 8.4%
 
 ## BALANCE & CASH
-DER: 0.1x
-FCF: IDR 373 miliar
+DER: 0.13x  
+FCF: IDR -412.4 miliar
 
 ## SCORE (0–5 each; integers or 0.5 steps allowed)
-ValuationScore: 4
-ProfitabilityScore: 2.5
-BalanceScore: 4.5
-IncomeScore: 2.5
+ValuationScore: 4  
+ProfitabilityScore: 4  
+BalanceScore: 3  
+IncomeScore: 3.5  
 
 ## NOTES
 Highlights:
-- Recurring rental income provides business stability
-- Low leverage and strong free cash flow
+- Low valuation multiples (PER, PBV) vs. peers
+- High net margin and solid ROE
 
 Risks:
-- Revenue and profit declined YoY
-- Office demand faces structural risk from hybrid/WFA trends
+- Negative free cash flow latest quarter
+- Slowing profit growth
 
 ## METADATA
-Source: Company filings, IDX, internal analysis
-Period: Q2 2025 YTD
-LastUpdate: 2025-09-11
+Source: Company filings, IDX, peer data  
+Period: Q2 2025 YTD  
+LastUpdate: 2025-06-30

@@ -1,45 +1,46 @@
 # COMPARE ONE-PAGER (CROSS-INDUSTRY READY)
 
 ## HEADER
-Ticker: PLIN
+Ticker: PLIN.JK
 Company: Plaza Indonesia Realty Tbk
-Sector: Real Estate
-Industry: Real Estate Services
+Sector: Properties & Real Estate
+Industry: Real Estate Management & Development
 AsOf: 2025-06-30
 
 ## VALUATION
-Market Cap: IDR 8.88 triliun
-PER: 8.9x
-PBV: 0.8x
-Dividend Yield: 3.8%
+Market Cap: IDR 8.87 triliun
+PER: 8.94x
+PBV: 0.79x
+Dividend Yield: 6.5%
 
 ## PROFITABILITY
-Revenue Growth YoY: +5.8%
-Net Profit Growth YoY: +5.7%
-Net Margin: 72%
+Revenue Growth YoY: +2.6%
+Net Profit Growth YoY: -0.3%
+Net Margin: 72.0%
 ROE: 8.8%
-ROA: 7.9%
+ROA: 7.8%
 
 ## BALANCE & CASH
-DER: 0.13x
-FCF: IDR 545 miliar
+DER: 0.12x
+FCF: IDR 132.7 miliar
 
 ## SCORE (0–5 each; integers or 0.5 steps allowed)
-ValuationScore: 4
+ValuationScore: 4.5
 ProfitabilityScore: 3
 BalanceScore: 4.5
-IncomeScore: 3.5
+IncomeScore: 4
+TotalScore: 16
 
 ## NOTES
 Highlights:
-- High net margin driven by recurring income from premium assets.
-- Strong balance sheet with low leverage and positive free cash flow.
+- Low valuation multiples (PER, PBV) vs. peers
+- High net margin and strong cash generation
 
 Risks:
-- Significant portion of profit from fair value adjustments, not core operations.
-- Exposure to FX risk due to USD-denominated debt.
+- Flat profit growth YoY
+- Modest revenue growth may limit upside
 
 ## METADATA
-Source: Company filings, IDX, internal analysis
+Source: Company filings, IDX, PLIN peer data
 Period: Q2 2025 YTD
 LastUpdate: 2025-06-30
