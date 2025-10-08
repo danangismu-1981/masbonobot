@@ -1,51 +1,63 @@
 ## TEBE – Investor One-Pager
 
 ### 1) Pertumbuhan & Tren Utama
-- **Pendapatan Q2 2025:** -Rp71,10M (negatif, kemungkinan error pelaporan atau adjustment besar; bandingkan Q1 2025: Rp71,28M positif).
-- **Laba Q2 2025:** -Rp81,24 juta (negatif), turun drastis dari Q1 2025: Rp108,81 juta (positif); **kenaikan rugi bersih kuartal ke kuartal**.
-- **Arus Kas Operasi Q2 2025:** Rp6,67M (berbalik dari Q1 2025: -Rp6,62M), mencerminkan volatilitas arus kas.
-- **Free Cash Flow Q2 2025:** Rp6,79M (dari Q1 2025: -Rp6,75M); solid secara kas walau laba minus.
-- **Total Aset Q2 2025:** Rp1,18T; **sangat turun** Q1 2025: Rp1.151T → Q2 2025: Rp1,18M (anomali data, kemungkinan error pencatatan).
-- **Total Ekuitas Q2 2025:** Rp1,12T; sejalan tren aset.
-- **Tren YoY (Q2 2024 → Q2 2025):**
-    - Revenue Q2 2024: Rp126,40M → Q2 2025: -Rp71,10M (turun ekstrem, tidak wajar).
-    - Laba Q2 2024: Rp17,70M → Q2 2025: -Rp81,24 juta.
-- **Catatan:** Besar kemungkinan data Q2 2025 salah input/skala (lihat selisih ekstrim aset). Waspada pakai angka ini untuk proyeksi bisnis.
-  
-**Periode yang dipakai untuk angka utama: Q2 2025 (30 Juni 2025) untuk data operasional/posisi keuangan.**
+- **Pendapatan Q2 2025**: Rp99,66 miliar (**Q2 2025**, menurun dari FY2024: Rp566,67 miliar).
+- **Laba Bersih Q2 2025**: Rp27,46 miliar (**Q2 2025**), turun signifikan dari laba FY2024: Rp133,19 miliar (full year).
+- **Aset Q2 2025**: Rp1,18 triliun (**Q2 2025**), naik +0,6% dari akhir 2024 (Rp1,16 triliun, Q4 2024).
+- **Ekuitas Q2 2025**: Rp1,12 triliun (**Q2 2025**), tumbuh tipis dari Q4 2024 (Rp1,09 triliun).
+- **Pendapatan & Laba:**
+  - **QoQ:** Revenue Q2 2025 naik 39,8% vs Q1 2025 (Q1: Rp71,28 miliar).
+  - **YoY (Q2 2025 vs Q2 2024):** Revenue turun drastis (Q2 2024: Rp126,4 miliar), laba lebih rendah dari Q2 2024 (Rp17,7 miliar).
+- **Tren Laba Usaha:** EBIT Q2 2025: Rp35,12 miliar, naik signifikan dari Q1 2025 (Rp0,15 miliar); namun jauh di bawah capaian kuartalan 2022–2023.
+- **Kas & Setara Kas Q2 2025**: Rp498,95 miliar, meningkat dari Q4 2024 (Rp452,46 miliar).
+- **Free Cash Flow Q2 2025**: Rp47,68 miliar (vs minus di Q1 2025).
+
+**Periode yang dipakai untuk angka utama: Q2 2025**
+
+---
 
 ### 2) Posisi Kompetitif (Benchmark Highlights)
-- **Valuasi:** 
-    - TEBE PB: 3.259x; PE TTM: 40,0x (2024; peers: rata-rata PB: 1–5x, PE: 12–66x; SGER PB 2,4x PE 16,5x).
-- **Profitabilitas & Skala:**
-    - Market cap TEBE: Rp3,62T, mid-size dibanding peers (ex: SGER Rp5,1T, ALII Rp8,6T, RMKE Rp7,9T).
-    - Net Income trailing: Rp133,19M (2024, jauh di bawah peers besar).
-- **Industri:** Sektor Coal Distribution, kompetitor utama: SGER, RMKE, ALII, BESS.
+- **P/E TTM**: 40,05x, jauh di atas mayoritas peers (misal: SGER 12,1x; MAHA 12,1x; RMKE 32,0x). Indikasi valuasi premium.
+- **P/B MRQ**: 3259,2x, *secara ekstrem lebih tinggi* daripada peers terdekat (SGER 2,4x, MAHA 1,5x, RMKE 4,4x).
+- **ROE FY2024**: 12,2%; lebih rendah dibanding peers high-performer (data peers pada file tidak lengkap untuk ROE rata-rata).
+
+---
 
 ### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
-- **Margin Laba Bersih 2024:** 23,5% (FY 2024, annual; margin menurun >50% dari 2023/2022).
-- **ROE 2024:** 12,2%; ROA 11,5% – **trun cukup signifikan** vs FY23 (ROE 34,3%).
-- **Leverage (FY 2024):** DER sangat rendah (0,064x), neraca sangat kuat, beban bunga minim.
-- **Likuiditas:** Current Ratio FY 2024: 9,6x (sangat tinggi, kelebihan likuiditas, idle cash tinggi).
-- **Kualitas Aset:** Tidak ada isu signifikan pada NPL (tidak relevan non-bank); aset tetap stabil.
+- **Net Profit Margin Q2 2025**: 27,6% (laba/revenue), tinggi namun lebih rendah dari rata-rata kuartal kuat 2022–2023 (>50%).
+- **EBIT Margin Q2 2025**: 35,2%.
+- **Debt/Equity Q2 2025**: Data debt tidak tersedia pada periode terbaru; FY2024 Debt/Equity: 6,4% = sangat rendah (conservative).
+- **Current Ratio Q2 2025**: 13,3x (534,5 bn assets / 40,2 bn liab) – sangat likuid.
+- **Operating Cash Flow Q2 2025**: Rp47,95 miliar; kas tetap kuat walau profit lebih rendah.
+- **Kualitas Aset**: Aset non-lancar mendominasi, menunjukkan asset-heavy profile yang relatif stabil.
+
+---
 
 ### 4) Dividen & Valuasi
-- **Dividen 2024:** Rp100/lembar (yield 14,13%); payout ratio 28,4% (konservatif, cash-out rendah).
-- **Track Record Yield:** Beberapa tahun terakhir yield tinggi, rata-rata 9,16% (5Y).
-- **Valuasi Premium:** PB 3,259x dan PE 40x (2024) berada **jauh di atas** median peers sektoral.
+- **Dividen FY2024**: Rp100/lembar, dividend yield 14,13% (FY2024; sangat tinggi untuk konteks domestik).
+- **TTM dividen**: Rp20/lembar, yield TTM 0,71% (artinya mayoritas dividend telah dibagikan lebih awal/tidak berulang).
+- **Payout Ratio FY2024**: 28,4% (moderat), cash payout 19,2%.
+- **Valuasi**: P/E TTM dan P/B jauh di atas peers – premium pricing, perlu kehati-hatian.
+
+---
 
 ### 5) Rekomendasi
-**6M (Taktis):**  
-- Trading stance dominan wait & see, perhatikan potensi restatement laporan Q2 2025 dan “anomali data”.
-- Hindari aksi agresif hingga konsistensi cash flow & revenue terkonfirmasi pada Q3 2025.
+**6M (Taktis):**
+- Fokus efisiensi biaya dan optimalisasi kas.
+- Manajemen arus kas tetap hati-hati; mitigasi risiko penurunan pendapatan/laba.
+- Pantau aksi korporasi atau katalis non-fundamental potensial.
 
-**5Y (Tesis):**  
-- Prospek jangka panjang tetap positif *jika* profitabilitas stabil dan pertumbuhan volume terjaga.
-- Yield dividen menarik untuk income investor, tetapi premium valuasi dan anomali kinerja terbaru harus dimitigasi melalui monitoring dekat.
+**5Y (Tesis):**
+- Potensi ekspansi terbatas jika model asset-heavy tidak diubah.
+- Peluang dividen tetap tinggi, namun risiko pertumbuhan laba stagnan/menurun jika revenue tidak rebound.
+
+---
 
 ### 6) Kesimpulan
-Jangka Pendek (≤6 bulan): ⚠️ – Banyak anomali & volatilitas tinggi pada laporan Q2 2025, hasil audit dan klarifikasi manajemen wajib dicermati.  
-Jangka Panjang (> 5 tahun): ✅ – Fundamental solid secara neraca, likuid, record dividen sangat menarik; ruang untuk recovery profitabilitas terbuka.
+- **Jangka Pendek (≤6 bulan):** ⚠️ – Tekanan profitabilitas dan valuasi premium, meski likuiditas kuat & rutin bagi dividen.
+- **Jangka Panjang (>5 tahun):** ⚠️ – Prospek dividen menarik, namun valuasi tidak atraktif & pertumbuhan terbatas kecuali ada transformasi signifikan.
+
+---
 
 ### 7) Catatan Penting
-Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor. Data Q2 2025 patut diverifikasi ulang sebelum dijadikan dasar utama keputusan.
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor.
