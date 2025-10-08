@@ -1,45 +1,46 @@
 # COMPARE ONE-PAGER (CROSS-INDUSTRY READY)
 
 ## HEADER
-Ticker: RAJA
-Company: Rukun Raharja Tbk
-Sector: Utilities
-Industry: Utilities - Regulated Gas
-AsOf: 2025-09-12
+Ticker: RAJA.JK  
+Company: Rukun Raharja Tbk  
+Sector: Energy  
+Industry: Oil & Gas  
+AsOf: 2024-12-31
 
 ## VALUATION
-Market Cap: IDR 12.0 triliun
-PER: 13.5x
-PBV: 2.1x
-Dividend Yield: 2.1%
+Market Cap: IDR 12.2 triliun  
+PER: 40.3x  
+PBV: 4.1x  
+Dividend Yield: 1.8%
 
 ## PROFITABILITY
-Revenue Growth YoY: +25%
-Net Profit Growth YoY: +7.1%
-Net Margin: 11.4%
-ROE: 16.9%
-ROA: 7.0%
+Revenue Growth YoY: +1.9%  
+Net Profit Growth YoY: -34.4%  
+Net Margin: 10.0%  
+ROE: 14.9%  
+ROA: 7.7%
 
 ## BALANCE & CASH
-DER: 0.6x
-FCF: USD 37.7 juta
+DER: 0.93x  
+FCF: IDR -135 miliar
 
 ## SCORE (0–5 each; integers or 0.5 steps allowed)
-ValuationScore: 4
-ProfitabilityScore: 3.5
-BalanceScore: 3.5
-IncomeScore: 2.5
+ValuationScore: 1  
+ProfitabilityScore: 2  
+BalanceScore: 2.5  
+IncomeScore: 2  
+TotalScore: 7.5
 
 ## NOTES
 Highlights:
-- Revenue grew 25% YoY in FY 2024, mainly from gas sales (+35%)
-- Consistent positive free cash flow and improving net profit
+- Consistent dividend payout, 2025 yield at 1.8%
+- Solid equity base and moderate leverage
 
 Risks:
-- Rising financial expenses from increased borrowings
-- Exposure to foreign exchange losses and volatile oil/gas prices
+- High valuation multiples vs. peers
+- Negative free cash flow in latest period
 
 ## METADATA
-Source: Company financials, IDX, public filings
-Period: Q2 2025 YTD, FY 2024
-LastUpdate: 2025-09-12
+Source: Company filings, peer data, dividend disclosures  
+Period: FY 2024  
+LastUpdate: 2024-12-31

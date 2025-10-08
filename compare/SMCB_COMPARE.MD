@@ -1,45 +1,45 @@
 # COMPARE ONE-PAGER (CROSS-INDUSTRY READY)
 
 ## HEADER
-Ticker: SMCB
-Company: -
-Sector: -
-Industry: -
-AsOf: 2024-09-30
+Ticker: SMCB.JK  
+Company: PT Solusi Bangun Indonesia Tbk  
+Sector: Basic Materials  
+Industry: Construction Materials  
+AsOf: 2025-03-31
 
 ## VALUATION
-Market Cap: -
-PER: -
-PBV: -
-Dividend Yield: -
+Market Cap: IDR 7.0 triliun  
+PER: 9.7x  
+PBV: 0.54x  
+Dividend Yield: 5.3%
 
 ## PROFITABILITY
-Revenue Growth YoY: -
-Net Profit Growth YoY: -
-Net Margin: -
-ROE: -
-ROA: -
+Revenue Growth YoY: -11.0%  
+Net Profit Growth YoY: -34.8%  
+Net Margin: 6.3%  
+ROE: 5.8%  
+ROA: 3.5%
 
 ## BALANCE & CASH
-DER: 0.69x
-FCF: -
+DER: 0.63x  
+FCF: IDR 113 miliar
 
 ## SCORE (0–5 each; integers or 0.5 steps allowed)
-ValuationScore: -
-ProfitabilityScore: -
-BalanceScore: 3.5
-IncomeScore: -
+ValuationScore: 4.5  
+ProfitabilityScore: 2  
+BalanceScore: 4  
+IncomeScore: 5
 
 ## NOTES
 Highlights:
-- Equity consistently higher than liabilities
-- DER improved to 0.69x in Q3 2024
+- Lowest PER and PBV among peers
+- Dividend yield above 5% and rising
 
 Risks:
-- No profitability or cash flow data available
-- Market valuation metrics unavailable
+- Revenue and profit growth negative YoY
+- Margins and ROE below sector average
 
 ## METADATA
-Source: SMCB_BalanceSheet_simplified.txt
-Period: Q3 2024
-LastUpdate: 2024-09-30
+Source: Company filings, IDX, peer data  
+Period: Q1 2025  
+LastUpdate: 2025-07-07

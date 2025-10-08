@@ -1,45 +1,47 @@
 # COMPARE ONE-PAGER (CROSS-INDUSTRY READY)
 
 ## HEADER
-Ticker: SMGR
-Company: Semen Indonesia
-Sector: Basic Materials
-Industry: Building Materials
-AsOf: 2025-09-12
+Ticker: SMGR.JK  
+Company: Semen Indonesia (Persero) Tbk  
+Sector: Basic Materials  
+Industry: Construction Materials  
+AsOf: 2025-06-30
 
 ## VALUATION
-Market Cap: IDR 19.12 triliun
-PER: 24.8x
-PBV: 0.4x
-Dividend Yield: 3.4%
+Market Cap: IDR 18.3 triliun  
+PER: 83.8x  
+PBV: 424.7x  
+Dividend Yield: 3.6%
 
 ## PROFITABILITY
-Revenue Growth YoY: -8.6%
-Net Profit Growth YoY: -66.4%
-Net Margin: 2.1%
-ROE: 1.6%
-ROA: 1.0%
+Revenue Growth YoY: -2.0%  
+Net Profit Growth YoY: -2.4%  
+Net Margin: 2.0%  
+ROE: 1.5%  
+ROA: 0.9%
 
 ## BALANCE & CASH
-DER: 0.2x
-FCF: IDR 2.78 triliun
+DER: 0.59x  
+FCF: IDR 238 milyar
 
 ## SCORE (0–5 each; integers or 0.5 steps allowed)
-ValuationScore: 3
-ProfitabilityScore: 1
-BalanceScore: 4
-IncomeScore: 3.5
+ValuationScore: 0  
+ProfitabilityScore: 1  
+BalanceScore: 3  
+IncomeScore: 3  
+TotalScore: 7
 
 ## NOTES
 Highlights:
-- Market leader in Indonesian cement with ~50% market share
-- Strong free cash flow and declining debt
+- Positive free cash flow maintained
+- Dividend yield above 3% (TTM)
+- Debt/equity ratio below 1x
 
 Risks:
-- Revenue and profit declining due to lower ASP and sales volume
-- Highly competitive market and cost pressures
+- High valuation multiples (PER, PBV)
+- Negative YoY growth in revenue and profit
 
 ## METADATA
-Source: Company filings, IDX, internal analysis
-Period: Q2 2025 YTD
-LastUpdate: 2025-09-12
+Source: Company filings, peer data, dividend disclosures  
+Period: Q2 2025 YTD  
+LastUpdate: 2025-06-30

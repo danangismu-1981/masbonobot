@@ -1,45 +1,46 @@
 # COMPARE ONE-PAGER (CROSS-INDUSTRY READY)
 
 ## HEADER
-Ticker: SMBR
-Company: Semen Baturaja Tbk
-Sector: Basic Materials
-Industry: Building Materials
-AsOf: 2025-09-12
+Ticker: SMBR.JK  
+Company: PT Semen Baturaja Tbk  
+Sector: Basic Materials  
+Industry: Construction Materials  
+AsOf: 2025-06-30
 
 ## VALUATION
-Market Cap: IDR 2.92 triliun
-PER: 22.6x
-PBV: 0.9x
+Market Cap: IDR 2.86 triliun  
+PER: 13.4x  
+PBV: 0.86x  
 Dividend Yield: 0.9%
 
 ## PROFITABILITY
-Revenue Growth YoY: +2.5%
-Net Profit Growth YoY: +6.3%
-Net Margin: 6.2%
-ROE: 3.9%
+Revenue Growth YoY: +6.8%  
+Net Profit Growth YoY: +49.8%  
+Net Margin: 9.8%  
+ROE: 4.0%  
 ROA: 2.6%
 
 ## BALANCE & CASH
-DER: 0.5x
-FCF: IDR 145 miliar
+DER: 0.50x  
+FCF: IDR -10.99 miliar
 
 ## SCORE (0–5 each; integers or 0.5 steps allowed)
-ValuationScore: 2.5
-ProfitabilityScore: 1.5
-BalanceScore: 3
-IncomeScore: 1
+ValuationScore: 4  
+ProfitabilityScore: 2  
+BalanceScore: 3  
+IncomeScore: 2  
+TotalScore: 11
 
 ## NOTES
 Highlights:
-- Cement sales volume up 21% YoY in Q2 2025, supporting revenue growth
-- Part of Semen Indonesia Group, enabling access to government projects
+- Low PBV and moderate PER relative to sector
+- Net profit rebounded strongly YoY
 
 Risks:
-- Declining ASP and weak cement demand could pressure margins
-- High receivables from parent company increase cash conversion cycle
+- Free cash flow turned negative latest quarter
+- Profitability and ROE remain below sector leaders
 
 ## METADATA
-Source: Company filings, IDX, internal analysis
-Period: Q2 2025 YTD
-LastUpdate: 2025-09-12
+Source: Company filings, IDX, peer data  
+Period: Q2 2025 YTD  
+LastUpdate: 2025-06-30

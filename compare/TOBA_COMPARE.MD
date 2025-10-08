@@ -1,47 +1,45 @@
 # COMPARE ONE-PAGER (CROSS-INDUSTRY READY)
 
 ## HEADER
-Ticker: TOBA
-Company: -
-Sector: Energy
-Industry: Thermal Coal
-AsOf: 2025-09-12
+Ticker: TOBA.JK  
+Company: PT TBS Energi Utama Tbk  
+Sector: Energy  
+Industry: Coal  
+AsOf: 2025-06-30
 
 ## VALUATION
-Market Cap: IDR 10.73 triliun
-PER: 3.1x
-PBV: 0.3x
-Dividend Yield: 1.5%
+Market Cap: IDR 10.2 triliun  
+PER: -5.53x  
+PBV: 2.8x  
+Dividend Yield: 1.6%
 
 ## PROFITABILITY
-Revenue Growth YoY: -11%
-Net Profit Growth YoY: +130%
-Net Margin: 11%
-ROE: 10.6%
-ROA: 5.9%
+Revenue Growth YoY: -23.5%  
+Net Profit Growth YoY: -450.0%  
+Net Margin: 6.4%  
+ROE: 6.5%  
+ROA: 3.2%
 
 ## BALANCE & CASH
-DER: 2.3x
-FCF: USD 113.6 juta
+DER: 1.05x  
+FCF: IDR -0.45 triliun
 
 ## SCORE (0–5 each; integers or 0.5 steps allowed)
-ValuationScore: 4
-ProfitabilityScore: 3.5
-BalanceScore: 2
-IncomeScore: 2
-TotalScore: 11.5
+ValuationScore: 2  
+ProfitabilityScore: 1  
+BalanceScore: 2  
+IncomeScore: 1.5
 
 ## NOTES
 Highlights:
-- PER and PBV among the lowest in the sector, indicating cheap valuation
-- Net profit surged 130% YoY in FY 2024 despite revenue decline
+- Maintains positive equity and asset base
+- Dividend yield above 1% despite losses
 
 Risks:
-- High leverage (DER >2x) increases financial risk
-- Revenue under pressure from lower coal prices and volumes
-- Regulatory and export quota risks for coal sector
+- Negative earnings and FCF in latest period
+- Sharp YoY decline in revenue and profit
 
 ## METADATA
-Source: Company filings, IDX, internal analysis
-Period: FY 2024, Q2 2025
-LastUpdate: 2025-09-12
+Source: Company filings, peer data  
+Period: Q2 2025 YTD  
+LastUpdate: 2024-06-30

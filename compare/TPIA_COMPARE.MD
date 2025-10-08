@@ -1,45 +1,45 @@
 # COMPARE ONE-PAGER (CROSS-INDUSTRY READY)
 
 ## HEADER
-Ticker: TPIA
-Company: Chandra Asri Pacific
-Sector: Basic Materials
-Industry: Specialty Chemicals
-AsOf: 2025-09-12
+Ticker: TPIA.JK  
+Company: PT Chandra Asri Pacific Tbk  
+Sector: Basic Materials  
+Industry: Chemicals  
+AsOf: 2025-06-30
 
 ## VALUATION
-Market Cap: IDR 683 triliun
-PER: 423.9x
-PBV: 3.5x
-Dividend Yield: 0.07%
+Market Cap: IDR 655.3 triliun  
+PER: 32.3x  
+PBV: 10.4x  
+Dividend Yield: 0.08%
 
 ## PROFITABILITY
-Revenue Growth YoY: +35.6%
-Net Profit Growth YoY: -81.8%
-Net Margin: 5.5%
-ROE: 1.1%
-ROA: 0.6%
+Revenue Growth YoY: +4.6%  
+Net Profit Growth YoY: +84.5%  
+Net Margin: -3.9%  
+ROE: -2.4%  
+ROA: -1.2%
 
 ## BALANCE & CASH
-DER: 1.1x
-FCF: USD -525 juta
+DER: 0.93x  
+FCF: IDR 2.98 triliun
 
 ## SCORE (0–5 each; integers or 0.5 steps allowed)
-ValuationScore: 1
-ProfitabilityScore: 1
-BalanceScore: 1.5
+ValuationScore: 1  
+ProfitabilityScore: 1  
+BalanceScore: 2.5  
 IncomeScore: 0.5
 
 ## NOTES
 Highlights:
-- Largest naphtha cracker and specialty chemical producer in Indonesia
-- Recent revenue growth driven by overseas olefin sales and refinery acquisition
+- Returned to positive free cash flow in latest quarter
+- Revenue and net profit growth improved YoY
 
 Risks:
-- High leverage and negative free cash flow
-- Profitability pressured by high feedstock costs and foreign competition
+- Profitability remains negative (net margin, ROE, ROA)
+- Valuation multiples (PER, PBV) are high vs. peers
 
 ## METADATA
-Source: Company financials, IDX, public filings
-Period: Q2 2025 YTD
-LastUpdate: 2025-09-12
+Source: Company filings, peer data, dividend reports  
+Period: Q2 2025 YTD  
+LastUpdate: 2025-06-30

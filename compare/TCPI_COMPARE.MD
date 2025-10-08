@@ -1,47 +1,45 @@
 # COMPARE ONE-PAGER (CROSS-INDUSTRY READY)
 
 ## HEADER
-Ticker: TCPI
-Company: Transcoal Pacific Tbk
-Sector: Industrials
-Industry: Marine Shipping
-AsOf: 2025-09-12
+Ticker: TCPI.JK  
+Company: PT Transcoal Pacific Tbk  
+Sector: Energy  
+Industry: Coal  
+AsOf: 2025-06-30
 
 ## VALUATION
-Market Cap: IDR 29 triliun
-PER: 325.2x
-PBV: 13.6x
-Dividend Yield: 0.9%
+Market Cap: IDR 30.4 triliun  
+PER: 283.7x  
+PBV: 14.6x  
+Dividend Yield: 0.08%
 
 ## PROFITABILITY
-Revenue Growth YoY: +6%
-Net Profit Growth YoY: -53%
-Net Margin: 4.6%
-ROE: 0.4%
-ROA: 0.2%
+Revenue Growth YoY: +3.1%  
+Net Profit Growth YoY: +96.2%  
+Net Margin: 4.4%  
+ROE: 4.0%  
+ROA: 2.3%
 
 ## BALANCE & CASH
-DER: 0.7x
-FCF: IDR -79 miliar
+DER: 0.72x  
+FCF: IDR -2.3 triliun
 
 ## SCORE (0–5 each; integers or 0.5 steps allowed)
-ValuationScore: 0.5
-ProfitabilityScore: 1
-BalanceScore: 2
-IncomeScore: 1
-TotalScore: 4.5
+ValuationScore: 0  
+ProfitabilityScore: 2  
+BalanceScore: 2  
+IncomeScore: 0.5
 
 ## NOTES
 Highlights:
-- Revenue grew 6% YoY in FY 2024, driven by higher coal/nickel shipping volumes.
-- Long-term contracts with major coal and nickel producers support revenue visibility.
+- Strong YoY net profit growth (+96.2%)
+- Revenue growth positive but modest (+3.1%)
 
 Risks:
-- Net profit dropped 53% YoY in FY 2024 due to asset sale losses and high finance costs.
-- High customer concentration: >80% revenue from two Bakrie Group coal subsidiaries.
-- High leverage and negative free cash flow increase financial risk.
+- Extremely high PER and PBV versus peers
+- Free cash flow negative in latest quarter
 
 ## METADATA
-Source: Company filings, IDX, TCPI public disclosures
-Period: Q2 2025 YTD / FY 2024
-LastUpdate: 2025-09-12
+Source: Company filings, peer data  
+Period: Q2 2025 YTD  
+LastUpdate: 2025-06-30
