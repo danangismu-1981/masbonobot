@@ -1,61 +1,46 @@
-## PLIN – Value Investor One-Pager
+## PLIN – Investor One-Pager
 
-### 1) Pertumbuhan YoY (berbasis Q2 2025 YTD vs Q2 2024 YTD, data YTD Jan–Jun)
-- **Revenue**: Naik +4.1% YoY ke Rp691,4 miliar (Q2 2025 YTD) dari Rp663,5 miliar (Q2 2024 YTD).
-- **Gross Profit**: Naik +5.3% YoY ke Rp484,6 miliar (margin 70%) dari Rp449,4 miliar (margin 68%) – margin stabil tinggi.
-- **Operating Profit** (Gross Profit – G&A): Rp318,4 miliar (Q2 2025 YTD, margin 46%) vs Rp308,9 miliar (Q2 2024 YTD, margin 47%).
-- **Net Profit**: Rp265,5 miliar (margin 38%) naik +1.2% YoY dari Rp270,6 miliar (Q2 2024 YTD, margin 41%).
-- **Catatan**: PLIN fokus pada pendapatan recurring dari mal, hotel, dan perkantoran – pertumbuhan moderat & stabil.
+### 1) Pertumbuhan & Tren Utama
+- **Pendapatan:** Rp344,6 miliar (Q2 2025, turun tipis -0,7% QoQ dari Rp346,9 miliar Q1 2025; +2,7% YoY dari Rp335,7 miliar Q2 2024).
+- **Laba Bersih:** Rp135,4 miliar (Q2 2025, naik 4,1% QoQ dari Rp130,1 miliar Q1 2025; stabil YoY).
+- **Gross Profit:** Rp243,9 miliar (Q2 2025, +1,3% QoQ; +6,5% YoY).
+- **EBITDA:** Rp154,9 miliar (Q2 2025, -8,8% QoQ dari Q1; naik 2,0% YoY dari Q2 2024).
+- **Arus Kas Operasional:** Rp151,5 miliar (Q2 2025, -5% QoQ).
+- **YoY Revenue Growth:** +2,6% (FY 2024; label: data YoY tahunan).
+- **YoY Earnings Growth:** -0,3% (FY 2024; label: data YoY tahunan).
+**Periode yang dipakai untuk angka utama: Q2 2025 (30 Juni 2025).**
 
-### 2) Posisi Kompetitif (Benchmark Data, 2024)
-- **Undeveloped Land (Ha):** 0 (PLIN tidak punya landbank, fokus recurring) vs BSDE 4.380 Ha, DMAS 673 Ha, dll.
-- **Average Land Acquisition Price:** Tidak relevan (PLIN tidak akuisisi lahan, fokus aset mature).
-- **Recurring vs Sales Asset Mix:** 100% recurring income (mal 1 lokasi, hotel, office); kompetitor mayoritas mix landed/industrial.
-- **Marketing Sales:** 0 – tidak ada penjualan lahan/hunian (vs BSDE >Rp9,7 triliun, DMAS Rp1,87 triliun).
-- **Advances/Unearned Revenue:** 0 – tidak relevan karena recurring, bukan pre-sales development.
-- **Lokasi & Fokus Bisnis:** Mal (Plaza Indonesia), hotel, kantor – kawasan strategis high-end Jakarta.
+### 2) Posisi Kompetitif (Benchmark Highlights)
+- **PLIN Price/Book (PB):** 0.79x (2024, terbaik kedua setelah BSDE).
+    - BSDE 0.50x, PWON 0.82x, CTRA 0.73x → PLIN undervalued relatif peer utama properti besar.
+- **PLIN PE TTM:** 8.94x (2024, kompetitif; lebih rendah dari rata-rata peers besar: PWON 7.3x; CTRA 7.1x; JRPT 17.9x).
+- **ROE PLIN:** 8,79% (FY 2024; mendekati rata-rata peer utama).
 
-### 3) Neraca & Arus Kas Kunci (Q2 2025 YTD, fallback Q3 2024/FY 2024 jika tidak tersedia)
-- **Cash & Equivalents:** Rp725,5 miliar (Q3 2024, fallback terbaru ketersediaan).
-- **Inventories/Land Bank:** Rp8,3 miliar – sangat kecil (tidak mengedepankan pengembangan lahan).
-- **Debt / Interest-bearing debt:** Bank Loan – Long Term Rp517,4 miliar (Q3 2024; sekitar 40% dalam USD – sensitif kurs).
-- **Interest income/expense:** Interest income Rp15,5 miliar, interest expense Rp20,0 miliar (Q2 2025 YTD).
-- **FCF & Owners’ Earnings:** FY 2024 FCF Rp544,7 miliar, Owner's Earnings Rp984,0 miliar (FY 2024).
-- **Advance from Customer:** 0 – tidak ada pendapatan pre-sales.
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
+- **Net Profit Margin:** 39,3% (Q2 2025; FY24: 71,96% karena item non-recurring, normalisasi sudah terjadi).
+- **Gross Profit Margin:** 70,8% (Q2 2025).
+- **Operating Cash Flow Margin:** 44,0% (Q2 2025).
+- **Total Assets:** Rp12,69 triliun, **Ekuitas:** Rp11,28 triliun, **Liabilitas:** hanya Rp1,42 triliun – sangat kuat (Q2 2025).
+- **Debt-to-Asset:** 4,2% (Q2 2025, sangat rendah).
+- **Current Ratio:** ~1,5x (Q2 2025).
+- **Free Cash Flow:** Rp132,7 miliar (Q2 2025).
 
 ### 4) Dividen & Valuasi
-- **Harga terakhir:** Rp2.510 (per 30 Jan 2025).
-- **Dividen terakhir:** Rp96/saham (2025; payout ratio ~34% - estimasi Q2 2025 annualisasi).
-- **Yield:** ±3,8% (Rp96/Rp2.510).
-- **Valuasi trailing:**  
-  - P/E trailing (annualisasi net profit Q2 2025 YTD): ~9,5x*  
-  - Catatan: Annualisasi net profit Q2 2025 x2 = Rp531 miliar; market cap ~Rp8,88 triliun.
-- **Catatan:** Dividen stabil tiap tahun, payout ratio konservatif.
+- **Dividen TTM:** Rp163/lembar, **Yield TTM:** 6,5% (data: PLIN-DIVIDEN, TTM).
+- **Payout Ratio:** 58%.
+- **Dividen konsisten, yield 5Y rata-rata: 5,2%** (reliable income stock).
+- **Valuasi:** PB 0.79x, PE TTM 8.94x (bawah rata-rata sektor dan diskon ke aset, attractive bagi value investor).
 
-### 5) Insight Strategis
-**Kekuatan:**  
-- Platform recurring income (mal high-end, hotel, kantor) berlokasi premium Jakarta, menurunkan volatilitas pendapatan.
-- Brand Plaza Indonesia sangat kuat, okupansi tenant tinggi meski kondisi ekonomi fluktuatif.
+### 5) Rekomendasi
+**6M (Taktis):**
+- Fokuskan pada kelanjutan tren stabil, yield dividen menarik; downgrade hanya jika terlihat pelambatan okupansi/sewa secara berturut-turut.
 
-**Risiko:**  
-- 40% utang berbunga dalam USD, sensitif terhadap pelemahan rupiah (beban bunga naik jika kurs melemah).
-- Laju pertumbuhan terbatas, karena tidak ekspansi landbank/development, bergantung pada price power (tenant mix/luxury segment).
-- Beban depresiasi meningkat tajam akibat revaluasi aset; tekanan pada laba operasional.
-- Tidak ada potensi windfall dari penjualan aset atau landbank.
+**5Y (Tesis):**
+- Prospek positif untuk long-term defensive play di sektor properti premium terpadu; posisi keuangan solid, arus kas dan payout tinggi mendukung kelas aset defensif; rerating mungkin jika profitabilitas tumbuh di atas inflasi.
 
-### 6) Rekomendasi
-**6M (Taktis):**  
-- Fokus monitoring kinerja mal & hotel pasca libur, risiko depresiasi meningkat & kurs.
-- Tidak untuk investor pertumbuhan agresif; lebih cocok profil defensif & income-seeking.
+### 6) Kesimpulan
+Jangka Pendek (≤6 bulan): ✅ – Fundamental stabil, dividen tinggi, valuasi attraktif; catalyst downside relatif kecil.
+Jangka Panjang (> 5 tahun): ✅ – Struktur neraca sangat kuat, bisnis core resilient, dividen konsisten historis, upside potensi jika properti/office rebound.
 
-**5Y (Tesis):**  
-- Tetap defensif: recurring income, brand kuat, payout stabil; upside hanya dari kenaikan tarif sewa/okupansi & pengendalian biaya.
-- Risiko utama tetap pada kurs USD (beban bunga), dan stagnasi pertumbuhan laba.
-
-### 7) Kesimpulan & Indikasi Strategis
-Jangka Pendek (≤ 6 bulan): ⚠️ Hati-hati – Stabil tetapi butuh waspada kurs USD/biaya depresiasi tinggi.  
-Jangka Panjang (> 5 tahun): ✅ Positif – Defensif; recurring income stabil, brand kuat, risiko demand rendah.
-
-### 8) Catatan Penting
-Analisis ini bersifat edukasi, bukan ajakan untuk membeli atau menjual saham tertentu.  
-Keputusan investasi sepenuhnya ada di tangan investor sesuai profil risiko masing-masing.
+### 7) Catatan Penting
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor.
