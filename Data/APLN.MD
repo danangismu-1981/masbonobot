@@ -1,58 +1,67 @@
-## APLN – Value Investor One-Pager
+## APLN – Investor One-Pager
 
-### 1) Pertumbuhan YoY
-- **Data menggunakan Q2 2025 YTD (Jan–Jun 2025), dibanding Q2 2024 YTD.**
-- **Revenue:** Rp 1,688,289 juta (Q2 2025 YTD), turun 10% YoY dari Rp 1,885,781 juta (Q2 2024 YTD).
-- **Gross Profit:** Rp 652,061 juta (Q2 2025 YTD), naik 14% YoY dari Rp 572,980 juta (Q2 2024 YTD). Gross margin naik signifikan ke 39% (vs 30%).
-- **Operating Profit:** Masih negatif, rugi operasi Rp (71,743) juta (Q2 2025 YTD), naik tipis dari rugi Rp (64,583) juta (Q2 2024 YTD).
-- **Net Profit:** Rugi Rp (71,743) juta (Q2 2025 YTD), dari laba Rp 64,583 juta (Q2 2024 YTD). Pelemahan profit karena penurunan recurring income pasca divestasi hotel besar.
-- **Marketing Sales:** FY 2024 naik 54% menjadi Rp 1.903 miliar (per Benchmark).
+### 1) Pertumbuhan & Tren Utama
+- **Pendapatan Q2 2025:** Rp814 miliar (**-7% QoQ** vs Q1 2025: Rp874 miliar; **-71% YoY** vs Q2 2024: Rp1,173 miliar)
+- **Laba Bersih Q2 2025:** -Rp46,7 miliar (Q1 2025: -Rp62,1 miliar; Q2 2024: Rp98,7 miliar)
+- **Gross Profit Q2 2025:** Rp324 miliar (**flat QoQ**; Q2 2024: Rp463 miliar)
+- **Total Aset Q2 2025:** Rp25,69 triliun (Q1 2025: Rp25,83 triliun)
+- **Cash & Setara Kas Q2 2025:** Rp703 miliar (stabil QoQ, turun ~29% YoY)
+- **Operating Cash Flow Q2 2025:** -Rp60 miliar (Q1 2025: -Rp127 miliar; Q2 2024: -Rp34 miliar)
+- **Free Cash Flow Q2 2025:** -Rp65 miliar (Q1 2025: -Rp153 miliar)
+- **Net Margin Q2 2025:** -5,7% (Q2 2024: +8,4%)
+- **Kinerja 12M Terakhir (FY2024):**
+  - Revenue: Rp5,58 triliun
+  - Laba Bersih: Rp634 miliar
+  - FCF: Rp1,30 triliun (**FY2024, annual**)
+- **Tren:** Margin profit & kas operasi memburuk siginifikan di Q1–Q2 2025, dengan pendapatan menurun dan hasil bottom-line negatif.
+  
+**Periode yang dipakai untuk angka utama: Q2 2025 (30 Juni 2025)**
 
-### 2) Posisi Kompetitif (Bullet Points)
-- **Undeveloped Land:** 483 Ha (APLN) – menengah, lebih rendah dari BSDE (4.380 Ha), CTRA (2.200 Ha), tetapi di atas GPRA (57 Ha).
-- **Average Land Acquisition Price:** Rp 77.723/m² – paling rendah di antara peers utama (CB: BSDE Rp 400.684/m²; CTRA Rp 435.934/m²), memberi fleksibilitas harga.
-- **Recurring vs Sales Asset Mix:** Recurring income 27%, sales asset 73% (APLN tergolong prop dev. dominan penjualan; bandingkan PWON 78% recurring, BSDE hanya 11% recurring).
-- **Marketing Sales (FY 2024):** Rp 1,903 miliar – lebih rendah dari BSDE, CTRA, SMRA (Rp 4–11 triliun), namun naik signifikan YoY.
-- **Advances / Unearned Revenue:** Rp 3,944 miliar (FY 2024) – solid, mengindikasikan cadangan pendapatan masa depan, namun di bawah CTRA, BSDE.
-- **Lokasi & Fokus Bisnis:** Jakarta & West Java, fokus landed house menengah–atas.
+---
 
-### 3) Neraca & Arus Kas Kunci
-- **Cash & Equivalents:** Rp 1,063 miliar (Q2 2025; naik dari Rp 680 miliar Q2 2024); ada pelepasan aset (hotel) menopang cash.
-- **Inventories/Land Bank:** Rp 7,210 miliar (Q2 2025); land bank masih besar (indikasi kapasitas pengembangan beberapa tahun ke depan).
-- **Debt / Interest-Bearing Debt:** Total bank loan Rp 6,550 miliar (Q2 2025; naik), bonds payable sudah lunas (NIL, Q2 2025).
-- **Interest income:** Rp 12,765 juta (Q2 2025 YTD, naik YoY); **Interest expense:** Rp (249,166) juta (Q2 2025 YTD, turun 17% YoY).
-- **Free Cash Flow (FY 2024):** Rp 1.303 miliar; **Owner’s Earnings (FY 2024):** minus Rp (2,507) miliar, tekanan dari perubahan modal kerja besar.
+### 2) Posisi Kompetitif (Benchmark Highlights)
+- **Valuasi (FY2024 data peer):**
+    - APLN: PB 201,7x (anomaly/high outlier), PE 3,4x
+    - Mayoritas peers: PB <1x s/d >1000x, PE sangat bervariasi (rata-rata sektor PE 6–24x: CTRA 7,1x, PWON 7,3x, BSDE 6,5x, MKPI 24x)
+- **Market Cap APLN:** Rp2,25 triliun (jauh di bawah BSDE, PWON, CTRA, dll.)
+- **Pendapatan & Laba:** Signifikan lebih kecil dari para kompetitor utama; APLN struggle menjaga profitabilitas konsisten pada 2025.
+- **Posisi levered, namun aset dan kapitalisasi tergolong menengah—bukan big-cap properti RI.**
+
+---
+
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
+- **ROE Q2 2025:** data tidak tersedia spesifik, FY2024: 4,6%
+- **Gross Margin Q2 2025:** 39,8%; turun signifikan YoY (Q2 2024: 39,5% → 27,6% di FY2024)
+- **Net Margin Q2 2025:** -5,7%
+- **Total Debt Q2 2025:** Rp5,08 triliun (turun ~4% QoQ)
+- **Debt/Equity Q2 2025:** ≈0,45 (turun dari FY2024: 0,89)
+- **DER dan leverage menurun, likuiditas memadai (Current Ratio Q2 2025 ≈2,0)**
+- **Profitabilitas terkikis, arus kas operasi & FCF negatif dua kuartal beruntun (Q1–Q2 2025).**
+
+---
 
 ### 4) Dividen & Valuasi
-- **Harga terakhir:** Rp 105 (12/9/2025); tidak ada dividen sejak 2017.
-- **Dividend yield:** 0%. Payout policy konservatif, mengutamakan pelunasan utang/turnaround.
-- **CAGR Harga 2022–YTD:** Minus 13,23% per tahun.
+- **Dividen:** Tidak tersedia/ditetapkan pada periode terbaru.
+- **Valuasi PE (trailing):** 3,4x (tinggi diskon relatif peers besar, namun kualitas profit dan arus kas menurun tajam).
+- **PB anomaly** kemungkinan akibat kelainan akuntansi/ekuitas atau negative book—kurang valid untuk benchmarking.
 
-### 5) Insight Strategis
-**Kekuatan:**  
-- Land bank harga rendah, lokasi strategis, recurring income masih relevan meski turun.
-- Pengurangan beban bunga lewat pelunasan utang & refinancing efektif; FCF positif tahun berjalan.
-- Peningkatan marketing sales (FY 2024 up 54%).
+---
 
-**Risiko:**  
-- Penurunan recurring income pasca penjualan hotel, dampak negatif pada profitabilitas 2025.
-- Ketergantungan pada penjualan aset untuk likuiditas, margin operasi sangat tipis/negatif.
-- Beban G&A naik (gaji & promosi), sensitivitas ke daya beli konsumen tetap tinggi.
-- Owner’s earnings negatif (FY 2024), tekanan pada profitabilitas kas bersih.
+### 5) Rekomendasi
+**6M (Taktis):**
+- Posisikan sangat hati-hati; waspadai potensi likuiditas & berlanjutnya cash burn di tengah pendapatan susut.
+- Perlu pantau Q3: bila trend negatif berlanjut, risiko distress membesar.
 
-### 6) Rekomendasi
-**6M (Taktis):**  
-- Optimalkan utilisasi cash hasil divestasi untuk proyek strategis baru (Bali hotel) sambil kendalikan G&A/opex.
-- Jaga liabilitas & arus kas—fokus pada proyek serap cepat, karena recurring income turun.
+**5Y (Tesis):**
+- Jika perputaran bisnis properti & reformasi struktur utang berjalan—ada potensi turn-around, namun butuh pembuktian perbaikan berkelanjutan baik di pendapatan, bottom line, maupun kas operasi.
 
-**5Y (Tesis):**  
-- Tesis APLN bergantung pada kemampuan monetisasi land bank murah dan restorasi recurring income pasca ekspansi hotel/akomodasi baru.
-- Peluang apabila purchasing power pulih, namun perlu disiplin modal kerja & efisiensi beban.
+---
 
-### 7) Kesimpulan & Indikasi Strategis
-Jangka Pendek (≤ 6 bulan): ⚠️ Hati-hati – Revenue dan recurring profit jatuh, posisi kas membaik namun pressure dari beban masih tinggi.  
-Jangka Panjang (> 5 tahun): ⚠️ Hati-hati – Tergantung eksekusi monetisasi land bank & pembentukan recurring income baru.
+### 6) Kesimpulan
+- **Jangka Pendek (≤6 bulan):** ⚠️ – Tanda peringatan atas penurunan kinerja operasional, profitabilitas & arus kas; kebutuhan transformasi operasional & keuangan mendesak.
+- **Jangka Panjang (>5 tahun):** ⚠️ – Potensi rebound jika berhasil re-strukturisasi, namun eksekusi & pemulihan bisnis menjadi kunci. Risiko bisnis & siklus properti tetap tinggi.
 
-### 8) Catatan Penting
-Analisis ini bersifat edukasi, bukan ajakan untuk membeli atau menjual saham tertentu.  
-Keputusan investasi sepenuhnya ada di tangan investor sesuai profil risiko masing-masing.
+---
+
+### 7) Catatan Penting
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor.

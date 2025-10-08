@@ -1,63 +1,46 @@
-## GPRA – Value Investor One-Pager
+## GPRA – Investor One-Pager
 
-### 1) Pertumbuhan YoY (Q2 2025 YTD vs Q2 2024 YTD, *seluruh Q adalah Year-to-Date*)
-- **Revenue:** Rp225 miliar (Q2 2025 YTD) naik +8,5% dari Rp207 miliar (Q2 2024 YTD).
-- **Gross Profit:** Rp130 miliar, naik +3,5% YoY dari Rp126 miliar.
-- **Operating Profit:** Rp64 miliar, naik +16,3% YoY.
-- **Net Profit:** Rp46 miliar, naik +3,7% YoY dari Rp44 miliar (tambahan: Q2 2024 YTD: Rp44,7 miliar).
-- **Margin (Q2 2025 YTD):**  
-  - Gross Margin ±57,9% (turun dari ±60,3% YoY)  
-  - Operating Margin ±28,6%  
-  - Net Margin ±20,5%
-- **Catatan:** Seluruh pertumbuhan moderat dan margin stabil; penopang pertumbuhan dari penjualan rumah/toko didorong insentif PPN DTP.
+### 1) Pertumbuhan & Tren Utama
+- **Pendapatan Q2 2025:** Rp92,1 miliar (**Q2 2025**, turun tajam -30,7% QtQ dari Q1 2025: Rp132,9 miliar).
+- **Laba Bersih Q2 2025:** Rp7,8 miliar (**Q2 2025**, anjlok -79% QtQ vs Q1 2025: Rp37,3 miliar, dan -81% vs Q4 2024: Rp41,2 miliar).
+- **Gross Profit Q2 2025:** Rp46,6 miliar (turun signifikan dari Q1 2025: Rp83,7 miliar dan Q4 2024: Rp93,4 miliar).
+- **Total Aset Q2 2025:** Rp1,97 triliun (stabil; Q1 2025: Rp2,01 triliun).
+- **Total Ekuitas Q2 2025:** Rp1,39 triliun (stabil).
+- **YoY Earnings Growth (Q2 2025 vs Q2 2024):** data Q2 2024 = Rp7,46 miliar → hampir flat.
+- **Operating Cash Flow Q2 2025:** negatif, Rp(32,74) miliar (Q1 2025: Rp(26,60) miliar; sangat lemah di semester I 2025).
+- **Total Liabilitas Q2 2025:** Rp580,2 miliar (turun dari Q1 2025: Rp603,9 miliar).
+- **Periode yang dipakai untuk angka utama: Q2 2025**
 
-### 2) Posisi Kompetitif (Bullet Points)
-- **Undeveloped Land (Ha):** GPRA 57,87 Ha – sangat kecil dibanding BSDE (4.380 Ha), CTRA (2.200 Ha), bahkan DMAS (673 Ha). Kapasitas pengembangan multi-tahun sangat terbatas.
-- **Average Land Acquisition Price:** GPRA Rp195 ribu/m² (terjangkau; hanya DMAS & DILD yang lebih murah).
-- **Recurring vs Sales Asset Mix:** 76% penjualan aset (lahan/rumah/shophouse), 24% recurring; proporsi recurring di bawah perusahaan berfokus recurring (PWON >77%).
-- **Marketing Sales:** Data tidak tersedia; market presence terbatas.
-- **Advances / Unearned Revenue:** Rp123,6 miliar (relatif kecil; BSDE>Rp9,8 triliun, CTRA>Rp11 triliun); buffer pendapatan ke depan minim.
-- **Lokasi & Fokus Bisnis:** Landed house menengah–bawah di Jakarta, Banten, Bogor. Target pasar primer, cenderung sensitif daya beli masyarakat.
+### 2) Posisi Kompetitif (Benchmark Highlights)
+- **P/E TTM:** 4,48 (**2024**, jauh di bawah rata-rata peers sekelas, contoh: BSDE 6,47; PWON 7,33; CTRA 7,11; sektor banyak yang P/E >20).
+- **P/BV:** 0,42 (**2024**; peers: BSDE 0,50; PWON 0,82; sektor banyak >1), mengindikasikan valuasi sangat murah secara relatif.
+- **Net Income 2024:** Rp124,1 miliar (lebih unggul dibanding sebagian besar peers dengan aset di kisaran yang sama).
+- **Market Cap 2024:** Rp560,2 miliar (jauh lebih kecil dari name-brand developers).
 
-### 3) Neraca & Arus Kas Kunci (Q2 2025 YTD)
-- **Cash & Equivalents:** Rp109 miliar (Q2 2024: Rp187 miliar; turun signifikan akibat aktivitas pendanaan & operasional).
-- **Inventories/Land Bank:** Rp1,32 triliun, tetap stabil (sumber pertumbuhan utama).
-- **Debt / Interest-bearing debt:** Bank Loans Rp237 miliar (stagnan, namun interest-bearing loan meningkat dari tahun sebelumnya).
-- **Interest Income/Expense:** Income Rp0,8 miliar; Expense Rp13,4 miliar; net outflow naik, tekanan dari kenaikan utang berbunga.
-- **FCF & Owners’ Earnings (FY2024):** FCF -Rp16,6 miliar (negatif); Owner’s Earnings -Rp10,1 miliar (2023: positif). Arus kas terganggu naiknya kebutuhan modal kerja & pembayaran utang.
-- **Advances from Customers:** Turun tajam YoY, berarti buffer pendapatan menurun.
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
+- **Margin Laba Bersih Q2 2025:** 8,5% (Q1 2025: 28,1%; Q4 2024: 31,7%; penurunan tajam).
+- **ROE 2024:** 9,1% (FY2024, cukup kompetitif di sektor properti).
+- **Debt to Equity Q2 2025:** 0,19x (total debt Rp268,7 miliar; ekuitas Rp1,39 triliun) – **berkurang** dari 0,20x (Q1 2025), struktur modal sangat baik & konservatif.
+- **Cash & ST Inv. Q2 2025:** Rp70,6 miliar (turun dari Q1 2025: Rp108,8 miliar).
+- **Operating Cash Flow & FCF:** Semester I 2025 **masih negatif**, menandakan ketatnya likuiditas.
 
 ### 4) Dividen & Valuasi
-- **Harga terakhir:** Rp132 (12/9/2025)
-- **Dividen terbaru:** Rp5 per saham (2025)
-- **Dividend Yield:** ±3,8% (Rp5/Rp132; annualized 2025)
-- **Payout ratio:** Konservatif, namun yield tertinggi dalam 3 tahun terakhir.
-- **Valuasi trailing:** Price naik +19,3% CAGR 2022–YTD, outperform sektor, namun didukung momentum insentif properti.
+- **Dividend TTM (2025):** Rp5 (yield TTM 3,8%) – payout ratio 17%.
+- **Dividen stabil dalam 2 tahun terakhir** (2024-2025: Rp5; sebelumnya hanya Rp1), menunjukkan kebijakan payout yang lebih akomodatif.
+- **Valuasi:** P/E di bawah 5x; P/BV hanya 0,42x (**sangat diskon vs aset** & peers).
 
-### 5) Insight Strategis
-**Kekuatan:**  
-- Penjualan rumah/shophouse stabil, terpacu insentif pemerintah PPN DTP (70% penjualan ikut program).
-- Beban bunga mulai mereda karena penurunan liabilities terkait kontrak.
+### 5) Rekomendasi
+**6M (Taktis):**  
+- Waspada downside short-term – penurunan tajam kinerja Q2, arus kas operasional & FCF negatif.  
+- Tetap menarik bagi value-seekers, namun perhatikan likuiditas & momentum sektor.
 
-**Risiko:**  
-- Landbank & advances small → ruang pertumbuhan sales masa depan sempit.
-- Cash menurun cepat; FCF/owner’s earnings negatif – sinyal tekanan likuiditas.
-- Sisi recurring masih kecil; sensitif pada daya beli konsumen.
+**5Y (Tesis):**  
+- Struktur permodalan konservatif & valuasi rendah memberi margin of safety tinggi untuk turn-around.  
+- Rebound laba/dividen berpotensi menaikkan valuasi jika sektor properti pulih.
 
-### 6) Rekomendasi
-**6M (Taktis):**
-- Prioritaskan manajemen cash; monitor risiko likuiditas, batasi ekspansi agresif.
-- Optimalkan launching untuk monetize landbank kecil & absorb insentif terakhir properti.
-- Awasi tren daya beli; geser ke recurring jika pasar primer melambat.
+### 6) Kesimpulan
+Jangka Pendek (≤6 bulan): ⚠️ – **Risiko earnings momentum lesu & tekanan cashflow. Signal perbaikan belum jelas.**  
+Jangka Panjang (> 5 tahun): ✅ – **Valuasi diskon & modal konservatif, fundamental mendukung potensi pemulihan jika sektor properti membaik.**
 
-**5Y (Tesis):**
-- Lakukan replenishment landbank atau reorientasi ke recurring income untuk pertumbuhan berkelanjutan.
-- Diversifikasi lokasi untuk capture pasar lebih luas dan stabilkan pendapatan jangka panjang.
-
-### 7) Kesimpulan & Indikasi Strategis
-Jangka Pendek (≤ 6 bulan): ⚠️ Hati-hati – Buffer cash & advances menurun tajam; keuntungan masih ada, namun ruang ekspansi terbatas, rentan sektor publikasi properti.
-Jangka Panjang (> 5 tahun): ⚠️ Hati-hati – Ketiadaan landbank/replenishment dan recurring asset riskan; kelangsungan pertumbuhan mengandalkan aksi korporasi/strategi baru.
-
-### 8) Catatan Penting
-Analisis ini bersifat edukasi, bukan ajakan untuk membeli atau menjual saham tertentu.  
-Keputusan investasi sepenuhnya ada di tangan investor sesuai profil risiko masing-masing.
+### 7) Catatan Penting
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor.

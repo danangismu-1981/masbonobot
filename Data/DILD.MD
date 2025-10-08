@@ -1,62 +1,43 @@
-## DILD – Value Investor One-Pager
+## DILD – Investor One-Pager
 
-### 1) Pertumbuhan YoY
-- **Revenues Q2 2025 YTD:** Rp 1,216 triliun (Jan–Jun, turun 10.8% YoY vs Rp 1,363 triliun Q2 2024 YTD).
-- **Gross Profit Q2 2025 YTD:** Rp 425 miliar (naik 3.1% YoY vs Rp 412 miliar Q2 2024 YTD).
-- **Gross Margin Q2 2025 YTD:** 34.9% (naik signifikan vs 30.2% Q2 2024 YTD).
-- **Operating Profit Q2 2025 YTD:** Rp 269 miliar (naik 11.4% YoY vs Rp 242 miliar Q2 2024 YTD).
-- **Net Profit Q2 2025 YTD:** Tidak tersedia spesifik; Q1 2025 YTD: Rp 10,6 miliar (berbalik dari rugi bersih Rp -84,3 miliar Q1 2024 YTD).
-- **Net Margin:** Tidak tersedia Q2, Q1 2025 YTD: 1.65% (estimasi).
-- **Catatan:** Data Q digunakan adalah Year-to-Date (YTD), bukan kuartalan standalone.
+### 1) Pertumbuhan & Tren Utama
+- **Pendapatan Q2 2025:** Rp 575,2 miliar (Q2 2025, turun -10,4% QoQ dari Q1 2025 Rp 640,8 miliar; turun YoY -11,8% vs Q2 2024 Rp 652,4 miliar).
+- **Laba Bersih Q2 2025:** Rp 2,0 miliar (Q2 2025, anjlok -81,1% QoQ dari Q1 2025 Rp 10,6 miliar, turun signifikan YoY dari Q2 2024 Rp 451,1 miliar — Q2 2024 sangat tinggi karena pengaruh laba non-operasional).
+- **Arus Kas Operasi Q2 2025:** Rp 144,2 miliar (naik 30% QoQ dari Q1 2025 Rp 110,5 miliar; naik sangat besar YoY vs Q2 2024 Rp 21,4 miliar).
+- **Total Aset:** Rp 13,52 triliun (Q2 2025, hampir flat QoQ, turun -4% YoY vs Q2 2024 Rp 14,20 triliun).
+- **Total Ekuitas:** Rp 6,77 triliun (Q2 2025, stabil QoQ dan YoY).
+- **Marjin Kotor:** 34,4% (Q2 2025; gross profit Rp 198,0 miliar / revenue), naik dari Q1 2025 35,4%, turun dari Q2 2024 30,9%.
+- **Marjin Laba Bersih:** 0,3% (Q2 2025; earnings/revenue), turun QoQ (Q1 2025: 1,6%), anjlok YoY (Q2 2024: 69% – outlier).
 
-### 2) Posisi Kompetitif (Bullet Points)
-- **Undeveloped Land:** 2.012 Ha (DILD) vs BSDE 4.380 Ha, DMAS 673 Ha – DILD di kelas menengah, di atas rata-rata (kapasitas penjualan puluhan tahun).
-- **Average Land Acquisition Price:** Rp 193.678/m² (rendah vs rata-rata peers – memberi fleksibilitas harga jual & margin).
-- **Recurring vs Sales Asset Mix:** 35% recurring (di atas rata-rata sektor, contoh BSDE ~12%, CTRA ~20%) – lebih defensif terhadap siklus properti.
-- **Marketing Sales (2024):** Rp 1,64 triliun (di bawah top 3 pemain seperti BSDE/CTRA namun solid untuk kelas DILD).
-- **Advances from Customer:** Rp 1,26 triliun (DILD, Q2 2024) – moderat, mengindikasikan backlog penjualan masih ada tapi mulai menurun (kontrak liabilitas menurun).
-- **Lokasi & Fokus Bisnis:** Jakarta & Surabaya, mixed use, high-rise, industrial, landed residential. Diversifikasi produk & lokasi, mitigasi risiko makro/siklus.
+**Periode yang dipakai untuk angka utama: Q2 2025 (30 Juni 2025)**
 
-### 3) Neraca & Arus Kas Kunci
-- **Cash & Equivalents Q2 2025:** Rp 846 miliar (turun dari Rp 954 miliar FY 2023, konsisten membayar utang).
-- **Inventories/Land Bank Q2 2025:** Rp 2,34 triliun (inventories; land for development Rp 3,82 triliun; total raw landbank kuat).
-- **Debt / Interest-bearing Debt Q2 2025:** Bank loans Rp 3,74 triliun, sukuk Rp 0,5 triliun – total turun bertahap.
-- **Interest Income Q2 2025 YTD:** Rp 8,0 miliar; **Interest Expense:** Rp 176 miliar (annualisasi: tren penurunan karena pelunasan utang & restrukturisasi).
-- **FCF (FY 2024):** Rp 131 miliar; **Owner’s Earnings (FY 2024):** Rp 452 miliar (signifikan membaik vs tahun-tahun sebelumnya).
-- **Kontrak liabilitas menurun:** Outlook backlog sales melunak, tunjukkan penyerapan tetap terjadi namun penjualan baru terbatas.
+### 2) Posisi Kompetitif (Benchmark Highlights)
+- **Valuasi PBV:** 0,24x (P/B Q2 2025) – jauh di bawah peers besar (BSDE 0,50x, PWON 0,82x, CTRA 0,73x).
+- **Valuasi PE:** -7,62x (Trailing Twelve Months, 2024 data)—relatif kurang menarik, mayoritas peers besar positif (BSDE 6,5x, PWON 7,3x, CTRA 7,1x).
+- **Market Cap:** Rp 1,37 triliun (Q2 2025); jauh lebih kecil dibanding top players.
+- **Profitabilitas jauh tertinggal:** Net margin, ROE masih sangat rendah vs big caps sektor.
+
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
+- **EBITDA Q2 2025:** Rp 117,1 miliar (marjin EBITDA 20,4%).
+- **Rasio Hutang/Modal:** Debt-to-equity 0,58x (total debt Rp 3,95 triliun / equity Rp 6,77 triliun; Q2 2025).
+- **Total utang:** Turun tipis vs Q1 2025, melanjutkan de-leveraging bertahap (Q2 2025 Rp 3,95 triliun; Q2 2024 Rp 4,30 triliun).
+- **Current Ratio:** Estimasi 1,2x (Current assets Rp 3,88 triliun / Current liabilities Rp 3,24 triliun).
+- **Free cash flow Q2 2025:** Rp 124,2 miliar, naik signifikan dari Q1 2025 Rp 102,6 miliar (perbaikan likuiditas).
 
 ### 4) Dividen & Valuasi
-- **Harga Terakhir:** Rp 137 (12 Sep 2025).
-- **Dividen Terakhir:** 2/lembar (2019; tidak ada dividen 2020–2025 YTD); **Yield:** nihil.
-- **P/E dan valuasi lain:** Tidak dapat dihitung tanpa net income full-year 2024–2025.
-- **CAGR Saham 2022–YTD 2025:** -7,88%; underperform indeks/sektor properti.
+- **Dividen:** Data dividen tidak tersedia pada periode terbaru.
+- **Valuasi:** PBV sangat murah (<0,25x); PE negatif (2024) menandakan risiko atau ekspektasi pasar terhadap pemulihan profit rendah.
 
-### 5) Insight Strategis
-**Kekuatan:**  
-- Recurring income solid (35% dari pendapatan, defensif saat siklus turun).
-- Struktur utang makin ringan, bunga berkurang, arus kas lebih sehat (restrukturisasi utang & pelunasan, FY 2024-Q2 2025).
-- Diversifikasi bisnis (industrial estate, high-rise, landed, recurring).
-- Gross margin & operating margin naik imbas efisiensi biaya & portofolio produk.
-
-**Risiko:**  
-- Revenue tren menurun, backlog/advance (kontrak liabilitas) juga menurun – sinyal penjualan baru agak lesu, bila berlanjut bisa tekan pertumbuhan.
-- Purchasing power masyarakat masih jadi batasan pertumbuhan sektor properti nasional.
-- Dividen nihil, kurang menarik untuk income investor.
-
-### 6) Rekomendasi
+### 5) Rekomendasi
 **6M (Taktis):**
-- Fokus monitor arus kas, pengelolaan utang, dan progress marketing sales Q3-Q4 2025.
-- Prioritaskan penjagaan recurring income & efisiensi operasional saat penjualan baru lesu.
-- Jaga fleksibilitas CAPEX untuk antisipasi peluang penjualan industrial/recurring.
+- Fokus perbaikan cashflow dan efisiensi biaya, tetap ada tekanan pertumbuhan topline dan profitabilitas lemah – prospek jangka pendek ⚠️.
 
 **5Y (Tesis):**
-- Strategi defensif DILD (landbank besar, recurring income tinggi, utang menurun) berpotensi hasilkan bisnis tahan badai.
-- Nilai tambah dari penguasaan lahan murah dan lokasi strategis bisa mendorong margin & valuasi bila siklus properti membaik.
+- Potensi pemulihan jika manajemen konsisten de-leveraging + efisiensi, terutama bila sektor properti membaik; valuasi murah memberi ruang re-rate jika profit stabil, namun perlu turnaround nyata.
 
-### 7) Kesimpulan & Indikasi Strategis
-Jangka Pendek (≤ 6 bulan): ⚠️ Hati-hati – Backlog penjualan & revenue menurun, namun arus kas dan margin membaik.
-Jangka Panjang (> 5 tahun): ✅ Positif – Fundamentals landbank, recurring income & restrukturisasi utang menambah ketahanan.
+### 6) Kesimpulan
+- **Jangka Pendek (≤6 bulan):** ⚠️ Masih ada tekanan profitabilitas & volume bisnis, kendati cashflow membaik.
+- **Jangka Panjang (> 5 tahun):** ⚠️ Valuasi murah, de-leveraging positif, tapi fundamental perlu pembuktian konsisten agar sustainable.
 
-### 8) Catatan Penting
-Analisis ini bersifat edukasi, bukan ajakan untuk membeli atau menjual saham tertentu.  
-Keputusan investasi sepenuhnya ada di tangan investor sesuai profil risiko masing-masing.
+### 7) Catatan Penting
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor.

@@ -1,65 +1,47 @@
-## DUTI – Value Investor One-Pager
+## DUTI – Investor One-Pager
 
-### 1) Pertumbuhan YoY
-- **Q2 2025 YTD** (Jan–Jun):  
-  - **Revenue:** Rp1,183 miliar, turun 48.6% vs Q2 2024 YTD (Rp2,304 miliar).
-  - **Gross Profit:** Rp805 miliar, turun 41.1% vs Q2 2024 (Rp1,367 miliar).
-  - **Gross Margin:** 68% (naik dari 59% Q2 2024) – margin meningkat, volume turun.
-  - **Operating Profit:** Rp228 miliar, turun 72% vs Q2 2024 (Rp817 miliar).
-  - **Net Profit:** Tidak langsung tersedia Q2 2025; fallback FY 2024: Rp1,347 miliar (Naik 4.8% YoY dari FY 2023: Rp1,285 miliar).
-- Penurunan revenue dan laba operasi terutama akibat kenaikan beban penjualan & administrasi serta penurunan volume penjualan tanah/properti.
+### 1) Pertumbuhan & Tren Utama
+- **Pendapatan Q2 2025:** Rp644 miliar *(2025Q2)*, **turun signifikan YoY** dari Rp1,411 triliun *(2024Q2)* dan Rp1,223 triliun *(2024Q4)*.
+- **Laba Bersih Q2 2025:** Rp48,2 miliar *(2025Q2)*, jauh **lebih rendah** dari Rp367,4 miliar *(2024Q2)* dan Rp147,0 miliar *(2024Q4)*.
+- **Laba Bersih Year-to-Date (H1 2025):** ~Rp128,8 miliar *(Q1+Q2 2025)*, drastis **down YoY** vs H1 2024 ~Rp526,0 miliar.
+- **Aset Total:** Rp15,89 triliun *(2025Q2)*, tumbuh moderat dari Rp14,36 triliun *(2024Q4)*.
+- **Ekuitas:** Rp13,43 triliun *(2025Q2)*, naik dari Rp11,87 triliun *(2024Q4)*.
+- **Arus Kas Operasi:** **Negatif** Rp155,1 miliar *(2025Q2)*, memburuk dari positif di 2024 full year (Rp695 miliar), dan positif di 2024Q4.
+- **Free Cash Flow Q2 2025:** **Negatif** Rp196,4 miliar.
+- **Tren:** Penurunan tajam pada top & bottom line dan arus kas operasi; momentum profitabilitas juga negatif.
+  
+**Periode yang dipakai untuk angka utama: Q2 2025 (30 Juni 2025)**
 
-### 2) Posisi Kompetitif (Bullet Points)
-- **Undeveloped Land (Ha):** DUTI 1,188 Ha vs BSDE 4,380 Ha, DMAS 673 Ha, BEST 1,028 Ha — kapasitas penjualan jangka menengah masih sangat besar.
-- **Average Land Acquisition Price:** Rp390 ribu/m², kompetitif (DMAS Rp209 ribu, BSDE Rp400 ribu, BEST Rp466 ribu); ruang margin dengan biaya kelolaan relatif rendah.
-- **Recurring vs Sales Asset Mix:** 17% recurring, 83% sales asset — model mirip BSDE namun porsi recurring di bawah PWON/PLIN.
-- **Marketing Sales:** Rp2,490 miliar, masih di kelas atas grup properti nasional.
-- **Advances from Customer:** Rp1,540 miliar, moderat; relatif di bawah BSDE/CTRA, namun cukup sebagai buffer pesanan di pipeline.
-- **Lokasi & Fokus Bisnis:** Jabodetabek, Semarang, Surabaya; fokus komersial multi-lokasi menopang diversifikasi permintaan.
+### 2) Posisi Kompetitif (Benchmark Highlights)
+- **PER TTM:** 18,07x *(2024)*, di atas BSDE (6,5x), CTRA (7,1x), & PWON (7,3x); lebih murah dibanding MKPI (24x) tapi jauh di bawah MPRO/RISE.
+- **PBV:** 0,78x *(2024)*, relatif **murah** & mirip PWON (0,82x), CTRA (0,73x), lebih rendah dari mayoritas peers kecuali BSDE (0,50x).
+- **Net Margin 2024:** 19,26%; peers rata-rata lebih tinggi (PWON: 31%, BSDE: 31%, CTRA: 19%).
+- **Scale:** DUTI jauh di bawah market cap pemain utama (CTRA, BSDE, PWON) → cenderung small-mid cap play.
 
-### 3) Neraca & Arus Kas Kunci
-- **Cash & Equivalents:** Rp3,115 miliar (Q2 2025), naik vs FY 2024 (Rp2,876 miliar) — likuiditas sangat kuat, posisi kas konsisten top-tier.
-- **Inventories/Land Bank:** Rp3,487 miliar, menurun vs FY 2024 (Rp4,026 miliar) — normalisasi persediaan, tidak ada indikasi potensi write-down.
-- **Debt / Interest-bearing debt:** **Nol Bank Loan** sejak 2018 — risiko finansial sangat rendah.
-- **Interest Income/Expense:**  
-  - Interest income Q2 2025: Rp58 miliar (run-rate menurun akibat penurunan kas/investasi produktif, konsisten insight strategis).  
-  - Interest expense Q2 2025: Rp49 miliar, seluruhnya dari contract liabilities, terus menurun YoY.
-- **FCF & Owners’ Earnings:**  
-  - FCF FY 2024: Rp441 miliar (menurun YoY, FY 2023: Rp56 miliar; volatil karena fluktuasi modal kerja).  
-  - Owner’s Earnings FY 2024: Rp820 miliar (naik, FY 2023: Rp677 miliar).
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
+- **Gross Profit Margin Q2 2025:** 66,9%; solid secara struktur, tapi turun dari tahun sebelumnya.
+- **Operating Margin Q2 2025:** 19,7%, jauh memburuk dari level historis 2024/2023.
+- **Leverage:** Debt-to-Equity ratio **sangat rendah** (Q2 2025: utang hanya Rp6,16 miliar vs ekuitas Rp13,43 triliun).
+- **Likuiditas:** Current assets Rp8,26 triliun > current liabilities Rp1,92 triliun (**current ratio sangat kuat >4x**).
+- **Kualitas Arus Kas:** Deteriorasi signifikan; arus kas operasi dan FCF negatif berturut-turut dua kuartal *(2025Q1–Q2)*.
 
 ### 4) Dividen & Valuasi
-- **Harga terakhir:** Rp4,310 (12 Sep 2025).
-- **Dividen terakhir:** Rp380/lembar (FY 2024; yield ~8.8% dari harga akhir 2024 Rp4,263).
-- **Payout ratio:** Cukup tinggi, >25% dari laba bersih.
-- **Valuasi:** CAGR harga 2022–YTD 2025 sekitar 7.9%.
+- **Dividen 2024 (terbaru):** Rp380/lembar (yield TTM: **8,8%**; payout ratio: 154,6% → sangat **tinggi** & mungkin tidak sustain jika laba menurun).
+- **Valuasi:** PBV 0,78x *(2024)*, di bawah rata-rata sektor; yield tinggi namun risiko earnings sustainability.
 
-### 5) Insight Strategis
-**Kekuatan:**  
-- Landbank besar memungkinkan recurring penjualan 5–7 tahun ke depan.
-- Posisi kas tinggi, tanpa utang bank.
-- Basis recurring income mulai stabil, namun ruang peningkatan masih besar.
-- Dividen reguler dengan yield menarik.
+### 5) Rekomendasi
+**6M (Taktis):**
+- Hati-hati atas penurunan laba dan arus kas negatif
+- Tunggu konfirmasi recovery fundamental sebelum menambah posisi besar
+- Prioritaskan monitoring likuiditas/profit trending Q3
 
-**Risiko:**  
-- Penurunan marketing sales & revenue di Q2 2025 YTD.
-- Beban penjualan & administrasi meningkat struktural.
-- Interest income berpotensi terus menurun seiring penurunan kas/investasi.
-- Sensitif terhadap daya beli dan siklus properti nasional.
+**5Y (Tesis):**
+- Potensi rerating bila revenue dan cash flow normalize & yield tetap menarik
+- Dukungan ekuitas sangat kuat, utang rendah: runway panjang, cocok untuk investor value/contrarian
 
-### 6) Rekomendasi
-**6M (Taktis):**  
-- Awasi tren penjualan Q3—jika volume tidak rebound, risiko downside pada laba FY 2025.
-- Monitor NWC & kas, upayakan efisiensi beban operasional.
+### 6) Kesimpulan
+Jangka Pendek (≤6 bulan): ⚠️ – Earnings & cash flow memburuk, yield menarik tapi berisiko.  
+Jangka Panjang (>5 tahun): ✅ – Struktur modal solid, valuasi murah, upside tinggi bila turnaround berhasil.
 
-**5Y (Tesis):**  
-- Landbank besar, posisi kas-booming, dan recurring pipeline kuat mendukung pertumbuhan stabil.
-- Transformasi recurring income (mal, perkantoran, kawasan bisnis) perlu dipercepat agar tidak terlalu tergantung pada siklus tanah/properti.
-
-### 7) Kesimpulan & Indikasi Strategis
-Jangka Pendek (≤ 6 bulan): ⚠️ Hati-hati — revenue dan operating profit terkoreksi tajam, beban naik, harus ada rebound penjualan.  
-Jangka Panjang (> 5 tahun): ✅ Positif — kas, landbank, dan fundamental tetap kokoh; yield dan recurring income menarik.
-
-### 8) Catatan Penting
-Analisis ini bersifat edukasi, bukan ajakan untuk membeli atau menjual saham tertentu.  
-Keputusan investasi sepenuhnya ada di tangan investor sesuai profil risiko masing-masing.
+### 7) Catatan Penting
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor.
