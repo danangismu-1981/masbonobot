@@ -176,11 +176,10 @@ def _help_text() -> str:
         """
         Perintah yang tersedia:
         - HI / HELP — bantuan singkat
-        - LIST — daftar ticker yang tersedia di folder Data (ekstensi .MD)
-        - <TICKER> — tampilkan ringkas (Quick) jika ada; jika tidak, tampilkan Data/<TICKER>.MD
+        - LIST — daftar ticker yang tersedia 
+        - <TICKER> — tampilkan ringkas (Quick) 
         - <TICKER> DETAIL — tampilkan isi Data/<TICKER>.MD
-        - FINANCIAL <TICKER> | BALANCE <TICKER> | OPERATIONAL <TICKER> | VALUATION <TICKER>
-        - COMPARE <T1>,<T2> — bandingkan dua ticker (format WhatsApp)
+        - COMPARE <T1>,<T2> — bandingkan dua ticker
         - NEWS <QUERY> [N] — berita Indonesia terkait query
         - HIGHLOW <TICKER> [DAYS]
         - MA <TICKER> <WINDOW> [DAILY|WEEKLY]
