@@ -1,54 +1,71 @@
-## POWR – Value Investor One-Pager
+## POWR – Investor One-Pager
 
-### 1) Pertumbuhan YoY
-- **Revenue Q2 2025 (YTD):** USD 271,339K (+0.9% YoY dari Q2 2024, USD 268,931K).  
-- **Net Profit Q2 2025 (YTD):** USD 39,646K (+18.5% dari Q2 2024 QTD, tapi annual flat/tertekan secara YTD – catatan: FY 2024 net profit USD 75,345K vs FY 2023 USD 76,976K, -2.1% YoY).
-- **Operating Profit:** USD 58,441K Q2 2025 (YTD), naik dari Q2 2024 USD 54,776K (+6.7%).
-- **Fuel Expenses:** USD 137,116K Q2 2025 (YTD), naik dari Q2 2024 USD 134,597K (+1.9%); biaya per GWh gas naik di Q1 2025.
-- **ASP tetap stabil pada kontribusi industri, meski volume PLN turun; ditopang kenaikan ASP industri.**
+### 1) Pertumbuhan & Tren Utama
 
-### 2) Posisi Kompetitif (Bullet Points)
-- **Revenue Growth:** POWR Q2 2025 +0.9% YoY di tengah sektor utilitas stagnan di FY 2024 (+0.17% vs FY 2023), menunjukkan resilience pada kontrak jangka panjang & penetrasi industrial.
-- **Industrial vs PLN Contribution:** Komposisi Q2 2025: Industrial USD 232,407K (+1.5% YoY), PLN USD 38,932K (-2.6%), → pangsa industrial kuat meski ASP turun; volume PLN menurun, namun PLN tetap penggerak utama pertumbuhan 2024.
-- **Fuel Cost Trend:** Kenaikan harga gas/biomass per GWh langsung berdampak ke margin; risiko biaya fuel tetap tinggi namun menurun seiring normalisasi harga batu bara.
-- **Capacity (MW/MVA):** PLTU & PLTG capacity 1,144 MW, terpasang industri 1,255 MVA (maks 1,430 MVA); ekspansi rooftop solar jalan: per Q2 2025 sudah 39.8 MWp, target 52.9 MWp akhir 2025, diversifikasi energi mulai terakselerasi.
-- **ROE / Profitability:** FY 2024 ROE ~10.6% (Net Profit USD 75.3M/Ekuitas USD 708M); margin profitabilitas stabil namun menghadapi tekanan biaya operasional (terutama fuel & financing).
+- **Pendapatan Q2 2025:** Rp2,16T (2155078118057); **-4,2% QtQ** dari Q1 2025 (Rp2,25T), **-18,5% YoY** dari Q2 2024 (Rp2,22T).
+- **Laba Bersih Q2 2025:** Rp369M (368606105938); **+31% QtQ** dari Q1 2025 (Rp281,7M), dan **+47% YoY** dari Q2 2024 (Rp251,1M).
+- **EBITDA Q2 2025:** Rp760,2M; naik dari Q1 2025 (Rp783,9M) — pergerakan stabil kuat.
+- **Margin Laba Bersih Q2 2025:** 17,1% (laba/revenue), membaik vs Q2 2024.
+- **Free Cash Flow Q2 2025:** Rp512M, meningkat signifikan dari Q1 2025 (Rp404M).
+- **Posisi Kas Akhir Q2 2025:** Rp4,88T.
+- **Tren YoY:** Pendapatan stagnan, namun laba bersih dan profitabilitas meningkat tajam pada Q2 2025.
+- **Arus Kas Operasi Q2 2025:** Rp835M (lebih tinggi dari Q1 2025 Rp600M).
 
-### 3) Dividen & Valuasi
-- **Dividen per saham (2024) tercatat 72.16 dan YTD 2025: 45.581** (as of Mei).  
-- **Total payout 2024 tinggi: >90% dari laba bersih** (FY 2024 Net Profit USD 75M, dividen sekitar USD 72M).  
-- **Market Cap ~USD 707 juta** (saham beredar 15,829,900,288 x harga 700/IDR/USD conversion tidak dihitung, gunakan nominal jumlah saham saja).  
-- **CAGR harga saham 2022–Sep 2025: 23.59%.**
-
-### 4) Insight Strategis
-**Kekuatan:**  
-- Kontrak pelanggan stabil (churn rendah), menekan volatilitas pendapatan.  
-- Kapasitas terpasang besar untuk IPP swasta, pelanggan industri terus tumbuh.  
-- Dividen konsisten & payout tinggi.  
-- Diversifikasi energi (solar rooftop) mulai menunjukkan dampak.
-
-**Risiko:**  
-- Ketergantungan pada harga gas & batu bara, sensitivitas tinggi biaya operasional.  
-- Margin ditekan biaya depresiasi & financing (Q1 2025: amortisasi senior notes naik).  
-- Pertumbuhan terbatas jika utilitas terhubung mendekati maksimum (1,430 MVA); ruang ekspansi lewat PLTS masih di tahap scaling.  
-- Volatilitas pendapatan terutama jika PLN menekan volume pembelian.
-
-### 5) Rekomendasi
-**6M (Taktis):**  
-- Pantau tren biaya bahan bakar, efisiensi operasional & amortisasi utang hingga Q4 2025, serta dampak ekspansi solar rooftop pada bottom line—optimalkan biaya dan jaga margin.
-  
-**5Y (Tesis):**  
-- Tesis energi transisi tetap menarik: konsistensi payout dividen, penetrasi industrial, dan program diversifikasi lewat PLTS memberi POWR posisi relevan di era bauran energi, namun tetap perlu mitigasi struktur biaya & risiko capex untuk pertumbuhan jangka panjang.
-
-### 6) Kesimpulan & Indikasi Strategis
-**Jangka Pendek (≤ 6 bulan):** ⚠️ – Margin profit & pertumbuhan terbatas akibat tekanan biaya operasional; waspada pada tren biaya fuel dan beban bunga.
-**Jangka Panjang (> 5 tahun):** ✅ – Tesis energi berkelanjutan, payout dividen tinggi, penambahan kapasitas EBT, dan basis pelanggan loyal, menjadi pendorong value creation jangka panjang.
-
-### 7) Catatan Penting
-
-Analisis ini bersifat edukasi, bukan ajakan untuk membeli atau menjual saham tertentu.  
-Keputusan investasi sepenuhnya ada di tangan investor sesuai profil risiko masing-masing.
+**Periode yang dipakai untuk angka utama: Q2 2025 (per 30 Juni 2025)**
 
 ---
 
-Catatan: Jika digunakan annualisasi (run-rate) disebut secara eksplisit, seluruh angka merujuk pada data Q2 2025 (YTD/Jan–Jun) dan FY 2024 jika lebih representatif. Data market cap dibulatkan dengan asumsi kurs stabil; harap cek kurs aktual jika perlu konversi.
+### 2) Posisi Kompetitif (Benchmark Highlights)
+
+- **POWR (Q4 2024) vs Peers:**
+  - **P/E TTM:** 8,54x (vs. sektor: rata-rata sangat tinggi, misal BREN 615x; PGEO 27x; ARKO 95x; KEEN 49x). POWR valuasi relatif murah.
+  - **P/BV MRQ:** 0,96x (lebih rendah vs peers, misal PGEO 1,93x; KEEN 1,25x; ARKO 9,4x).
+  - **ROE FY2024:** 10,7% (mirip sektor utilitas).
+  - **Market Cap:** Rp11T, pemain menengah.
+
+---
+
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
+
+- **Margin Laba Bersih Q2 2025:** ~17% — menonjol dalam tren YoY.
+- **Gross Profit Q2 2025:** Rp449,5M, konsisten vs Q1 2025.
+- **Total Aset Q2 2025:** Rp19,34T, ekuitas Rp11,43T; likuiditas solid.
+- **Total Debt Q2 2025:** Rp5,62T (turun tajam dari Q1 2025 Rp14,04T, penurunan terkait pelepasan/liabilitas).
+- **DER (dihitung):** ~0,49x Q2 2025; turun tajam dari sekitar 1,17x pada Q1 2025.
+- **Current Ratio Q2 2025:** = 6,7x (Rp6,95T aset lancar / Rp1,03T liabilitas lancar), sangat kuat.
+- **FCF Margin Q2 2025:** ~24%.
+- **Kualitas aset:** Tidak ada non-performing loan, struktur balance sheet kokoh.
+
+---
+
+### 4) Dividen & Valuasi
+
+- **Dividend Yield TTM:** 10,6% (dividend_ttm: 73,82), tertinggi dalam 5 tahun terakhir.
+- **Payout Ratio:** 90%, kas sehat.
+- **Valuasi:** P/E rendah (8,54x) & P/BV <1x — atraktif secara historis dan dibandingkan sektor.
+- **Track Record Dividen:** Konsisten naik, 5Y avg yield 9,5%.
+
+---
+
+### 5) Rekomendasi
+
+**6M (Taktis):**  
+- Fokuskan pada ketahanan laba dan arus kas, yield tinggi, valuasi diskon.
+- Respon penurunan pendapatan perlu dicermati—quick wins di cost-efficiency & optimisasi modal kerja.
+
+**5Y (Tesis):**
+- Prospek stabil berkat recurring business (kelistrikan), posisi leverage membaik, payout besar.
+- Risiko: pertumbuhan revenue moderat, upside pada valuasi rendah dan defensif.
+
+---
+
+### 6) Kesimpulan
+
+- **Jangka Pendek (≤6 bulan):** ✅ – FCF kuat, yield tinggi, momentum laba positif walau top-line melemah.
+- **Jangka Panjang (>5 tahun):** ✅ – Model bisnis defensif, kas & payout stabil, valuasi murah relatif peers.
+
+---
+
+### 7) Catatan Penting
+
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor.

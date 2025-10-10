@@ -1,58 +1,50 @@
-## BREN – Value Investor One-Pager
+## BREN – Investor One-Pager
 
-### 1) Pertumbuhan YoY
-- **Revenue Q2 2025 (YTD):** USD 300,073 ribu, tumbuh +3,4% YoY terhadap Q2 2024 (YTD).
-- **Net Profit Q2 2025 (YTD):** USD 82,131 ribu, naik +11,6% YoY vs Q2 2024 (USD 73,664 ribu, YTD).
-- **Net Margin Q2 2025 (YTD):** Stabil di 27,4% (Q2 2024: 25,4%).
-- **Operating Expenses:** FY 2024 turun 2% YoY; dampak positif ke profitabilitas.
-- **Owner’s Earnings FY 2024:** USD 231,319 ribu (turun dari FY 2023 USD 329,577 ribu).
-- **Free Cash Flow (FY 2024):** USD 158,858 ribu (turun dari FY 2023).
+### 1) Pertumbuhan & Tren Utama
+- **Pendapatan Q2 2025:** Rp2,43 triliun *(menurun dari Q1 2025: Rp2,50 triliun; -2,8% QoQ)*.
+- **Laba bersih Q2 2025:** Rp506,8 miliar *(turun -10,8% QoQ dari Q1 2025: Rp568,3 miliar; dibandingkan Q2 2024: Rp475,9 miliar, naik +6,5% YoY)*.
+- **Aset total Q2 2025:** Rp61,2 triliun *(turun -3% QoQ dari Q1 2025: Rp63,1 triliun)*.
+- **Ekuitas total Q2 2025:** Rp13,2 triliun; **Ekuitas pemegang saham:** Rp9,35 triliun *(naik dari Q1 2025: Rp9,10 triliun)*.
+- **Utang berbunga Q2 2025:** Rp33,1 triliun (total debt), naik YoY dari FY 2024: Rp33,0 triliun.
+- **Arus kas operasi Q2 2025:** Rp799,8 miliar, *Q1 2025: Rp1,03 triliun* (turun *QtQ*).
+- **Free cash flow Q2 2025:** Rp640,7 miliar (*Q1 2025: Rp24,7 miliar, naik signifikan QtQ*).
+- **Tren YoY**: Pertumbuhan laba bersih 6,5% *(Q2 2025 vs Q2 2024)*, pendapatan stabil.
+- **Pertumbuhan pendapatan YoY** *(Q2 2025 vs Q2 2024)*: +2,7% (FY 2024 YoY: +4,6%).
+- **Margin EBIT Q2 2025:** 69% (EBIT/Rp2,43 triliun).
+- **Periode yang dipakai untuk angka utama: Q2 2025 (30 Juni 2025)**
 
-### 2) Posisi Kompetitif
-- **Installed Capacity (Geothermal):** BREN 886 MW, terbesar nasional (vs PGEO 672 MW).
-- **Production 2023 (Geothermal):** BREN 7,075 GWh vs PGEO 4,735 GWh; menunjukkan efisiensi produksi lebih tinggi.
-- **Kepemilikan di JV:** BREN 76,1%–90% pada aset besar (Darajat, Wayang Windu, Gunung Salak).
-- **Pipeline:** Fokus pada pengembangan (Salak Binary Plant, Gunung Hamiding) dan eksplorasi.
-- **Leverage:** Debt-to-asset ratio Q2 2025 masih sangat tinggi (>80%; liability USD 2,956,890 ribu vs asset USD 3,771,719 ribu).
-- **Profitability:** ROE Q2 2025 (YTD, annualisasi sederhana): ~20,2% [net profit YTD Q2 dikali dua/FY equity Q2 2025].
-- **Skala:** BREN per Mei 2025 adalah pemain dominan di geothermal Indonesia.
+### 2) Posisi Kompetitif (Benchmark Highlights)
+- **Market Cap**: Rp1.291 triliun (terbesar di sektor utilitas RI per data 2024).
+- **Valuasi premium**: PB MRQ 138,1x & PE TTM 615,4x *(2024)*; jauh di atas peer utama: PGEO (PB 1,9x; PE 27x), POWR (PB 1,0x; PE 8,5x).
+- **ROE FY 2024:** 16,7% (peer: PGEO >8%, POWR ~10%).
+- **Pangsa pasar tertinggi, fundamental relatif sehat— tapi valuasi sangat tinggi vs. peers.*
 
-### 3) Dividen & Valuasi
-- **Dividen 2023:** USD 3,91/lembar; **2024:** USD 5,82/lembar; **12 bulan terakhir:** 3,783/lembar (Q3 2025).
-- **CAGR Harga 2023–YTD 2025:** 9,98%.
-- **Market Cap:** ~USD 86,673 juta (price x shares, 2025).
-- **Yield indikatif:** Sekitar 0,07% (yield rendah; fokus ke growth).
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
+- **Margin laba bersih Q2 2025:** 20,9%; (FY 2024: 20,5%; konsisten tinggi).
+- **EBITDA Q2 2025:** Rp2,08 triliun; margin EBITDA ≈ 86%.
+- **Struktur Modal Q2 2025:** Debt/Equity 2,5x; Debt/Asset 54,8%.
+- **Rasio lancar** (FY2024): 1,85x; likuiditas solid.
+- **Interest Coverage Q2 2025:** EBIT/Interest Expense ≈ 3,6x (stabil).
+- **FCF positif, menunjang kemampuan bayar dividen & operasional.**
+- **Asset growth**: Flat-turun (siklus investasi berkurang); kas/asset cukup (kas Q2 2025: Rp4,3 triliun).
 
-### 4) Insight Strategis
-**Kekuatan:**  
-- Pemain terbesar geothermal; produksi stabil, recurring revenue dari PLN; pipeline proyek & reservasi sumber daya tersedia.
-- Margins dan profitabilitas terus membaik, didukung OPEX lebih efisien dan kapasitas maksimal.
-
-**Risiko:**  
-- Leverage sangat tinggi; finance costs Q2 2025 mencapai 19,6% dari revenue (besar beban bunga).
-- Fluktuasi kurs & risiko refinancing tetap perlu diwaspadai.
-- Dominasi geothermal (energi minoritas global); ketahanan permintaan jangka panjang belum sepenuhnya teruji.
+### 4) Dividen & Valuasi
+- **Dividen TTM (hingga 12/12/2024):** Rp3,78 per saham; yield: 0,039% *(TTM) – sangat mini*.
+- **Payout ratio FY 2024:** 24,1%; cash payout ratio: 33,3%.
+- **Valuasi ekstrem:** PB 138x; PE 615x di 2024—*overvalued* terhadap industri.
 
 ### 5) Rekomendasi
-**6M (Taktis):**  
-- Prioritaskan pemantauan beban bunga dan progress project development; proyeksi arus kas tetap harus stabil. Direkomendasikan hanya untuk investor yang toleran terhadap volatilitas leverage tinggi.
-- Cek update implementasi refinancing/strukturisasi utang, pantau kinerja OPEX.
+**6M (Taktis):**
+- Fokus pada stabilitas cash flow dan tekanan valuasi; waspada risiko koreksi harga akibat overvaluation.
+- Jaga monitor aksi korporasi/peningkatan likuiditas.
 
-**5Y (Tesis):**  
-- Prospek kuat jika BREN mampu menjaga pertumbuhan kapasitas, efisiensi operasi, dan diversifikasi cashflow (kontrak jangka panjang PLN, ekspansi usaha).
-- Investasi sesuai untuk strategi akumulasi jangka panjang pada tulang punggung energi “hijau” Indonesia, dengan syarat risk governance diperkuat.
+**5Y (Tesis):**
+- Prospek bisnis energi terbarukan kuat; fundamental cashflow dan ROE baik.
+- Risiko utama: tekanan valuasi, sustainable growth pascainvestasi besar.
 
-### 6) Kesimpulan & Indikasi Strategis
-Jangka Pendek (≤ 6 bulan): ⚠️ – Kinerja operasional positif dan size, namun leverage sangat tinggi & biaya bunga menjadi beban besar.
-Jangka Panjang (> 5 tahun): ✅ – Dominasi kapasitas, recurring demand domestik, leader di sektor renewable dengan peluang ekspansi, asal disiplin utang diperbaiki.
+### 6) Kesimpulan
+Jangka Pendek (≤6 bulan): ⚠️ – Overvaluasi ekstrem; risiko koreksi tinggi.
+Jangka Panjang (>5 tahun): ⚠️ – Prospek industri positif, fundamental sehat, namun valuasi rentan “mean-reversion”.
 
 ### 7) Catatan Penting
-Analisis ini bersifat edukasi, bukan ajakan untuk membeli atau menjual saham tertentu.  
-Keputusan investasi sepenuhnya ada di tangan investor sesuai profil risiko masing-masing.
-
----
-Penjelasan:
-- Annualisasi ROE dengan formula “Net Profit YTD Q2 x 2 / Equity Q2” sebagai perkiraan kasar.
-- Owner’s Earnings dan FCF dihitung sesuai data file OwnersEarnings.txt.
-- Market cap dihitung dari price x shares outstanding per Q3 2025.  
-- Yield = dividend/price (annualized sederhana; pendekatan indikatif).
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor. Semua data berdasar periode terbaru di file sumber.
