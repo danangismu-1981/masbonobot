@@ -7,10 +7,9 @@ Responder untuk WA bot Mas Bono.
 Fitur utama:
 - HELP/HI
 - LIST (daftar Data/*.MD — default uppercase .MD)
-- Kategori: FINANCIAL/BALANCE/OPERATIONAL/VALUATION <TICKER>
 - COMPARE <T1>,<T2> (via compare_md_cli.py)
 - NEWS <QUERY> [N] (via news_indo_whatsapp)
-- HIGHLOW/MA/PIVOT (via market_utils) [opsional, jika modul ada]
+- HIGHLOW/MA/PIVOT (via market_utils)
 - <TICKER> DETAIL  -> tampilkan isi ./Data/<TICKER>.MD
 - Default satu kata (asumsi <TICKER>):
     1) Jalankan quick_scan.py --folder ./quick --ticker <TICKER>
@@ -18,6 +17,7 @@ Fitur utama:
 
 Catatan:
 - Ekstensi file diasumsikan .MD (huruf besar), mengikuti struktur yang digunakan Mas.
+- market_utils sudah auto-append .JK untuk ticker IDX bila perlu.
 """
 
 from __future__ import annotations
@@ -172,20 +172,22 @@ def get_file_content(folder_path: str, filename_wo_ext: str) -> Optional[str]:
 
 
 def _help_text() -> str:
-    return textwrap.dedent(
-        """
-        Perintah yang tersedia:
-        - HI / HELP — bantuan singkat
-        - LIST — daftar ticker yang tersedia 
-        - <TICKER> — tampilkan ringkas (Quick) 
-        - <TICKER> DETAIL — tampilkan isi Data/<TICKER>.MD
-        - COMPARE <T1>,<T2> — bandingkan dua ticker
-        - NEWS <QUERY> [N] — berita Indonesia terkait query
-        - HIGHLOW <TICKER> [DAYS]
-        - MA <TICKER> <WINDOW> [DAILY|WEEKLY]
-        - PIVOT <TICKER> [DAILY|WEEKLY]
-        """
-    ).strip()
+    return (
+        "Hi! Nama saya Mas Bono, saya bisa bantu cari info saham.\n"
+        "Ketik:\n"
+        "- LIST — lihat daftar saham\n"
+        "- [KODE EMITEN] — info cepat (contoh: ANTM)\n"
+        "- [KODE EMITEN] DETAIL — info lengkap dari Data/<KODE>.MD (contoh: ANTM DETAIL)\n"
+        "- COMPARE KODE1,KODE2 — bandingkan dua emiten (contoh: COMPARE AALI,ADMR)\n"
+        "- NEWS <KODE/QUERY> [N] — cari berita terbaru (contoh: NEWS BBCA 5)\n"
+        "\n🔧 Perintah Teknis:\n"
+        "- HIGHLOW <TICKER> [DAYS]        (contoh: HIGHLOW PTBA 7)\n"
+        "- MA <TICKER> <WINDOW> [DAILY|WEEKLY]   (contoh: MA BBCA 50 WEEKLY)\n"
+        "- PIVOT <TICKER> [DAILY|WEEKLY]  (contoh: PIVOT BBRI WEEKLY)\n"
+        "\nℹ️ Default satu kata akan mencoba Quick terlebih dulu via quick_scan,\n"
+        "   jika tidak ada akan menampilkan Data/<KODE>.MD.\n"
+        "   Ticker IDX otomatis .JK (BBRI -> BBRI.JK) ditangani oleh market_utils.\n"
+    )
 
 
 def _list_md(base_folder: str) -> str:
@@ -292,36 +294,38 @@ def handle_message(message_text: str, base_folder: str = "Data", compare_dir: Op
                 data = weekly_high_low(ticker, days=days)
                 return (
                     f"High/Low {ticker} ({days} hari)\n"
-                    f"- High: {data.get('high')}\n- Low: {data.get('low')}\n- Period: {data.get('period')}"
+                    f"- High: {data.get('highest')}\n"
+                    f"- Low:  {data.get('lowest')}\n"
+                    f"- Periode: {data.get('start')} → {data.get('end')}"
                 )
 
             if msg.startswith("MA "):
                 # MA <TICKER> <WINDOW> [DAILY|WEEKLY]
                 m = re.fullmatch(r"MA\s+(" + _TICKER_PATTERN + r")\s+(\d+)(?:\s+(DAILY|WEEKLY))?", msg)
                 if not m:
-                    return "Format MA salah. Contoh: MA ANTM 50 WEEKLY"
+                    return "Format MA salah. Contoh: MA BBCA 50 WEEKLY"
                 ticker = m.group(1)
                 window = int(m.group(2))
                 frame = (m.group(3) or "WEEKLY").upper()
-                out = moving_average(ticker, window=window, frame=frame)
-                close = out.get("close")
-                ma = out.get("ma")
-                bias = "Bullish ⬆️" if close and ma and close > ma else "Bearish ⬇️"
+                close, ma = moving_average(ticker, window=window, frame=frame)
+                bias = "Bullish ⬆️" if close > ma else "Bearish ⬇️"
                 return (
                     f"MA {ticker} ({window}, {frame})\n"
-                    f"- Close: {close}\n- MA: {ma}\n- Sinyal: {bias}"
+                    f"- Close: {close}\n"
+                    f"- MA:    {ma}\n"
+                    f"- Sinyal: {bias}"
                 )
 
             if msg.startswith("PIVOT"):
                 # PIVOT <TICKER> [DAILY|WEEKLY]
                 m = re.fullmatch(r"PIVOT\s+(" + _TICKER_PATTERN + r")(?:\s+(DAILY|WEEKLY))?", msg)
                 if not m:
-                    return "Format PIVOT salah. Contoh: PIVOT ANTM DAILY"
+                    return "Format PIVOT salah. Contoh: PIVOT BBRI WEEKLY"
                 ticker = m.group(1)
-                frame = (m.group(2) or "DAILY").upper()
-                p = pivot_points(ticker, frame=frame)
+                source = (m.group(2) or "DAILY").upper()
+                p = pivot_points(ticker, source=source)
                 return (
-                    f"Pivot {ticker} ({frame})\n"
+                    f"Pivot {ticker} ({source})\n"
                     f"- P: {p.get('P')}\n- R1: {p.get('R1')}  R2: {p.get('R2')}\n"
                     f"- S1: {p.get('S1')}  S2: {p.get('S2')}"
                 )
