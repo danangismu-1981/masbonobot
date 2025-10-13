@@ -1,55 +1,54 @@
-## SILO – Medical Care One-Pager
+## SILO – Investor One-Pager
 
-### 1) Pertumbuhan YoY
-- **Revenue Q2 2025 (YTD):** Rp6.10T (+1.5% YoY dari Q2 2024 Rp6.02T)
-  - Pertumbuhan revenue melambat, dengan kontribusi utama dari outpatient (+9% YoY) dan penurunan inpatient (-4% YoY).
-- **Gross Profit Q2 2025 (YTD):** Rp2.30T (+2.3% YoY)
-  - Margins: GP 37.7% (Q2 2025) vs 39.2% (Q2 2024) — sedikit tergerus oleh kenaikan COGS, terutama gaji dokter & medical inflation.
-- **Operating Profit Q2 2025 (YTD):** Rp711M (+22.3% YoY, annualisasi 2xQ2, run-rate ~Rp1.42T)—peningkatan ditopang efisiensi opex dan lebih rendahnya impairment/CKPN vs tahun lalu.
-- **Net Profit Q2 2025 (YTD):** Rp476M, +42% YoY (Q2 2024: Rp336M), terutama karena penurunan “other expenses” (impairment losses).
+### 1) Pertumbuhan & Tren Utama
+- **Top Line Stabil, Laba Menurun:**
+  - Pendapatan Q2 2025: Rp3,07 triliun (naik tipis +1% QoQ dari Q1 2025: Rp3,04 triliun; relatif datar vs Q4 2024: Rp3,08 triliun).
+  - Laba bersih Q2 2025: Rp211 miliar (turun signifikan -14% QoQ vs Q1 2025: Rp246 miliar, -21% QoQ vs Q4 2024: Rp267 miliar).
+  - YoY: Laba netto Q2 2025 turun dari Q2 2024 Rp301 miliar (-30%, jelas tekanan profitabilitas).
+- **Tren Laba: Konsisten menurun sejak Q3 2024—Q2 2025.**
+- **YTD 2025 (s/d Q2):** Laba bersih Rp457 miliar vs YTD Q2 2024: estimasi ±Rp314 miliar (+46%), namun ketahanan laba bertahan di bawah tren 2023.
+- **Periode yang dipakai untuk angka utama: Q2 2025**
 
-### 2) Posisi Kompetitif (Benchmark Bullets)
-- **BOR / ALOS:**  
-  - Bed Occupancy Rate (SILO): 58% | vs HEAL (73%), MIKA (65%), SRAJ (47%) — utilisasi menengah, masih ada ruang ekspansi.
-  - ALOS (rata-rata lama rawat inap): 2,7 hari | vs HEAL: 3,2; efisiensi Length-of-Stay, cocok dengan tren nasional menuju rawat inap singkat.
-- **Payor Mix (BPJS vs Non-BPJS):**
-  - BPJS: 15% | Insurance/Corporate/OOP: 85% → sangat dominan non-BPJS; margin cenderung lebih tinggi & perputaran kas lebih baik dibanding rumah sakit “BPJS-heavy” (mis. HEAL).
-- **Inpatient vs Outpatient:**
-  - Volume Inpatient: 316.000 | Outpatient: 3.030.000 | Split In:Out = 1:10 → bisnis sangat terdorong outpatient, potensi margin stabil namun membatasi explosiveness pertumbuhan topline inpatient.
-  - Nilai rata-rata: Inpatient revenue/episode Rp3,6 juta; Outpatient revenue/episode Rp532 ribu.
-- **Kapasitas & Produktivitas:**
-  - 30 RS, 4.054 tempat tidur; rata-rata pasien/RS relatif tinggi, pasien per dokter/hari: 4,2 — produktivitas baik, workforce lean.
+### 2) Posisi Kompetitif (Benchmark Highlights)
+- **Market Cap**: Rp24,1 triliun (Q4 2024; peer MIKA Rp33,9T, HEAL Rp24,6T).
+- **Valuasi SILO:**
+  - PBV: 2,66x (lebih rendah dari MIKA: 5,19x; HEAL: 4,49x; peer rata-rata masih di atas).
+  - PER TTM: 23,1x (lebih murah dari MIKA: 28,6x; HEAL: 58,9x).
+- **Profitabilitas Lebih Rendah dari Top Peer (MIKA):**
+  - Net margin SILO FY2024: 7,4% vs MIKA berkisar >15% (estimasi).
+  - RoE FY2024: 10,3% di bawah peer top quartile.
 
-### 3) Dividen & Valuasi
-- **Market cap:** ~Rp28,1T (harga × 12,99 miliar saham)
-- **Dividen tahun terakhir:** Rp20/saham; yield indikatif rendah (<1%)
-- **CAGR harga 2022–YTD:** ~23,8%, kombinasi rerating & recovery operasional
-- **Tren:** Dividen stabil, tapi payout rendah; capital gain menjadi daya tarik utama.
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
+- **Profitabilitas (Q2 2025):**
+  - Gross margin: 38,4% (Gross profit Rp1,18T / Revenue Rp3,07T), stabil vs historis.
+  - Operating margin: 13,9% (EBIT Rp342M / Revenue Rp3,07T).
+  - Net profit margin: 6,9% (Laba Rp211M / Revenue Rp3,07T).
+- **Struktur Pendanaan:**
+  - Debt to Asset Ratio: 13,5% (Q2 2025: Total Debt Rp1,82T/Total Asset Rp13,5T) – lebih tinggi dari tahun sebelumnya (FY2024: 19%).
+  - DER: 20% (Total Debt/Equity Q2 2025 = Rp1,82T/Rp9,25T).
+  - Current ratio: 0,7x (QA 2025: CA Rp2,78T/CL Rp4,02T)—relatif rendah, risiko likuiditas meningkat.
+- **Kualitas Aset:**
+  - NPL tidak relevan; penurunan kas dan investasi jangka pendek: Rp638 miliar (Q2 2025) turun signifikan dari Q4 2024: Rp2,1 triliun.
+- **Revenue Breakdown FY2023** (persentase):
+  - Drugs & Medical Supplies: 34,8%
+  - Medical Support & Prof. Fee: 42,5%
+  - Hospital Facility: 8%
+  - Room: 6,1%; Operating Theatre: 2,3%; Admin/Others: 5,2%
 
-### 4) Insight Operasional
-**Kekuatan:**
-- Payor mix didominasi non-BPJS → margin lebih tebal, risiko tagihan lebih kecil.
-- Ekspansi capacity: 2 RS baru (Makassar sudah jalan, Surabaya Gubeng akhir 2024/Q1 2025), +242 bed/RS, menaikkan potensi topline dan utilisasi ke depan.
-- Outpatient naik (post-pandemi) → arus kas lebih lancar & efisiensi biaya.
-- Free Cash Flow & Owner Earnings FY 2024 positif (FCF Rp815M; Owner’s Earnings Rp2,68T).
-
-**Risiko:**
-- Medical inflation & kenaikan biaya dokter/tenaga medis tetap menekan margin; COGS cenderung naik.
-- Penurunan volume inpatient dan shifting ke outpatient membatasi pertumbuhan revenue eksplosif.
-- Allowance for impairment losses (CKPN) tetap menjadi isu, walau membaik di 2025; receivable/AR cukup besar (Q3 2024: Rp1,8T).
-- Capex masih tinggi untuk ekspansi RS, berpotensi menekan FCF jika pipeline lambat monetize.
+### 4) Dividen & Valuasi
+- **Dividen tahun 2024**: Rp20 per saham, yield 0,75% (paling rendah 4 tahun terakhir).
+- **PER TTM**: 23,1x; di bawah MIKA (28,6x), jauh di bawah HEAL (58,9x). PBV: 2,66x (diskon relatif ke MIKA, premium ke PRDA).
+- **Payout ratio** & **dividend TTM**: data tidak tersedia pada periode terbaru.
 
 ### 5) Rekomendasi
-**6M (Taktis):**  
-Fokus jaga profitabilitas lewat efisiensi opex, ramp-up utilisasi RS baru, monitor closely tren medical inflation, dan disiplin kontrol impairment/AR.
+**6M (Taktis):**
+- Konsolidasi/flat, jaga kas, waspadai margin—akselerasi bottom line sulit tanpa efisiensi lanjutan.
+**5Y (Tesis):**
+- Rumah sakit swasta dengan market share kuat; rekam sejarah ekspansi & profitabilitas tetap positif meski marjin di bawah peer top. Katalis jangka panjang: demand layanan kesehatan, efisiensi aset, digitalisasi, potensi turnaround di marjin ke depan.
 
-**5Y (Tesis):**  
-Arahkan pada ekspansi premium/non-BPJS, penetrasi pasar korporat, inovasi outpatient/medical support, dan perbaikan utilisasi; perlu strategi antisipasi shifting struktur demand (outpatient > inpatient) serta digitalisasi pelayanan.
-
-### 6) Kesimpulan & Indikasi Strategis
-Jangka Pendek (≤ 6 bulan): ⚠️ Hati-hati — pertumbuhan revenue lambat & margin tertekan medical inflation, namun bottom-line pulih setelah beban impairment menurun.  
-Jangka Panjang (> 5 tahun): ✅ Positif — backbone bisnis berbasis segmen margin tebal & ekspansi RS, arus kas sehat, headroom utilisasi dan pricing power ada.
+### 6) Kesimpulan
+Jangka Pendek (≤6 bulan): ⚠️ – Margin dan laba menurun, risiko likuiditas lebih tinggi, perlu kehati-hatian.
+Jangka Panjang (>5 tahun): ✅ – Bisnis defensif, diversifikasi pendapatan solid, valuasi terdiskon vs peer utama.
 
 ### 7) Catatan Penting
-Analisis ini bersifat edukasi, bukan ajakan membeli/menjual.  
-Investasi mengandung risiko, lakukan riset lanjutan sesuai profil risiko pribadi.
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor.

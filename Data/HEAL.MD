@@ -1,59 +1,57 @@
-## HEAL – Medical Care One-Pager
+## HEAL – Investor One-Pager
 
-### 1) Pertumbuhan YoY
-- **Q2 2025 (YTD Jan–Jun):**
-  - Revenue tumbuh +1.3% YoY (Rp3.389 triliun vs Q2 2024 Rp3.344 triliun)
-  - Gross Profit naik +3.2% YoY (Rp1.126 triliun vs Q2 2024 Rp1.285 triliun; catatan: margin turun)
-  - Operating Profit tumbuh +1.9% YoY (Rp474 miliar vs Q2 2024 Rp616 miliar; data Q2 2025 annualisasi: run-rate OP ~Rp950 miliar)
-  - Net Profit naik +2.5% YoY (Rp284 miliar vs Q2 2024 Rp442 miliar)
-  - **Margin menurun:** Gross margin Q2 2025 ~33.2% (vs Q2 2024 ~38.4%); OP margin turun jadi ~14% (vs ~18%)
-- **Tren 2024 (FY):** Revenue FY +16% YoY, net profit +23% YoY (annualisasi dari Q3 2024)
-- **Catatan:** Pertumbuhan melambat akibat stagnasi inpatient dan tekanan dari medical inflation & gaji dokter.
+### 1) Pertumbuhan & Tren Utama
+- **Pendapatan Q2 2025:** Rp1,696,090,000,000 (flat YoY vs Q2 2024: Rp1,637,846,000,000 | +3.5% YoY, data tahunan FY24: Rp6,717,179,000,000 | +23% YoY).
+- **Laba bersih Q2 2025:** Rp100,118,000,000 (**turun** signifikan dari Q2 2024: Rp152,211,000,000; secara FY24: Rp535,942,000,000 | +22% YoY ke FY23).
+- **Gross Profit Q2 2025:** Rp543,519,000,000 (Q2 2024: Rp616,427,000,000; gross margin Q2 2025: **32.1%**, Q2 2024: 37.6%).
+- **OpEx Q2 2025:** Rp340,342,000,000 (+1.4% QoQ; Q2 2024: Rp335,819,000,000).
+- **Operating cash flow Q2 2025:** Rp225,367,000,000 (**flat** QoQ).
+- **Tren Kuartalan (Q1-Q2 2025):**
+   - Pendapatan: Q1 2025 Rp1,692,471,000,000 → Q2 2025 Rp1,696,090,000,000 (stagnan).
+   - Laba bersih turun tajam: Q1 2025 Rp124,729,000,000 → Q2 2025 Rp100,118,000,000.
+   - Gross margin *terkoreksi* dari Q1 2025 (34.4%) ke Q2 2025 (32.1%).
+- **Catatan:** Marjin menyempit, pertumbuhan bottom line negatif dalam jangka pendek.
+**Periode yang dipakai untuk angka utama: Q2 2025**
 
-### 2) Posisi Kompetitif (Benchmark Bullets)
-- **BOR / ALOS:** HEAL BOR 72.9%, ALOS 3.2 hari – Tertinggi di peer group (MIKA 58%, SRAJ 46.8%; ALOS MIKA 2.7, SRAJ 3.09) → Efisiensi bed cukup baik, utilisasi tinggi.
-- **Payor Mix (BPJS vs Non-BPJS):** HEAL 76% BPJS (vs SILO 18%, MIKA 15%, SRAJ 3.9%) → Pendapatan stabil, margin lebih tipis/siklus tagihan lebih lama.
-- **Inpatient vs Outpatient:** Outpatient volume jauh di atas peer (8,8 juta vs SILO 4,2 juta, MIKA 3 juta), inpatient juga tertinggi (711 ribu).
-  - Rata-rata revenue/pasien: inpatient Rp1,98 jt (paling rendah di peer); outpatient Rp283 ribu → volume driven, margin rendah.
-- **Kapasitas & Produktivitas:** 52 RS (terbanyak), 8.252 bed (terbanyak); pasien per dokter per hari 6,1 (tertinggi).
-  - Headroom ekspansi sangat besar, namun tantangan human capital mulai terasa.
-- **Implicasi:** Model “mass-volume, low-margin” didominasi BPJS, cocok untuk jangka panjang namun rentan tekanan biaya.
+### 2) Posisi Kompetitif (Benchmark Highlights)
+- **Pendapatan FY24:** HEAL Rp6,72T, di bawah SILO Rp12,21T & MIKA Rp4,87T.
+- **Laba bersih FY24:** HEAL Rp536M; kompetitor: SILO Rp902M, MIKA Rp1,15T.
+- **Valuasi:**
+   - **P/E TTM:** HEAL 58,9x (vs. sektor: MIKA 28,6x, SILO 23,1x, PRDA 10,5x)
+   - **PBV:** HEAL 4,49x (MIKA 5,19x, SILO 2,66x)
+- **Size & Jaringan:** HEAL kuat secara jaringan (18.231 pegawai), terbesar di peer group.
 
-### 3) Dividen & Valuasi
-- **Market cap:** ~Rp26,3 triliun (Rp1.715 × 15,37 miliar saham)
-- **Total dividen 2025 (YTD):** Rp10,5/lembar (2024: Rp8,5; tingkatkan YoY)
-- **Yield (estimasi):** ~0,6% (dividen terbatas, sisa laba untuk ekspansi)
-- **Price CAGR 2022–YTD 2025:** 5,17% per tahun (tren stabil)
-- **Kebijakan:** Dividen tumbuh konsisten, payout masih konservatif.
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
+- **Gross margin Q2 2025:** 32.1% (menurun YoY & QoQ)
+- **EBITDA Q2 2025:** Rp290,328,000,000
+- **EBIT margin Q2 2025:** 13% (EBIT: Rp219,672,000,000 / Revenue: Rp1,696,090,000,000)
+- **ROE FY24:** 9.1% | **ROA:** 5.1%
+- **Struktur pendanaan:**
+   - **Total aset Q2 2025:** Rp11,922,503,000,000
+   - **Total ekuitas Q2 2025:** Rp7,013,585,000,000
+   - **Total utang Q2 2025:** Rp3,609,639,000,000
+   - **Debt to equity Q2 2025 (estimasi):** 0.51x (vs FY24: 0.80x)
+   - **Current ratio Q2 2025:** 1.76x (Current asset: Rp2,891,348,000,000 / Current liabilities: Rp1,639,885,000,000)
+- **Revenue breakdown FY23:** Data hanya FY23—pendapatan terbesar: Obat & alat medis (48.6%), rawat inap (29.6%), layanan medis (24.5%), sisanya administrasi & lainnya (~7%).
 
-### 4) Insight Operasional
-**Kekuatan:**
-- Jaringan RS, bed, dan volume pasien terbesar → kekuatan negosiasi, economies of scale.
-- Partnership BPJS dominan → pendapatan stabil, sangat defensif di resesi.
-- Ekspansi agresif: tambah 3–4 RS/tahun & 600–800 bed/tahun; pipeline strategis (PIK 2, dst.)
-- Telemedicine mulai dikembangkan: potensi ekspansi low capex.
-
-**Risiko:**
-- Medical inflation tinggi (19% 2025; tertinggi regional), tekanan biaya dokter/gaji; gross margin tertekan.
-- Shift layanan ke outpatient, referral BPJS lebih ketat → inpatient stagnan; pertumbuhan volume ≠ pertumbuhan revenue margin.
-- FCF & Owner’s Earnings negatif (2024: FCF -Rp1,25 triliun) akibat belanja modal ekspansi; capex tinggi, risiko leverage bertambah.
-- Piutang/AR tetap tinggi, eksposur impairment jika turnaround BPJS lambat.
-- Kurangnya tenaga dokter/suster berpotensi membatasi utilisasi.
+### 4) Dividen & Valuasi
+- **Dividen TTM:** Rp10.5/saham (terakhir: Mei 2025)
+- **Dividend yield TTM:** 0.66% (2025)
+- **Payout ratio:** 37.9% (TTM)
+- **HEAL P/E** jauh di atas rata-rata peer (58,9x vs median peer di bawah 30x): sinyal premium/overvaluasi.
+- **PBV** moderat di kelompoknya.
 
 ### 5) Rekomendasi
 **6M (Taktis):**
-- Fokus pada efisiensi biaya & produktivitas SDM, akselerasi pelunasan pembayaran BPJS, pantau BOR & shifting mix.
-- Jaga cashflow operasional; evaluasi pipeline capex/jadwal ramp-up RS baru.
-
+- Monitor risiko penurunan margin & tekanan laba bersih (pelambatan pendapatan; profitabilitas tertekan QoQ).
+- Potensi rally sangat terbatas jika sentimen pasar tidak berubah.
 **5Y (Tesis):**
-- Model HEAL sangat tahan krisis, headroom pangsa BPJS & populasi besar.
-- Potensi kenaikan margin jika utilisasi per bed & rerata revenue/pasien dapat naik, atau shifting payor mix/telemedicine efektif.
-- Likuiditas kuat, ekspansi agresif menopang pertumbuhan jangka panjang.
+- Posisi jaringan kuat, diversifikasi layanan.
+- Jika efisiensi operasional & kontrol biaya membaik, prospek jangka panjang positif, namun valuasi perlu dikoreksi/sesuai kinerja.
 
-### 6) Kesimpulan & Indikasi Strategis
-Jangka Pendek (≤ 6 bulan): ⚠️ Hati-hati – Pertumbuhan stagnan, margin tertekan medical inflation & payroll; tetap defensif karena volume tinggi.
-Jangka Panjang (> 5 tahun): ✅ Positif – Skala, dominasi BPJS, ekspansi, & resilience akan menopang pertumbuhan struktural.
+### 6) Kesimpulan
+Jangka Pendek (≤6 bulan): ⚠️ – Margin laba mengecil, pertumbuhan stagnan, valuasi mahal, risiko downside tinggi tanpa katalis baru.
+Jangka Panjang (> 5 tahun): ✅ – Kekuatan jaringan, pasar layanan kesehatan tumbuh, peluang rebound jika manajemen tekan biaya & naikkan volume layanan.
 
 ### 7) Catatan Penting
-Analisis ini bersifat edukasi, bukan ajakan untuk membeli atau menjual saham tertentu.  
-Keputusan investasi sepenuhnya ada di tangan investor sesuai profil risiko masing-masing.
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor.

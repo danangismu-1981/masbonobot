@@ -1,65 +1,52 @@
-## MIKA – Medical Care One-Pager
+## MIKA – Investor One-Pager
 
-### 1) Pertumbuhan YoY
-- **Q2 2025 (YTD Jan–Jun):**
-    - Revenue: IDR 2.56T (+4% YoY; Q2 2024: IDR 2.45T)
-    - Gross Profit: IDR 1.4T (+5.2% YoY; Q2 2024: IDR 1.32T)
-    - Operating Profit: IDR 805B (+3.5% YoY; Q2 2024: IDR 778B)
-    - Net Profit: IDR 684B (+6% YoY; Q2 2024: IDR 645B)
-    - Margin GP/OP/NP (Q2 2025): 54.7% / 31.4% / 26.7% (stabil dari Q2 2024)
-- Penurunan volume pasien (inpatient -10% YoY; outpatient -6% YoY), namun revenue masih naik dari kenaikan avg. revenue per patient (pricing power).
+### 1) Pertumbuhan & Tren Utama
+- **Pendapatan (Q2 2025):** Rp1,291 triliun, naik +6.3% YoY vs Q2 2024 (Rp1,209 triliun).
+- **Laba Bersih (Q2 2025):** Rp329 miliar — naik signifikan +5.5% QoQ (Q1 2025: Rp311 miliar), dan +5.5% YoY (Q2 2024: Rp312 miliar).
+- **Gross Profit (Q2 2025):** Rp712 miliar, naik +9.1% YoY (Q2 2024: Rp653 miliar).
+- **EBITDA (Q2 2025):** Rp484,5 miliar, tumbuh 4.5% QoQ (Q1 2025: Rp454,6 miliar).
+- **Margin laba bersih konsisten tinggi**: Net margin ~25.5% di Q2 2025 (labelling manual: Earnings/Revenue).
+- **Kenaikan total aset:** Rp8,99 triliun (Q2 2025) vs Q4 2024 Rp8,25 triliun (+9% YtD).
+- **Arus kas operasi tetap positif:** Rp301 miliar di Q2 2025 (Q1 2025: Rp437 miliar, Q4 2024: Rp505 miliar).
+**Periode yang dipakai untuk angka utama: Q2 2025**
 
-### 2) Posisi Kompetitif (Benchmark Bullets)
-- **BOR / ALOS:**
-    - MIKA: BOR 46.8% (rendah vs HEAL 72.9%, SILO 58%)
-    - ALOS: 3.09 hari (mirip peers)
-    - Implikasi: utilisasi bed rendah, headroom peningkatan occupancy.
-- **Payor Mix (BPJS vs Non-BPJS):**
-    - BPJS: 14.8% (FY24; turun dari 18.4% FY23); Non-BPJS (insurance/corporate/OOP): 85.2%
-    - Lebih premium, margin lebih tinggi, kolektibilitas lebih baik vs peers (HEAL BPJS 76%).
-- **Inpatient vs Outpatient:**
-    - Volume inpatient sangat kecil (Q2 2025 annualisasi ~300 ribu) vs outpatient
-    - Avg. revenue/episode (2024): Inpatient IDR 4.2 juta, Outpatient IDR 586 ribu (tertinggi 7 tahun)
-    - Implikasi: revenue shift ke outpatient, namun pricing power tinggi.
-- **Kapasitas & Produktivitas:**
-    - 6 RS (861 bed; paling kecil di antara peers)
-    - Pasien per dokter/hari: 1.06 (terendah, karena model premium)
-    - Headcount dokter & tenaga medis menghadapi risiko keterbatasan SDM.
+### 2) Posisi Kompetitif (Benchmark Highlights)
+- **PE TTM (2024):** 28,6x — di atas Siloam (23,1x), di bawah Hermina (58,9x); menandakan premium, namun tetap dalam batas wajar untuk rumah sakit mapan.
+- **PBV (2024):** 5,19x — lebih tinggi dari sebagian besar peers kecuali SRAJ (outlier, tidak relevan secara profitabilitas negatif).
+- **Net Profit (2024):** Tertinggi kedua di sektor (Rp1,15 triliun), hanya di bawah Siloam, namun jauh unggul stabilitas margin dan market share.
+- **Market cap (2024):** Rp33,9 triliun – salah satu terbesar di sektor hospital.
 
-### 3) Dividen & Valuasi
-- Market cap: ~IDR 32.25T (price × shares; 2,320×13.91 miliar)
-- Total dividen 2025: IDR 43/unit (naik dari 2024: 34/unit, 2023: 37)
-- CAGR harga saham 2022–YTD 2025: -8.12% (trend penurunan)
-- Dividen stabil, yield ~1.9% (indikatif, annualisasi 2025, market cap-metode)
+### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
+- **Gross Margin (Q2 2025):** ~55.2% (712/1.291), naik dari Q2 2024 (~54%).
+- **EBIT Margin (Q2 2025):** ~34.8% (449/1.291).
+- **Struktur Modal Sangat Kuat:** Debt/Equity ratio super rendah (Q2 2025: Rp1,6 miliar/7,41 triliun = ~0,02%).
+- **Likuiditas Terjaga:** Kas & setara kas tinggi (Q2 2025: Rp2,75 triliun).
+- **Revenue breakdown 2023 (porsi terbesar):**
+  - Inpatient drugs & medical supplies: ~30.6%
+  - Outpatient drugs & medical supplies: ~13.3%
+  - Inpatient rooms: ~13.3%
+  - Medical support services (in+out): ~21.5%
+  - Sisanya: admin, professional fees, dll.
 
-### 4) Insight Operasional
-**Kekuatan:**
-- Pricing power premium: avg. revenue per patient terus naik
-- Payor mix dominan non-BPJS: margin lebih lebar, tagihan lebih lancar
-- Efisiensi COGS FY24 turun 4.4%, gross margin naik
-- Capex disiplin; penambahan 3 RS (2023) mulai kontribusi ke topline
-
-**Risiko:**
-- Pertumbuhan volume pasien stagnan/cenderung menurun (shift ke outpatient, tekanan daya beli)
-- Operating expenses didominasi gaji & benefit tenaga medis (FY24 gaji naik 52% YoY)
-- Utilisasi bed rendah; operational leverage terbatas
-- Potensi kelangkaan SDM (dokter) dapat membatasi ekspansi & kualitas layanan
-- Piutang naik, perlu dicermati kolektibilitas (receivable Q2 2025: IDR 715 miliar)
+### 4) Dividen & Valuasi
+- **Dividen TTM (2025):** Rp43/lembar, **yield TTM** 1,73% (naik dari 2024: 1,2%).
+- **Payout ratio:** ~50% laba bersih (2025), cash payout ratio sangat tinggi (1,23x).
+- **Valuasi premium**: PE TTM 28,6x (2024), sejalan dengan pricing hospital blue-chip, di bawah Hermina/Pray, di atas PRDA (lab).
+- **Dividen konsisten tiap tahun, meningkat trend 3Y.**
 
 ### 5) Rekomendasi
 **6M (Taktis):**
-- Fokus pada optimalisasi utilisasi bed & efisiensi biaya; awasi biaya SDM & pergeseran payor mix
-- Aktifkan strategi pertumbuhan fee-based service (outpatient, medical support) untuk mengimbangi stagnasi volume
+- Fokus jangka pendek pada eksekusi efisiensi biaya & utilisasi fasilitas; monitor pertumbuhan layanan rawat jalan/inovasi digital.
+- Potensi volatilitas jangka pendek terkait rotasi sektor & sentimen IHSG, momentum masih positif.
 
 **5Y (Tesis):**
-- Perkuat basis premium/non-BPJS, lanjutkan ekspansi organik (RS/bed baru) jika utilisasi meningkat
-- Investasi digital, rekrut & retensi SDM medis sebagai fondasi pertumbuhan long term
-- Positioning di segmen premium tetap relevan, namun mitigasi risiko stagnasi volume lewat inovasi layanan & loyalitas pasien
+- Demografi Indonesia, urbanisasi & kenaikan kelas menengah menopang permintaan.
+- Model asset-light, eksekusi operasional efisien, dan loyalitas konsumen = potensi pertumbuhan laba double digit.
+- Struktur modal solid mendukung ekspansi non-organik/organik bila peluang muncul.
 
-### 6) Kesimpulan & Indikasi Strategis
-Jangka Pendek (≤ 6 bulan): ⚠️ Hati-hati — pertumbuhan lemah, marjin stabil; harus waspada pada tekanan volume & biaya tenaga medis  
-Jangka Panjang (> 5 tahun): ✅ Positif — pricing power, segmen premium, margin tinggi, arus kas kuat, ekspansi terukur  
+### 6) Kesimpulan
+Jangka Pendek (≤6 bulan): ✅ – Fundamental kuat, dividen naik, kinerja operasional stabil di atas sektor.
+Jangka Panjang (>5 tahun): ✅ – Model bisnis terbukti, ROE konsisten, rendah hutang, posisi pasar mapan.
 
 ### 7) Catatan Penting
-Analisis ini bersifat edukasi, bukan ajakan untuk membeli atau menjual saham tertentu.  
-Keputusan investasi sepenuhnya ada di tangan investor sesuai profil risiko masing-masing.
+Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor.
