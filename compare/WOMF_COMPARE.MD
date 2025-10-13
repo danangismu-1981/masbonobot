@@ -22,26 +22,25 @@ ROA: 3.8%
 
 ## BALANCE & CASH
 DER: 2.67x  
-FCF: IDR 19.0 miliar
+FCF: IDR -61.4 miliar
 
 ## SCORE (0–5 each; integers or 0.5 steps allowed)
 ValuationScore: 4.5  
 ProfitabilityScore: 2  
-BalanceScore: 2.5  
+BalanceScore: 2  
 IncomeScore: 4.5
 
 ## NOTES
 Highlights:
-- Low PER and PBV versus peers
-- Attractive dividend yield (6.7%)
-- Consistent net margin above 17%
+- Low valuation multiples (PER, PBV) vs. peers
+- Attractive dividend yield above 6%
+- Consistent net margin and ROE for sector
 
 Risks:
-- Negative YoY profit and revenue growth
-- High leverage (DER >2.5x)
-- Volatile free cash flow
+- Negative free cash flow in recent quarters
+- Weak revenue and profit growth YoY
 
 ## METADATA
-Source: Company filings, peer data, dividend records  
+Source: Company filings, IDX, peer data  
 Period: Q2 2025 YTD  
 LastUpdate: 2025-06-30
