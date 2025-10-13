@@ -1,45 +1,46 @@
 # COMPARE ONE-PAGER (CROSS-INDUSTRY READY)
 
 ## HEADER
-Ticker: OMED
-Company: PT Jayamas Medica Industri Tbk
-Sector: Healthcare
-Industry: Medical Instruments & Supplies
-AsOf: 2025-09-12
+Ticker: OMED.JK  
+Company: PT Jayamas Medica Industri Tbk  
+Sector: Healthcare  
+Industry: Healthcare Equipment & Supplies  
+AsOf: 2025-06-30
 
 ## VALUATION
-Market Cap: IDR 5.11 triliun
-PER: 15.8x
-PBV: 2.0x
-Dividend Yield: 1.9%
+Market Cap: IDR 5.33 triliun  
+PER: 16.1x  
+PBV: 2.1x  
+Dividend Yield: 1.8%
 
 ## PROFITABILITY
-Revenue Growth YoY: +8.6%
-Net Profit Growth YoY: +24.2%
-Net Margin: 17.2%
-ROE: 13%
-ROA: 5.5%
+Revenue Growth YoY: +8.2%  
+Net Profit Growth YoY: +0.6%  
+Net Margin: 17.1%  
+ROE: 12.9%  
+ROA: 11.4%
 
 ## BALANCE & CASH
-DER: 0.11x
-FCF: IDR 255 miliar
+DER: 0.13x  
+FCF: IDR 45.2 miliar
 
 ## SCORE (0–5 each; integers or 0.5 steps allowed)
-ValuationScore: 3.5
-ProfitabilityScore: 4
-BalanceScore: 4
+ValuationScore: 4  
+ProfitabilityScore: 3  
+BalanceScore: 5  
 IncomeScore: 2.5
 
 ## NOTES
 Highlights:
-- Revenue and net profit grew strongly YoY (+8.6% and +24.2%)
-- Debt reduced after full MTN repayment, lowering interest expense
+- Low leverage with DER at 0.13x and strong balance sheet
+- Consistent revenue growth (+8.2% YoY)
+- Stable dividend payout with 1.8% yield
 
 Risks:
-- High dependence on imported raw materials exposes to forex risk
-- Weakening IDR could pressure margins if not offset by local sourcing
+- Net profit growth is nearly flat (+0.6% YoY)
+- Dividend yield below market average
 
 ## METADATA
-Source: Company filings, IDX, OMED financials
-Period: Q2 2025 YTD / FY 2024
-LastUpdate: 2025-09-12
+Source: OMED-PEERS.TXT, OMED-FINANCIAL.TXT, OMED-DIVIDEN.TXT, OMED-2025Q2.TXT  
+Period: Q2 2025 YTD  
+LastUpdate: 2025-06-30
