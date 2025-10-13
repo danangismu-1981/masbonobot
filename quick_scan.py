@@ -138,6 +138,7 @@ def pct_fmt(x, digits=1):
 def num_fmt(x, digits=2):
     if x is None or (isinstance(x, float) and np.isnan(x)):
         return "n/a"
+    # If x is an int like 136, render 136.00 with digits=2
     return f"{x:.{digits}f}"
 
 def infer_ticker_from_filename(path: str) -> str:
@@ -165,7 +166,7 @@ def main():
         return
 
     for fp in files:
-        print("=" * 60)
+        print("=" * 45)
         print("-" * 60)
         with open(fp, "r", encoding="utf-8", errors="ignore") as f:
             print(f.read().strip())
@@ -187,6 +188,8 @@ def main():
         ma200_basis, ma200_val = moving_average_latest(close, 200, True)
 
         dv_ttm, dv_last_date, dv_last_amt = dividends_info(chosen_ticker)
+        # Dividend yield for the most recent dividend (last payout only), as a fraction
+        dv_yield_last = (dv_last_amt / px) if (dv_last_amt is not None and px and px > 0) else None
 
         print("Market Data:")
         print(f"  Ticker (YF): {chosen_ticker}")
@@ -199,14 +202,13 @@ def main():
         print(f"  MA50 {ma50_basis}: {num_fmt(ma50_val)}")
         print(f"  MA200 {ma200_basis}: {num_fmt(ma200_val)}")
         if dv_last_date is not None:
-            print(f"  Dividend: TTM {num_fmt(dv_ttm)} ; Last: {dv_last_date.date()} (amt {num_fmt(dv_last_amt)})")
+            print(f"  Dividend: TTM {num_fmt(dv_ttm)} ; Last: {dv_last_date.date()} (amt {num_fmt(dv_last_amt)}, yield {pct_fmt(dv_yield_last, 2)})")
         else:
             print(f"  Dividend: TTM {num_fmt(dv_ttm)} ; Last: n/a")
-        print("=" * 60)
+        print("=" * 45)
         print(f"Jika ingin data lebih detail ketik: {raw_ticker.upper()} Detail")
         print()
 
-        
         print()
 
 if __name__ == "__main__":
