@@ -85,7 +85,7 @@ def _find_compare_cli() -> Optional[str]:
 
 def _run_compare(tickers: List[str], timeout: int = 60) -> str:
     """
-    Jalankan compare_md_cli.py <T1> <T2>
+    Jalankan compare_md_cli.py --input <T1,T2> --compare_dir compare --format whatsapp
     """
     py = _which_python()
     if not py:
@@ -98,7 +98,9 @@ def _run_compare(tickers: List[str], timeout: int = 60) -> str:
     if len(tickers) != 2:
         return "Butuh tepat 2 ticker untuk COMPARE."
 
-    cmd = [py, cli] + tickers
+    # Gunakan format baru dengan flag --input
+    cmd = [py, cli, "--input", f"{tickers[0]},{tickers[1]}", "--compare_dir", "compare", "--format", "whatsapp"]
+
     try:
         proc = subprocess.run(cmd, capture_output=True, text=True, timeout=timeout)
         if proc.returncode == 0:
@@ -111,7 +113,6 @@ def _run_compare(tickers: List[str], timeout: int = 60) -> str:
         return f"Compare timeout (> {timeout}s)."
     except Exception as e:
         return f"Compare error: {type(e).__name__}: {e}"
-
 
 def _run_quick_scan(ticker: str, folder: str = "./quick", timeout: int = 60):
     """
