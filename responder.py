@@ -29,6 +29,11 @@ import glob
 import textwrap
 import subprocess
 from typing import Optional, List, Tuple
+from datetime import datetime
+try:
+    from zoneinfo import ZoneInfo
+except Exception:
+    ZoneInfo = None
 
 # ====== Optional dependencies ======
 _TECH_ENABLED = True
@@ -47,6 +52,42 @@ try:
 except Exception as e:
     _NEWS_ENABLED = False
     _NEWS_IMPORT_ERR = f"{type(e).__name__}: {e}"
+
+
+# ====== Helper: greeting berbasis waktu & nama (NEW) ======
+def _period_id_hour(hour: int) -> str:
+    """
+    Mapping jam → periode salam Bahasa Indonesia.
+    04–10: pagi, 10–15: siang, 15–18: sore, lainnya: malam
+    """
+    if 4 <= hour < 10:
+        return "pagi"
+    if 10 <= hour < 15:
+        return "siang"
+    if 15 <= hour < 18:
+        return "sore"
+    return "malam"
+
+
+def _time_based_greeting(name: Optional[str] = None, tz: str = "Asia/Jakarta") -> str:
+    """Bangun kalimat salam lengkap; nama diambil dari argumen, env WA_SENDER_NAME, atau 'kawan'. """
+    try:
+        if 'ZoneInfo' in globals() and ZoneInfo is not None:
+            now = datetime.now(ZoneInfo(tz))
+        else:
+            now = datetime.now()
+    except Exception:
+        now = datetime.now()
+    phase = _period_id_hour(now.hour)
+    display_name = (name or os.environ.get("WA_SENDER_NAME") or "kawan").strip()
+    return f"Hi, selamat {phase} {display_name}! 👋\nApa ada saham yang ingin dianalisa hari ini?"
+
+
+# Deteksi salam natural (hi/halo/hello/selamat pagi/siang/sore/malam)
+_GREETING_PAT = re.compile(
+    r"\b(hi|halo|hello|pagi|siang|sore|malam|selamat\s+pagi|selamat\s+siang|selamat\s+sore|selamat\s+malam)\b",
+    flags=re.IGNORECASE
+)
 
 
 # ====== Utilities umum ======
@@ -323,8 +364,16 @@ def handle_message(msg_raw: str, base_folder: str = "./Data") -> str:
     msg_up = msg_raw.upper()
 
     # --- Salam/Help ---
-    if msg_up in ("HI", "HELP", "HALO", "MENU"):
-        return _help_text()
+# 1) Salam natural → balas greeting berbasis waktu + ringkasan bantuan
+if _GREETING_PAT.search(msg_raw):
+    greet = _time_based_greeting()
+    return f"{greet}
+
+{_help_text()}"
+
+# 2) HELP/menu eksplisit → tampilkan bantuan
+if msg_up in ("HELP", "MENU"):
+    return _help_text()
 
     # --- LIST ---
     if msg_up.startswith("LIST"):
