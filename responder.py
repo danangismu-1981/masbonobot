@@ -227,6 +227,22 @@ def _parse_compare_args(msg_raw: str) -> Optional[Tuple[str, str]]:
 
 
 # ====== Natural-language ticker detection (NEW, sesuai symbols.txt) ======
+def _is_compare_intent(text: str) -> bool:
+    """
+    Deteksi niat 'bandingkan' secara longgar.
+    Menangkap kata/konteks: 'compare', 'banding', 'vs', 'atau', 'bagus mana', 'lebih baik',
+    atau penggunaan koma di antara dua ticker (heuristik longgar).
+    """
+    t = (text or "").upper()
+    # kata kunci yang kuat
+    keywords = ["COMPARE", "BANDING", " VS ", " ATAU ", " BAGUS MANA", " LEBIH BAIK", " PILIH "]
+    if any(k in t for k in keywords):
+        return True
+    # Heuristik: ada koma — sering dipakai untuk memisah ticker (mis. "BMRI,BBRI")
+    if "," in t:
+        return True
+    return False
+
 def _symbols_path(default_name: str = "symbols.txt") -> str:
     return os.path.join(os.path.dirname(os.path.abspath(__file__)), default_name)
 
@@ -379,17 +395,24 @@ def handle_message(msg_raw: str, base_folder: str = "./Data") -> str:
         return content or f"File Data/{ticker}.MD tidak ditemukan."
 
     # --- NATURAL LANGUAGE: deteksi ticker dari symbols.txt ---
-    # Misal: "minta analisa BMRI dong", "tolong info BBCA", dll.
+    # Misal: "minta analisa BMRI dong", "tolong info BBCA", "bagus mana BMRI atau BBRI", dsb.
     symbols = _load_symbols()
     if symbols:
         found = _find_tickers_in_text(msg_raw, symbols)
         if len(found) == 1:
             return _handle_single_ticker_request(found[0], base_folder)
         elif len(found) >= 2:
+            # Jika ada sinyal 'compare intent' atau ada koma, langsung jalankan COMPARE dua pertama
+            if _is_compare_intent(msg_raw):
+                return _run_compare([found[0], found[1]], timeout=90)
+            # Jika tidak yakin, beri panduan COMPARE agar tidak salah maksud
             t1, t2 = found[0], found[1]
             return (
-                "Terdeteksi lebih dari satu ticker dalam pesan.\n"
-                f"Coba perintah: **COMPARE {t1},{t2}**\n\n"
+                "Terdeteksi lebih dari satu ticker dalam pesan.
+"
+                f"Coba perintah: **COMPARE {t1},{t2}**
+
+"
                 f"{_help_text()}"
             )
 
