@@ -355,39 +355,58 @@ def handle_message(msg_raw: str, base_folder: str = "./Data") -> str:
             return f"Gagal memproses NEWS: {type(e).__name__}: {e}"
 
     # --- ANALISA TEKNIKAL (opsional) ---
+        # --- ANALISA TEKNIKAL (opsional) ---
     if msg_up.startswith("HIGHLOW") or msg_up.startswith("MA ") or msg_up.startswith("PIVOT"):
         if not _TECH_ENABLED:
             return f"Fitur teknikal belum aktif: {_TECH_IMPORT_ERR}"
         try:
             parts = msg_up.split()
+
             if msg_up.startswith("HIGHLOW"):
                 # HIGHLOW <TICKER> <N>
                 if len(parts) < 3:
                     return "Format: HIGHLOW <TICKER> <N_HARI>"
                 tick, n = parts[1], int(parts[2])
-                hi, lo = weekly_high_low(tick, n)
-                return f"HIGH/LOW {tick} {n} hari:\nHigh: {hi}\nLow: {lo}"
+                res = weekly_high_low(tick, n)  # <-- dict: highest/lowest/start/end
+                return (
+                    f"HIGH/LOW {tick} {n} hari "
+                    f"({res.get('start','?')} → {res.get('end','?')}):\n"
+                    f"- High: {res.get('highest','?')}\n"
+                    f"- Low : {res.get('lowest','?')}"
+                )
 
             if msg_up.startswith("MA "):
-                # MA <TICKER> <PERIOD>
+                # MA <TICKER> <PERIOD> [DAILY|WEEKLY]
                 if len(parts) < 3:
-                    return "Format: MA <TICKER> <PERIOD>"
-                tick, period = parts[1], int(parts[2])
-                ma = moving_average(tick, period)
-                return f"MA {tick} ({period}): {ma}"
+                    return "Format: MA <TICKER> <PERIOD> [DAILY|WEEKLY]"
+                tick = parts[1]
+                window = int(parts[2])
+                frame = parts[3].lower() if len(parts) >= 4 else "weekly"
+                last_close, last_ma = moving_average(tick, window=window, frame=frame)  # <-- tuple
+                return (
+                    f"MA {tick} ({window}, {frame}):\n"
+                    f"- Close terakhir: {last_close}\n"
+                    f"- MA{window}: {last_ma}"
+                )
 
             if msg_up.startswith("PIVOT"):
-                # PIVOT <TICKER>
+                # PIVOT <TICKER> [DAILY|WEEKLY]
                 if len(parts) < 2:
-                    return "Format: PIVOT <TICKER>"
+                    return "Format: PIVOT <TICKER> [DAILY|WEEKLY]"
                 tick = parts[1]
-                p, r1, r2, s1, s2 = pivot_points(tick)
+                src = parts[2].lower() if len(parts) >= 3 else "weekly"
+                res = pivot_points(tick, source=src)  # <-- dict: P/R1/S1/R2/S2
                 return (
-                    f"PIVOT {tick}:\n"
-                    f"- Pivot: {p}\n- R1: {r1}\n- R2: {r2}\n- S1: {s1}\n- S2: {s2}"
+                    f"PIVOT {tick} ({src}):\n"
+                    f"- Pivot: {res.get('P','?')}\n"
+                    f"- R1   : {res.get('R1','?')}\n"
+                    f"- R2   : {res.get('R2','?')}\n"
+                    f"- S1   : {res.get('S1','?')}\n"
+                    f"- S2   : {res.get('S2','?')}"
                 )
         except Exception as e:
             return f"Gagal menghitung analisa teknikal: {type(e).__name__}: {e}"
+
 
     # --- <TICKER> DETAIL ---
     m_detail = re.match(rf"^\s*({_TICKER_PATTERN})\s+DETAIL\s*$", msg_up)
