@@ -4,7 +4,7 @@
 """
 Responder untuk WA bot Mas Bono.
 
-Fitur utama (tidak diubah, hanya ditata rapi & ditambah deteksi kalimat natural):
+Fitur utama (dipertahankan & dirapikan):
 - HELP/HI
 - LIST (daftar Data/*.MD — default uppercase .MD)
 - COMPARE <T1>,<T2> (via compare_md_cli.py)
@@ -13,11 +13,13 @@ Fitur utama (tidak diubah, hanya ditata rapi & ditambah deteksi kalimat natural)
 - <TICKER> DETAIL  -> tampilkan isi ./Data/<TICKER>.MD
 - Default satu kata (asumsi <TICKER>):
     1) Jalankan quick_scan.py --folder ./quick --ticker <TICKER>
-    2) Jika quick tidak menemukan file (pesan spesifik) / gagal -> fallback baca ./Data/<TICKER>.MD
+    2) Jika quick tidak menemukan file / gagal -> fallback baca ./Data/<TICKER>.MD
 
-Tambahan baru (permintaan user, tidak mengubah alur lama):
-- Deteksi kode TICKER di kalimat natural menggunakan symbols.txt (selevel responder.py).
-  Contoh: "mas, minta tolong analisa untuk BMRI dong" -> diproses sama seperti input "BMRI".
+Tambahan baru (sesuai permintaan):
+- Deteksi TICKER di kalimat natural menggunakan symbols.txt (selevel responder.py).
+  Contoh: "mas, minta tolong analisa untuk BMRI dong" -> diproses sama seperti "BMRI".
+- Jika pesan mengandung >=2 ticker dan ada indikasi 'compare intent' (atau/koma/vs/banding/...),
+  bot langsung menjalankan COMPARE dua ticker pertama yang ditemukan.
 """
 
 import os
@@ -234,14 +236,13 @@ def _is_compare_intent(text: str) -> bool:
     atau penggunaan koma di antara dua ticker (heuristik longgar).
     """
     t = (text or "").upper()
-    # kata kunci yang kuat
     keywords = ["COMPARE", "BANDING", " VS ", " ATAU ", " BAGUS MANA", " LEBIH BAIK", " PILIH "]
     if any(k in t for k in keywords):
         return True
-    # Heuristik: ada koma — sering dipakai untuk memisah ticker (mis. "BMRI,BBRI")
     if "," in t:
         return True
     return False
+
 
 def _symbols_path(default_name: str = "symbols.txt") -> str:
     return os.path.join(os.path.dirname(os.path.abspath(__file__)), default_name)
@@ -408,11 +409,8 @@ def handle_message(msg_raw: str, base_folder: str = "./Data") -> str:
             # Jika tidak yakin, beri panduan COMPARE agar tidak salah maksud
             t1, t2 = found[0], found[1]
             return (
-                "Terdeteksi lebih dari satu ticker dalam pesan.
-"
-                f"Coba perintah: **COMPARE {t1},{t2}**
-
-"
+                "Terdeteksi lebih dari satu ticker dalam pesan.\n"
+                f"Coba perintah: **COMPARE {t1},{t2}**\n\n"
                 f"{_help_text()}"
             )
 
