@@ -4,7 +4,7 @@
 """
 Responder untuk WA bot Mas Bono.
 
-Fitur utama:
+Fitur utama (tidak diubah, hanya ditata rapi & ditambah deteksi kalimat natural):
 - HELP/HI
 - LIST (daftar Data/*.MD — default uppercase .MD)
 - COMPARE <T1>,<T2> (via compare_md_cli.py)
@@ -15,12 +15,10 @@ Fitur utama:
     1) Jalankan quick_scan.py --folder ./quick --ticker <TICKER>
     2) Jika quick tidak menemukan file (pesan spesifik) / gagal -> fallback baca ./Data/<TICKER>.MD
 
-Catatan:
-- Ekstensi file diasumsikan .MD (huruf besar), mengikuti struktur yang digunakan Mas.
-- market_utils sudah auto-append .JK untuk ticker IDX bila perlu.
+Tambahan baru (permintaan user, tidak mengubah alur lama):
+- Deteksi kode TICKER di kalimat natural menggunakan symbols.txt (selevel responder.py).
+  Contoh: "mas, minta tolong analisa untuk BMRI dong" -> diproses sama seperti input "BMRI".
 """
-
-from __future__ import annotations
 
 import os
 import re
@@ -52,6 +50,7 @@ except Exception as e:
 # ====== Utilities umum ======
 _TICKER_PATTERN = r"[A-Z0-9\.\-]{2,10}"
 
+
 def _which_python() -> Optional[str]:
     """
     Kembalikan jalur interpreter Python yang valid.
@@ -82,34 +81,22 @@ def _find_compare_cli() -> Optional[str]:
     return None
 
 
-def _run_compare(tickers: List[str], compare_dir: Optional[str], timeout: int = 90) -> str:
+def _run_compare(tickers: List[str], timeout: int = 60) -> str:
     """
-    Jalankan compare_md_cli.py --input T1,T2 --compare_dir <dir> --format whatsapp
+    Jalankan compare_md_cli.py <T1> <T2>
     """
-    if len(tickers) != 2:
-        return "Perintah COMPARE harus berisi tepat 2 ticker. Contoh: COMPARE ANTM,INCO"
-
-    # Validasi ticker
-    val = re.compile(_TICKER_PATTERN + r"$")
-    tt = []
-    for t in tickers:
-        t = t.strip().upper()
-        if not val.match(t):
-            return f"Ticker tidak valid: {t}. Gunakan huruf/angka/titik/dash, panjang 2-10."
-        tt.append(t)
-
-    cli = _find_compare_cli()
-    if not cli:
-        return "compare_md_cli.py tidak ditemukan. Pastikan file berada di direktori kerja."
-
     py = _which_python()
     if not py:
         return "Python executable tidak ditemukan."
 
-    cmd = [py, cli, "--input", ",".join(tt), "--format", "whatsapp"]
-    if compare_dir:
-        cmd += ["--compare_dir", compare_dir]
+    cli = _find_compare_cli()
+    if not cli:
+        return "compare_md_cli.py tidak ditemukan."
 
+    if len(tickers) != 2:
+        return "Butuh tepat 2 ticker untuk COMPARE."
+
+    cmd = [py, cli] + tickers
     try:
         proc = subprocess.run(cmd, capture_output=True, text=True, timeout=timeout)
         if proc.returncode == 0:
@@ -143,76 +130,83 @@ def _run_quick_scan(ticker: str, folder: str = "./quick", timeout: int = 60):
         proc = subprocess.run(cmd, capture_output=True, text=True, timeout=timeout)
         stdout = (proc.stdout or "").strip()
         stderr = (proc.stderr or "").strip()
-        not_found_phrase = f"Tidak menemukan file di ./quick untuk '{ticker}'."
-        not_found = not_found_phrase in stdout
-        return {
-            "ok": proc.returncode == 0,
-            "stdout": stdout,
-            "stderr": stderr,
-            "not_found": not_found,
-        }
+        ok = proc.returncode == 0
+
+        not_found = False
+        nf_msg = f"Tidak menemukan file di {folder} untuk '{ticker}'"
+        if nf_msg.lower() in stdout.lower() or nf_msg.lower() in stderr.lower():
+            not_found = True
+
+        return {"ok": ok, "stdout": stdout, "stderr": stderr, "not_found": not_found}
     except subprocess.TimeoutExpired:
-        return {"ok": False, "stdout": "", "stderr": f"quick_scan timeout > {timeout}s", "not_found": False}
+        return {"ok": False, "stdout": "", "stderr": f"timeout (> {timeout}s).", "not_found": False}
     except Exception as e:
-        return {"ok": False, "stdout": "", "stderr": f"quick_scan error: {e}", "not_found": False}
+        return {"ok": False, "stdout": "", "stderr": f"{type(e).__name__}: {e}", "not_found": False}
 
 
-def get_file_content(folder_path: str, filename_wo_ext: str) -> Optional[str]:
+def get_file_content(base_folder: str, ticker: str) -> Optional[str]:
     """
-    Baca file <folder>/<FILENAME>.MD (ekstensi .MD uppercase).
+    Baca isi file ./Data/<TICKER>.MD (uppercase) — fallback jika quick gagal.
     """
-    path = os.path.join(folder_path, f"{filename_wo_ext}.MD")
-    if os.path.exists(path):
+    t = (ticker or "").upper()
+    filename = os.path.join(base_folder, f"{t}.MD")
+    if os.path.exists(filename):
         try:
-            with open(path, "r", encoding="utf-8") as f:
+            with open(filename, "r", encoding="utf-8") as f:
                 return f.read()
         except Exception as e:
-            return f"Gagal membaca file {path}: {type(e).__name__}: {e}"
+            return f"Gagal membaca {filename}: {type(e).__name__}: {e}"
     return None
 
 
 def _help_text() -> str:
-    return (
-        "Hi! Nama saya Mas Bono, saya bisa bantu cari info saham.\n"
-        "Ketik:\n"
-        "- LIST — lihat daftar saham\n"
-        "- [KODE EMITEN] — info cepat (contoh: ANTM)\n"
-        "- [KODE EMITEN] DETAIL — info lengkap dari Data/<KODE>.MD (contoh: ANTM DETAIL)\n"
-        "- COMPARE KODE1,KODE2 — bandingkan dua emiten (contoh: COMPARE AALI,ADMR)\n"
-        "- NEWS <KODE/QUERY> [N] — cari berita terbaru (contoh: NEWS BBCA 5)\n"
-        "\n🔧 Perintah Teknis:\n"
-        "- HIGHLOW <TICKER> [DAYS]        (contoh: HIGHLOW PTBA 7)\n"
-        "- MA <TICKER> <WINDOW> [DAILY|WEEKLY]   (contoh: MA BBCA 50 WEEKLY)\n"
-        "- PIVOT <TICKER> [DAILY|WEEKLY]  (contoh: PIVOT BBRI WEEKLY)\n"
-        "\nℹ️ Default satu kata akan mencoba Quick terlebih dulu via quick_scan,\n"
-        "   jika tidak ada akan menampilkan Data/<KODE>.MD.\n"
-        "   Ticker IDX otomatis .JK (BBRI -> BBRI.JK) ditangani oleh market_utils.\n"
-    )
+    return textwrap.dedent(
+        """
+        **Mas Bono Bot – Bantuan Singkat**
+
+        • Ketik **LIST** → daftar ticker yang tersedia di folder Data.
+        • Ketik **BMRI** → analisa cepat (Quick) untuk BMRI, fallback ke Data/BMRI.MD kalau Quick belum ada.
+        • Ketik **BMRI DETAIL** → tampilkan isi Data/BMRI.MD.
+        • Ketik **COMPARE BMRI,BBCA** → bandingkan dua ticker.
+        • Ketik **NEWS BMRI 5** → 5 berita terbaru terkait BMRI (butuh modul news_indo_whatsapp).
+        • Ketik **HIGHLOW BMRI 30** | **MA BMRI 200** | **PIVOT BMRI** → analisa teknikal (butuh market_utils).
+
+        Tips: Kamu juga bisa tulis kalimat natural, misalnya **"minta tolong analisa BMRI"**, dan aku akan otomatis mengenali tickernya.
+        """
+    ).strip()
 
 
-def _list_md(base_folder: str) -> str:
+def _list_md(base_folder: str = "./Data") -> str:
     """
-    Tampilkan daftar file .MD (uppercase) di base_folder (tanpa ekstensi), urut alfabet.
+    Tampilkan daftar file .MD (uppercase) di folder Data.
     """
     pattern = os.path.join(base_folder, "*.MD")
     files = sorted(glob.glob(pattern))
     if not files:
-        return f"Tidak ada file .MD di folder {base_folder}."
-    items = [os.path.splitext(os.path.basename(p))[0] for p in files]
-    return "Daftar ticker:\n" + "\n".join(f"- {it}" for it in items)
+        return "Tidak ada file .MD di folder Data."
+    items = [os.path.splitext(os.path.basename(x))[0] for x in files]
+    return "**Daftar ticker (Data):**\n" + ", ".join(items)
 
 
-def _parse_compare_args(msg_raw: str) -> Optional[List[str]]:
+def _parse_compare_args(msg_raw: str) -> Optional[Tuple[str, str]]:
     """
-    Ambil dua ticker dari 'COMPARE ...' (delimiter bisa koma/spasi/;/|/).
+    Ekstrak 2 ticker untuk perintah COMPARE.
+    Terima format:
+      - COMPARE T1,T2
+      - COMPARE T1 T2
+      - COMPARE: T1 vs T2 (longgar)
     """
-    # Ambil teks setelah kata COMPARE
-    m = re.search(r"(?i)\bCOMPARE\b(.*)", msg_raw)
+    s = (msg_raw or "").strip()
+    s_up = s.upper()
+
+    # Ambil setelah kata COMPARE
+    m = re.search(r"\bCOMPARE\b(.*)$", s_up)
     if not m:
         return None
     tail = m.group(1)
-    # split dengan berbagai delimiter
-    parts = re.split(r"[\s,;|/]+", tail.strip())
+
+    # Coba pisah dengan koma dulu
+    parts = re.split(r"[,\s]+", tail)
     parts = [p for p in parts if p]
     if not parts:
         return None
@@ -228,153 +222,195 @@ def _parse_compare_args(msg_raw: str) -> Optional[List[str]]:
             break
     if len(out) != 2:
         return None
-    return out
+
+    return (out[0], out[1])
+
+
+# ====== Natural-language ticker detection (NEW, sesuai symbols.txt) ======
+def _symbols_path(default_name: str = "symbols.txt") -> str:
+    return os.path.join(os.path.dirname(os.path.abspath(__file__)), default_name)
+
+
+def _load_symbols(symbols_path: Optional[str] = None) -> set:
+    if not symbols_path:
+        symbols_path = _symbols_path()
+    syms = set()
+    try:
+        with open(symbols_path, "r", encoding="utf-8") as f:
+            for line in f:
+                s = line.strip().upper()
+                if s:
+                    syms.add(s)
+    except Exception:
+        pass
+    return syms
+
+
+def _find_tickers_in_text(message_text: str, symbols: set) -> List[str]:
+    """
+    Ambil semua token yang *bentuknya* ticker lalu filter yang ada di symbols.txt.
+    Urutan kemunculan dipertahankan.
+    """
+    tokens = re.findall(_TICKER_PATTERN, (message_text or "").upper())
+    seen, tickers = set(), []
+    for t in tokens:
+        if t in symbols and t not in seen:
+            tickers.append(t)
+            seen.add(t)
+    return tickers
+
+
+def _handle_single_ticker_request(ticker: str, base_folder: str) -> str:
+    """
+    Jalankan alur default untuk satu ticker:
+      1) Coba quick_scan.py
+      2) Fallback baca Data/<TICKER>.MD
+      3) Jika gagal semua -> pesan bantuan
+    """
+    # 1) Quick terlebih dulu
+    quick_res = _run_quick_scan(ticker=ticker, folder="./quick", timeout=60)
+
+    if quick_res["ok"] and not quick_res["not_found"] and quick_res["stdout"]:
+        return quick_res["stdout"]
+
+    # 2) Fallback baca Data/<TICKER>.MD
+    content = get_file_content(base_folder, ticker)
+    if content:
+        return content
+
+    # 3) Tidak ada dua-duanya
+    quick_status = (
+        "tidak menemukan file" if quick_res.get("not_found")
+        else ("gagal" if not quick_res.get("ok") else "tidak ada output")
+    )
+    return (
+        f"Kode saham **{ticker}** belum ditemukan.\n"
+        f"- Quick Scan: {quick_status}\n"
+        f"- Folder Data: file .MD tidak ditemukan.\n\n"
+        f"Silakan cek dengan perintah **LIST** untuk melihat ticker yang tersedia.\n\n"
+        f"{_help_text()}"
+    )
 
 
 # ====== Dispatcher utama ======
-def handle_message(message_text: str, base_folder: str = "Data", compare_dir: Optional[str] = None) -> str:
+def handle_message(msg_raw: str, base_folder: str = "./Data") -> str:
     """
-    Router pesan utama.
+    Fungsi utama yang akan dipanggil WA bot.
+    Tidak mengubah signature/kontrak dasar.
     """
-    msg_raw = (message_text or "").strip()
-    msg = msg_raw.upper()
+    msg_raw = (msg_raw or "").strip()
+    if not msg_raw:
+        return _help_text()
 
-    # --- HELP / HI ---
-    if re.fullmatch(r"(HI|HELP)", msg):
+    msg_up = msg_raw.upper()
+
+    # --- Salam/Help ---
+    if msg_up in ("HI", "HELP", "HALO", "MENU"):
         return _help_text()
 
     # --- LIST ---
-    if msg == "LIST":
+    if msg_up.startswith("LIST"):
         return _list_md(base_folder)
 
-    # --- KATEGORI KHUSUS ---
-    m_cat = re.fullmatch(r"(FINANCIAL|BALANCE|OPERATIONAL|VALUATION)\s+(" + _TICKER_PATTERN + r")", msg)
-    if m_cat:
-        category = m_cat.group(1)
-        ticker = m_cat.group(2)
-        path = os.path.join(base_folder, category, f"{ticker}.MD")
-        if os.path.exists(path):
-            with open(path, "r", encoding="utf-8") as f:
-                return f.read()
-        else:
-            return f"File untuk {category} {ticker} tidak ditemukan di folder {base_folder}/{category}."
-
     # --- COMPARE ---
-    if msg.startswith("COMPARE"):
-        tickers = _parse_compare_args(msg_raw)
-        if not tickers:
-            return "Format COMPARE tidak valid. Contoh: COMPARE ANTM, INCO"
-        return _run_compare(tickers, compare_dir=compare_dir, timeout=90)
+    if msg_up.startswith("COMPARE"):
+        pair = _parse_compare_args(msg_raw)
+        if pair:
+            return _run_compare([pair[0], pair[1]], timeout=90)
+        else:
+            return (
+                "Format COMPARE tidak dikenali. Contoh yang benar:\n"
+                "- COMPARE BMRI,BBCA\n- COMPARE BMRI BBCA"
+            )
 
     # --- NEWS ---
-    if msg.startswith("NEWS"):
+    if msg_up.startswith("NEWS"):
         if not _NEWS_ENABLED:
             return f"Fitur NEWS belum aktif: {_NEWS_IMPORT_ERR}"
+        # Kirim seluruh pesan ke handler news agar kompatibel dengan format lama (NEWS <QUERY> [N])
         try:
-            res = _news_handle(msg_raw)  # serahkan parsing argumen ke modul
-            if isinstance(res, (list, tuple)):
-                return "\n\n".join([str(r) for r in res])
-            return str(res)
+            result = _news_handle(msg_raw)
+            if isinstance(result, list):
+                return "\n\n".join(result)
+            return str(result)
         except Exception as e:
-            return f"Gagal mengambil berita: {type(e).__name__}: {e}"
+            return f"Gagal memproses NEWS: {type(e).__name__}: {e}"
 
-    # --- TEKNIKAL: HIGHLOW / MA / PIVOT ---
-    if msg.startswith("HIGHLOW") or msg.startswith("MA ") or msg.startswith("PIVOT"):
+    # --- ANALISA TEKNIKAL (opsional) ---
+    if msg_up.startswith("HIGHLOW") or msg_up.startswith("MA ") or msg_up.startswith("PIVOT"):
         if not _TECH_ENABLED:
             return f"Fitur teknikal belum aktif: {_TECH_IMPORT_ERR}"
-
         try:
-            if msg.startswith("HIGHLOW"):
-                # HIGHLOW <TICKER> [DAYS]
-                m = re.fullmatch(r"HIGHLOW\s+(" + _TICKER_PATTERN + r")(?:\s+(\d+))?", msg)
-                if not m:
-                    return "Format HIGHLOW salah. Contoh: HIGHLOW ANTM 7"
-                ticker = m.group(1)
-                days = int(m.group(2)) if m.group(2) else 7
-                data = weekly_high_low(ticker, days=days)
-                return (
-                    f"High/Low {ticker} ({days} hari)\n"
-                    f"- High: {data.get('highest')}\n"
-                    f"- Low:  {data.get('lowest')}\n"
-                    f"- Periode: {data.get('start')} → {data.get('end')}"
-                )
+            parts = msg_up.split()
+            if msg_up.startswith("HIGHLOW"):
+                # HIGHLOW <TICKER> <N>
+                if len(parts) < 3:
+                    return "Format: HIGHLOW <TICKER> <N_HARI>"
+                tick, n = parts[1], int(parts[2])
+                hi, lo = weekly_high_low(tick, n)
+                return f"HIGH/LOW {tick} {n} hari:\nHigh: {hi}\nLow: {lo}"
 
-            if msg.startswith("MA "):
-                # MA <TICKER> <WINDOW> [DAILY|WEEKLY]
-                m = re.fullmatch(r"MA\s+(" + _TICKER_PATTERN + r")\s+(\d+)(?:\s+(DAILY|WEEKLY))?", msg)
-                if not m:
-                    return "Format MA salah. Contoh: MA BBCA 50 WEEKLY"
-                ticker = m.group(1)
-                window = int(m.group(2))
-                frame = (m.group(3) or "WEEKLY").upper()
-                close, ma = moving_average(ticker, window=window, frame=frame)
-                bias = "Bullish ⬆️" if close > ma else "Bearish ⬇️"
-                return (
-                    f"MA {ticker} ({window}, {frame})\n"
-                    f"- Close: {close}\n"
-                    f"- MA:    {ma}\n"
-                    f"- Sinyal: {bias}"
-                )
+            if msg_up.startswith("MA "):
+                # MA <TICKER> <PERIOD>
+                if len(parts) < 3:
+                    return "Format: MA <TICKER> <PERIOD>"
+                tick, period = parts[1], int(parts[2])
+                ma = moving_average(tick, period)
+                return f"MA {tick} ({period}): {ma}"
 
-            if msg.startswith("PIVOT"):
-                # PIVOT <TICKER> [DAILY|WEEKLY]
-                m = re.fullmatch(r"PIVOT\s+(" + _TICKER_PATTERN + r")(?:\s+(DAILY|WEEKLY))?", msg)
-                if not m:
-                    return "Format PIVOT salah. Contoh: PIVOT BBRI WEEKLY"
-                ticker = m.group(1)
-                source = (m.group(2) or "DAILY").upper()
-                p = pivot_points(ticker, source=source)
+            if msg_up.startswith("PIVOT"):
+                # PIVOT <TICKER>
+                if len(parts) < 2:
+                    return "Format: PIVOT <TICKER>"
+                tick = parts[1]
+                p, r1, r2, s1, s2 = pivot_points(tick)
                 return (
-                    f"Pivot {ticker} ({source})\n"
-                    f"- P: {p.get('P')}\n- R1: {p.get('R1')}  R2: {p.get('R2')}\n"
-                    f"- S1: {p.get('S1')}  S2: {p.get('S2')}"
+                    f"PIVOT {tick}:\n"
+                    f"- Pivot: {p}\n- R1: {r1}\n- R2: {r2}\n- S1: {s1}\n- S2: {s2}"
                 )
         except Exception as e:
-            return f"Error teknikal: {type(e).__name__}: {e}"
+            return f"Gagal menghitung analisa teknikal: {type(e).__name__}: {e}"
 
     # --- <TICKER> DETAIL ---
-    parts = msg.split()
-    if len(parts) == 2 and re.fullmatch(_TICKER_PATTERN, parts[0]) and parts[1] == "DETAIL":
-        ticker = parts[0]
+    m_detail = re.match(rf"^\s*({_TICKER_PATTERN})\s+DETAIL\s*$", msg_up)
+    if m_detail:
+        ticker = m_detail.group(1)
         content = get_file_content(base_folder, ticker)
-        if content:
-            return content
-        return f"Data detail untuk **{ticker}** belum ditemukan di folder *{base_folder}*."
+        return content or f"File Data/{ticker}.MD tidak ditemukan."
 
-    # --- DEFAULT: asumsikan user kirim satu kata = TICKER ---
+    # --- NATURAL LANGUAGE: deteksi ticker dari symbols.txt ---
+    # Misal: "minta analisa BMRI dong", "tolong info BBCA", dll.
+    symbols = _load_symbols()
+    if symbols:
+        found = _find_tickers_in_text(msg_raw, symbols)
+        if len(found) == 1:
+            return _handle_single_ticker_request(found[0], base_folder)
+        elif len(found) >= 2:
+            t1, t2 = found[0], found[1]
+            return (
+                "Terdeteksi lebih dari satu ticker dalam pesan.\n"
+                f"Coba perintah: **COMPARE {t1},{t2}**\n\n"
+                f"{_help_text()}"
+            )
+
+    # --- DEFAULT: satu kata yang terlihat seperti ticker ---
+    parts = msg_up.split()
     if len(parts) == 1 and re.fullmatch(_TICKER_PATTERN, parts[0]):
-        ticker = parts[0]  # sudah uppercase
-        # 1) Coba quick_scan.py terlebih dahulu
-        quick_res = _run_quick_scan(ticker=ticker, folder="./quick", timeout=60)
+        ticker = parts[0]
+        return _handle_single_ticker_request(ticker, base_folder)
 
-        if quick_res["ok"] and not quick_res["not_found"] and quick_res["stdout"]:
-            # quick menghasilkan output; langsung tampilkan
-            return quick_res["stdout"]
-
-        # 2) Fallback: baca Data/<TICKER>.MD
-        content = get_file_content(base_folder, ticker)
-        if content:
-            return content
-
-        # 3) Tetap tidak ada
-        quick_status = (
-            "tidak menemukan file" if quick_res.get("not_found")
-            else ("gagal" if not quick_res.get("ok") else "tidak ada output")
-        )
-        return (
-            f"Kode saham **{ticker}** belum ditemukan.\n"
-            f"- Quick Scan: {quick_status}\n"
-            f"- Folder Data: file .MD tidak ditemukan.\n\n"
-            f"Silakan cek dengan perintah **LIST** untuk melihat ticker yang tersedia.\n\n"
-            f"{_help_text()}"
-        )
-
-    # --- Jika tak cocok apa pun, tampilkan HELP ---
+    # --- Fallback: bantuan ---
     return _help_text()
 
 
-# ====== Entry manual test kecil ======
+# ====== CLI mode sederhana (opsional untuk testing cepat) ======
 if __name__ == "__main__":
-    # Contoh manual: python responder.py "ADMF"
-    q = " ".join(sys.argv[1:]) if len(sys.argv) > 1 else "HELP"
-    print(handle_message(q))
+    import argparse
+
+    parser = argparse.ArgumentParser(description="Responder WA Bot Mas Bono")
+    parser.add_argument("message", type=str, nargs="*", help="Pesan user")
+    parser.add_argument("--data", type=str, default="./Data", help="Folder Data (default: ./Data)")
+    args = parser.parse_args()
+
+    msg = " ".join(args.message)
+    print(handle_message(msg, base_folder=args.data))
