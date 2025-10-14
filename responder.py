@@ -355,55 +355,39 @@ def handle_message(msg_raw: str, base_folder: str = "./Data") -> str:
             return f"Gagal memproses NEWS: {type(e).__name__}: {e}"
 
     # --- ANALISA TEKNIKAL (opsional) ---
-    if msg.startswith("HIGHLOW") or msg.startswith("MA ") or msg.startswith("PIVOT"):
+    if msg_up.startswith("HIGHLOW") or msg_up.startswith("MA ") or msg_up.startswith("PIVOT"):
         if not _TECH_ENABLED:
-            return (
-                "⚠️ Fitur teknikal belum aktif (market_utils tidak tersedia).\n"
-                f"Detail: {_TECH_ERR if '_TECH_ERR' in globals() else 'unknown error'}"
-            )
-        parts = msg.strip().split()
-        cmd = parts[0]
+            return f"Fitur teknikal belum aktif: {_TECH_IMPORT_ERR}"
         try:
-            if cmd == "HIGHLOW":
-                if len(parts) < 2:
-                    return "Format: HIGHLOW <TICKER> [DAYS]. Contoh: HIGHLOW PTBA 7"
-                ticker = parts[1]
-                days = int(parts[2]) if len(parts) >= 3 else 7
-                res = weekly_high_low(ticker, days=days)
-                return (
-                    f"📈 *Weekly High/Low* {ticker.upper()}\n"
-                    f"Periode: {res['start']} → {res['end']}\n"
-                    f"- High: {res['highest']:.2f}\n"
-                    f"- Low : {res['lowest']:.2f}"
-                )
-            elif cmd == "MA":
+            parts = msg_up.split()
+            if msg_up.startswith("HIGHLOW"):
+                # HIGHLOW <TICKER> <N>
                 if len(parts) < 3:
-                    return "Format: MA <TICKER> <WINDOW> [DAILY|WEEKLY]. Contoh: MA BBCA 50 WEEKLY"
-                ticker = parts[1]
-                window = int(parts[2])
-                frame = parts[3] if len(parts) >= 4 else "WEEKLY"
-                last_close, last_ma = moving_average(ticker, window=window, frame=frame)
-                signal = "BULLISH (Close > MA)" if last_close > last_ma else "BEARISH (Close < MA)"
-                return (
-                    f"📊 *MA{window} {frame.title()}* {ticker.upper()}\n"
-                    f"- Close terakhir: {last_close:.2f}\n"
-                    f"- MA{window}: {last_ma:.2f}\n"
-                    f"- Sinyal: {signal}"
-                )
-            elif cmd == "PIVOT":
+                    return "Format: HIGHLOW <TICKER> <N_HARI>"
+                tick, n = parts[1], int(parts[2])
+                hi, lo = weekly_high_low(tick, n)
+                return f"HIGH/LOW {tick} {n} hari:\nHigh: {hi}\nLow: {lo}"
+
+            if msg_up.startswith("MA "):
+                # MA <TICKER> <PERIOD>
+                if len(parts) < 3:
+                    return "Format: MA <TICKER> <PERIOD>"
+                tick, period = parts[1], int(parts[2])
+                ma = moving_average(tick, period)
+                return f"MA {tick} ({period}): {ma}"
+
+            if msg_up.startswith("PIVOT"):
+                # PIVOT <TICKER>
                 if len(parts) < 2:
-                    return "Format: PIVOT <TICKER> [DAILY|WEEKLY]. Contoh: PIVOT BBRI WEEKLY"
-                ticker = parts[1]
-                src = parts[2] if len(parts) >= 3 else "WEEKLY"
-                piv = pivot_points(ticker, source=src.lower())
+                    return "Format: PIVOT <TICKER>"
+                tick = parts[1]
+                p, r1, r2, s1, s2 = pivot_points(tick)
                 return (
-                    f"🧭 *Pivot ({src.title()})* {ticker.upper()}\n"
-                    f"P : {piv['P']:.2f}\n"
-                    f"R1: {piv['R1']:.2f} | R2: {piv['R2']:.2f}\n"
-                    f"S1: {piv['S1']:.2f} | S2: {piv['S2']:.2f}"
+                    f"PIVOT {tick}:\n"
+                    f"- Pivot: {p}\n- R1: {r1}\n- R2: {r2}\n- S1: {s1}\n- S2: {s2}"
                 )
         except Exception as e:
-            return f"⚠️ Error teknikal: {str(e)}"
+            return f"Gagal menghitung analisa teknikal: {type(e).__name__}: {e}"
 
     # --- <TICKER> DETAIL ---
     m_detail = re.match(rf"^\s*({_TICKER_PATTERN})\s+DETAIL\s*$", msg_up)
