@@ -367,9 +367,7 @@ def handle_message(msg_raw: str, base_folder: str = "./Data") -> str:
 # 1) Salam natural → balas greeting berbasis waktu + ringkasan bantuan
 if _GREETING_PAT.search(msg_raw):
     greet = _time_based_greeting()
-    return f"{greet}"
-
-{_help_text()}"
+    return f"{greet}\n\n{_help_text()}"
 
 # 2) HELP/menu eksplisit → tampilkan bantuan
 if msg_up in ("HELP", "MENU"):
