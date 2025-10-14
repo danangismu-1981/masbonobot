@@ -118,8 +118,8 @@ def list_available_tickers(compare_dir: str):
 
 def friendly_not_found(ticker: str, compare_dir: str) -> str:
     avail = list_available_tickers(compare_dir)
-    msg = [f"[DATA TIDAK DITEMUKAN] File untuk ticker '{ticker}' tidak ditemukan di folder '{compare_dir}'."]
-    msg.append("➤ Penamaan yang diharapkan: <TICKER>_COMPARE.MD (UPPERCASE). Contoh: AALI_COMPARE.MD")
+    msg = [f"[DATA TIDAK DITEMUKAN] File untuk ticker '{ticker}' tidak ditemukan di folder '{compare_dir}'.",
+           "➤ Penamaan yang diharapkan: <TICKER>_COMPARE.MD (UPPERCASE). Contoh: AALI_COMPARE.MD"]
     if avail:
         show = ", ".join(avail[:20]) + (" ..." if len(avail) > 20 else "")
         msg.append(f"➤ Ticker yang tersedia saat ini ({len(avail)}): {show}")
@@ -211,6 +211,7 @@ def pick_winner(a: Dict[str, object], b: Dict[str, object]) -> str:
     return "Imbang"
 
 def narration(a: Dict[str, object], b: Dict[str, object]) -> List[str]:
+    """Buat kalimat narasi perbandingan inti (tanpa emoji)."""
     out: List[str] = []
     # Premium vs murah (PER)
     try:
@@ -233,11 +234,50 @@ def narration(a: Dict[str, object], b: Dict[str, object]) -> List[str]:
     # Net Profit Growth YoY
     try:
         ga, gb = float(a.get("Net Profit Growth YoY")), float(b.get("Net Profit Growth YoY"))
-        if ga and gb:
-            if ga*gb < 0: out.append(f"Pertumbuhan laba kontras; {'{}' .format(a['Ticker'] if ga>gb else b['Ticker'])} lebih baik saat ini.")
-            else: out.append(f"Keduanya searah; {'{}' .format(a['Ticker'] if ga>gb else b['Ticker'])} tumbuh lebih cepat.")
+        if (ga is not None) and (gb is not None):
+            if ga*gb < 0:
+                # kontras tanda
+                ticker_better = a['Ticker'] if ga > gb else b['Ticker']
+                out.append(f"Pertumbuhan laba kontras; {ticker_better} lebih baik saat ini.")
+            else:
+                ticker_faster = a['Ticker'] if ga > gb else b['Ticker']
+                out.append(f"Keduanya searah; {ticker_faster} tumbuh lebih cepat.")
     except: pass
     return out
+
+def add_emojis_to_notes(notes: List[str]) -> List[str]:
+    """Tambahkan emoji berdasarkan kata kunci pada setiap poin kesimpulan."""
+    decorated = []
+    for n in notes:
+        lower = n.lower()
+        emoji = ""
+        if "dividend" in lower or "yield" in lower:
+            emoji = "💰 "
+        elif "premium" in lower or "per " in lower:
+            emoji = "💎 "
+        elif "laba" in lower or "growth" in lower or "tumbuh" in lower:
+            # bedakan naik/turun sederhana
+            if "lebih cepat" in lower or "lebih baik" in lower:
+                emoji = "📈 "
+            elif "-" in lower:
+                emoji = "📉 "
+            else:
+                emoji = "📈 "
+        elif "risiko" in lower or "risk" in lower or "warning" in lower:
+            emoji = "⚠️ "
+        else:
+            emoji = "🔎 "
+        decorated.append(f"- {emoji}{n}")
+    return decorated
+
+def winner_line(winner: str) -> str:
+    if winner == "Imbang":
+        return "- 🤝 Hasil total imbang berdasarkan skor ringkas."
+    return f"- 🏆 {winner} tampak **lebih baik** berdasarkan TotalScore dan tie-breakers."
+
+def separator_line(fmt: str) -> str:
+    # untuk whatsapp/markdown sama saja supaya aman di dua format
+    return "───────────────────────────────"
 
 # ---------- main ----------
 def main():
@@ -270,20 +310,26 @@ def main():
 
     a, b = [parse_md(p) for p in paths]
 
+    # Header
     print(f"📊 COMPARISON: {a.get('Ticker','?')} vs {b.get('Ticker','?')}\n")
+
+    # Kesimpulan di atas
+    winner = pick_winner(a, b)
+    notes_core = narration(a, b)
+    notes_with_emoji = add_emojis_to_notes(notes_core)
+
+    print("🏁 Kesimpulan")
+    print(winner_line(winner))
+    if notes_with_emoji:
+        for ln in notes_with_emoji:
+            print(ln)
+    print()
+    print(separator_line(args.format))
+    print()
+
+    # Detail per perusahaan
     print(render_company(a)); print()
     print(render_company(b)); print()
-
-    winner = pick_winner(a, b)
-    notes = narration(a, b)
-
-    print("Kesimpulan")
-    if winner == "Imbang":
-        print("- Hasil total imbang berdasarkan skor ringkas.")
-    else:
-        print(f"- {winner} tampak **lebih baik** berdasarkan TotalScore dan tie-breakers.")
-    for n in notes:
-        print(f"- {n}")
 
 if __name__ == "__main__":
     main()
