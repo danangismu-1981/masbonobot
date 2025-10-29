@@ -1,64 +1,51 @@
 ## BBCA – Investor One-Pager
 
 ### 1) Pertumbuhan & Tren Utama
-- **Pendapatan & Laba (Q2 2025):**
-  - Pendapatan: Rp28,59 T (+2% QoQ dari Rp28,12 T di Q1 2025)
-  - Laba bersih: Rp14,87 T (+5% QoQ dari Rp14,15 T di Q1 2025)
-- **Pertumbuhan Kredit:**
-  - Kredit bruto tumbuh menjadi Rp938,2 T (+2% QoQ dari Rp919,6 T di Q1 2025)
-- **DANA PIHAK KETIGA (DPK):**
-  - Total DPK: Rp1.175,97 T (stabil, -0,3% QoQ)
-  - CASA (current + savings): Rp976,54 T ⇒ CASA Ratio ~83% (Q2 2025), relatif stabil
-- **Aset:**
-  - Total aset: Rp1.504,12 T (sedikit turun -3% QoQ)
-- **Arus Kas Operasi:** Rp5,74 T (Q2 2025), turun signifikan dari Q1 2025 (Rp35,2 T) karena aktivitas musiman atau perubahan pembayaran internasional
-- **Trend YoY (FY2024 vs FY2023):**
-  - Laba bersih FY2024: Rp54,84 T (+12,7% YoY dari Rp48,64 T FY2023)
-  - Pendapatan FY2024: Rp108,3 T (+8,4% YoY)
-  - Kredit bruto FY2024: Rp901,3 T (+13,8% YoY)
-  - CASA FY2024: Rp919,1 T, CASA ratio meningkat YoY
-- **Periode yang dipakai untuk angka utama: Q2 2025**
+- **Pendapatan Q3 2025:** Rp29,16 triliun (Q3 2025); naik +4% QoQ dari Q2 2025 (Rp28,59 triliun), naik +13% YoY dari Q3 2024 (Rp25,87 triliun, estimasi penjumlahan interest+non-interest income).
+- **Laba Bersih Q3 2025:** Rp14,38 triliun; turun -2,2% QoQ (Q2 2025: Rp14,87 triliun), namun naik +1,46% YoY (Q3 2024: Rp14,20 triliun).
+- **Katalis utama:** Kenaikan pendapatan terutama berasal dari pertumbuhan non-interest income dan pendapatan bunga bersih yang solid YoY. Tekanan laba QoQ disebabkan kenaikan beban operasional dan provisi kredit.
+- **Loan growth:** Gross loan Rp922 triliun (+7% YoY, Q3 2025 vs Q3 2024: Rp856,7 triliun).
+- **Dana pihak ketiga (DPK):** Rp1.190,7 triliun (+6,8% YoY, Q3 2025 vs Q3 2024: Rp1.114,2 triliun).
+- **Aset total:** Rp1.538,5 triliun (Q3 2025), naik dari Rp1.433,7 triliun (Q3 2024); +7,3% YoY.
+- **Margin bunga bersih stabil:** Net Interest Income Q3 2025: Rp21,36 triliun (datar QoQ; +1% YoY).
+- **Tren CASA (Current & Savings) tetap kuat:** Sekitar 83,6% dari DPK Q3 2025.
+  
+**Periode yang dipakai untuk angka utama: Q3 2025**
 
 ### 2) Posisi Kompetitif (Benchmark Highlights)
-- **BBCA adalah bank terbesar di Indonesia dari sisi kapitalisasi pasar (Rp942,5 T, FY2024)**
-- **Valuasi premium**: P/B 3,60x, P/E 16,54x (lebih tinggi dari rata-rata peers seperti BBRI 9,87x P/E dan BMRI 7,58x)
-- **ROE tinggi**: 20,17% (FY2024) – outperform peers besar
-- **CASA Ratio**: 83% (Q2 2025), terbaik di industri, jauh di atas rata-rata peers
-- **Kualitas aset sangat solid**: NPL gross & cost of credit persisten rendah
+- **Market cap terbesar:** BBCA Rp942,5 triliun; unggul jauh dari BRI/BMRI (Rp559,8T/Rp406,9T).
+- **ROE & ROA tertinggi di peer utama:** BBCA (2024) ROE 20,2%, ROA 3,78% vs BBRI (15-17% ROE), BMRI (14-16% ROE).
+- **Valuasi premium:** BBCA P/B 3,60x (2024), PE 16,54x TTM; peers (BBRI P/B 1,77x, PE 9,87x; BMRI P/B 1,53x, PE 7,58x).
+- **Efisiensi/biaya:** Cost-to-income ratio 2024: 55,8% (terendah di peer utama).
+- **Risiko kredit rendah – NPL dan kredit bermasalah bisa lebih ditekan dibanding nama besar lain.**
 
 ### 3) Profitabilitas / Kualitas Aset / Struktur Pendanaan
-- **Net Interest Margin (NIM):** 6,07% (FY2024, terbaik di sektor bank besar)
-- **ROA:** 3,78% (FY2024)
-- **Kualitas Aset:**
-  - Loan Loss Coverage >200% (estimasi, allowance for loans selalu sehat, Q2 2025: Rp33,2 T)
-  - NPL gross FY2024 di bawah 2% (detail Q2 2025 tidak tersedia, namun stabil)
-- **Struktur Pendanaan:** 
-  - CASA ratio 83% → biaya dana rendah, resilience kuat 
-  - Modal sangat kuat: CAR 29,14% (FY2024)
-  - Leverage sangat sehat (Debt/Equity 0,0021x, FY2024)
+- **NIM (2024):** 6,07% – sangat baik & stabil.
+- **Cost of credit:** Provisi Q3 2025: -Rp1,51 triliun (net release; risiko menurun).
+- **CAR kuat:** 29,1% (2024) → jauh di atas regulasi.
+- **NPL rasio ~1,7% (2024) – kualitas aset sangat tinggi.
+- **CASA Ratio:** Q3 2025 83,6% → funding cost rendah & stabil.
+- **Loan-to-Deposit Ratio:** 77,5% (2024) – optimal, ruang ekspansi kredit.
+- **Operating expense Q3 2025:** Rp9,68 triliun (naik tipis QoQ/YoY, sejalan dengan ekspansi dan digitalisasi).
 
 ### 4) Dividen & Valuasi
-- **Dividen TTM:** Rp300/lembar; Yield ~4% (TTM)
-- **Rasio payout 2024:** 64,9% 
-- **Dividen meningkat konsisten:**
-  - 2023: Rp212,5/lembar
-  - 2024: Rp277,5/lembar (+30%)
-  - 2025 (interim): sudah Rp250/lembar
-- **Valuasi:** 
-  - P/E TTM: 16,54x (premium), P/B: 3,60x
+- **Dividen TTM:** Rp300/lembar (berdasarkan payout historis 2024-Maret 2025).
+- **Dividend yield TTM:** 4,0% (BBCA-dividen.txt).
+- **Payout ratio:** 64,9% dari laba; konsisten tinggi.
+- **Valuasi:** PE premium (16,5x TTM); premium justified via kualitas aset, profitabilitas, CASA.
 
 ### 5) Rekomendasi
 **6M (Taktis):**
-- Maintain stance defensif; valuasi mahal tetapi kualitas tetap *best in class*.
-- Potensi upside terbatas akibat premium valuation, walau risiko earning-downside rendah.
+- Waspadai risiko tekanan margin akibat persaingan funding dan cost of risk rebound pasca bottoming.
+- Masuk saat koreksi, fokus pada kestabilan earnings/digital banking.
 
 **5Y (Tesis):**
-- Turbulence makro tetap membuat BBCA pilihan utama untuk defensif/compounding.
-- Struktur dana murah, capital buffer tebal, dan excellence operasional → kuat dalam konsistensi profit jangka panjang.
+- Terus dominan di segmen retail/digital.
+- CASA dan efisiensi operasional berpeluang pertahankan superioritas marjin & ROE.
 
 ### 6) Kesimpulan
-Jangka Pendek (≤6 bulan): ⚠️ – *Too good, too expensive*. Kinerja operasional prima, namun upside terbatas akibat valuasi mahal.
-Jangka Panjang (>5 tahun): ✅ – Franchise unggul, efficiency & CASA sustain, dividen naik, potensi compounding tetap menarik.
+Jangka Pendek (≤6 bulan): ⚠️ – Valuasi mahal, risiko koreksi tetap ada seiring volatilitas aset keuangan; ruang upside terbatas kecuali driver pertumbuhan baru muncul.
+Jangka Panjang (> 5 tahun): ✅ – Reputasi, kualitas aset, ekosistem digital, CASA tinggi; ideal untuk investor defensif yang cari kestabilan & dividen konsisten.
 
 ### 7) Catatan Penting
 Analisis ini bersifat edukasi, bukan ajakan beli/jual. Keputusan investasi sepenuhnya di tangan investor.
