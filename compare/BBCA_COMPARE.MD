@@ -5,10 +5,10 @@ Ticker: BBCA
 Company: PT Bank Central Asia Tbk
 Sector: Financials
 Industry: Banks
-AsOf: 2025-06-30
+AsOf: 2025-09-30
 
 ## VALUATION
-Market Cap: IDR 943 triliun
+Market Cap: IDR 942.5 triliun
 PER: 16.5x
 PBV: 3.6x
 Dividend Yield: 4.0%
@@ -32,14 +32,15 @@ IncomeScore: 5
 
 ## NOTES
 Highlights:
-- Consistently high ROE (~20%) and net margin (>50%)
-- Dividend yield at 4% is above sector average
+- Leading ROE and net margin among peers
+- Consistent revenue and profit growth
+- High and rising dividend yield
 
 Risks:
-- Valuation premium (PER, PBV) above peers
-- High DER typical for banks, but leverage remains a risk
+- Valuation premium vs. peers (high PER, PBV)
+- High leverage (DER >4x)
 
 ## METADATA
-Source: Company filings, peer data, dividend disclosures
-Period: Q2 2025 YTD
-LastUpdate: 2025-06-30
+Source: Company filings, peer data, dividend records
+Period: Q3 2025 YTD
+LastUpdate: 2025-09-30
