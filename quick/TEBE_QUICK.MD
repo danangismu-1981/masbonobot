@@ -1,6 +1,6 @@
-📊 TEBE Q2 2025
-📈 Revenue (QoQ 🔼🟢 39.8% | YoY 🔻🔴 -21.2%)
-💰 Net Profit (QoQ 🔼🟢 25138.0% | YoY 🔼🟢 55.1%)
+📊 TEBE Q3 2025
+📈 Revenue (QoQ 🔼🟢 53.0% | YoY 🔻🔴 -17.6%)
+💰 Net Profit (QoQ 🔼🟢 95.8% | YoY 🔻🔴 -6.3%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 40x | PBV 3259.2x
+🧮 Valuasi: PER 24x | PBV 2.6x
 🧱 Fundamental perlu dicermati

@@ -1,6 +1,6 @@
-📊 TRST Q2 2025
-📈 Revenue (QoQ 🔻🔴 -199.8% | YoY 🔻🔴 -201.2%)
-💰 Net Profit (QoQ 🔻🔴 -199.7% | YoY 🔻🔴 -211.4%)
+📊 TRST Q3 2025
+📈 Revenue (QoQ 🔼🟢 5.3% | YoY 🔼🟢 7.0%)
+💰 Net Profit (QoQ 🔻🔴 -153.6% | YoY 🔻🔴 -18.4%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 34x | PBV 559.3x
+🧮 Valuasi: PER 35x | PBV 0.5x
 🧱 Fundamental perlu dicermati

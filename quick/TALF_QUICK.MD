@@ -1,6 +1,6 @@
-📊 TALF Q2 2025
-📈 Revenue (QoQ 🔻🔴 -12.0% | YoY 🔼🟢 7.9%)
-💰 Net Profit (QoQ 🔻🔴 -82.8% | YoY 🔻🔴 -1432.4%)
+📊 TALF Q3 2025
+📈 Revenue (QoQ 🔼🟢 9.2% | YoY 🔼🟢 7.0%)
+💰 Net Profit (QoQ 🔼🟢 386.1% | YoY 🔼🟢 110.4%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 23x | PBV 0.6x
-🧱 Fundamental perlu dicermati
+🧮 Valuasi: PER 20x | PBV 0.6x
+🧱 Fundamental stabil

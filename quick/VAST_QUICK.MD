@@ -1,6 +1,6 @@
-📊 VAST Q2 2025
-📈 Revenue (QoQ 🔼🟢 3.4% | YoY 🔼🟢 5.5%)
-💰 Net Profit (QoQ ⏺️ n/a | YoY ⏺️ n/a)
-💡 Cash Operasi: Negatif
-🧮 Valuasi: PER n/a | PBV 1.2x
+📊 VAST Q3 2025
+📈 Revenue (QoQ 🔼🟢 3.2% | YoY 🔼🟢 4.6%)
+💰 Net Profit (QoQ 🔼🟢 0.8% | YoY 🔼🟢 21.0%)
+💡 Cash Operasi: Positif
+🧮 Valuasi: PER 25x | PBV 1.1x
 🧱 Fundamental stabil

@@ -1,6 +1,6 @@
-📊 TCPI Q2 2025
-📈 Revenue (QoQ 🔼🟢 8.0% | YoY 🔼🟢 3.1%)
-💰 Net Profit (QoQ 🔻🔴 -6.4% | YoY 🔼🟢 96.2%)
+📊 TCPI Q3 2025
+📈 Revenue (QoQ 🔼🟢 4.6% | YoY 🔼🟢 0.2%)
+💰 Net Profit (QoQ 🔻🔴 -22.4% | YoY 🔼🟢 434.8%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 284x | PBV 14.6x
+🧮 Valuasi: PER 211x | PBV 19.1x
 🧱 Fundamental stabil

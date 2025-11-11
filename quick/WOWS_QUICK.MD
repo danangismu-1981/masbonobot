@@ -1,6 +1,6 @@
-📊 WOWS Q2 2025
-📈 Revenue (QoQ 🔻🔴 -16.0% | YoY 🔼🟢 38.2%)
-💰 Net Profit (QoQ ⏺️ n/a | YoY ⏺️ n/a)
+📊 WOWS Q3 2025
+📈 Revenue (QoQ 🔼🟢 11.8% | YoY 🔼🟢 30.7%)
+💰 Net Profit (QoQ 🔼🟢 30.5% | YoY 🔻🔴 -259.6%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER n/a | PBV 0.4x
-🧱 Fundamental stabil
+🧮 Valuasi: PER 23x | PBV 0.4x
+🧱 Fundamental perlu dicermati

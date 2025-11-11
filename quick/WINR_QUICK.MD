@@ -1,6 +1,6 @@
-📊 WINR Q2 2025
-📈 Revenue (QoQ 🔼🟢 70.7% | YoY 🔼🟢 575.2%)
-💰 Net Profit (QoQ 🔼🟢 133.9% | YoY 🔻🔴 -1422.9%)
-💡 Cash Operasi: Negatif
-🧮 Valuasi: PER 11x | PBV 0.5x
-🧱 Fundamental perlu dicermati
+📊 WINR Q3 2025
+📈 Revenue (QoQ 🔼🟢 30.8% | YoY 🔼🟢 274.0%)
+💰 Net Profit (QoQ 🔻🔴 -31.5% | YoY 🔼🟢 8674.7%)
+💡 Cash Operasi: Positif
+🧮 Valuasi: PER 8x | PBV 0.5x
+🧱 Fundamental stabil

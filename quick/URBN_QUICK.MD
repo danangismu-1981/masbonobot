@@ -1,6 +1,6 @@
-📊 URBN Q1 2025
-📈 Revenue (QoQ 🔼🟢 0.0% | YoY 🔻🔴 -14.4%)
-💰 Net Profit (QoQ 🔼🟢 0.0% | YoY 🔻🔴 -78.5%)
+📊 URBN Q3 2025
+📈 Revenue (QoQ 🔻🔴 -136.4% | YoY 🔻🔴 -78.0%)
+💰 Net Profit (QoQ 🔻🔴 -161.6% | YoY 🔻🔴 -98.4%)
 💡 Cash Operasi: Negatif
-🧮 Valuasi: PER -21659x | PBV 0.4x
+🧮 Valuasi: PER -82x | PBV 0.4x
 🧱 Fundamental perlu dicermati
