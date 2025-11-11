@@ -1,6 +1,6 @@
-📊 MYOH Q2 2025
-📈 Revenue (QoQ 🔻🔴 -8.1% | YoY 🔼🟢 63.7%)
-💰 Net Profit (QoQ 🔼🟢 27.9% | YoY 🔼🟢 1.8%)
+📊 MYOH Q3 2025
+📈 Revenue (QoQ 🔻🔴 -46.4% | YoY ⏺️ n/a)
+💰 Net Profit (QoQ 🔻🔴 -69.3% | YoY ⏺️ n/a)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 12x | PBV 1.3x
+🧮 Valuasi: PER 23x | PBV 1.2x
 🧱 Fundamental stabil

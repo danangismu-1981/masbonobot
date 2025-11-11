@@ -1,6 +1,6 @@
 📊 RMKE Q2 2025
-📈 Revenue (QoQ 🔻🔴 -29.1% | YoY 🔻🔴 -63.4%)
-💰 Net Profit (QoQ 🔻🔴 -35.9% | YoY 🔻🔴 -58.8%)
-💡 Cash Operasi: Negatif
-🧮 Valuasi: PER 32x | PBV 4.4x
-🧱 Fundamental perlu dicermati
+📈 Revenue (QoQ 🔻🔴 -53.5% | YoY ⏺️ n/a)
+💰 Net Profit (QoQ 🔻🔴 -31.7% | YoY ⏺️ n/a)
+💡 Cash Operasi: Positif
+🧮 Valuasi: PER 54x | PBV 6.6x
+🧱 Fundamental stabil

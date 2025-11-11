@@ -1,6 +1,6 @@
-📊 HUMI Q2 2025
-📈 Revenue (QoQ 🔻🔴 -6.1% | YoY 🔼🟢 0.5%)
-💰 Net Profit (QoQ 🔻🔴 -44.9% | YoY 🔻🔴 -38.2%)
-💡 Cash Operasi: Positif
-🧮 Valuasi: PER 14x | PBV 1.0x
-🧱 Fundamental perlu dicermati
+📊 HUMI Q3 2025
+📈 Revenue (QoQ 🔻🔴 -50.9% | YoY ⏺️ n/a)
+💰 Net Profit (QoQ 🔻🔴 -53.7% | YoY ⏺️ n/a)
+💡 Cash Operasi: Negatif
+🧮 Valuasi: PER 13x | PBV 0.9x
+🧱 Fundamental stabil

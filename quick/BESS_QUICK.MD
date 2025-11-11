@@ -1,6 +1,6 @@
-📊 BESS Q2 2025
-📈 Revenue (QoQ 🔻🔴 -28.4% | YoY 🔼🟢 53.1%)
-💰 Net Profit (QoQ 🔻🔴 -93.3% | YoY 🔻🔴 -134.1%)
+📊 BESS Q3 2025
+📈 Revenue (QoQ 🔻🔴 -52.8% | YoY ⏺️ n/a)
+💰 Net Profit (QoQ 🔻🔴 -68.0% | YoY ⏺️ n/a)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 40x | PBV 5.6x
-🧱 Fundamental perlu dicermati
+🧮 Valuasi: PER 58x | PBV 8.4x
+🧱 Fundamental stabil

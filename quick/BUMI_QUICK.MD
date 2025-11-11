@@ -1,6 +1,6 @@
-📊 BUMI Q2 2025
-📈 Revenue (QoQ 🔻🔴 -7.7% | YoY 🔼🟢 18.2%)
-💰 Net Profit (QoQ 🔻🔴 -82.4% | YoY 🔻🔴 -80.9%)
-💡 Cash Operasi: Negatif
-🧮 Valuasi: PER 1275x | PBV 2.4x
+📊 BUMI Q3 2025
+📈 Revenue (QoQ 🔼🟢 9.2% | YoY 🔼🟢 11.9%)
+💰 Net Profit (QoQ 🔼🟢 254.3% | YoY 🔻🔴 -76.1%)
+💡 Cash Operasi: Positif
+🧮 Valuasi: PER -129x | PBV 2.0x
 🧱 Fundamental perlu dicermati

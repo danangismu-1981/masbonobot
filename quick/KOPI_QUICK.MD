@@ -1,6 +1,6 @@
-📊 KOPI Q2 2025
-📈 Revenue (QoQ ⏺️ n/a | YoY ⏺️ n/a)
-💰 Net Profit (QoQ ⏺️ n/a | YoY ⏺️ n/a)
+📊 KOPI Q3 2025
+📈 Revenue (QoQ 🔼🟢 4.1% | YoY 🔻🔴 -3.9%)
+💰 Net Profit (QoQ 🔻🔴 -245.1% | YoY 🔻🔴 -146.7%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER -8x | PBV 3.5x
-🧱 Fundamental stabil
+🧮 Valuasi: PER -11x | PBV 3.2x
+🧱 Fundamental perlu dicermati

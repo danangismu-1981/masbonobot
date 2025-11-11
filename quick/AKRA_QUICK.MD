@@ -1,6 +1,6 @@
-📊 AKRA Q2 2025
-📈 Revenue (QoQ 🔼🟢 8.8% | YoY 🔼🟢 26.3%)
-💰 Net Profit (QoQ 🔼🟢 8.8% | YoY 🔼🟢 50.9%)
+📊 AKRA Q3 2025
+📈 Revenue (QoQ 🔻🔴 -1.7% | YoY 🔼🟢 13.2%)
+💰 Net Profit (QoQ 🔻🔴 -23.6% | YoY 🔼🟢 12.3%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 9x | PBV 1.9x
+🧮 Valuasi: PER 10x | PBV 2.2x
 🧱 Fundamental stabil
