@@ -1,6 +1,6 @@
-📊 KMTR Q2 2025
-📈 Revenue (QoQ 🔻🔴 -5.0% | YoY 🔼🟢 24.1%)
-💰 Net Profit (QoQ 🔻🔴 -33.1% | YoY 🔻🔴 -2216.5%)
+📊 KMTR Q3 2025
+📈 Revenue (QoQ 🔻🔴 -8.4% | YoY 🔼🟢 23.3%)
+💰 Net Profit (QoQ 🔻🔴 -90.0% | YoY 🔼🟢 62.5%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 5x | PBV 1.1x
-🧱 Fundamental perlu dicermati
+🧮 Valuasi: PER 8x | PBV 1.0x
+🧱 Fundamental stabil

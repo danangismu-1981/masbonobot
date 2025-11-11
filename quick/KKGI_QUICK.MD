@@ -1,6 +1,6 @@
-📊 KKGI Q2 2025
-📈 Revenue (QoQ 🔻🔴 -10.3% | YoY 🔻🔴 -64.7%)
-💰 Net Profit (QoQ 🔻🔴 -73.4% | YoY 🔻🔴 -98.4%)
+📊 KKGI Q3 2025
+📈 Revenue (QoQ 🔼🟢 11.4% | YoY 🔻🔴 -57.4%)
+💰 Net Profit (QoQ 🔻🔴 -101.2% | YoY 🔻🔴 -97.3%)
 💡 Cash Operasi: Negatif
-🧮 Valuasi: PER 9x | PBV 0.6x
+🧮 Valuasi: PER 31x | PBV 0.6x
 🧱 Fundamental perlu dicermati

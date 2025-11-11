@@ -1,6 +1,6 @@
-📊 ISSP Q2 2025
-📈 Revenue (QoQ 🔼🟢 4.2% | YoY 🔻🔴 -6.3%)
-💰 Net Profit (QoQ 🔼🟢 52.4% | YoY 🔼🟢 27.9%)
+📊 ISSP Q3 2025
+📈 Revenue (QoQ 🔼🟢 16.1% | YoY 🔻🔴 -3.5%)
+💰 Net Profit (QoQ 🔼🟢 21.0% | YoY 🔼🟢 3.1%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 6x | PBV 0.6x
+🧮 Valuasi: PER 5x | PBV 0.6x
 🧱 Fundamental perlu dicermati

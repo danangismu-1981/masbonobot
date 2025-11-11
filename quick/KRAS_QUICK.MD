@@ -1,6 +1,6 @@
-📊 KRAS Q2 2025
-📈 Revenue (QoQ 🔻🔴 -199.8% | YoY 🔻🔴 -207.7%)
-💰 Net Profit (QoQ 🔻🔴 -199.8% | YoY 🔻🔴 -223.6%)
+📊 KRAS Q3 2025
+📈 Revenue (QoQ 🔼🟢 8.5% | YoY 🔼🟢 7.4%)
+💰 Net Profit (QoQ 🔻🔴 -314.8% | YoY 🔻🔴 -112.0%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER -5x | PBV 1292.8x
+🧮 Valuasi: PER 7x | PBV 0.9x
 🧱 Fundamental perlu dicermati

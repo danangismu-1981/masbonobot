@@ -1,6 +1,6 @@
-📊 INPP Q2 2025
-📈 Revenue (QoQ 🔼🟢 104.5% | YoY 🔼🟢 99.3%)
-💰 Net Profit (QoQ 🔻🔴 -75.6% | YoY 🔻🔴 -46.6%)
-💡 Cash Operasi: Positif
-🧮 Valuasi: PER 148x | PBV 1343.6x
-🧱 Fundamental perlu dicermati
+📊 INPP Q3 2025
+📈 Revenue (QoQ 🔻🔴 -24.4% | YoY 🔼🟢 49.8%)
+💰 Net Profit (QoQ 🔻🔴 -156.7% | YoY 🔼🟢 39.8%)
+💡 Cash Operasi: Negatif
+🧮 Valuasi: PER 17x | PBV 1.3x
+🧱 Fundamental stabil

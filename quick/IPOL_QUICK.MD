@@ -1,6 +1,6 @@
-📊 IPOL Q2 2025
-📈 Revenue (QoQ 🔼🟢 13.7% | YoY 🔼🟢 19.5%)
-💰 Net Profit (QoQ 🔻🔴 -54.9% | YoY 🔻🔴 -22.2%)
+📊 IPOL Q3 2025
+📈 Revenue (QoQ 🔻🔴 -2.6% | YoY 🔼🟢 14.6%)
+💰 Net Profit (QoQ 🔻🔴 -72.6% | YoY 🔻🔴 -5.7%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 46x | PBV 0.3x
+🧮 Valuasi: PER 51x | PBV 0.3x
 🧱 Fundamental perlu dicermati

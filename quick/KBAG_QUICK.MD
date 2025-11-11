@@ -1,6 +1,6 @@
-📊 KBAG Q2 2025
-📈 Revenue (QoQ 🔻🔴 -15.2% | YoY 🔻🔴 -87.0%)
-💰 Net Profit (QoQ 🔻🔴 -55.6% | YoY 🔻🔴 -45.6%)
+📊 KBAG Q3 2025
+📈 Revenue (QoQ 🔼🟢 786.1% | YoY 🔻🔴 -16.7%)
+💰 Net Profit (QoQ 🔻🔴 -30.7% | YoY 🔻🔴 -23.5%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER -29x | PBV 1.0x
+🧮 Valuasi: PER -32x | PBV 0.9x
 🧱 Fundamental perlu dicermati
