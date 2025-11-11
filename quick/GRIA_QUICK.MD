@@ -1,6 +1,6 @@
-📊 GRIA Q2 2025
-📈 Revenue (QoQ 🔼🟢 198.9% | YoY 🔼🟢 99.3%)
-💰 Net Profit (QoQ 🔻🔴 -365.0% | YoY ⏺️ n/a)
+📊 GRIA Q3 2025
+📈 Revenue (QoQ 🔻🔴 -25.6% | YoY 🔼🟢 21.4%)
+💰 Net Profit (QoQ 🔼🟢 22.9% | YoY 🔼🟢 34.5%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 201x | PBV 2.2x
+🧮 Valuasi: PER 108x | PBV 1.9x
 🧱 Fundamental stabil

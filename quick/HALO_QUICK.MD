@@ -1,6 +1,6 @@
-📊 HALO Q2 2025
-📈 Revenue (QoQ 🔻🔴 -3.4% | YoY 🔼🟢 31.3%)
-💰 Net Profit (QoQ ⏺️ n/a | YoY ⏺️ n/a)
-💡 Cash Operasi: Positif
-🧮 Valuasi: PER n/a | PBV 4.3x
+📊 HALO Q3 2025
+📈 Revenue (QoQ 🔼🟢 16.6% | YoY 🔼🟢 32.9%)
+💰 Net Profit (QoQ 🔻🔴 -339.3% | YoY 🔼🟢 41.1%)
+💡 Cash Operasi: Negatif
+🧮 Valuasi: PER 81x | PBV 3.8x
 🧱 Fundamental stabil

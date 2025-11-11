@@ -1,6 +1,6 @@
-📊 ESSA Q2 2025
-📈 Revenue (QoQ 🔻🔴 -4.8% | YoY 🔻🔴 -16.0%)
-💰 Net Profit (QoQ 🔻🔴 -19.4% | YoY 🔻🔴 -37.9%)
+📊 ESSA Q3 2025
+📈 Revenue (QoQ 🔻🔴 -7.6% | YoY 🔻🔴 -12.9%)
+💰 Net Profit (QoQ 🔻🔴 -3.8% | YoY 🔻🔴 -36.5%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 19x | PBV 1.8x
+🧮 Valuasi: PER 21x | PBV 1.6x
 🧱 Fundamental perlu dicermati

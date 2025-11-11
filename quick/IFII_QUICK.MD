@@ -1,6 +1,6 @@
-📊 IFII Q2 2025
-📈 Revenue (QoQ 🔻🔴 -39.3% | YoY 🔻🔴 -7.6%)
-💰 Net Profit (QoQ 🔻🔴 -59.0% | YoY 🔻🔴 -21.5%)
+📊 IFII Q3 2025
+📈 Revenue (QoQ 🔼🟢 21.8% | YoY 🔼🟢 11.8%)
+💰 Net Profit (QoQ 🔼🟢 43.7% | YoY 🔼🟢 29.7%)
 💡 Cash Operasi: Positif
 🧮 Valuasi: PER 10x | PBV 1.6x
-🧱 Fundamental perlu dicermati
+🧱 Fundamental stabil
