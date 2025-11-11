@@ -1,6 +1,6 @@
-📊 BACA Q2 2025
-📈 Revenue (QoQ 🔼🟢 20.8% | YoY 🔼🟢 36.3%)
-💰 Net Profit (QoQ 🔻🔴 -11.2% | YoY 🔻🔴 -29.6%)
-💡 Cash Operasi: Negatif
-🧮 Valuasi: PER 26x | PBV 0.4x
+📊 BACA Q3 2025
+📈 Revenue (QoQ 🔻🔴 -1.3% | YoY 🔼🟢 51.3%)
+💰 Net Profit (QoQ 🔼🟢 42.9% | YoY 🔻🔴 -22.2%)
+💡 Cash Operasi: Positif
+🧮 Valuasi: PER 31x | PBV 0.4x
 🧱 Fundamental perlu dicermati

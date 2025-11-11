@@ -1,6 +1,6 @@
-📊 AIMS Q2 2025
-📈 Revenue (QoQ ⏺️ n/a | YoY 🔻🔴 -19.2%)
-💰 Net Profit (QoQ ⏺️ n/a | YoY ⏺️ n/a)
-💡 Cash Operasi: Negatif
-🧮 Valuasi: PER n/a | PBV -183.5x
+📊 AIMS Q3 2025
+📈 Revenue (QoQ 🔼🟢 1423.8% | YoY 🔼🟢 625.5%)
+💰 Net Profit (QoQ 🔻🔴 -230.5% | YoY 🔻🔴 -79.9%)
+💡 Cash Operasi: Positif
+🧮 Valuasi: PER -111x | PBV 529.2x
 🧱 Fundamental perlu dicermati

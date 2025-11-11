@@ -1,6 +1,6 @@
-📊 ADCP Q2 2025
-📈 Revenue (QoQ 🔻🔴 -29.0% | YoY 🔻🔴 -51.0%)
-💰 Net Profit (QoQ 🔼🟢 1.0% | YoY 🔻🔴 -99.8%)
-💡 Cash Operasi: Negatif
-🧮 Valuasi: PER 51x | PBV 0.5x
+📊 ADCP Q3 2025
+📈 Revenue (QoQ 🔻🔴 -10.0% | YoY 🔻🔴 -40.9%)
+💰 Net Profit (QoQ 🔻🔴 -29828.4% | YoY 🔻🔴 -116.0%)
+💡 Cash Operasi: Positif
+🧮 Valuasi: PER 156x | PBV 0.5x
 🧱 Fundamental perlu dicermati

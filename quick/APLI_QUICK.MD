@@ -1,6 +1,6 @@
-📊 APLI Q2 2025
-📈 Revenue (QoQ 🔻🔴 -6.6% | YoY 🔻🔴 -29.5%)
-💰 Net Profit (QoQ 🔼🟢 10.8% | YoY 🔻🔴 -149.1%)
-💡 Cash Operasi: Negatif
-🧮 Valuasi: PER -1057x | PBV 1.9x
+📊 APLI Q3 2025
+📈 Revenue (QoQ 🔼🟢 5.6% | YoY 🔻🔴 -28.2%)
+💰 Net Profit (QoQ 🔻🔴 -272.2% | YoY 🔻🔴 -102.7%)
+💡 Cash Operasi: Positif
+🧮 Valuasi: PER -878x | PBV 1.8x
 🧱 Fundamental perlu dicermati

@@ -1,6 +1,6 @@
-📊 ALII Q2 2025
-📈 Revenue (QoQ 🔼🟢 11.4% | YoY 🔼🟢 7.5%)
-💰 Net Profit (QoQ 🔻🔴 -9.1% | YoY 🔻🔴 -8.2%)
+📊 ALII Q3 2025
+📈 Revenue (QoQ 🔻🔴 -23.5% | YoY 🔼🟢 8.7%)
+💰 Net Profit (QoQ 🔻🔴 -16.2% | YoY 🔼🟢 40.3%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 27x | PBV 4.5x
-🧱 Fundamental perlu dicermati
+🧮 Valuasi: PER 25x | PBV 4.7x
+🧱 Fundamental stabil

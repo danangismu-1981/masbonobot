@@ -1,6 +1,6 @@
-📊 APEX Q2 2025
-📈 Revenue (QoQ 🔻🔴 -16.8% | YoY 🔻🔴 -1.4%)
-💰 Net Profit (QoQ 🔻🔴 -30.0% | YoY 🔻🔴 -122.8%)
+📊 APEX Q3 2025
+📈 Revenue (QoQ 🔼🟢 4.4% | YoY 🔼🟢 4.8%)
+💰 Net Profit (QoQ 🔼🟢 144.6% | YoY 🔼🟢 56.3%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 30x | PBV 0.4x
-🧱 Fundamental perlu dicermati
+🧮 Valuasi: PER 25x | PBV 0.4x
+🧱 Fundamental stabil

@@ -1,6 +1,6 @@
-📊 AMAN Q2 2025
-📈 Revenue (QoQ 🔻🔴 -46.0% | YoY 🔻🔴 -15.3%)
-💰 Net Profit (QoQ 🔻🔴 -61.8% | YoY 🔻🔴 -35.0%)
-💡 Cash Operasi: Negatif
-🧮 Valuasi: PER 19x | PBV 736.7x
-🧱 Fundamental perlu dicermati
+📊 AMAN Q3 2025
+📈 Revenue (QoQ 🔼🟢 29.5% | YoY 🔼🟢 19.7%)
+💰 Net Profit (QoQ 🔼🟢 9.7% | YoY 🔼🟢 5.4%)
+💡 Cash Operasi: Positif
+🧮 Valuasi: PER 10x | PBV 0.7x
+🧱 Fundamental stabil

@@ -1,6 +1,6 @@
-📊 AGRO Q2 2025
-📈 Revenue (QoQ 🔼🟢 6.3% | YoY 🔼🟢 30.2%)
-💰 Net Profit (QoQ 🔻🔴 -5.4% | YoY 🔼🟢 47.4%)
+📊 AGRO Q3 2025
+📈 Revenue (QoQ 🔼🟢 1.3% | YoY 🔼🟢 15.6%)
+💰 Net Profit (QoQ 🔻🔴 -43.5% | YoY 🔼🟢 23.9%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 98x | PBV 1.8x
+🧮 Valuasi: PER 96x | PBV 1.6x
 🧱 Fundamental stabil

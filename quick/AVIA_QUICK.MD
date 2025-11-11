@@ -1,6 +1,6 @@
-📊 AVIA Q2 2025
-📈 Revenue (QoQ 🔻🔴 -7.6% | YoY 🔼🟢 8.8%)
-💰 Net Profit (QoQ 🔻🔴 -25.0% | YoY 🔻🔴 -7.3%)
+📊 AVIA Q3 2025
+📈 Revenue (QoQ 🔼🟢 9.5% | YoY 🔼🟢 9.7%)
+💰 Net Profit (QoQ 🔼🟢 21.4% | YoY 🔼🟢 2.5%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 15x | PBV 2.6x
-🧱 Fundamental perlu dicermati
+🧮 Valuasi: PER 16x | PBV 2.8x
+🧱 Fundamental stabil

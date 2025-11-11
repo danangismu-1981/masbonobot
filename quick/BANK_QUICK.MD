@@ -1,6 +1,6 @@
-📊 BANK Q2 2025
-📈 Revenue (QoQ 🔻🔴 -6.9% | YoY 🔼🟢 52.2%)
-💰 Net Profit (QoQ 🔼🟢 48.4% | YoY 🔻🔴 -471.2%)
-💡 Cash Operasi: Negatif
-🧮 Valuasi: PER 176x | PBV 3.6x
+📊 BANK Q3 2025
+📈 Revenue (QoQ 🔼🟢 37.6% | YoY 🔼🟢 44.5%)
+💰 Net Profit (QoQ 🔼🟢 3.3% | YoY 🔻🔴 -262.2%)
+💡 Cash Operasi: Positif
+🧮 Valuasi: PER 93x | PBV 3.8x
 🧱 Fundamental perlu dicermati

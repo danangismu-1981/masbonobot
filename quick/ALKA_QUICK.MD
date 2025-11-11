@@ -1,6 +1,6 @@
-📊 ALKA Q2 2025
-📈 Revenue (QoQ 🔻🔴 -199.9% | YoY 🔻🔴 -540.0%)
-💰 Net Profit (QoQ 🔻🔴 -200.0% | YoY 🔻🔴 -292.1%)
+📊 ALKA Q3 2025
+📈 Revenue (QoQ 🔼🟢 186.6% | YoY 🔼🟢 179.7%)
+💰 Net Profit (QoQ 🔼🟢 219.0% | YoY 🔻🔴 -35.6%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER -59x | PBV 586.3x
+🧮 Valuasi: PER -26x | PBV 0.6x
 🧱 Fundamental perlu dicermati

@@ -1,6 +1,6 @@
-📊 ATAP Q2 2025
-📈 Revenue (QoQ 🔼🟢 9.5% | YoY 🔻🔴 -10.7%)
-💰 Net Profit (QoQ ⏺️ n/a | YoY ⏺️ n/a)
+📊 ATAP Q3 2025
+📈 Revenue (QoQ 🔼🟢 80.3% | YoY 🔼🟢 9.9%)
+💰 Net Profit (QoQ 🔻🔴 -243.4% | YoY 🔻🔴 -1098.6%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER n/a | PBV 1.1x
+🧮 Valuasi: PER -35x | PBV 1.2x
 🧱 Fundamental perlu dicermati

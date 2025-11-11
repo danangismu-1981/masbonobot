@@ -1,6 +1,6 @@
-📊 AMMN Q2 2025
-📈 Revenue (QoQ 🔻🔴 -191.6% | YoY 🔻🔴 -100.2%)
-💰 Net Profit (QoQ 🔻🔴 -199.9% | YoY 🔻🔴 -59.9%)
-💡 Cash Operasi: Positif
-🧮 Valuasi: PER 201x | PBV 6227.6x
+📊 AMMN Q3 2025
+📈 Revenue (QoQ 🔼🟢 101.0% | YoY 🔻🔴 -78.1%)
+💰 Net Profit (QoQ 🔼🟢 199.4% | YoY 🔻🔴 -124.9%)
+💡 Cash Operasi: Negatif
+🧮 Valuasi: PER -120x | PBV 6.2x
 🧱 Fundamental perlu dicermati

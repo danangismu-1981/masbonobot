@@ -1,6 +1,6 @@
-📊 BAPA Q2 2025
-📈 Revenue (QoQ 🔻🔴 -77.0% | YoY 🔻🔴 -91.5%)
-💰 Net Profit (QoQ 🔼🟢 5.9% | YoY 🔼🟢 0.7%)
-💡 Cash Operasi: Negatif
-🧮 Valuasi: PER -10x | PBV 0.4x
+📊 BAPA Q3 2025
+📈 Revenue (QoQ 🔼🟢 915.7% | YoY 🔻🔴 -34.4%)
+💰 Net Profit (QoQ 🔻🔴 -17.8% | YoY 🔼🟢 4.3%)
+💡 Cash Operasi: Positif
+🧮 Valuasi: PER -11x | PBV 0.5x
 🧱 Fundamental perlu dicermati

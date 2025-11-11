@@ -1,6 +1,6 @@
-📊 AGII Q2 2025
-📈 Revenue (QoQ 🔼🟢 0.7% | YoY 🔼🟢 2.1%)
-💰 Net Profit (QoQ 🔼🟢 91.3% | YoY 🔻🔴 -45.6%)
+📊 AGII Q3 2025
+📈 Revenue (QoQ 🔼🟢 11.6% | YoY 🔼🟢 4.0%)
+💰 Net Profit (QoQ 🔼🟢 155.9% | YoY 🔻🔴 -25.1%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 62x | PBV 1.0x
+🧮 Valuasi: PER 49x | PBV 1.1x
 🧱 Fundamental perlu dicermati

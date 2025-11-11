@@ -1,6 +1,6 @@
-📊 AMAR Q2 2025
-📈 Revenue (QoQ 🔻🔴 -7.5% | YoY 🔼🟢 12.5%)
-💰 Net Profit (QoQ 🔻🔴 -25.2% | YoY 🔼🟢 3.2%)
-💡 Cash Operasi: Positif
-🧮 Valuasi: PER 16x | PBV 1.1x
+📊 AMAR Q3 2025
+📈 Revenue (QoQ 🔼🟢 8.8% | YoY 🔼🟢 18.8%)
+💰 Net Profit (QoQ 🔼🟢 12.2% | YoY 🔼🟢 14.7%)
+💡 Cash Operasi: Negatif
+🧮 Valuasi: PER 17x | PBV 1.2x
 🧱 Fundamental stabil
