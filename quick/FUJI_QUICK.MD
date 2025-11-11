@@ -1,6 +1,6 @@
-📊 FUJI Q2 2025
-📈 Revenue (QoQ 🔻🔴 -12.2% | YoY ⏺️ n/a)
-💰 Net Profit (QoQ 🔻🔴 -88.8% | YoY ⏺️ n/a)
-💡 Cash Operasi: Negatif
-🧮 Valuasi: PER 126x | PBV 5.2x
+📊 FUJI Q3 2025
+📈 Revenue (QoQ 🔻🔴 -22.8% | YoY 🔼🟢 25.3%)
+💰 Net Profit (QoQ 🔼🟢 383.4% | YoY 🔼🟢 43.8%)
+💡 Cash Operasi: Positif
+🧮 Valuasi: PER 73x | PBV 5.2x
 🧱 Fundamental stabil

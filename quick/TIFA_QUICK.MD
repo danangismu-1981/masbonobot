@@ -1,6 +1,6 @@
-📊 TIFA Q2 2025
-📈 Revenue (QoQ 🔻🔴 -11.3% | YoY 🔻🔴 -50.3%)
-💰 Net Profit (QoQ 🔼🟢 27.3% | YoY 🔻🔴 -35.0%)
+📊 TIFA Q3 2025
+📈 Revenue (QoQ 🔼🟢 77.1% | YoY 🔻🔴 -39.8%)
+💰 Net Profit (QoQ 🔼🟢 109.0% | YoY 🔻🔴 -11.8%)
 💡 Cash Operasi: Negatif
-🧮 Valuasi: PER 29x | PBV 1.3x
+🧮 Valuasi: PER 25x | PBV 1.2x
 🧱 Fundamental perlu dicermati

@@ -1,6 +1,6 @@
-📊 DEFI Q2 2025
-📈 Revenue (QoQ ⏺️ n/a | YoY ⏺️ n/a)
-💰 Net Profit (QoQ ⏺️ n/a | YoY ⏺️ n/a)
+📊 DEFI Q3 2025
+📈 Revenue (QoQ 🔻🔴 -53.8% | YoY ⏺️ n/a)
+💰 Net Profit (QoQ 🔻🔴 -60.8% | YoY ⏺️ n/a)
 💡 Cash Operasi: Negatif
-🧮 Valuasi: PER -58x | PBV 4.1x
+🧮 Valuasi: PER -46x | PBV 3.4x
 🧱 Fundamental stabil
