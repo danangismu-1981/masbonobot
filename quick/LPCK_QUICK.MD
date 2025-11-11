@@ -1,6 +1,6 @@
-📊 LPCK Q2 2025
-📈 Revenue (QoQ 🔼🟢 4.5% | YoY 🔼🟢 354.0%)
-💰 Net Profit (QoQ 🔻🔴 -54.2% | YoY 🔼🟢 469.8%)
+📊 LPCK Q3 2025
+📈 Revenue (QoQ 🔼🟢 5.5% | YoY 🔼🟢 251.1%)
+💰 Net Profit (QoQ 🔻🔴 -13.4% | YoY 🔻🔴 -116.5%)
 💡 Cash Operasi: Negatif
-🧮 Valuasi: PER -2x | PBV 0.5x
-🧱 Fundamental stabil
+🧮 Valuasi: PER 12x | PBV 0.5x
+🧱 Fundamental perlu dicermati

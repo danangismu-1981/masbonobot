@@ -1,6 +1,6 @@
-📊 MAHA Q2 2025
-📈 Revenue (QoQ 🔻🔴 -7.9% | YoY 🔻🔴 -3.9%)
-💰 Net Profit (QoQ 🔻🔴 -83.1% | YoY 🔻🔴 -93.3%)
-💡 Cash Operasi: Negatif
-🧮 Valuasi: PER 12x | PBV 1.5x
+📊 MAHA Q3 2025
+📈 Revenue (QoQ 🔼🟢 34.4% | YoY 🔼🟢 8.2%)
+💰 Net Profit (QoQ 🔼🟢 3514.4% | YoY 🔻🔴 -63.5%)
+💡 Cash Operasi: Positif
+🧮 Valuasi: PER 15x | PBV 1.3x
 🧱 Fundamental perlu dicermati

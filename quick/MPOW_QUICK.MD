@@ -1,6 +1,6 @@
-📊 MPOW Q2 2025
-📈 Revenue (QoQ 🔼🟢 3.1% | YoY ⏺️ n/a)
-💰 Net Profit (QoQ ⏺️ n/a | YoY ⏺️ n/a)
+📊 MPOW Q3 2025
+📈 Revenue (QoQ 🔼🟢 8.0% | YoY 🔻🔴 -6.0%)
+💰 Net Profit (QoQ 🔻🔴 -2605.6% | YoY 🔻🔴 -500.0%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER n/a | PBV 0.8x
-🧱 Fundamental stabil
+🧮 Valuasi: PER -12x | PBV 0.8x
+🧱 Fundamental perlu dicermati

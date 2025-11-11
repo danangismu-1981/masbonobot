@@ -1,6 +1,6 @@
-📊 LMSH Q2 2025
-📈 Revenue (QoQ 🔻🔴 -4.5% | YoY 🔻🔴 -21.3%)
-💰 Net Profit (QoQ ⏺️ n/a | YoY ⏺️ n/a)
-💡 Cash Operasi: Negatif
-🧮 Valuasi: PER n/a | PBV 0.3x
+📊 LMSH Q3 2025
+📈 Revenue (QoQ 🔼🟢 87.0% | YoY 🔼🟢 2.3%)
+💰 Net Profit (QoQ 🔻🔴 -92.9% | YoY 🔻🔴 -38.1%)
+💡 Cash Operasi: Positif
+🧮 Valuasi: PER -5x | PBV 0.3x
 🧱 Fundamental perlu dicermati

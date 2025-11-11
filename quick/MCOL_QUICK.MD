@@ -1,6 +1,6 @@
-📊 MCOL Q2 2025
-📈 Revenue (QoQ 🔼🟢 8.1% | YoY 🔻🔴 -26.0%)
-💰 Net Profit (QoQ 🔼🟢 100.6% | YoY 🔻🔴 -59.5%)
+📊 MCOL Q3 2025
+📈 Revenue (QoQ 🔼🟢 13.6% | YoY 🔻🔴 -18.2%)
+💰 Net Profit (QoQ 🔻🔴 -18.6% | YoY 🔻🔴 -64.0%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 13x | PBV 1.6x
+🧮 Valuasi: PER 17x | PBV 1.5x
 🧱 Fundamental perlu dicermati

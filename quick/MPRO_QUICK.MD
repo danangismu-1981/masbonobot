@@ -1,6 +1,6 @@
-📊 MPRO Q2 2025
-📈 Revenue (QoQ 🔼🟢 229.2% | YoY 🔼🟢 4139.0%)
-💰 Net Profit (QoQ 🔻🔴 -20.7% | YoY 🔼🟢 29.8%)
+📊 MPRO Q3 2025
+📈 Revenue (QoQ 🔻🔴 -71.2% | YoY 🔻🔴 -55.9%)
+💰 Net Profit (QoQ 🔼🟢 276.6% | YoY 🔼🟢 99.8%)
 💡 Cash Operasi: Negatif
-🧮 Valuasi: PER -1304x | PBV 64905.5x
-🧱 Fundamental stabil
+🧮 Valuasi: PER -1049x | PBV 85.7x
+🧱 Fundamental perlu dicermati

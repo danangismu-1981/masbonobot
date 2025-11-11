@@ -1,6 +1,6 @@
-📊 MCOR Q2 2025
-📈 Revenue (QoQ 🔼🟢 3.8% | YoY 🔻🔴 -6.2%)
-💰 Net Profit (QoQ 🔼🟢 0.1% | YoY 🔼🟢 5.5%)
-💡 Cash Operasi: Negatif
-🧮 Valuasi: PER 10x | PBV 0.4x
-🧱 Fundamental perlu dicermati
+📊 MCOR Q3 2025
+📈 Revenue (QoQ 🔼🟢 1.3% | YoY 🔼🟢 3.6%)
+💰 Net Profit (QoQ 🔻🔴 -6.2% | YoY 🔼🟢 4.5%)
+💡 Cash Operasi: Positif
+🧮 Valuasi: PER 9x | PBV 0.4x
+🧱 Fundamental stabil

@@ -1,6 +1,6 @@
-📊 MKAP Q2 2025
-📈 Revenue (QoQ 🔻🔴 -43.7% | YoY 🔼🟢 19.6%)
-💰 Net Profit (QoQ ⏺️ n/a | YoY ⏺️ n/a)
+📊 MKAP Q3 2025
+📈 Revenue (QoQ 🔻🔴 -6.7% | YoY 🔼🟢 26.3%)
+💰 Net Profit (QoQ 🔼🟢 53.6% | YoY 🔼🟢 36.9%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER n/a | PBV 3.8x
+🧮 Valuasi: PER 21x | PBV 3.6x
 🧱 Fundamental stabil

@@ -1,6 +1,6 @@
-📊 LABS Q2 2025
-📈 Revenue (QoQ 🔼🟢 59.1% | YoY ⏺️ n/a)
-💰 Net Profit (QoQ 🔼🟢 181.7% | YoY ⏺️ n/a)
-💡 Cash Operasi: Negatif
-🧮 Valuasi: PER 69x | PBV 3.9x
+📊 LABS Q3 2025
+📈 Revenue (QoQ 🔻🔴 -8.4% | YoY 🔼🟢 27.3%)
+💰 Net Profit (QoQ 🔻🔴 -5.8% | YoY 🔼🟢 113.1%)
+💡 Cash Operasi: Positif
+🧮 Valuasi: PER 61x | PBV 3.7x
 🧱 Fundamental stabil

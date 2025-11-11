@@ -1,6 +1,6 @@
-📊 MMIX Q2 2025
-📈 Revenue (QoQ 🔼🟢 0.4% | YoY 🔼🟢 25.1%)
-💰 Net Profit (QoQ ⏺️ n/a | YoY ⏺️ n/a)
+📊 MMIX Q3 2025
+📈 Revenue (QoQ 🔻🔴 -18.4% | YoY 🔼🟢 48.1%)
+💰 Net Profit (QoQ 🔻🔴 -30.2% | YoY 🔻🔴 -111.5%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER n/a | PBV 5.6x
-🧱 Fundamental stabil
+🧮 Valuasi: PER 53x | PBV 6.4x
+🧱 Fundamental perlu dicermati

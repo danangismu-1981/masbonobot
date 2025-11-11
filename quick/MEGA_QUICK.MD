@@ -1,6 +1,6 @@
-📊 MEGA Q2 2025
-📈 Revenue (QoQ 🔼🟢 4.7% | YoY 🔻🔴 -1.1%)
-💰 Net Profit (QoQ 🔼🟢 55.7% | YoY 🔼🟢 94.5%)
-💡 Cash Operasi: Negatif
-🧮 Valuasi: PER 14x | PBV 1.7x
+📊 MEGA Q3 2025
+📈 Revenue (QoQ 🔻🔴 -4.7% | YoY 🔻🔴 -0.9%)
+💰 Net Profit (QoQ 🔼🟢 1.1% | YoY 🔼🟢 10.1%)
+💡 Cash Operasi: Positif
+🧮 Valuasi: PER 14x | PBV 1.6x
 🧱 Fundamental perlu dicermati

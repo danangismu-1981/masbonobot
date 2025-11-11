@@ -1,6 +1,6 @@
-📊 LAPD Q2 2025
-📈 Revenue (QoQ 🔼🟢 23.6% | YoY 🔼🟢 61.0%)
-💰 Net Profit (QoQ 🔻🔴 -789.3% | YoY 🔼🟢 598.0%)
-💡 Cash Operasi: Negatif
-🧮 Valuasi: PER -106x | PBV -63.4x
-🧱 Fundamental stabil
+📊 LAPD Q3 2025
+📈 Revenue (QoQ 🔻🔴 -4.8% | YoY 🔼🟢 26.3%)
+💰 Net Profit (QoQ 🔻🔴 -135.3% | YoY 🔻🔴 -61.9%)
+💡 Cash Operasi: Positif
+🧮 Valuasi: PER -62x | PBV -34.1x
+🧱 Fundamental perlu dicermati

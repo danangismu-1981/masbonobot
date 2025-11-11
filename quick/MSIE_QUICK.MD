@@ -1,6 +1,6 @@
-📊 MSIE Q2 2025
-📈 Revenue (QoQ 🔼🟢 1.4% | YoY 🔼🟢 5.9%)
-💰 Net Profit (QoQ 🔻🔴 -20.4% | YoY 🔻🔴 -216.2%)
+📊 MSIE Q3 2025
+📈 Revenue (QoQ 🔼🟢 0.7% | YoY 🔼🟢 5.9%)
+💰 Net Profit (QoQ 🔻🔴 -139.1% | YoY 🔻🔴 -181.4%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER -92x | PBV 0.7x
+🧮 Valuasi: PER -78x | PBV 0.6x
 🧱 Fundamental perlu dicermati
