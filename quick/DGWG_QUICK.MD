@@ -1,6 +1,6 @@
-📊 DGWG Q2 2025
-📈 Revenue (QoQ 🔼🟢 5.4% | YoY 🔼🟢 12.3%)
-💰 Net Profit (QoQ 🔼🟢 1.5% | YoY 🔼🟢 71.6%)
-💡 Cash Operasi: Positif
-🧮 Valuasi: PER 35x | PBV 2.5x
+📊 DGWG Q3 2025
+📈 Revenue (QoQ 🔼🟢 17.6% | YoY 🔼🟢 9.7%)
+💰 Net Profit (QoQ 🔼🟢 94.8% | YoY 🔼🟢 10.9%)
+💡 Cash Operasi: Negatif
+🧮 Valuasi: PER 24x | PBV 2.5x
 🧱 Fundamental stabil

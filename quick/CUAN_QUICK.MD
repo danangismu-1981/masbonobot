@@ -1,6 +1,6 @@
-📊 CUAN Q2 2025
-📈 Revenue (QoQ 🔼🟢 11.2% | YoY 🔼🟢 6.6%)
-💰 Net Profit (QoQ 🔻🔴 -88.6% | YoY 🔻🔴 -45.4%)
+📊 CUAN Q3 2025
+📈 Revenue (QoQ 🔼🟢 34.8% | YoY 🔼🟢 45.9%)
+💰 Net Profit (QoQ 🔼🟢 5893.7% | YoY 🔻🔴 -47.0%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 86x | PBV 36535.2x
+🧮 Valuasi: PER 108x | PBV 48.5x
 🧱 Fundamental perlu dicermati

@@ -1,6 +1,6 @@
-📊 CTBN Q2 2025
-📈 Revenue (QoQ 🔻🔴 -73.2% | YoY 🔻🔴 -62.7%)
-💰 Net Profit (QoQ 🔻🔴 -97.1% | YoY 🔻🔴 -94.6%)
-💡 Cash Operasi: Negatif
-🧮 Valuasi: PER 8x | PBV 2.1x
-🧱 Fundamental perlu dicermati
+📊 CTBN Q3 2025
+📈 Revenue (QoQ 🔼🟢 224.7% | YoY 🔼🟢 29.7%)
+💰 Net Profit (QoQ 🔼🟢 509.0% | YoY 🔼🟢 15.5%)
+💡 Cash Operasi: Positif
+🧮 Valuasi: PER 9x | PBV 2.0x
+🧱 Fundamental stabil

@@ -1,6 +1,6 @@
-📊 DMAS Q2 2025
-📈 Revenue (QoQ 🔻🔴 -79.2% | YoY 🔻🔴 -83.9%)
-💰 Net Profit (QoQ 🔻🔴 -78.2% | YoY 🔻🔴 -82.3%)
+📊 DMAS Q3 2025
+📈 Revenue (QoQ 🔼🟢 57.6% | YoY 🔻🔴 -53.9%)
+💰 Net Profit (QoQ 🔼🟢 18.8% | YoY 🔻🔴 -53.2%)
 💡 Cash Operasi: Negatif
-🧮 Valuasi: PER 7x | PBV 1.0x
+🧮 Valuasi: PER 9x | PBV 1.0x
 🧱 Fundamental perlu dicermati

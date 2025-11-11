@@ -1,6 +1,6 @@
-📊 CITA Q2 2025
-📈 Revenue (QoQ 🔼🟢 7.6% | YoY 🔼🟢 15.9%)
-💰 Net Profit (QoQ 🔻🔴 -39.8% | YoY 🔼🟢 31.5%)
+📊 CITA Q3 2025
+📈 Revenue (QoQ 🔻🔴 -5.5% | YoY 🔼🟢 11.5%)
+💰 Net Profit (QoQ 🔻🔴 -39.6% | YoY 🔼🟢 31.2%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 5x | PBV 2.0x
+🧮 Valuasi: PER 6x | PBV 2.2x
 🧱 Fundamental stabil

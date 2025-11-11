@@ -1,6 +1,6 @@
-📊 DILD Q2 2025
-📈 Revenue (QoQ 🔻🔴 -10.2% | YoY 🔻🔴 -11.8%)
-💰 Net Profit (QoQ 🔻🔴 -81.1% | YoY 🔻🔴 -99.6%)
+📊 DILD Q3 2025
+📈 Revenue (QoQ 🔻🔴 -15.9% | YoY 🔻🔴 -14.2%)
+💰 Net Profit (QoQ 🔼🟢 183.5% | YoY 🔻🔴 -93.6%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER -8x | PBV 0.2x
+🧮 Valuasi: PER -15x | PBV 0.2x
 🧱 Fundamental perlu dicermati

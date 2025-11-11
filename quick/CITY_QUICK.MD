@@ -1,6 +1,6 @@
-📊 CITY Q2 2025
-📈 Revenue (QoQ 🔻🔴 -16.2% | YoY 🔼🟢 26.0%)
-💰 Net Profit (QoQ 🔼🟢 21.7% | YoY 🔼🟢 206.1%)
+📊 CITY Q3 2025
+📈 Revenue (QoQ 🔼🟢 1.4% | YoY 🔼🟢 29.1%)
+💰 Net Profit (QoQ 🔻🔴 -4.3% | YoY 🔼🟢 232.8%)
 💡 Cash Operasi: Negatif
-🧮 Valuasi: PER 44x | PBV 0.7x
+🧮 Valuasi: PER 56x | PBV 1.1x
 🧱 Fundamental stabil

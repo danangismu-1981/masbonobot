@@ -1,6 +1,6 @@
-📊 CGAS Q2 2025
-📈 Revenue (QoQ 🔻🔴 -3.4% | YoY 🔻🔴 -1.4%)
-💰 Net Profit (QoQ 🔻🔴 -68.2% | YoY 🔻🔴 -88.9%)
-💡 Cash Operasi: Negatif
-🧮 Valuasi: PER 63x | PBV 1.1x
-🧱 Fundamental perlu dicermati
+📊 CGAS Q3 2025
+📈 Revenue (QoQ 🔼🟢 23.6% | YoY 🔼🟢 13.5%)
+💰 Net Profit (QoQ 🔼🟢 1441.5% | YoY 🔼🟢 1.5%)
+💡 Cash Operasi: Positif
+🧮 Valuasi: PER 28x | PBV 1.0x
+🧱 Fundamental stabil

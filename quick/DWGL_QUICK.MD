@@ -1,6 +1,6 @@
-📊 DWGL Q2 2025
-📈 Revenue (QoQ 🔻🔴 -199.8% | YoY 🔻🔴 -196.1%)
-💰 Net Profit (QoQ 🔻🔴 -199.8% | YoY 🔼🟢 64.3%)
+📊 DWGL Q3 2025
+📈 Revenue (QoQ 🔻🔴 -13.5% | YoY 🔼🟢 0.4%)
+💰 Net Profit (QoQ 🔼🟢 3.2% | YoY 🔼🟢 53.2%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 67x | PBV 15303.8x
-🧱 Fundamental perlu dicermati
+🧮 Valuasi: PER 19x | PBV 7.6x
+🧱 Fundamental stabil

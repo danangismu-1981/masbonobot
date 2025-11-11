@@ -1,6 +1,6 @@
-📊 CHEM Q2 2025
-📈 Revenue (QoQ 🔻🔴 -28.4% | YoY 🔻🔴 -15.2%)
-💰 Net Profit (QoQ ⏺️ n/a | YoY ⏺️ n/a)
+📊 CHEM Q3 2025
+📈 Revenue (QoQ 🔼🟢 22.6% | YoY 🔼🟢 25.2%)
+💰 Net Profit (QoQ 🔻🔴 -58.2% | YoY 🔻🔴 -59.0%)
 💡 Cash Operasi: Negatif
-🧮 Valuasi: PER n/a | PBV 1.7x
+🧮 Valuasi: PER 614x | PBV 1.8x
 🧱 Fundamental perlu dicermati
