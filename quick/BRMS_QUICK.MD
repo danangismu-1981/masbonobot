@@ -1,6 +1,6 @@
-📊 BRMS Q2 2025
-📈 Revenue (QoQ 🔻🔴 -13.3% | YoY 🔼🟢 33.6%)
-💰 Net Profit (QoQ 🔻🔴 -44.7% | YoY 🔼🟢 47.5%)
-💡 Cash Operasi: Negatif
-🧮 Valuasi: PER 223x | PBV 6.8x
+📊 BRMS Q3 2025
+📈 Revenue (QoQ 🔼🟢 9.0% | YoY 🔼🟢 69.2%)
+💰 Net Profit (QoQ 🔼🟢 75.5% | YoY 🔼🟢 142.2%)
+💡 Cash Operasi: Positif
+🧮 Valuasi: PER 176x | PBV 6.6x
 🧱 Fundamental stabil

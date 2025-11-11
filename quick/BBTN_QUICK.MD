@@ -1,6 +1,6 @@
-📊 BBTN Q2 2025
-📈 Revenue (QoQ 🔼🟢 65.8% | YoY 🔼🟢 81.6%)
-💰 Net Profit (QoQ 🔻🔴 -11.2% | YoY 🔼🟢 25.1%)
+📊 BBTN Q3 2025
+📈 Revenue (QoQ 🔻🔴 -24.6% | YoY 🔼🟢 20.4%)
+💰 Net Profit (QoQ 🔻🔴 -25.7% | YoY 🔼🟢 10.6%)
 💡 Cash Operasi: Positif
 🧮 Valuasi: PER 5x | PBV 0.5x
 🧱 Fundamental stabil

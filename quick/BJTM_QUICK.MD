@@ -1,6 +1,6 @@
-📊 BJTM Q2 2025
-📈 Revenue (QoQ 🔼🟢 4.2% | YoY 🔼🟢 38.3%)
-💰 Net Profit (QoQ 🔼🟢 37.5% | YoY 🔼🟢 31.7%)
+📊 BJTM Q3 2025
+📈 Revenue (QoQ 🔼🟢 7.0% | YoY 🔼🟢 28.4%)
+💰 Net Profit (QoQ 🔻🔴 -2.1% | YoY 🔼🟢 14.0%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 6x | PBV 0.6x
+🧮 Valuasi: PER 5x | PBV 0.6x
 🧱 Fundamental stabil

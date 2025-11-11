@@ -1,6 +1,6 @@
-📊 BVIC Q2 2025
-📈 Revenue (QoQ 🔻🔴 -12.0% | YoY 🔼🟢 19.3%)
-💰 Net Profit (QoQ 🔼🟢 152.5% | YoY 🔼🟢 121.8%)
-💡 Cash Operasi: Positif
-🧮 Valuasi: PER 12x | PBV 0.4x
+📊 BVIC Q3 2025
+📈 Revenue (QoQ 🔼🟢 5.8% | YoY 🔼🟢 11.6%)
+💰 Net Profit (QoQ 🔻🔴 -97.5% | YoY 🔼🟢 58.6%)
+💡 Cash Operasi: Negatif
+🧮 Valuasi: PER 11x | PBV 0.4x
 🧱 Fundamental stabil

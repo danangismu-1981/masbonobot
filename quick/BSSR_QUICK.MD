@@ -1,6 +1,6 @@
-📊 BSSR Q2 2025
-📈 Revenue (QoQ 🔼🟢 8.5% | YoY 🔻🔴 -32.5%)
-💰 Net Profit (QoQ 🔼🟢 48.7% | YoY 🔻🔴 -25.6%)
+📊 BSSR Q3 2025
+📈 Revenue (QoQ 🔼🟢 8.9% | YoY 🔻🔴 -28.3%)
+💰 Net Profit (QoQ 🔻🔴 -60.5% | YoY 🔻🔴 -44.6%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 7x | PBV 2.1x
+🧮 Valuasi: PER 8x | PBV 2.2x
 🧱 Fundamental perlu dicermati

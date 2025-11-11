@@ -1,6 +1,6 @@
-📊 BLES Q2 2025
-📈 Revenue (QoQ 🔼🟢 2.5% | YoY ⏺️ n/a)
-💰 Net Profit (QoQ 🔼🟢 547.7% | YoY ⏺️ n/a)
-💡 Cash Operasi: Negatif
-🧮 Valuasi: PER 35x | PBV 1.5x
-🧱 Fundamental stabil
+📊 BLES Q3 2025
+📈 Revenue (QoQ 🔼🟢 35.7% | YoY 🔼🟢 3.9%)
+💰 Net Profit (QoQ 🔼🟢 478.8% | YoY 🔻🔴 -61.2%)
+💡 Cash Operasi: Positif
+🧮 Valuasi: PER 17x | PBV 1.3x
+🧱 Fundamental perlu dicermati

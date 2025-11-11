@@ -1,6 +1,6 @@
 📊 BBCA Q3 2025
-📈 Revenue (QoQ 🔼🟢 2.0% | YoY 🔼🟢 4.7%)
-💰 Net Profit (QoQ 🔻🔴 -3.3% | YoY 🔼🟢 1.3%)
+📈 Revenue (QoQ 🔻🔴 -1.1% | YoY 🔼🟢 5.3%)
+💰 Net Profit (QoQ 🔻🔴 -3.3% | YoY 🔼🟢 5.7%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 17x | PBV 3.6x
+🧮 Valuasi: PER 19x | PBV 3.9x
 🧱 Fundamental stabil

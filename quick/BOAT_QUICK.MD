@@ -1,6 +1,6 @@
-📊 BOAT Q2 2025
-📈 Revenue (QoQ 🔼🟢 32.7% | YoY ⏺️ n/a)
-💰 Net Profit (QoQ 🔼🟢 1667.9% | YoY ⏺️ n/a)
+📊 BOAT Q3 2025
+📈 Revenue (QoQ 🔼🟢 20.2% | YoY 🔼🟢 65.0%)
+💰 Net Profit (QoQ 🔼🟢 229.9% | YoY 🔼🟢 92.4%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 89x | PBV 1.2x
+🧮 Valuasi: PER 20x | PBV 1.0x
 🧱 Fundamental stabil

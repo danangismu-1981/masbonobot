@@ -1,6 +1,6 @@
-📊 BCIC Q2 2025
-📈 Revenue (QoQ 🔻🔴 -25.8% | YoY 🔻🔴 -7.6%)
-💰 Net Profit (QoQ 🔻🔴 -71.5% | YoY 🔻🔴 -41.1%)
-💡 Cash Operasi: Negatif
-🧮 Valuasi: PER 105x | PBV 0.8x
+📊 BCIC Q3 2025
+📈 Revenue (QoQ 🔻🔴 -2.7% | YoY 🔻🔴 -1.9%)
+💰 Net Profit (QoQ 🔻🔴 -296.3% | YoY 🔻🔴 -60.5%)
+💡 Cash Operasi: Positif
+🧮 Valuasi: PER -29x | PBV 0.7x
 🧱 Fundamental perlu dicermati

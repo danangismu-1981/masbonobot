@@ -1,6 +1,6 @@
-📊 BNLI Q2 2025
-📈 Revenue (QoQ 🔻🔴 -2.6% | YoY 🔼🟢 1.8%)
-💰 Net Profit (QoQ 🔼🟢 8.5% | YoY 🔼🟢 18.6%)
+📊 BNLI Q3 2025
+📈 Revenue (QoQ 🔻🔴 -1.6% | YoY 🔼🟢 0.7%)
+💰 Net Profit (QoQ 🔼🟢 44.5% | YoY 🔼🟢 3.5%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 61x | PBV 5.1x
+🧮 Valuasi: PER 52x | PBV 4.2x
 🧱 Fundamental stabil

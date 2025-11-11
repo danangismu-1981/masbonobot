@@ -1,6 +1,6 @@
-📊 BSIM Q2 2025
-📈 Revenue (QoQ 🔼🟢 16.3% | YoY 🔼🟢 2.4%)
-💰 Net Profit (QoQ 🔼🟢 103.0% | YoY 🔼🟢 13.1%)
+📊 BSIM Q3 2025
+📈 Revenue (QoQ 🔻🔴 -3.4% | YoY 🔻🔴 -16.4%)
+💰 Net Profit (QoQ 🔼🟢 17.9% | YoY 🔼🟢 9.5%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 64x | PBV 2.1x
-🧱 Fundamental stabil
+🧮 Valuasi: PER 56x | PBV 2.0x
+🧱 Fundamental perlu dicermati

@@ -1,6 +1,6 @@
-📊 BRIS Q2 2025
-📈 Revenue (QoQ 🔼🟢 2.5% | YoY 🔼🟢 16.1%)
-💰 Net Profit (QoQ 🔻🔴 -0.9% | YoY 🔼🟢 10.4%)
-💡 Cash Operasi: Negatif
-🧮 Valuasi: PER 16x | PBV 2.5x
+📊 BRIS Q3 2025
+📈 Revenue (QoQ 🔻🔴 -6.7% | YoY 🔼🟢 14.0%)
+💰 Net Profit (QoQ 🔻🔴 -1.9% | YoY 🔼🟢 9.0%)
+💡 Cash Operasi: Positif
+🧮 Valuasi: PER 16x | PBV 2.3x
 🧱 Fundamental stabil

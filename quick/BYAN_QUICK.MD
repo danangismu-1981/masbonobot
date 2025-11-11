@@ -1,6 +1,6 @@
-📊 BYAN Q2 2025
-📈 Revenue (QoQ 🔻🔴 -21.8% | YoY 🔻🔴 -7.6%)
-💰 Net Profit (QoQ 🔻🔴 -43.3% | YoY 🔻🔴 -24.4%)
+📊 BYAN Q3 2025
+📈 Revenue (QoQ 🔼🟢 11.8% | YoY 🔻🔴 -1.6%)
+💰 Net Profit (QoQ 🔼🟢 31.6% | YoY 🔻🔴 -15.9%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 41x | PBV 17.5x
+🧮 Valuasi: PER 44x | PBV 15.4x
 🧱 Fundamental perlu dicermati

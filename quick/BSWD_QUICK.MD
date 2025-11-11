@@ -1,6 +1,6 @@
-📊 BSWD Q2 2025
-📈 Revenue (QoQ 🔼🟢 0.0% | YoY 🔼🟢 3.3%)
-💰 Net Profit (QoQ 🔼🟢 54.2% | YoY 🔻🔴 -25.9%)
+📊 BSWD Q3 2025
+📈 Revenue (QoQ 🔻🔴 -2.4% | YoY 🔼🟢 3.7%)
+💰 Net Profit (QoQ 🔻🔴 -214.3% | YoY 🔻🔴 -80.5%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 63x | PBV 1.4x
+🧮 Valuasi: PER 100x | PBV 1.1x
 🧱 Fundamental perlu dicermati

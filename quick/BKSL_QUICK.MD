@@ -1,6 +1,6 @@
-📊 BKSL Q2 2025
-📈 Revenue (QoQ 🔻🔴 -26.5% | YoY 🔼🟢 33.1%)
-💰 Net Profit (QoQ 🔼🟢 1531.1% | YoY 🔻🔴 -92.4%)
-💡 Cash Operasi: Negatif
-🧮 Valuasi: PER -555x | PBV 1.6x
-🧱 Fundamental perlu dicermati
+📊 BKSL Q3 2025
+📈 Revenue (QoQ 🔼🟢 72.4% | YoY 🔼🟢 96.3%)
+💰 Net Profit (QoQ 🔼🟢 317.5% | YoY 🔼🟢 161.4%)
+💡 Cash Operasi: Positif
+🧮 Valuasi: PER 328x | PBV 1.4x
+🧱 Fundamental stabil

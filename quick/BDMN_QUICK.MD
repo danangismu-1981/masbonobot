@@ -1,6 +1,6 @@
-📊 BDMN Q2 2025
-📈 Revenue (QoQ 🔼🟢 1.0% | YoY 🔻🔴 -0.8%)
-💰 Net Profit (QoQ 🔼🟢 15.9% | YoY 🔼🟢 40.6%)
+📊 BDMN Q3 2025
+📈 Revenue (QoQ 🔼🟢 1.6% | YoY 🔼🟢 3.2%)
+💰 Net Profit (QoQ 🔼🟢 36.7% | YoY 🔼🟢 21.4%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 7x | PBV 0.4x
-🧱 Fundamental perlu dicermati
+🧮 Valuasi: PER 7x | PBV 0.5x
+🧱 Fundamental stabil
