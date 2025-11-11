@@ -1,6 +1,6 @@
-📊 PUDP Q2 2025
-📈 Revenue (QoQ 🔼🟢 29.9% | YoY 🔻🔴 -13.7%)
-💰 Net Profit (QoQ ⏺️ n/a | YoY ⏺️ n/a)
+📊 PUDP Q3 2025
+📈 Revenue (QoQ 🔻🔴 -7.4% | YoY 🔻🔴 -2.9%)
+💰 Net Profit (QoQ 🔻🔴 -33.5% | YoY 🔻🔴 -284.3%)
 💡 Cash Operasi: Negatif
-🧮 Valuasi: PER n/a | PBV 0.7x
+🧮 Valuasi: PER -136x | PBV 0.9x
 🧱 Fundamental perlu dicermati

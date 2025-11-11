@@ -1,6 +1,6 @@
-📊 SBMA Q2 2025
-📈 Revenue (QoQ 🔼🟢 6.8% | YoY ⏺️ n/a)
-💰 Net Profit (QoQ ⏺️ n/a | YoY ⏺️ n/a)
+📊 SBMA Q3 2025
+📈 Revenue (QoQ 🔼🟢 2.6% | YoY 🔼🟢 6.3%)
+💰 Net Profit (QoQ 🔻🔴 -30.0% | YoY 🔼🟢 3.2%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER n/a | PBV 0.5x
+🧮 Valuasi: PER 9x | PBV 0.5x
 🧱 Fundamental stabil

@@ -1,6 +1,6 @@
-📊 SMRU Q2 2025
-📈 Revenue (QoQ 🔻🔴 -5.4% | YoY 🔼🟢 427.8%)
-💰 Net Profit (QoQ 🔻🔴 -78.7% | YoY 🔻🔴 -85.3%)
-💡 Cash Operasi: Positif
-🧮 Valuasi: PER -8x | PBV -71.3x
+📊 SMRU Q3 2025
+📈 Revenue (QoQ 🔼🟢 69.5% | YoY 🔻🔴 -2.6%)
+💰 Net Profit (QoQ 🔼🟢 120.9% | YoY 🔻🔴 -35.0%)
+💡 Cash Operasi: Negatif
+🧮 Valuasi: PER -9x | PBV -31.5x
 🧱 Fundamental perlu dicermati

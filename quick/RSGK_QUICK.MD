@@ -1,6 +1,6 @@
-📊 RSGK Q2 2025
-📈 Revenue (QoQ 🔼🟢 5.1% | YoY 🔼🟢 4.7%)
-💰 Net Profit (QoQ 🔼🟢 33.1% | YoY 🔼🟢 11.1%)
+📊 RSGK Q3 2025
+📈 Revenue (QoQ 🔼🟢 9.2% | YoY 🔼🟢 2.3%)
+💰 Net Profit (QoQ 🔻🔴 -23.0% | YoY 🔻🔴 -17.5%)
 💡 Cash Operasi: Positif
 🧮 Valuasi: PER 27x | PBV 1.1x
-🧱 Fundamental stabil
+🧱 Fundamental perlu dicermati

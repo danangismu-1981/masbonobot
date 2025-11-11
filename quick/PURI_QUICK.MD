@@ -1,6 +1,6 @@
-📊 PURI Q2 2025
-📈 Revenue (QoQ 🔻🔴 -85.9% | YoY ⏺️ n/a)
-💰 Net Profit (QoQ 🔻🔴 -1020.8% | YoY ⏺️ n/a)
+📊 PURI Q3 2025
+📈 Revenue (QoQ 🔼🟢 203.2% | YoY 🔼🟢 125.5%)
+💰 Net Profit (QoQ 🔻🔴 -69.5% | YoY 🔻🔴 -56.5%)
 💡 Cash Operasi: Negatif
-🧮 Valuasi: PER -23x | PBV 2.2x
-🧱 Fundamental stabil
+🧮 Valuasi: PER -88x | PBV 7.1x
+🧱 Fundamental perlu dicermati

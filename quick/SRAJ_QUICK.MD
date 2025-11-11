@@ -1,6 +1,6 @@
-📊 SRAJ Q2 2025
-📈 Revenue (QoQ 🔻🔴 -51.5% | YoY 🔻🔴 -49.4%)
-💰 Net Profit (QoQ 🔼🟢 29.6% | YoY 🔻🔴 -855.4%)
-💡 Cash Operasi: Negatif
-🧮 Valuasi: PER -1370x | PBV 92.0x
+📊 SRAJ Q3 2025
+📈 Revenue (QoQ 🔼🟢 76.7% | YoY 🔼🟢 8.8%)
+💰 Net Profit (QoQ 🔻🔴 -38.1% | YoY 🔻🔴 -1173.6%)
+💡 Cash Operasi: Positif
+🧮 Valuasi: PER -1191x | PBV 99.0x
 🧱 Fundamental perlu dicermati

@@ -1,6 +1,6 @@
-📊 RSCH Q2 2025
-📈 Revenue (QoQ 🔼🟢 31.8% | YoY ⏺️ n/a)
-💰 Net Profit (QoQ 🔻🔴 -21.2% | YoY ⏺️ n/a)
+📊 RSCH Q3 2025
+📈 Revenue (QoQ 🔼🟢 20.3% | YoY 🔼🟢 28.5%)
+💰 Net Profit (QoQ 🔻🔴 -18.1% | YoY 🔼🟢 6047.5%)
 💡 Cash Operasi: Negatif
-🧮 Valuasi: PER -91x | PBV 7.3x
+🧮 Valuasi: PER -55x | PBV 7.5x
 🧱 Fundamental stabil

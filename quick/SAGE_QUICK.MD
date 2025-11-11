@@ -1,6 +1,6 @@
-📊 SAGE Q2 2025
-📈 Revenue (QoQ 🔻🔴 -92.4% | YoY 🔻🔴 -97.2%)
-💰 Net Profit (QoQ 🔼🟢 26.7% | YoY 🔻🔴 -513.2%)
+📊 SAGE Q3 2025
+📈 Revenue (QoQ 🔼🟢 657.8% | YoY 🔻🔴 -78.9%)
+💰 Net Profit (QoQ 🔻🔴 -61.3% | YoY 🔻🔴 -360.3%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER -82x | PBV 0.9x
+🧮 Valuasi: PER -60x | PBV 0.9x
 🧱 Fundamental perlu dicermati

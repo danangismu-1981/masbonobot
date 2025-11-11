@@ -1,6 +1,6 @@
-📊 SDRA Q2 2025
-📈 Revenue (QoQ 🔻🔴 -2.5% | YoY 🔻🔴 -7.5%)
-💰 Net Profit (QoQ 🔻🔴 -146.4% | YoY 🔻🔴 -140.3%)
-💡 Cash Operasi: Negatif
-🧮 Valuasi: PER 16x | PBV 0.3x
+📊 SDRA Q3 2025
+📈 Revenue (QoQ 🔻🔴 -0.8% | YoY 🔻🔴 -3.5%)
+💰 Net Profit (QoQ 🔻🔴 -5.1% | YoY 🔻🔴 -96.8%)
+💡 Cash Operasi: Positif
+🧮 Valuasi: PER 55x | PBV 0.3x
 🧱 Fundamental perlu dicermati

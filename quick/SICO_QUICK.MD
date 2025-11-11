@@ -1,6 +1,6 @@
-📊 SICO Q2 2025
-📈 Revenue (QoQ 🔼🟢 25.4% | YoY 🔼🟢 73.2%)
-💰 Net Profit (QoQ 🔻🔴 -48.2% | YoY 🔼🟢 3.1%)
+📊 SICO Q3 2025
+📈 Revenue (QoQ 🔼🟢 7.2% | YoY 🔼🟢 62.1%)
+💰 Net Profit (QoQ 🔻🔴 -40.7% | YoY 🔼🟢 16.5%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 11x | PBV 1.0x
+🧮 Valuasi: PER 12x | PBV 1.0x
 🧱 Fundamental stabil
