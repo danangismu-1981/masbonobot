@@ -1,6 +1,6 @@
-📊 OMED Q2 2025
-📈 Revenue (QoQ 🔼🟢 12.2% | YoY 🔼🟢 8.2%)
-💰 Net Profit (QoQ 🔼🟢 11.3% | YoY 🔼🟢 0.6%)
+📊 OMED Q3 2025
+📈 Revenue (QoQ 🔼🟢 11.1% | YoY 🔼🟢 7.7%)
+💰 Net Profit (QoQ 🔼🟢 24.1% | YoY 🔼🟢 20.5%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 16x | PBV 2.1x
+🧮 Valuasi: PER 15x | PBV 2.0x
 🧱 Fundamental stabil

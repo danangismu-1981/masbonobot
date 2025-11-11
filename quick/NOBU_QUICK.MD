@@ -1,6 +1,6 @@
-📊 NOBU Q2 2025
-📈 Revenue (QoQ 🔼🟢 7.7% | YoY 🔼🟢 30.2%)
-💰 Net Profit (QoQ 🔼🟢 11.8% | YoY 🔼🟢 60.5%)
-💡 Cash Operasi: Positif
-🧮 Valuasi: PER 10x | PBV 1.1x
+📊 NOBU Q3 2025
+📈 Revenue (QoQ 🔼🟢 0.8% | YoY 🔼🟢 23.2%)
+💰 Net Profit (QoQ 🔼🟢 2.9% | YoY 🔼🟢 59.1%)
+💡 Cash Operasi: Negatif
+🧮 Valuasi: PER 8x | PBV 0.9x
 🧱 Fundamental stabil

@@ -1,6 +1,6 @@
-📊 MTLA Q2 2025
-📈 Revenue (QoQ 🔼🟢 29.0% | YoY 🔼🟢 0.5%)
-💰 Net Profit (QoQ 🔼🟢 76.6% | YoY 🔼🟢 15.2%)
-💡 Cash Operasi: Positif
-🧮 Valuasi: PER 7x | PBV 0.6x
-🧱 Fundamental stabil
+📊 MTLA Q3 2025
+📈 Revenue (QoQ 🔻🔴 -37.6% | YoY 🔻🔴 -13.3%)
+💰 Net Profit (QoQ 🔻🔴 -81.9% | YoY 🔻🔴 -25.9%)
+💡 Cash Operasi: Negatif
+🧮 Valuasi: PER 9x | PBV 0.6x
+🧱 Fundamental perlu dicermati

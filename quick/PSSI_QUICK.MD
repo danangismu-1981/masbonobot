@@ -1,6 +1,6 @@
-📊 PSSI Q2 2025
-📈 Revenue (QoQ 🔻🔴 -11.6% | YoY 🔻🔴 -38.9%)
-💰 Net Profit (QoQ 🔻🔴 -523.0% | YoY 🔻🔴 -51.5%)
+📊 PSSI Q3 2025
+📈 Revenue (QoQ 🔼🟢 11.7% | YoY 🔻🔴 -28.6%)
+💰 Net Profit (QoQ 🔻🔴 -100.3% | YoY 🔻🔴 -89.1%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 18x | PBV 0.7x
+🧮 Valuasi: PER 67x | PBV 0.7x
 🧱 Fundamental perlu dicermati

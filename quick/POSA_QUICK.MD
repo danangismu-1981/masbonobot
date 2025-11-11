@@ -1,6 +1,6 @@
-📊 POSA Q2 2025
-📈 Revenue (QoQ 🔻🔴 -2.3% | YoY 🔻🔴 -4.8%)
-💰 Net Profit (QoQ 🔼🟢 95.1% | YoY 🔼🟢 31.5%)
-💡 Cash Operasi: Positif
-🧮 Valuasi: PER -4x | PBV -1.0x
+📊 POSA Q3 2025
+📈 Revenue (QoQ 🔻🔴 -5.1% | YoY 🔻🔴 -5.7%)
+💰 Net Profit (QoQ 🔻🔴 -19.6% | YoY 🔼🟢 0.6%)
+💡 Cash Operasi: Negatif
+🧮 Valuasi: PER -4x | PBV -0.9x
 🧱 Fundamental perlu dicermati

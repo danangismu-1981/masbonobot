@@ -1,6 +1,6 @@
-📊 PRDA Q2 2025
-📈 Revenue (QoQ 🔼🟢 12.7% | YoY 🔻🔴 -0.2%)
-💰 Net Profit (QoQ 🔼🟢 808.4% | YoY 🔻🔴 -18.1%)
+📊 PRDA Q3 2025
+📈 Revenue (QoQ 🔼🟢 1.6% | YoY 🔻🔴 -1.1%)
+💰 Net Profit (QoQ 🔻🔴 -28.4% | YoY 🔻🔴 -41.1%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 11x | PBV 1.0x
+🧮 Valuasi: PER 13x | PBV 1.0x
 🧱 Fundamental perlu dicermati

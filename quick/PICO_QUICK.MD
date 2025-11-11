@@ -1,6 +1,6 @@
-📊 PICO Q2 2025
-📈 Revenue (QoQ 🔼🟢 18.1% | YoY 🔼🟢 19.5%)
-💰 Net Profit (QoQ ⏺️ n/a | YoY 🔼🟢 128.9%)
+📊 PICO Q3 2025
+📈 Revenue (QoQ 🔼🟢 1.8% | YoY 🔻🔴 -1.9%)
+💰 Net Profit (QoQ 🔻🔴 -109.2% | YoY 🔼🟢 20.8%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 84x | PBV 0.7x
-🧱 Fundamental stabil
+🧮 Valuasi: PER 40x | PBV 0.7x
+🧱 Fundamental perlu dicermati

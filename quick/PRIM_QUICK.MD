@@ -1,6 +1,6 @@
-📊 PRIM Q2 2025
-📈 Revenue (QoQ 🔼🟢 6.4% | YoY 🔼🟢 24.3%)
-💰 Net Profit (QoQ 🔻🔴 -87.3% | YoY 🔻🔴 -94.0%)
-💡 Cash Operasi: Positif
-🧮 Valuasi: PER -29x | PBV 0.3x
+📊 PRIM Q3 2025
+📈 Revenue (QoQ 🔻🔴 -3.0% | YoY 🔼🟢 15.1%)
+💰 Net Profit (QoQ 🔼🟢 205.4% | YoY 🔻🔴 -62.4%)
+💡 Cash Operasi: Negatif
+🧮 Valuasi: PER -37x | PBV 0.3x
 🧱 Fundamental perlu dicermati

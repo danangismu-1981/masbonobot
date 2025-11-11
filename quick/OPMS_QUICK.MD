@@ -1,6 +1,6 @@
-📊 OPMS Q2 2025
-📈 Revenue (QoQ 🔻🔴 -11.2% | YoY ⏺️ n/a)
-💰 Net Profit (QoQ ⏺️ n/a | YoY ⏺️ n/a)
+📊 OPMS Q3 2025
+📈 Revenue (QoQ 🔻🔴 -80.4% | YoY 🔻🔴 -92.3%)
+💰 Net Profit (QoQ 🔼🟢 1.3% | YoY 🔻🔴 -5.8%)
 💡 Cash Operasi: Negatif
-🧮 Valuasi: PER n/a | PBV 1.5x
-🧱 Fundamental stabil
+🧮 Valuasi: PER -11x | PBV 1.1x
+🧱 Fundamental perlu dicermati

@@ -1,6 +1,6 @@
-📊 PGAS Q2 2025
-📈 Revenue (QoQ 🔻🔴 -3.9% | YoY 🔼🟢 2.2%)
-💰 Net Profit (QoQ 🔼🟢 27.7% | YoY 🔼🟢 15.7%)
+📊 PGAS Q3 2025
+📈 Revenue (QoQ 🔼🟢 1.4% | YoY 🔼🟢 3.8%)
+💰 Net Profit (QoQ 🔼🟢 13.4% | YoY 🔻🔴 -9.7%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 9x | PBV 0.9x
-🧱 Fundamental stabil
+🧮 Valuasi: PER 8x | PBV 0.9x
+🧱 Fundamental perlu dicermati

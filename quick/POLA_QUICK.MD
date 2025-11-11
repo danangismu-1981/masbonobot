@@ -1,6 +1,6 @@
-📊 POLA Q2 2025
-📈 Revenue (QoQ 🔻🔴 -59.3% | YoY 🔼🟢 95.8%)
-💰 Net Profit (QoQ 🔻🔴 -270.2% | YoY 🔼🟢 305.0%)
+📊 POLA Q3 2025
+📈 Revenue (QoQ 🔻🔴 -8.4% | YoY 🔼🟢 70.7%)
+💰 Net Profit (QoQ 🔻🔴 -358.3% | YoY 🔻🔴 -155.3%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER -6x | PBV 0.7x
-🧱 Fundamental stabil
+🧮 Valuasi: PER -10x | PBV 0.5x
+🧱 Fundamental perlu dicermati

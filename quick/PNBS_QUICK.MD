@@ -1,6 +1,6 @@
-📊 PNBS Q2 2025
-📈 Revenue (QoQ 🔼🟢 8.1% | YoY 🔻🔴 -14.8%)
-💰 Net Profit (QoQ 🔼🟢 0.3% | YoY 🔻🔴 -73.0%)
-💡 Cash Operasi: Positif
-🧮 Valuasi: PER 68x | PBV 0.7x
+📊 PNBS Q3 2025
+📈 Revenue (QoQ 🔼🟢 3.7% | YoY 🔻🔴 -0.3%)
+💰 Net Profit (QoQ 🔼🟢 30.5% | YoY 🔻🔴 -53.7%)
+💡 Cash Operasi: Negatif
+🧮 Valuasi: PER 54x | PBV 0.7x
 🧱 Fundamental perlu dicermati
