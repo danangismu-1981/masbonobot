@@ -18,7 +18,7 @@ import glob
 import textwrap
 import subprocess
 import random
-from typing import Optional, List, Tuple
+from typing import Optional, List, Tuple, Dict
 from datetime import datetime
 try:
     from zoneinfo import ZoneInfo
@@ -238,18 +238,160 @@ def _symbols_path(default_name: str = "symbols.txt") -> str:
 
 
 def _load_symbols(symbols_path: Optional[str] = None) -> set:
+    """
+    Load daftar ticker dari symbols.txt (format CSV: KODE, NAMA, ...).
+
+    Contoh baris:
+    BMRI,PT Bank Mandiri (Persero) Tbk,Banks,...
+
+    Fungsi ini hanya mengembalikan SET kode saham (BMRI, BBCA, ...),
+    agar kompatibel dengan logika lama.
+    """
     if not symbols_path:
         symbols_path = _symbols_path()
+
     syms = set()
     try:
         with open(symbols_path, "r", encoding="utf-8") as f:
-            for line in f:
-                s = line.strip().upper()
-                if s:
-                    syms.add(s)
+            for raw in f:
+                line = raw.strip()
+                if not line or line.startswith("#"):
+                    continue
+
+                parts = line.split(",")
+                if not parts:
+                    continue
+
+                ticker = parts[0].strip().upper()
+                if ticker:
+                    syms.add(ticker)
     except Exception:
+        # Silent fail: kalau file tidak ada, nanti fitur deteksi ticker otomatis saja yang mati.
         pass
+
     return syms
+
+def _normalize_company_name(text: str) -> str:
+    """
+    Normalisasi nama perusahaan untuk keperluan pencarian fuzzy sederhana.
+    - lower case
+    - buang kata 'PT', 'Tbk', '(Persero)' dll
+    - hilangkan karakter non-alfanumerik
+    """
+    if not text:
+        return ""
+
+    t = text.lower()
+
+    # hapus frasa legal yang sering muncul
+    # jadi "pt bank mandiri (persero) tbk" -> "bank mandiri"
+    patterns = [
+        r"\bpt\b",
+        r"\bpt\.\b",
+        r"\btbk\b",
+        r"\bpersero\b",
+        r"\btbk\.\b",
+    ]
+    for p in patterns:
+        t = re.sub(p, " ", t)
+
+    # ganti semua non-alfanumerik jadi spasi
+    t = re.sub(r"[^a-z0-9]+", " ", t)
+    # rapikan spasi
+    t = re.sub(r"\s+", " ", t).strip()
+
+    return t
+
+
+def _load_symbol_name_map(symbols_path: Optional[str] = None) -> Dict[str, str]:
+    """
+    Bangun index dari nama perusahaan -> ticker.
+
+    Dari tiap baris CSV:
+    BMRI,PT Bank Mandiri (Persero) Tbk,....
+
+    Kita buat beberapa key:
+    - "bank mandiri persero"
+    - "bank mandiri" (2 kata pertama)
+    - "mandiri persero" (2 kata terakhir)
+    Semuanya di-map ke "BMRI".
+    """
+    if not symbols_path:
+        symbols_path = _symbols_path()
+
+    mapping: Dict[str, str] = {}
+
+    try:
+        with open(symbols_path, "r", encoding="utf-8") as f:
+            for raw in f:
+                line = raw.strip()
+                if not line or line.startswith("#"):
+                    continue
+
+                parts = line.split(",")
+                if len(parts) < 2:
+                    continue
+
+                ticker = parts[0].strip().upper()
+                company_name = parts[1].strip()
+                if not ticker or not company_name:
+                    continue
+
+                norm_full = _normalize_company_name(company_name)
+                if not norm_full:
+                    continue
+
+                tokens = norm_full.split()
+                keys = set()
+
+                # full name normalized
+                keys.add(norm_full)
+
+                # 2 kata pertama
+                if len(tokens) >= 2:
+                    keys.add(" ".join(tokens[:2]))
+                    # 2 kata terakhir
+                    keys.add(" ".join(tokens[-2:]))
+
+                for k in keys:
+                    if not k:
+                        continue
+                    # jangan terlalu khawatir soal bentrok, ambil yang pertama saja
+                    mapping.setdefault(k, ticker)
+
+    except Exception:
+        # kalau gagal, fitur "nama perusahaan" saja yang mati, tidak ganggu yang lain
+        pass
+
+    return mapping
+
+
+def _find_ticker_by_company_name(message_text: str, name_map: Dict[str, str]) -> Optional[str]:
+    """
+    Coba temukan ticker berdasarkan kemunculan nama perusahaan di kalimat user.
+
+    Contoh:
+    message_text = "tolong cari bank mandiri dong"
+    name_map mengandung key "bank mandiri" -> "BMRI"
+    """
+    if not message_text or not name_map:
+        return None
+
+    norm_msg = _normalize_company_name(message_text)
+    if not norm_msg:
+        return None
+
+    best_key = None
+    best_ticker = None
+
+    # pilih key terpanjang yang cocok sebagai substring, supaya lebih spesifik
+    for key, ticker in name_map.items():
+        if key and key in norm_msg:
+            if best_key is None or len(key) > len(best_key):
+                best_key = key
+                best_ticker = ticker
+
+    return best_ticker
 
 
 def _find_tickers_in_text(message_text: str, symbols: set) -> List[str]:
@@ -480,13 +622,15 @@ def _handle_message_core(msg_raw: str, base_folder: str = "./Data") -> str:
         content = get_file_content(base_folder, ticker)
         return content or f"File Data/{ticker}.MD tidak ditemukan."
 
-    # --- NATURAL LANGUAGE: deteksi ticker dari symbols.txt ---
+        # --- NATURAL LANGUAGE: deteksi ticker dari symbols.txt ---
     symbols = _load_symbols()
     if symbols:
         found = _find_tickers_in_text(msg_raw, symbols)
         if len(found) == 1:
+            # kasus: user menyebut langsung "BMRI" di kalimat bebas
             return _handle_single_ticker_request(found[0], base_folder)
         elif len(found) >= 2:
+            # kasus: ada >1 ticker dalam kalimat, sarankan compare
             if _is_compare_intent(msg_raw):
                 return _run_compare([found[0], found[1]], timeout=90)
             t1, t2 = found[0], found[1]
@@ -496,7 +640,16 @@ def _handle_message_core(msg_raw: str, base_folder: str = "./Data") -> str:
                 f"{_help_text()}"
             )
 
+    # --- FALLBACK: coba deteksi dari NAMA PERUSAHAAN (symbols.txt kolom 2) ---
+    name_map = _load_symbol_name_map()
+    if name_map:
+        ticker_from_name = _find_ticker_by_company_name(msg_raw, name_map)
+        if ticker_from_name:
+            # contoh: "tolong cari bank mandiri dong" -> BMRI
+            return _handle_single_ticker_request(ticker_from_name, base_folder)
+
     # --- DEFAULT: satu kata yang terlihat seperti ticker ---
+
     parts = msg_up.split()
     if len(parts) == 1 and re.fullmatch(_TICKER_PATTERN, parts[0]):
         ticker = parts[0]
