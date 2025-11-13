@@ -1,0 +1,6 @@
+📊 SKRN Q3 2025
+📈 Revenue (QoQ ⏺️ n/a | YoY ⏺️ n/a)
+💰 Net Profit (QoQ ⏺️ n/a | YoY ⏺️ n/a)
+💡 Cash Operasi: Negatif
+🧮 Valuasi: PER 24x | PBV 8.9x
+🧱 Fundamental stabil
