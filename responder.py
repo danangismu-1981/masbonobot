@@ -344,14 +344,18 @@ def _load_symbol_name_map(symbols_path: Optional[str] = None) -> Dict[str, str]:
                 tokens = norm_full.split()
                 keys = set()
 
-                # full name normalized
+                # full name (misal: "krakatau steel")
                 keys.add(norm_full)
 
-                # 2 kata pertama
+                # 2 kata depan & belakang
                 if len(tokens) >= 2:
                     keys.add(" ".join(tokens[:2]))
-                    # 2 kata terakhir
                     keys.add(" ".join(tokens[-2:]))
+
+                # 1 kata alias, supaya "krakatau" atau "mandiri" bisa langsung tembus
+                for tok in tokens:
+                    keys.add(tok)
+
 
                 for k in keys:
                     if not k:
