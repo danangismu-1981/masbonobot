@@ -1,6 +1,6 @@
 📊 BRPT Q2 2025
-📈 Revenue (QoQ 🔻🔴 -199.6% | YoY 🔻🔴 -239.2%)
-💰 Net Profit (QoQ 🔻🔴 -196.7% | YoY 🔻🔴 -161.1%)
+📈 Revenue (QoQ 🔼🟢 217.3% | YoY 🔼🟢 178.5%)
+💰 Net Profit (QoQ 🔼🟢 3140.5% | YoY 🔼🟢 1464.9%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 1014x | PBV 9947.4x
-🧱 Fundamental perlu dicermati
+🧮 Valuasi: PER 34x | PBV 8.8x
+🧱 Fundamental stabil

@@ -1,6 +1,6 @@
-📊 YPAS Q2 2025
-📈 Revenue (QoQ 🔻🔴 -2.1% | YoY 🔼🟢 15.3%)
-💰 Net Profit (QoQ 🔻🔴 -116.9% | YoY 🔻🔴 -114.8%)
+📊 YPAS Q3 2025
+📈 Revenue (QoQ 🔼🟢 7.0% | YoY 🔼🟢 3.6%)
+💰 Net Profit (QoQ 🔼🟢 289.3% | YoY 🔻🔴 -38.7%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER -83x | PBV 2.6x
+🧮 Valuasi: PER -89x | PBV 2.8x
 🧱 Fundamental perlu dicermati

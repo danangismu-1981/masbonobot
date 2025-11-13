@@ -1,6 +1,6 @@
-📊 BTON Q2 2025
-📈 Revenue (QoQ ⏺️ n/a | YoY ⏺️ n/a)
-💰 Net Profit (QoQ ⏺️ n/a | YoY ⏺️ n/a)
+📊 BTON Q3 2025
+📈 Revenue (QoQ 🔼🟢 74.5% | YoY 🔻🔴 -9.9%)
+💰 Net Profit (QoQ 🔻🔴 -300.6% | YoY 🔼🟢 31.6%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER n/a | PBV 1.0x
-🧱 Fundamental stabil
+🧮 Valuasi: PER 17x | PBV 0.9x
+🧱 Fundamental perlu dicermati

@@ -1,6 +1,6 @@
-📊 ALMI Q2 2025
-📈 Revenue (QoQ 🔻🔴 -100.0% | YoY 🔻🔴 -100.0%)
-💰 Net Profit (QoQ 🔼🟢 2763.4% | YoY 🔼🟢 69.4%)
+📊 ALMI Q3 2025
+📈 Revenue (QoQ ⏺️ n/a | YoY 🔻🔴 -99.6%)
+💰 Net Profit (QoQ 🔻🔴 -101.6% | YoY 🔻🔴 -60.1%)
 💡 Cash Operasi: Negatif
-🧮 Valuasi: PER -1x | PBV 3.0x
+🧮 Valuasi: PER -1x | PBV 2.9x
 🧱 Fundamental perlu dicermati

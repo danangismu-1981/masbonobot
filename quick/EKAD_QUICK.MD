@@ -1,6 +1,6 @@
-📊 EKAD Q2 2025
-📈 Revenue (QoQ ⏺️ n/a | YoY ⏺️ n/a)
-💰 Net Profit (QoQ ⏺️ n/a | YoY ⏺️ n/a)
+📊 EKAD Q3 2025
+📈 Revenue (QoQ 🔼🟢 14.5% | YoY 🔻🔴 -0.7%)
+💰 Net Profit (QoQ 🔻🔴 -38.4% | YoY 🔻🔴 -51.9%)
 💡 Cash Operasi: Positif
 🧮 Valuasi: PER 21x | PBV 0.6x
-🧱 Fundamental stabil
+🧱 Fundamental perlu dicermati

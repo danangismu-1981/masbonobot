@@ -1,6 +1,6 @@
-📊 INCO Q2 2025
-📈 Revenue (QoQ 🔼🟢 4.0% | YoY 🔻🔴 -14.9%)
-💰 Net Profit (QoQ 🔻🔴 -72.0% | YoY 🔻🔴 -80.0%)
+📊 INCO Q3 2025
+📈 Revenue (QoQ 🔻🔴 -34.7% | YoY ⏺️ n/a)
+💰 Net Profit (QoQ 🔼🟢 7.7% | YoY ⏺️ n/a)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 59x | PBV 1045.3x
-🧱 Fundamental perlu dicermati
+🧮 Valuasi: PER 46x | PBV 1.0x
+🧱 Fundamental stabil
