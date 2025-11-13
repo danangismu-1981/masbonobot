@@ -1,6 +1,6 @@
-📊 NICL Q2 2025
-📈 Revenue (QoQ 🔻🔴 -5.7% | YoY 🔼🟢 69.6%)
-💰 Net Profit (QoQ 🔻🔴 -14.6% | YoY 🔼🟢 168.7%)
+📊 NICL Q3 2025
+📈 Revenue (QoQ ⏺️ n/a | YoY ⏺️ n/a)
+💰 Net Profit (QoQ ⏺️ n/a | YoY ⏺️ n/a)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 20x | PBV 12.5x
+🧮 Valuasi: PER 19x | PBV 12.4x
 🧱 Fundamental stabil

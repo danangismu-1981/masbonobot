@@ -1,6 +1,6 @@
 📊 MBMA Q2 2025
-📈 Revenue (QoQ 🔻🔴 -30.1% | YoY 🔻🔴 -47.3%)
-💰 Net Profit (QoQ 🔻🔴 -363.3% | YoY 🔻🔴 -45.3%)
+📈 Revenue (QoQ 🔻🔴 -28.5% | YoY 🔻🔴 -31.9%)
+💰 Net Profit (QoQ 🔻🔴 -369.3% | YoY 🔻🔴 -71.3%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 529x | PBV 2.7x
+🧮 Valuasi: PER 519x | PBV 2.8x
 🧱 Fundamental perlu dicermati
