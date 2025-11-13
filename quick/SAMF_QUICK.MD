@@ -1,6 +1,6 @@
-📊 SAMF Q2 2025
-📈 Revenue (QoQ 🔼🟢 29.3% | YoY 🔻🔴 -11.6%)
-💰 Net Profit (QoQ 🔼🟢 32.9% | YoY 🔻🔴 -30.9%)
-💡 Cash Operasi: Negatif
-🧮 Valuasi: PER 12x | PBV 2.3x
+📊 SAMF Q3 2025
+📈 Revenue (QoQ 🔼🟢 26.9% | YoY 🔻🔴 -20.2%)
+💰 Net Profit (QoQ 🔼🟢 44.7% | YoY 🔻🔴 -37.5%)
+💡 Cash Operasi: Positif
+🧮 Valuasi: PER 12x | PBV 2.2x
 🧱 Fundamental perlu dicermati

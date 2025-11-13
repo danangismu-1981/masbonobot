@@ -1,6 +1,6 @@
-📊 PSAB Q2 2025
-📈 Revenue (QoQ 🔼🟢 7.8% | YoY 🔼🟢 8.5%)
-💰 Net Profit (QoQ 🔻🔴 -29.6% | YoY 🔼🟢 4.3%)
+📊 PSAB Q1 2025
+📈 Revenue (QoQ 🔼🟢 6.2% | YoY 🔼🟢 6.2%)
+💰 Net Profit (QoQ 🔼🟢 412.4% | YoY 🔼🟢 412.4%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 45x | PBV 2.8x
+🧮 Valuasi: PER 37x | PBV 2.7x
 🧱 Fundamental stabil

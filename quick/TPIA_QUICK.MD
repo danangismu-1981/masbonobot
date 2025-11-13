@@ -1,6 +1,6 @@
-📊 TPIA Q2 2025
-📈 Revenue (QoQ 🔼🟢 261.3% | YoY 🔼🟢 456.9%)
-💰 Net Profit (QoQ 🔻🔴 -5039.2% | YoY 🔻🔴 -8452.1%)
+📊 TPIA Q3 2025
+📈 Revenue (QoQ 🔻🔴 -24.9% | YoY ⏺️ n/a)
+💰 Net Profit (QoQ 🔻🔴 -97.1% | YoY ⏺️ n/a)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 32x | PBV 10424.8x
-🧱 Fundamental perlu dicermati
+🧮 Valuasi: PER 29x | PBV 9.3x
+🧱 Fundamental stabil

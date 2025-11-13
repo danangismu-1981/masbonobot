@@ -1,6 +1,6 @@
-📊 SMBR Q2 2025
-📈 Revenue (QoQ 🔼🟢 7.3% | YoY 🔼🟢 40.6%)
-💰 Net Profit (QoQ 🔻🔴 -37.4% | YoY 🔻🔴 -426.3%)
-💡 Cash Operasi: Negatif
-🧮 Valuasi: PER 13x | PBV 861.1x
-🧱 Fundamental perlu dicermati
+📊 SMBR Q3 2025
+📈 Revenue (QoQ 🔼🟢 21.7% | YoY 🔼🟢 26.6%)
+💰 Net Profit (QoQ 🔼🟢 148.0% | YoY 🔼🟢 310.9%)
+💡 Cash Operasi: Positif
+🧮 Valuasi: PER 12x | PBV 0.9x
+🧱 Fundamental stabil

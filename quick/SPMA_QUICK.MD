@@ -1,6 +1,6 @@
-📊 SPMA Q2 2025
-📈 Revenue (QoQ 🔼🟢 2.3% | YoY 🔼🟢 5.4%)
-💰 Net Profit (QoQ 🔼🟢 202.7% | YoY 🔼🟢 51.0%)
+📊 SPMA Q3 2025
+📈 Revenue (QoQ 🔼🟢 7.7% | YoY 🔼🟢 1.4%)
+💰 Net Profit (QoQ 🔻🔴 -61.5% | YoY 🔻🔴 -40.4%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 10x | PBV 0.4x
-🧱 Fundamental stabil
+🧮 Valuasi: PER 20x | PBV 0.5x
+🧱 Fundamental perlu dicermati

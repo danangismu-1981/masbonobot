@@ -1,6 +1,6 @@
-📊 SULI Q2 2025
-📈 Revenue (QoQ 🔻🔴 -1.7% | YoY 🔼🟢 374.6%)
-💰 Net Profit (QoQ 🔻🔴 -683.4% | YoY 🔻🔴 -63.5%)
+📊 SULI Q3 2025
+📈 Revenue (QoQ 🔼🟢 8.7% | YoY 🔼🟢 795.7%)
+💰 Net Profit (QoQ 🔻🔴 -65.0% | YoY 🔻🔴 -82.6%)
 💡 Cash Operasi: Negatif
-🧮 Valuasi: PER -6x | PBV 3.2x
+🧮 Valuasi: PER -9x | PBV 3.3x
 🧱 Fundamental perlu dicermati
