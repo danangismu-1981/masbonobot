@@ -231,6 +231,8 @@ def _help_text() -> str:
         • Ketik **COMPARE BMRI,BBCA** → bandingkan dua ticker.
         • Ketik **NEWS BMRI 5** → 5 berita terbaru terkait BMRI (butuh modul news_indo_whatsapp).
         • Ketik **HIGHLOW BMRI 30** | **MA BMRI 200** | **PIVOT BMRI** → analisa teknikal (butuh market_utils).
+        • Ketik **TOP 5 batubara** → based on marketcap | **Top 5 Batubara deviden** → based on Deviden | **Top 5 Batubara growth 2023** → based on Stock Price Growth| → akan memberi list emiten berdasarkan kriteria.
+        
 
         Tips: Kamu juga bisa tulis kalimat natural, misalnya **"minta tolong analisa BMRI"**, dan aku akan otomatis mengenali tickernya.
         """
