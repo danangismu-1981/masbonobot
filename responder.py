@@ -127,6 +127,58 @@ def _run_compare(tickers: List[str], timeout: int = 60) -> str:
     except Exception as e:
         return f"Compare error: {type(e).__name__}: {e}"
 
+def _find_topscan_cli() -> Optional[str]:
+    """
+    Cari topscan.py di folder yang sama dengan responder.py
+    atau di current working directory.
+    """
+    names = [
+        os.path.join(os.path.dirname(os.path.abspath(__file__)), "topscan.py"),
+        os.path.join(os.getcwd(), "topscan.py"),
+    ]
+    for p in names:
+        if os.path.exists(p):
+            return p
+    return None
+
+
+def _run_topscan(query_text: str, timeout: int = 60) -> str:
+    """
+    Jalankan topscan.py dengan query natural language, misalnya:
+    'Top 10 batubara', 'Top 5 coal CAGR 2022', dll.
+    """
+    py = _which_python()
+    if not py:
+        return "Python executable tidak ditemukan."
+
+    cli = _find_topscan_cli()
+    if not cli:
+        return "topscan.py tidak ditemukan di direktori kerja."
+
+    # Topsan.py akan menggabungkan semua argumen menjadi satu string query.
+    # Di sini kita kirim sebagai satu argumen utuh.
+    cmd = [py, cli, query_text]
+
+    try:
+        proc = subprocess.run(cmd, capture_output=True, text=True, timeout=timeout)
+        stdout = (proc.stdout or "").strip()
+        stderr = (proc.stderr or "").strip()
+
+        if proc.returncode == 0:
+            # Kalau tidak ada output sama sekali, beri pesan default
+            return stdout or "Topscan berhasil dijalankan namun tanpa output."
+        else:
+            msg = "Gagal menjalankan topscan.\n"
+            if stdout:
+                msg += f"STDOUT:\n{stdout}\n"
+            if stderr:
+                msg += f"STDERR:\n{stderr}"
+            return msg
+    except subprocess.TimeoutExpired:
+        return f"Topscan timeout (> {timeout}s)."
+    except Exception as e:
+        return f"Topscan error: {type(e).__name__}: {e}"
+
 
 def _run_quick_scan(ticker: str, folder: str = "./quick", timeout: int = 60):
     py = _which_python()
@@ -482,10 +534,18 @@ ERROR_OPENERS = [
     "Sepertinya ada error:"
 ]
 
+TOPSCAN_OPENERS = [
+    "Oke, saya carikan emiten teratas di sektor tersebut:",
+    "Berikut ranking emiten sesuai kriteria Top yang diminta:",
+    "Saya sudah urutkan emitennya, berikut hasilnya:",
+]
+
+
 def _detect_intent(msg: str, raw_output: str) -> str:
     up = (msg or "").upper()
     if _GREETING_PAT.search(msg): return "GREETING"
     if up in ("HELP", "MENU"): return "HELP"
+    if up.startswith("TOP "): return "TOPSCAN"
     if up.startswith("LIST"): return "LIST"
     if up.startswith("COMPARE") or _is_compare_intent(msg): return "COMPARE"
     if up.startswith("NEWS"): return "NEWS"
@@ -507,6 +567,7 @@ def _pick_opener(intent: str) -> str:
         "TECH": TECH_OPENERS,
         "DETAIL": DETAIL_OPENERS,
         "ERROR": ERROR_OPENERS,
+        "TOPSCAN": TOPSCAN_OPENERS,   # <-- TAMBAHKAN INI
         "GENERIC": GENERIC_OPENERS,
     }.get(intent, GENERIC_OPENERS)
 
@@ -546,7 +607,12 @@ def _handle_message_core(msg_raw: str, base_folder: str = "./Data") -> str:
     # --- LIST ---
     if msg_up.startswith("LIST"):
         return _list_md(base_folder)
-
+    
+     # --- TOPSCAN (Top x sektor, deviden, CAGR, growth) ---
+    # Contoh: "Top 10 batubara", "Top 5 coal CAGR 2022"
+    if msg_up.startswith("TOP "):
+        return _run_topscan(msg_raw)
+    
     # --- COMPARE ---
     if msg_up.startswith("COMPARE"):
         pair = _parse_compare_args(msg_raw)

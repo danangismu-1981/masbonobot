@@ -1,0 +1,72 @@
+{
+  "G11. Banks": ["bank", "perbankan", "kreditur", "pinjaman", "deposito", "lembaga keuangan"],
+  "G41. Insurance": ["asuransi", "premi", "proteksi", "jiwa", "kerugian"],
+  "G31. Investment Services": ["manajer investasi", "sekuritas", "broker saham", "reksa dana", "fund manager"],
+  "G21. Consumer Financing": ["pembiayaan", "leasing", "kredit kendaraan", "multifinance"],
+  "G51. Holding & Investment Companies": ["holding", "induk usaha", "grup bisnis", "konglomerasi"],
+  "Z11. Investment Trusts": ["trust", "dana investasi", "reit", "dana properti"],
+
+  "A11. Oil & Gas": ["minyak", "gas", "migas", "kilang", "energi fosil", "produksi minyak"],
+  "A12. Coal": ["batu bara", "batubara", "tambang batu bara", "thermal coal", "mining","coal"],
+  "A13. Oil, Gas & Coal Supports": ["jasa migas", "pengeboran", "drilling", "support tambang"],
+  "A21. Alternative Energy Equipment": ["panel surya", "solar", "angin", "energi terbarukan", "renewable energy"],
+  "A22. Alternative Fuels": ["biofuel", "etanol", "biodiesel", "energi hijau"],
+
+  "B11. Chemicals": ["kimia", "bahan kimia", "petrokimia", "produk kimia"],
+  "B12. Construction Materials": ["bahan bangunan", "semen", "beton", "material konstruksi"],
+  "B13. Containers & Packaging": ["kemasan", "packaging", "wadah", "karton", "botol"],
+  "B14. Metals & Minerals": ["logam", "nikkel", "tembaga", "emas", "pertambangan", "smelter", "nickel", "nikel", "gold"],
+  "B15. Forestry & Paper": ["kayu", "pulp", "kertas", "hasil hutan"],
+
+  "C12. Building Products & Fixtures": ["produk bangunan", "lampu", "sanitasi", "atap", "jendela"],
+  "C13. Electrical": ["elektrik", "alat listrik", "komponen listrik"],
+  "C14. Machinery": ["mesin", "alat berat", "otomasi", "industri"],
+  "C21. Diversified Industrial Trading": ["perdagangan industri", "trading", "peralatan industri"],
+  "C22. Commercial Services": ["layanan bisnis", "jasa komersial", "outsourcing"],
+  "C23. Professional Services": ["konsultan", "audit", "akuntan", "jasa profesional"],
+  "C31. Multi-sector Holdings": ["grup usaha", "multi usaha", "diversifikasi bisnis"],
+
+  "D11. Food & Staples Retailing": ["ritel makanan", "supermarket", "minimarket", "groceries"],
+  "D21. Beverages": ["minuman", "soft drink", "air minum", "teh", "kopi"],
+  "D22. Processed Foods": ["makanan olahan", "produk makanan", "snack", "frozen food"],
+  "D23. Agricultural Products": ["pertanian", "hasil tani", "agrikultur"],
+  "D31. Tobacco": ["rokok", "tembakau", "produk rokok"],
+  "D42. Personal Care Products": ["kosmetik", "perawatan tubuh", "sabun", "shampoo"],
+
+  "E11. Auto Components": ["komponen otomotif", "suku cadang", "sparepart mobil","otomotif"],
+  "E21. Household Goods": ["perabot", "barang rumah tangga", "alat rumah"],
+  "E31. Consumer Electronics": ["elektronik", "handphone", "tv", "gadget"],
+  "E32. Sport Equipment & Hobbies Goods": ["alat olahraga", "hobi", "sepeda", "fitness"],
+  "E41. Apparel & Luxury Goods": ["pakaian", "fashion", "mewah", "tas", "sepatu"],
+  "E51. Tourism & Recreation": ["pariwisata", "wisata", "hotel", "travel", "rekreasi"],
+  "E52. Education & Support Services": ["pendidikan", "sekolah", "bimbingan belajar", "kursus"],
+  "E61. Media": ["media", "televisi", "publikasi", "iklan", "berita"],
+  "E62. Entertainment & Movie Production": ["hiburan", "film", "musik", "bioskop", "produksi film"],
+  "E71. Consumer Distributors": ["distributor", "agen", "penyalur barang"],
+  "E73. Department Stores": ["toserba", "department store", "mall", "ritel besar"],
+  "E74. Specialty Retail": ["ritel khusus", "butik", "toko elektronik", "toko pakaian"],
+
+  "F11. Healthcare Equipment & Supplies": ["alat kesehatan", "peralatan medis", "supply rumah sakit"],
+  "F12. Healthcare Providers": ["rumah sakit", "klinik", "layanan kesehatan", "dokter"],
+  "F21. Pharmaceuticals": ["obat", "farmasi", "pabrik obat", "apotek"],
+
+  "H11. Real Estate Management & Development": ["properti", "real estate", "developer", "apartemen", "perumahan"],
+
+  "I11. Online Applications & Services": ["aplikasi online", "platform digital", "startup", "internet"],
+  "I12. IT Services & Consulting": ["IT", "teknologi informasi", "konsultan IT", "software house"],
+  "I13. Software": ["perangkat lunak", "aplikasi", "sistem software", "program komputer"],
+  "I21. Networking Equipment": ["jaringan", "router", "switch", "wifi"],
+  "I22. Computer Hardware": ["komputer", "laptop", "hardware", "server"],
+  "I23. Electronic Equipment, Instruments & Components": ["komponen elektronik", "sensor", "instrumen elektronik"],
+
+  "J11. Transport Infrastructure Operator": ["bandara", "pelabuhan", "tol", "operator transportasi"],
+  "J21. Heavy Constructions & Civil Engineering": ["konstruksi", "engineering", "infrastruktur", "bangunan besar"],
+  "J31. Telecommunication Service": ["telekomunikasi", "telepon", "internet", "provider", "ISP"],
+  "J32. Wireless Telecommunication Services": ["seluler", "mobile", "operator", "4G", "5G"],
+  "J41. Electric Utilities": ["listrik", "PLN", "pembangkit listrik", "power plant", "tenaga listrik"],
+  "J42. Gas Utilities": ["gas", "pipa gas", "distribusi gas", "energi gas"],
+
+  "K11. Airlines": ["maskapai", "penerbangan", "pesawat", "airlines"],
+  "K13. Passenger Land Transportation": ["transportasi darat", "bus", "kereta", "angkutan umum"],
+  "K21. Logistics & Deliveries": ["logistik", "ekspedisi", "pengiriman", "kurir", "truk"]
+}
