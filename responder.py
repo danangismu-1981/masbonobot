@@ -73,6 +73,38 @@ _GREETING_PAT = re.compile(
     flags=re.IGNORECASE
 )
 
+# Deteksi pesan ucapan terima kasih / apresiasi, supaya tidak dianggap ticker
+# Ucapan terima kasih (formal + santai)
+_THANKS_PAT = re.compile(
+    r"\b(terima\s+kasih|makasih|makasi|thanks?|thank\s+you)\b",
+    flags=re.IGNORECASE
+)
+
+# Kata apresiasi ala Indonesia (mantap, mantab, ciamik, josss, mantul)
+_PRAISE_PAT = re.compile(
+    r"\b(mantap+|mantab+|mantul+|ciamik+|jos+|josss+|keren+)\b",
+    flags=re.IGNORECASE
+)
+
+_THANKS_REPLIES = [
+    "Sama-sama mas 🙏 Senang bisa bantu!",
+    "Siap mas, terima kasih kembali 😊",
+    "Sama-sama ya mas, kalau butuh analisa lain tinggal kirim aja 🙌",
+    "Sip mas! Senang bisa bantu 🙏",
+    "Terima kasih kembali. Yuk lanjut kalau ada ticker lain 😉",
+]
+
+_PRAISE_REPLIES = [
+    "Mantap jiwa mas! 😎🔥",
+    "Josss mas! Kalau ada saham lain, tinggal gas 💪",
+    "Ciamik mas! Kita lanjut bedah ticker lain 😄",
+    "Wah makasih mas, semoga analisanya makin nendang 🚀",
+    "Sip! Kalau mau lanjut analisa tinggal bilang aja mas 😉",
+]
+
+
+
+
 # ====== Utilities umum ======
 _TICKER_PATTERN = r"[A-Z0-9\.\-]{2,10}"
 
@@ -750,6 +782,16 @@ def _handle_message_core(msg_raw: str, base_folder: str = "./Data") -> str:
     if _GREETING_PAT.search(msg_raw):
         greet = _time_based_greeting()
         return f"{greet}\n\n{_help_text()}"
+        
+       # --- Ucapan Terima Kasih ---
+    if _THANKS_PAT.search(msg_raw):
+        return random.choice(_THANKS_REPLIES)
+
+    # --- Ucapan Apresiasi (mantap, mantab, ciamik, jossss) ---
+    if _PRAISE_PAT.search(msg_raw):
+        return random.choice(_PRAISE_REPLIES)
+
+
 
     if msg_up in ("HELP", "MENU"):
         return _help_text()
