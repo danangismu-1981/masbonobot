@@ -1,0 +1,100 @@
+BTC,Bitcoin
+ETH,Ethereum
+USDT,Tether
+USDC,USD Coin
+BNB,BNB
+SOL,Solana
+XRP,Ripple
+DOGE,Dogecoin
+ADA,Cardano
+TON,TON Coin
+AVAX,Avalanche
+SHIB,Shiba Inu
+DOT,Polkadot
+BCH,Bitcoin Cash
+LTC,Litecoin
+LINK,Chainlink
+UNI,Uniswap
+MATIC,Polygon
+ICP,Internet Computer
+ETC,Ethereum Classic
+XLM,Stellar
+XMR,Monero
+ATOM,Cosmos
+OKB,OKB
+FIL,Filecoin
+HBAR,Hedera Hashgraph
+APT,Aptos
+ARB,Arbitrum
+MNT,Mantle
+AAVE,Aave
+OP,Optimism
+VET,VeChain
+NEAR,Near Protocol
+QNT,Quant
+GRT,The Graph
+STX,Stacks
+LDO,Lido DAO
+EGLD,MultiversX
+MKR,Maker
+THETA,Theta Network
+INJ,Injective
+FTM,Fantom
+RUNE,THORChain
+SAND,The Sandbox
+FLOW,Flow
+XEC,eCash
+KAS,Kaspa
+XTZ,Tezos
+CHZ,Chiliz
+AXS,Axie Infinity
+SNX,Synthetix
+AUDIO,Audios
+CRV,Curve DAO Token
+GMX,GMX
+KCS,KuCoin Token
+NEO,NEO
+ENS,Ethereum Name Service
+ZIL,Zilliqa
+BAT,Basic Attention Token
+1INCH,1inch
+DASH,Dash
+GALA,Gala
+DYDX,dYdX
+ROSE,Oasis Network
+KAVA,Kava
+GNO,Gnosis
+HT,Huobi Token
+WOO,WOO Network
+LPT,Livepeer
+FLR,Flare Network
+ASTR,Astar
+CELO,Celo
+CFX,Conflux
+CVX,Convex Finance
+CAKE,PancakeSwap
+MINA,Mina Protocol
+BAL,Balancer
+SC,Siacoin
+AR,Arweave
+ANKR,Ankr
+ZRX,0x Protocol
+IOTA,IOTA
+XEM,NEM
+RVN,Ravencoin
+COMP,Compound
+SUSHI,SushiSwap
+WAVES,Waves
+KSM,Kusama
+TFUEL,Theta Fuel
+OMG,OMG Network
+LRC,Loopring
+HNT,Helium
+ENS,Ethereum Name Service
+FLOKI,Floki Inu
+PEPE,Pepe
+BONK,Bonk
+TWT,Trust Wallet Token
+BLUR,Blur
+JASMY,JasmyCoin
+SKL,Skale Network

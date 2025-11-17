@@ -406,9 +406,12 @@ def _load_symbol_name_map(symbols_path: Optional[str] = None) -> Dict[str, str]:
                     keys.add(" ".join(tokens[:2]))
                     keys.add(" ".join(tokens[-2:]))
 
-                # 1 kata alias, supaya "krakatau" atau "mandiri" bisa langsung tembus
+                 # 1 kata alias, supaya "krakatau" atau "mandiri" bisa langsung tembus
+                # Skip kata yang terlalu pendek (<= 2 huruf) supaya tidak bentrok
+                # misalnya "on", "di", "pt", dll.
                 for tok in tokens:
-                    keys.add(tok)
+                    if len(tok) >= 3:
+                        keys.add(tok)
 
 
                 for k in keys:
@@ -424,6 +427,136 @@ def _load_symbol_name_map(symbols_path: Optional[str] = None) -> Dict[str, str]:
     return mapping
 
 
+def _crypto_path(default_name: str = "crypto.txt") -> str:
+    """
+    Lokasi file crypto.txt (diasumsikan di folder yang sama dengan responder.py).
+    """
+    return os.path.join(os.path.dirname(os.path.abspath(__file__)), default_name)
+
+
+def _detect_crypto_in_text(message_text: str) -> bool:
+    """
+    Cek apakah kalimat user mengandung kata/istilah yang ada di crypto.txt.
+    Format crypto.txt (CSV sederhana):
+    BTC,Bitcoin
+    ETH,Ethereum
+    XRP,Ripple
+    SOL,Solana
+    """
+    path = _crypto_path()
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            raw = (message_text or "")
+            msg_up = raw.upper()
+            # gunakan normalisasi yang sama seperti nama perusahaan
+            msg_norm = _normalize_company_name(raw)
+            msg_norm_wrapped = f" {msg_norm} "
+            for line in f:
+                line = line.strip()
+                if not line or line.startswith("#"):
+                    continue
+
+                parts = line.split(",")
+                if not parts:
+                    continue
+
+                # kolom 1: kode crypto (ETH, BTC, dst)
+                sym = parts[0].strip().upper()
+                if sym:
+                    # cek sebagai "kata utuh"
+                    if re.search(rf"\b{re.escape(sym)}\b", msg_up):
+                        return True
+
+                # kolom 2: nama coin (Ethereum, Bitcoin, dsb.)
+                if len(parts) >= 2:
+                    name = parts[1].strip()
+                    if name:
+                        norm_name = _normalize_company_name(name)
+                        if norm_name:
+                            # cek frasa penuh
+                            if f" {norm_name} " in msg_norm_wrapped:
+                                return True
+                            # cek tiap token nama (ethereum -> 'ethereum')
+                            for tok in norm_name.split():
+                                if len(tok) >= 3:
+                                    if re.search(rf"\b{re.escape(tok)}\b", msg_norm):
+                                        return True
+    except Exception:
+        # kalau crypto.txt tidak ada / error, anggap tidak ada match
+        pass
+
+    return False
+
+
+def _find_cryptoresponse_cli() -> Optional[str]:
+    """
+    Cari cryptoresponse.py di folder yang sama dengan responder.py
+    atau di current working directory.
+    """
+    names = [
+        os.path.join(os.path.dirname(os.path.abspath(__file__)), "cryptoresponse.py"),
+        os.path.join(os.getcwd(), "cryptoresponse.py"),
+    ]
+    for p in names:
+        if os.path.exists(p):
+            return p
+    return None
+
+
+def _run_cryptoresponse(message_text: str, timeout: int = 30) -> str:
+    """
+    Jalankan cryptoresponse.py. Pesan user dikirim sebagai argumen,
+    untuk jaga-jaga kalau nanti cryptoresponse.py mau pakai.
+    """
+    py = _which_python()
+    if not py:
+        # fallback kalau environment python tidak ditemukan
+        return (
+            "Saat ini Mas Bono Bot baru dilatih untuk saham Indonesia di BEI.\n"
+            "Fitur analisa crypto belum aktif ya mas 🙏"
+        )
+
+    cli = _find_cryptoresponse_cli()
+    if not cli:
+        # fallback kalau file cryptoresponse.py belum dibuat / tidak ketemu
+        return (
+            "Saya mendeteksi kamu tanya soal **crypto** (BTC/ETH/dll), "
+            "tapi modul *cryptoresponse.py* belum tersedia.\n\n"
+            "Saat ini Mas Bono Bot masih fokus di saham Indonesia dulu ya mas 🙏"
+        )
+
+    cmd = [py, cli, message_text]
+
+    try:
+        proc = subprocess.run(cmd, capture_output=True, text=True, timeout=timeout)
+        stdout = (proc.stdout or "").strip()
+        stderr = (proc.stderr or "").strip()
+
+        if proc.returncode == 0 and stdout:
+            return stdout
+
+        # kalau cryptoresponse.py jalan tapi kosong / error, beri fallback ramah
+        msg = (
+            "Saya mendeteksi kamu tanya soal **crypto**, "
+            "tapi terjadi kendala saat memanggil *cryptoresponse.py*.\n\n"
+        )
+        if stderr:
+            msg += f"Detail teknis: {stderr}\n\n"
+        msg += "Untuk saat ini Mas Bono Bot masih fokus ke saham Indonesia dulu ya mas 🙏"
+        return msg
+
+    except subprocess.TimeoutExpired:
+        return (
+            "Permintaan crypto ke *cryptoresponse.py* timeout.\n"
+            "Untuk saat ini Mas Bono Bot masih fokus ke saham Indonesia dulu ya mas 🙏"
+        )
+    except Exception as e:
+        return (
+            f"Terjadi error saat menjalankan *cryptoresponse.py*: {type(e).__name__}: {e}\n\n"
+            "Untuk saat ini Mas Bono Bot masih fokus ke saham Indonesia dulu ya mas 🙏"
+        )
+
+
 def _find_ticker_by_company_name(message_text: str, name_map: Dict[str, str]) -> Optional[str]:
     """
     Coba temukan ticker berdasarkan kemunculan nama perusahaan di kalimat user.
@@ -431,6 +564,9 @@ def _find_ticker_by_company_name(message_text: str, name_map: Dict[str, str]) ->
     Contoh:
     message_text = "tolong cari bank mandiri dong"
     name_map mengandung key "bank mandiri" -> "BMRI"
+
+    Matching dilakukan per kata/phrase utuh, bukan sekadar substring,
+    supaya kasus seperti "bono ?" tidak nyangkut ke kata "on" di nama lain.
     """
     if not message_text or not name_map:
         return None
@@ -439,17 +575,24 @@ def _find_ticker_by_company_name(message_text: str, name_map: Dict[str, str]) ->
     if not norm_msg:
         return None
 
-    best_key = None
-    best_ticker = None
+    # Tambah spasi di kiri-kanan supaya pencarian berbasis kata/phrase utuh
+    norm_msg_wrapped = f" {norm_msg} "
 
-    # pilih key terpanjang yang cocok sebagai substring, supaya lebih spesifik
+    best_key: Optional[str] = None
+    best_ticker: Optional[str] = None
+
+    # pilih key terpanjang yang cocok, supaya lebih spesifik
     for key, ticker in name_map.items():
-        if key and key in norm_msg:
+        if not key:
+            continue
+        key_wrapped = f" {key} "
+        if key_wrapped in norm_msg_wrapped:
             if best_key is None or len(key) > len(best_key):
                 best_key = key
                 best_ticker = ticker
 
     return best_ticker
+
 
 
 def _find_tickers_in_text(message_text: str, symbols: set) -> List[str]:
@@ -597,6 +740,11 @@ def _handle_message_core(msg_raw: str, base_folder: str = "./Data") -> str:
         return _help_text()
 
     msg_up = msg_raw.upper()
+    # --- PANGGILAN KE BOT: "bono", "bono ?", "mas bono" ---
+    if re.fullmatch(r"(?i)\s*bono[\s\?\!\.,]*", msg_raw) or re.search(r"(?i)\bmas\s+bono\b", msg_raw):
+        greet = _time_based_greeting()
+        return f"{greet}\n\n{_help_text()}"
+
 
     # --- Salam/Help ---
     if _GREETING_PAT.search(msg_raw):
@@ -687,14 +835,20 @@ def _handle_message_core(msg_raw: str, base_folder: str = "./Data") -> str:
         except Exception as e:
             return f"Gagal menghitung analisa teknikal: {type(e).__name__}: {e}"
 
-    # --- <TICKER> DETAIL ---
+        # --- <TICKER> DETAIL ---
     m_detail = re.match(rf"^\s*({_TICKER_PATTERN})\s+DETAIL\s*$", msg_up)
     if m_detail:
         ticker = m_detail.group(1)
         content = get_file_content(base_folder, ticker)
         return content or f"File Data/{ticker}.MD tidak ditemukan."
 
-        # --- NATURAL LANGUAGE: deteksi ticker dari symbols.txt ---
+    # --- CRYPTO: deteksi kata/istilah dari crypto.txt ---
+    # Jika pesan mengandung salah satu kode/nama di crypto.txt,
+    # langsung lempar ke cryptoresponse.py
+    if _detect_crypto_in_text(msg_raw):
+        return _run_cryptoresponse(msg_raw)
+
+    # --- NATURAL LANGUAGE: deteksi ticker dari symbols.txt (saham) ---
     symbols = _load_symbols()
     if symbols:
         found = _find_tickers_in_text(msg_raw, symbols)
@@ -711,6 +865,7 @@ def _handle_message_core(msg_raw: str, base_folder: str = "./Data") -> str:
                 f"Coba perintah: **COMPARE {t1},{t2}**\n\n"
                 f"{_help_text()}"
             )
+
 
     # --- FALLBACK: coba deteksi dari NAMA PERUSAHAAN (symbols.txt kolom 2) ---
     name_map = _load_symbol_name_map()
