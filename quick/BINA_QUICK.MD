@@ -1,6 +1,6 @@
-📊 BINA Q2 2025
-📈 Revenue (QoQ 🔼🟢 3.5% | YoY 🔻🔴 -9.2%)
-💰 Net Profit (QoQ 🔻🔴 -28.1% | YoY 🔻🔴 -71.4%)
+📊 BINA Q3 2025
+📈 Revenue (QoQ 🔻🔴 -50.5% | YoY ⏺️ n/a)
+💰 Net Profit (QoQ 🔻🔴 -67.0% | YoY ⏺️ n/a)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 733x | PBV 7.5x
-🧱 Fundamental perlu dicermati
+🧮 Valuasi: PER 6179x | PBV 7.5x
+🧱 Fundamental stabil

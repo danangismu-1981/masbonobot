@@ -1,6 +1,6 @@
-📊 BBHI Q2 2025
-📈 Revenue (QoQ 🔼🟢 13.7% | YoY 🔼🟢 39.4%)
-💰 Net Profit (QoQ 🔼🟢 1.8% | YoY 🔼🟢 28.5%)
+📊 BBHI Q3 2025
+📈 Revenue (QoQ 🔻🔴 -42.1% | YoY ⏺️ n/a)
+💰 Net Profit (QoQ 🔻🔴 -32.7% | YoY ⏺️ n/a)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 68x | PBV 4.6x
+🧮 Valuasi: PER 58x | PBV 4.3x
 🧱 Fundamental stabil

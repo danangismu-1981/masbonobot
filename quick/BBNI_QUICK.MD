@@ -1,6 +1,6 @@
-📊 BBNI Q2 2025
-📈 Revenue (QoQ 🔼🟢 7.8% | YoY 🔼🟢 20.4%)
-💰 Net Profit (QoQ 🔻🔴 -12.4% | YoY 🔻🔴 -12.1%)
+📊 BBNI Q3 2025
+📈 Revenue (QoQ 🔻🔴 -47.8% | YoY ⏺️ n/a)
+💰 Net Profit (QoQ 🔻🔴 -50.3% | YoY ⏺️ n/a)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 7x | PBV 0.9x
-🧱 Fundamental perlu dicermati
+🧮 Valuasi: PER 8x | PBV 1.0x
+🧱 Fundamental stabil
