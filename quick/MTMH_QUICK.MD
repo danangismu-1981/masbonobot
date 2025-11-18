@@ -1,6 +1,6 @@
-📊 MTMH Q2 2025
-📈 Revenue (QoQ 🔼🟢 6.8% | YoY 🔼🟢 26.2%)
-💰 Net Profit (QoQ 🔼🟢 52.1% | YoY 🔼🟢 378.0%)
+📊 MTMH Q3 2025
+📈 Revenue (QoQ 🔻🔴 -43.4% | YoY ⏺️ n/a)
+💰 Net Profit (QoQ 🔻🔴 -14.1% | YoY ⏺️ n/a)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 87x | PBV 1.8x
+🧮 Valuasi: PER 46x | PBV 1.6x
 🧱 Fundamental stabil

@@ -1,6 +1,6 @@
-📊 BMHS Q2 2025
-📈 Revenue (QoQ 🔻🔴 -0.1% | YoY 🔼🟢 2.2%)
-💰 Net Profit (QoQ 🔻🔴 -80.7% | YoY 🔼🟢 574.1%)
+📊 BMHS Q3 2025
+📈 Revenue (QoQ 🔼🟢 4.8% | YoY 🔻🔴 -0.2%)
+💰 Net Profit (QoQ 🔼🟢 1224.2% | YoY 🔼🟢 3.8%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 287x | PBV 0.8x
-🧱 Fundamental stabil
+🧮 Valuasi: PER 106x | PBV 0.8x
+🧱 Fundamental perlu dicermati

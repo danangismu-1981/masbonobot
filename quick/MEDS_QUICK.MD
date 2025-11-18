@@ -1,6 +1,6 @@
-📊 MEDS Q2 2025
-📈 Revenue (QoQ 🔻🔴 -26.2% | YoY ⏺️ n/a)
-💰 Net Profit (QoQ ⏺️ n/a | YoY ⏺️ n/a)
+📊 MEDS Q3 2025
+📈 Revenue (QoQ 🔼🟢 34.4% | YoY 🔻🔴 -26.8%)
+💰 Net Profit (QoQ 🔻🔴 -11.3% | YoY 🔼🟢 3.8%)
 💡 Cash Operasi: Negatif
-🧮 Valuasi: PER n/a | PBV 2.1x
-🧱 Fundamental stabil
+🧮 Valuasi: PER -11x | PBV 2.0x
+🧱 Fundamental perlu dicermati

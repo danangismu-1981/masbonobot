@@ -1,6 +1,6 @@
-📊 HEAL Q2 2025
-📈 Revenue (QoQ 🔼🟢 0.2% | YoY 🔼🟢 3.6%)
-💰 Net Profit (QoQ 🔻🔴 -19.7% | YoY 🔻🔴 -34.2%)
+📊 HEAL Q3 2025
+📈 Revenue (QoQ 🔼🟢 12.0% | YoY 🔼🟢 5.2%)
+💰 Net Profit (QoQ 🔼🟢 31.0% | YoY 🔻🔴 -24.0%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 59x | PBV 4.5x
+🧮 Valuasi: PER 54x | PBV 4.1x
 🧱 Fundamental perlu dicermati
