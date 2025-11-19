@@ -1,6 +1,6 @@
-📊 KEEN Q2 2025
-📈 Revenue (QoQ 🔻🔴 -11.8% | YoY 🔻🔴 -33.1%)
-💰 Net Profit (QoQ 🔼🟢 6.1% | YoY 🔻🔴 -37.3%)
+📊 KEEN Q3 2025
+📈 Revenue (QoQ 🔻🔴 -24.8% | YoY 🔻🔴 -16.4%)
+💰 Net Profit (QoQ 🔻🔴 -61.0% | YoY 🔻🔴 -22.5%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 50x | PBV 1.3x
+🧮 Valuasi: PER 67x | PBV 1.3x
 🧱 Fundamental perlu dicermati

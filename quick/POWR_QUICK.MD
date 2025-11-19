@@ -1,6 +1,6 @@
-📊 POWR Q2 2025
-📈 Revenue (QoQ 🔻🔴 -4.2% | YoY 🔻🔴 -3.1%)
-💰 Net Profit (QoQ 🔼🟢 30.8% | YoY 🔼🟢 46.8%)
+📊 POWR Q3 2025
+📈 Revenue (QoQ 🔼🟢 3.9% | YoY 🔼🟢 0.7%)
+💰 Net Profit (QoQ 🔻🔴 -22.2% | YoY 🔻🔴 -21.1%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 9x | PBV 1.0x
+🧮 Valuasi: PER 11x | PBV 0.9x
 🧱 Fundamental perlu dicermati

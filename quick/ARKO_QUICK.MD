@@ -1,6 +1,6 @@
-📊 ARKO Q2 2025
-📈 Revenue (QoQ 🔼🟢 0.6% | YoY 🔼🟢 31.3%)
-💰 Net Profit (QoQ 🔻🔴 -25.2% | YoY 🔼🟢 2.2%)
+📊 ARKO Q3 2025
+📈 Revenue (QoQ 🔼🟢 46.8% | YoY 🔼🟢 61.2%)
+💰 Net Profit (QoQ 🔻🔴 -31.6% | YoY 🔼🟢 17.6%)
 💡 Cash Operasi: Negatif
-🧮 Valuasi: PER 96x | PBV 9.4x
+🧮 Valuasi: PER 97x | PBV 9.5x
 🧱 Fundamental stabil

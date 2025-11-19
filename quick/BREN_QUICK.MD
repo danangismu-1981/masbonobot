@@ -1,6 +1,6 @@
-📊 BREN Q2 2025
-📈 Revenue (QoQ 🔻🔴 -2.8% | YoY 🔼🟢 2.7%)
-💰 Net Profit (QoQ 🔻🔴 -10.8% | YoY 🔼🟢 6.5%)
+📊 BREN Q3 2025
+📈 Revenue (QoQ 🔼🟢 5.2% | YoY 🔼🟢 3.6%)
+💰 Net Profit (QoQ 🔼🟢 31.6% | YoY 🔼🟢 23.8%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 615x | PBV 138.1x
+🧮 Valuasi: PER 570x | PBV 130.2x
 🧱 Fundamental stabil
