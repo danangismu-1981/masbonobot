@@ -1,6 +1,6 @@
 📊 APLN Q2 2025
-📈 Revenue (QoQ 🔻🔴 -6.9% | YoY 🔻🔴 -30.6%)
-💰 Net Profit (QoQ 🔻🔴 -24.7% | YoY 🔻🔴 -147.3%)
+📈 Revenue (QoQ 🔻🔴 -6.9% | YoY 🔻🔴 -10.5%)
+💰 Net Profit (QoQ 🔻🔴 -24.7% | YoY 🔼🟢 291.8%)
 💡 Cash Operasi: Negatif
-🧮 Valuasi: PER 3x | PBV 201.7x
+🧮 Valuasi: PER 4x | PBV 0.2x
 🧱 Fundamental perlu dicermati

@@ -1,6 +1,6 @@
-📊 NASA Q2 2025
-📈 Revenue (QoQ 🔼🟢 5.5% | YoY 🔻🔴 -23.8%)
-💰 Net Profit (QoQ 🔼🟢 6.4% | YoY 🔻🔴 -35.6%)
-💡 Cash Operasi: Negatif
-🧮 Valuasi: PER 59x | PBV 0.3x
-🧱 Fundamental perlu dicermati
+📊 NASA Q3 2025
+📈 Revenue (QoQ 🔻🔴 -40.0% | YoY ⏺️ n/a)
+💰 Net Profit (QoQ 🔻🔴 -28.8% | YoY ⏺️ n/a)
+💡 Cash Operasi: Positif
+🧮 Valuasi: PER 53x | PBV 0.3x
+🧱 Fundamental stabil

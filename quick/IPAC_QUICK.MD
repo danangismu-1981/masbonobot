@@ -1,6 +1,6 @@
-📊 IPAC Q2 2025
-📈 Revenue (QoQ 🔻🔴 -19.3% | YoY 🔻🔴 -7.9%)
-💰 Net Profit (QoQ 🔻🔴 -58.3% | YoY 🔻🔴 -129.8%)
-💡 Cash Operasi: Negatif
-🧮 Valuasi: PER 754x | PBV 9.3x
+📊 IPAC Q3 2025
+📈 Revenue (QoQ 🔼🟢 27.6% | YoY 🔼🟢 31.5%)
+💰 Net Profit (QoQ 🔻🔴 -312.8% | YoY 🔻🔴 -56.1%)
+💡 Cash Operasi: Positif
+🧮 Valuasi: PER 220x | PBV 6.7x
 🧱 Fundamental perlu dicermati

@@ -1,6 +1,6 @@
-📊 FMII Q2 2025
-📈 Revenue (QoQ 🔻🔴 -100.0% | YoY 🔻🔴 -100.0%)
-💰 Net Profit (QoQ 🔻🔴 -112.8% | YoY 🔻🔴 -442.6%)
-💡 Cash Operasi: Positif
-🧮 Valuasi: PER 329x | PBV 3362.2x
-🧱 Fundamental perlu dicermati
+📊 FMII Q3 2025
+📈 Revenue (QoQ ⏺️ n/a | YoY ⏺️ n/a)
+💰 Net Profit (QoQ 🔻🔴 -111.1% | YoY ⏺️ n/a)
+💡 Cash Operasi: Negatif
+🧮 Valuasi: PER 97x | PBV 3.3x
+🧱 Fundamental stabil

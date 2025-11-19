@@ -1,6 +1,6 @@
-📊 BKDP Q2 2025
-📈 Revenue (QoQ 🔼🟢 10.5% | YoY 🔼🟢 14.8%)
-💰 Net Profit (QoQ 🔻🔴 -7.4% | YoY 🔻🔴 -7.9%)
+📊 BKDP Q3 2025
+📈 Revenue (QoQ 🔻🔴 -48.1% | YoY ⏺️ n/a)
+💰 Net Profit (QoQ 🔻🔴 -35.8% | YoY ⏺️ n/a)
 💡 Cash Operasi: Negatif
-🧮 Valuasi: PER -9x | PBV 1.0x
-🧱 Fundamental perlu dicermati
+🧮 Valuasi: PER -8x | PBV 0.9x
+🧱 Fundamental stabil

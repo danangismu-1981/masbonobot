@@ -1,6 +1,6 @@
-📊 CBDK Q2 2025
-📈 Revenue (QoQ 🔼🟢 80.4% | YoY 🔼🟢 66.1%)
-💰 Net Profit (QoQ 🔼🟢 197.9% | YoY 🔼🟢 100.0%)
+📊 CBDK Q3 2025
+📈 Revenue (QoQ 🔻🔴 -7.8% | YoY ⏺️ n/a)
+💰 Net Profit (QoQ 🔼🟢 53.7% | YoY ⏺️ n/a)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 53x | PBV 4.6x
+🧮 Valuasi: PER 27x | PBV 3.9x
 🧱 Fundamental stabil

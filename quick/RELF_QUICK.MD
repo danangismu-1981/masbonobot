@@ -1,6 +1,6 @@
 📊 RELF Q2 2025
-📈 Revenue (QoQ ⏺️ n/a | YoY ⏺️ n/a)
-💰 Net Profit (QoQ ⏺️ n/a | YoY ⏺️ n/a)
+📈 Revenue (QoQ 🔼🟢 7.6% | YoY ⏺️ n/a)
+💰 Net Profit (QoQ 🔼🟢 65.2% | YoY ⏺️ n/a)
 💡 Cash Operasi: Negatif
-🧮 Valuasi: PER n/a | PBV 1.1x
+🧮 Valuasi: PER 74x | PBV 1.0x
 🧱 Fundamental stabil

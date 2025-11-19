@@ -1,6 +1,6 @@
-📊 MDLN Q2 2025
-📈 Revenue (QoQ 🔼🟢 38.1% | YoY 🔼🟢 48.0%)
-💰 Net Profit (QoQ 🔻🔴 -94.0% | YoY 🔻🔴 -113.3%)
-💡 Cash Operasi: Negatif
-🧮 Valuasi: PER 1x | PBV 0.2x
+📊 MDLN Q3 2025
+📈 Revenue (QoQ 🔻🔴 -38.1% | YoY 🔻🔴 -1.2%)
+💰 Net Profit (QoQ 🔻🔴 -894.6% | YoY 🔻🔴 -368.8%)
+💡 Cash Operasi: Positif
+🧮 Valuasi: PER -9x | PBV 0.2x
 🧱 Fundamental perlu dicermati

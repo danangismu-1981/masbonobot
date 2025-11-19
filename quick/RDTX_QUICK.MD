@@ -1,6 +1,6 @@
-📊 RDTX Q2 2025
-📈 Revenue (QoQ 🔼🟢 1.6% | YoY 🔼🟢 4.8%)
-💰 Net Profit (QoQ 🔻🔴 -1.6% | YoY 🔼🟢 2.2%)
+📊 RDTX Q3 2025
+📈 Revenue (QoQ 🔻🔴 -0.3% | YoY 🔼🟢 7.1%)
+💰 Net Profit (QoQ 🔼🟢 20.0% | YoY 🔼🟢 30.5%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 11x | PBV 1.0x
+🧮 Valuasi: PER 9x | PBV 1.0x
 🧱 Fundamental stabil

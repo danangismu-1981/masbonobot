@@ -1,6 +1,6 @@
-📊 TARA Q2 2025
-📈 Revenue (QoQ 🔼🟢 12.6% | YoY 🔻🔴 -38.2%)
-💰 Net Profit (QoQ 🔻🔴 -74.6% | YoY 🔻🔴 -202.7%)
-💡 Cash Operasi: Negatif
-🧮 Valuasi: PER -111x | PBV 0.3x
+📊 TARA Q3 2025
+📈 Revenue (QoQ 🔻🔴 -12.7% | YoY 🔻🔴 -1.7%)
+💰 Net Profit (QoQ 🔻🔴 -164.5% | YoY 🔼🟢 31.1%)
+💡 Cash Operasi: Positif
+🧮 Valuasi: PER -115x | PBV 0.3x
 🧱 Fundamental perlu dicermati

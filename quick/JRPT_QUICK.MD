@@ -1,6 +1,6 @@
 📊 JRPT Q2 2025
-📈 Revenue (QoQ 🔼🟢 29.4% | YoY 🔼🟢 14.8%)
-💰 Net Profit (QoQ 🔼🟢 39.6% | YoY 🔼🟢 20.1%)
+📈 Revenue (QoQ 🔼🟢 29.4% | YoY 🔼🟢 13.8%)
+💰 Net Profit (QoQ 🔼🟢 39.6% | YoY 🔼🟢 15.2%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 18x | PBV 1113.5x
+🧮 Valuasi: PER 9x | PBV 1.1x
 🧱 Fundamental stabil
