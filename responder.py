@@ -883,6 +883,26 @@ def _handle_message_core(msg_raw: str, base_folder: str = "./Data") -> str:
         ticker = m_detail.group(1)
         content = get_file_content(base_folder, ticker)
         return content or f"File Data/{ticker}.MD tidak ditemukan."
+    # --- FORECAST FEATURE ---
+    # Deteksi kalimat seperti:
+    # "forecast ADMF", "tolong cari forecast admf", "mas minta forecast bmri"
+    m_fc = re.search(r"\bforecast\s+([A-Z0-9]{2,10})\b", msg_up, flags=re.IGNORECASE)
+    if m_fc:
+        ticker = m_fc.group(1).upper()
+        fc_path = os.path.join("forecast", f"{ticker}_FORECAST.MD")
+
+        if os.path.exists(fc_path):
+            try:
+                with open(fc_path, "r", encoding="utf-8") as f:
+                    return f.read()
+            except Exception as e:
+                return f"Gagal membaca file forecast {fc_path}: {type(e).__name__}: {e}"
+
+        return (
+            f"File **{ticker}_FORECAST.MD** tidak ditemukan di folder **forecast**.\n"
+            "Pastikan file sudah dibuat dan namanya menggunakan CAPITAL semua ya mas 🙏"
+        )
+
 
     # --- CRYPTO: deteksi kata/istilah dari crypto.txt ---
     # Jika pesan mengandung salah satu kode/nama di crypto.txt,
