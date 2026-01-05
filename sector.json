@@ -2,11 +2,11 @@
   "G11. Banks": ["bank", "perbankan", "kreditur", "pinjaman", "deposito", "lembaga keuangan"],
   "G41. Insurance": ["asuransi", "premi", "proteksi", "jiwa", "kerugian"],
   "G31. Investment Services": ["manajer investasi", "sekuritas", "broker saham", "reksa dana", "fund manager"],
-  "G21. Consumer Financing": ["pembiayaan", "leasing", "kredit kendaraan", "multifinance"],
+  "G21. Consumer Financing": ["pembiayaan", "leasing", "kredit kendaraan", "multifinance","kredit motor"],
   "G51. Holding & Investment Companies": ["holding", "induk usaha", "grup bisnis", "konglomerasi"],
   "Z11. Investment Trusts": ["trust", "dana investasi", "reit", "dana properti"],
 
-  "A11. Oil & Gas": ["minyak", "gas", "migas", "kilang", "energi fosil", "produksi minyak"],
+  "A11. Oil & Gas": ["minyak", "gas", "migas", "kilang", "energi fosil", "produksi minyak","oil"],
   "A12. Coal": ["batu bara", "batubara", "tambang batu bara", "thermal coal", "mining","coal"],
   "A13. Oil, Gas & Coal Supports": ["jasa migas", "pengeboran", "drilling", "support tambang"],
   "A21. Alternative Energy Equipment": ["panel surya", "solar", "angin", "energi terbarukan", "renewable energy"],
@@ -29,7 +29,7 @@
   "D11. Food & Staples Retailing": ["ritel makanan", "supermarket", "minimarket", "groceries"],
   "D21. Beverages": ["minuman", "soft drink", "air minum", "teh", "kopi"],
   "D22. Processed Foods": ["makanan olahan", "produk makanan", "snack", "frozen food"],
-  "D23. Agricultural Products": ["pertanian", "hasil tani", "agrikultur"],
+  "D23. Agricultural Products": ["pertanian", "hasil tani", "agrikultur","sawit","CPO"],
   "D31. Tobacco": ["rokok", "tembakau", "produk rokok"],
   "D42. Personal Care Products": ["kosmetik", "perawatan tubuh", "sabun", "shampoo"],
 
@@ -48,9 +48,9 @@
 
   "F11. Healthcare Equipment & Supplies": ["alat kesehatan", "peralatan medis", "supply rumah sakit"],
   "F12. Healthcare Providers": ["rumah sakit", "klinik", "layanan kesehatan", "dokter"],
-  "F21. Pharmaceuticals": ["obat", "farmasi", "pabrik obat", "apotek"],
+  "F21. Pharmaceuticals": ["obat", "farmasi", "pabrik obat", "apotek","jamu"],
 
-  "H11. Real Estate Management & Development": ["properti", "real estate", "developer", "apartemen", "perumahan"],
+  "H11. Real Estate Management & Development": ["properti", "real estate", "developer", "apartemen", "perumahan","property"],
 
   "I11. Online Applications & Services": ["aplikasi online", "platform digital", "startup", "internet"],
   "I12. IT Services & Consulting": ["IT", "teknologi informasi", "konsultan IT", "software house"],
@@ -68,5 +68,5 @@
 
   "K11. Airlines": ["maskapai", "penerbangan", "pesawat", "airlines"],
   "K13. Passenger Land Transportation": ["transportasi darat", "bus", "kereta", "angkutan umum"],
-  "K21. Logistics & Deliveries": ["logistik", "ekspedisi", "pengiriman", "kurir", "truk"]
+  "K21. Logistics & Deliveries": ["logistik", "ekspedisi", "pengiriman", "kurir", "truk","kapal","perkapalan"]
 }
