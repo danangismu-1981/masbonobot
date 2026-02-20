@@ -310,6 +310,7 @@ def main():
         cagr_2023 = cagr_since_year_yf(chosen_ticker, 2023, today)
         cagr_2024 = cagr_since_year_yf(chosen_ticker, 2024, today)
         cagr_2025 = cagr_since_year_yf(chosen_ticker, 2025, today)
+        cagr_2026 = cagr_since_year_yf(chosen_ticker, 2026, today)
 
         ma50_basis, ma50_val = moving_average_latest(close, 50, True)
 
@@ -327,6 +328,7 @@ def main():
         print(f"  CAGR 2023: {pct_fmt(cagr_2023)}")
         print(f"  CAGR 2024: {pct_fmt(cagr_2024)}")
         print(f"  CAGR 2025: {pct_fmt(cagr_2025)}")
+        print(f"  CAGR 2026: {pct_fmt(cagr_2026)}")
         print(f"  MA50 {ma50_basis}: {num_fmt(ma50_val)}")
         print(f"  MA200 {ma200_basis}: {num_fmt(ma200_val)}")
         if dv_last_date is not None:
