@@ -1,6 +1,5 @@
-📊 TRIM Q2 2025
-📈 Revenue (QoQ 🔼🟢 30.7% | YoY 🔼🟢 23.1%)
-💰 Net Profit (QoQ 🔻🔴 -61.9% | YoY 🔼🟢 89.5%)
+📊 TRIM Q3 2025
+📈 Revenue (QoQ 🔼🟢 73.8% | YoY 🔼🟢 64.4%)
+💰 Net Profit (QoQ 🔼🟢 392.1% | YoY 🔼🟢 145.5%)
 💡 Cash Operasi: Negatif
-🧮 Valuasi: PER 9x | PBV 2.4x
 🧱 Fundamental stabil

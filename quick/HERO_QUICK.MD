@@ -1,6 +1,5 @@
-📊 HERO Q2 2025
-📈 Revenue (QoQ 🔻🔴 -5.5% | YoY 🔼🟢 4.6%)
-💰 Net Profit (QoQ 🔼🟢 77.0% | YoY 🔻🔴 -53.6%)
+📊 HERO Q3 2025
+📈 Revenue (QoQ 🔼🟢 1.1% | YoY 🔼🟢 3.9%)
+💰 Net Profit (QoQ 🔻🔴 -110.1% | YoY 🔻🔴 -61.7%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER -18x | PBV 1.4x
 🧱 Fundamental perlu dicermati

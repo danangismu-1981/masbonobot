@@ -1,6 +1,5 @@
-📊 SINI Q2 2025
-📈 Revenue (QoQ 🔻🔴 -10.0% | YoY 🔻🔴 -1.7%)
-💰 Net Profit (QoQ 🔼🟢 26.3% | YoY 🔼🟢 29.7%)
-💡 Cash Operasi: Negatif
-🧮 Valuasi: PER -78x | PBV -4.3x
+📊 SINI Q3 2025
+📈 Revenue (QoQ 🔼🟢 13.9% | YoY 🔻🔴 -9.4%)
+💰 Net Profit (QoQ 🔻🔴 -4.1% | YoY 🔼🟢 39.2%)
+💡 Cash Operasi: Positif
 🧱 Fundamental perlu dicermati

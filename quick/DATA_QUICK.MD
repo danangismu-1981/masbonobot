@@ -1,6 +1,5 @@
-📊 DATA Q2 2025
-📈 Revenue (QoQ 🔼🟢 36.0% | YoY 🔼🟢 60.0%)
-💰 Net Profit (QoQ 🔼🟢 50.4% | YoY 🔼🟢 17.6%)
-💡 Cash Operasi: Negatif
-🧮 Valuasi: PER 59x | PBV 20.3x
+📊 DATA Q3 2025
+📈 Revenue (QoQ 🔻🔴 -5.9% | YoY 🔼🟢 26.3%)
+💰 Net Profit (QoQ 🔼🟢 47.5% | YoY 🔼🟢 23.9%)
+💡 Cash Operasi: Positif
 🧱 Fundamental stabil

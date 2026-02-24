@@ -1,6 +1,5 @@
-📊 LCKM Q2 2025
-📈 Revenue (QoQ 🔻🔴 -39.2% | YoY 🔻🔴 -81.5%)
-💰 Net Profit (QoQ 🔻🔴 -25.7% | YoY 🔻🔴 -37.4%)
+📊 LCKM Q3 2025
+📈 Revenue (QoQ 🔻🔴 -35.7% | YoY 🔻🔴 -81.0%)
+💰 Net Profit (QoQ 🔻🔴 -23.0% | YoY 🔻🔴 -47.6%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 106x | PBV 1.7x
 🧱 Fundamental perlu dicermati

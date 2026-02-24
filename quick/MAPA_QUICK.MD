@@ -1,6 +1,5 @@
-📊 MAPA Q2 2025
-📈 Revenue (QoQ 🔼🟢 3.6% | YoY 🔼🟢 11.5%)
-💰 Net Profit (QoQ 🔻🔴 -5.2% | YoY 🔼🟢 12.9%)
+📊 MAPA Q3 2025
+📈 Revenue (QoQ 🔼🟢 15.1% | YoY 🔼🟢 12.3%)
+💰 Net Profit (QoQ 🔼🟢 54.9% | YoY 🔼🟢 5.5%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 16x | PBV 2.7x
 🧱 Fundamental stabil

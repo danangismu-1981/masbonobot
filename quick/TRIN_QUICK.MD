@@ -1,6 +1,5 @@
-📊 TRIN Q2 2025
-📈 Revenue (QoQ 🔻🔴 -76.6% | YoY 🔼🟢 76.9%)
-💰 Net Profit (QoQ 🔻🔴 -329.1% | YoY 🔻🔴 -94.4%)
-💡 Cash Operasi: Positif
-🧮 Valuasi: PER -29x | PBV 3.2x
+📊 TRIN Q3 2025
+📈 Revenue (QoQ 🔻🔴 -73.8% | YoY 🔻🔴 -6.5%)
+💰 Net Profit (QoQ 🔻🔴 -993.4% | YoY 🔻🔴 -163.0%)
+💡 Cash Operasi: Negatif
 🧱 Fundamental perlu dicermati

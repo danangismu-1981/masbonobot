@@ -1,6 +1,5 @@
-📊 RATU Q2 2025
-📈 Revenue (QoQ 🔻🔴 -14.3% | YoY 🔻🔴 -20.3%)
-💰 Net Profit (QoQ 🔻🔴 -73.7% | YoY 🔻🔴 -58.3%)
+📊 RATU Q3 2025
+📈 Revenue (QoQ ⏺️ n/a | YoY ⏺️ n/a)
+💰 Net Profit (QoQ ⏺️ n/a | YoY ⏺️ n/a)
 💡 Cash Operasi: Negatif
-🧮 Valuasi: PER 87x | PBV 24.1x
-🧱 Fundamental perlu dicermati
+🧱 Fundamental stabil

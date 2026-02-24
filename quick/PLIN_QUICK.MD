@@ -1,6 +1,5 @@
-📊 PLIN Q2 2025
-📈 Revenue (QoQ 🔻🔴 -0.7% | YoY 🔼🟢 4.2%)
-💰 Net Profit (QoQ 🔼🟢 4.1% | YoY 🔻🔴 -1.9%)
+📊 PLIN Q3 2025
+📈 Revenue (QoQ 🔼🟢 1.6% | YoY 🔼🟢 2.8%)
+💰 Net Profit (QoQ 🔻🔴 -2.7% | YoY 🔻🔴 -1.0%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 9x | PBV 0.8x
 🧱 Fundamental perlu dicermati

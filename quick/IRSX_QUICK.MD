@@ -1,6 +1,5 @@
-📊 IRSX Q2 2025
-📈 Revenue (QoQ 🔻🔴 -3.9% | YoY 🔻🔴 -79.1%)
-💰 Net Profit (QoQ 🔼🟢 51.9% | YoY 🔻🔴 -222.6%)
+📊 IRSX Q3 2025
+📈 Revenue (QoQ 🔼🟢 117.1% | YoY 🔻🔴 -71.3%)
+💰 Net Profit (QoQ 🔻🔴 -2731.7% | YoY 🔼🟢 1196.8%)
 💡 Cash Operasi: Negatif
-🧮 Valuasi: PER -366x | PBV 7.7x
 🧱 Fundamental perlu dicermati

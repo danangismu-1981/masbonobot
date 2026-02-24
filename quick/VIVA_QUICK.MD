@@ -1,6 +1,5 @@
-📊 VIVA Q2 2025
-📈 Revenue (QoQ 🔻🔴 -21.1% | YoY 🔻🔴 -19.3%)
-💰 Net Profit (QoQ 🔻🔴 -1174.1% | YoY 🔻🔴 -271.0%)
+📊 VIVA Q3 2025
+📈 Revenue (QoQ 🔼🟢 11.9% | YoY 🔻🔴 -17.0%)
+💰 Net Profit (QoQ 🔻🔴 -102.8% | YoY 🔻🔴 -5469.2%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 0x | PBV 46.1x
 🧱 Fundamental perlu dicermati

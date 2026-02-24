@@ -1,6 +1,5 @@
-📊 RCCC Q2 2025
-📈 Revenue (QoQ 🔻🔴 -15.1% | YoY 🔼🟢 16.9%)
-💰 Net Profit (QoQ 🔻🔴 -54.6% | YoY 🔼🟢 1.5%)
-💡 Cash Operasi: Positif
-🧮 Valuasi: PER 42x | PBV 3.1x
+📊 RCCC Q3 2025
+📈 Revenue (QoQ 🔼🟢 26.4% | YoY 🔼🟢 3.2%)
+💰 Net Profit (QoQ 🔼🟢 538.5% | YoY 🔼🟢 0.3%)
+💡 Cash Operasi: Negatif
 🧱 Fundamental stabil

@@ -1,6 +1,5 @@
-📊 BABY Q2 2025
-📈 Revenue (QoQ 🔼🟢 3.7% | YoY 🔼🟢 5.1%)
-💰 Net Profit (QoQ 🔻🔴 -139.9% | YoY 🔻🔴 -80.2%)
+📊 BABY Q3 2025
+📈 Revenue (QoQ 🔻🔴 -1.0% | YoY 🔼🟢 3.3%)
+💰 Net Profit (QoQ 🔻🔴 -271.5% | YoY 🔻🔴 -64.4%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER -21x | PBV 2.1x
 🧱 Fundamental perlu dicermati

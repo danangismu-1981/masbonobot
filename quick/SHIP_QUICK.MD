@@ -1,6 +1,5 @@
-📊 SHIP Q2 2025
-📈 Revenue (QoQ 🔻🔴 -15.5% | YoY 🔻🔴 -12.2%)
-💰 Net Profit (QoQ 🔼🟢 75.8% | YoY 🔼🟢 168.3%)
+📊 SHIP Q3 2025
+📈 Revenue (QoQ 🔻🔴 -7.1% | YoY 🔻🔴 -4.6%)
+💰 Net Profit (QoQ 🔻🔴 -90.2% | YoY 🔻🔴 -17.4%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 66x | PBV 6.9x
 🧱 Fundamental perlu dicermati

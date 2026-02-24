@@ -1,6 +1,5 @@
-📊 SCMA Q2 2025
-📈 Revenue (QoQ 🔻🔴 -8.8% | YoY 🔻🔴 -0.2%)
-💰 Net Profit (QoQ 🔼🟢 8.7% | YoY 🔻🔴 -2.1%)
-💡 Cash Operasi: Negatif
-🧮 Valuasi: PER 36x | PBV 3.5x
+📊 SCMA Q3 2025
+📈 Revenue (QoQ 🔼🟢 8.7% | YoY 🔻🔴 -1.9%)
+💰 Net Profit (QoQ 🔼🟢 62.1% | YoY 🔼🟢 16.1%)
+💡 Cash Operasi: Positif
 🧱 Fundamental perlu dicermati

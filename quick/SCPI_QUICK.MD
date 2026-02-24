@@ -1,6 +1,5 @@
-📊 SCPI Q2 2025
-📈 Revenue (QoQ 🔻🔴 -4.4% | YoY 🔼🟢 28.4%)
-💰 Net Profit (QoQ 🔻🔴 -37.9% | YoY 🔼🟢 18.0%)
-💡 Cash Operasi: Negatif
-🧮 Valuasi: PER 0x | PBV 0.1x
+📊 SCPI Q3 2025
+📈 Revenue (QoQ 🔼🟢 38.6% | YoY 🔼🟢 29.0%)
+💰 Net Profit (QoQ 🔼🟢 110.7% | YoY 🔼🟢 32.2%)
+💡 Cash Operasi: Positif
 🧱 Fundamental stabil

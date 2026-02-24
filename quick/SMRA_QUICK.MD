@@ -1,6 +1,5 @@
-📊 SMRA Q2 2025
-📈 Revenue (QoQ 🔼🟢 17.7% | YoY 🔻🔴 -19.3%)
-💰 Net Profit (QoQ 🔼🟢 11.4% | YoY 🔻🔴 -33.2%)
+📊 SMRA Q3 2025
+📈 Revenue (QoQ 🔻🔴 -26.1% | YoY 🔻🔴 -14.9%)
+💰 Net Profit (QoQ 🔻🔴 -82.6% | YoY 🔻🔴 -41.4%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 6x | PBV 0.6x
 🧱 Fundamental perlu dicermati

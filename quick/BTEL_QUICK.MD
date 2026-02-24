@@ -1,6 +1,5 @@
-📊 BTEL Q2 2025
-📈 Revenue (QoQ 🔻🔴 -27.2% | YoY 🔻🔴 -11.8%)
-💰 Net Profit (QoQ 🔻🔴 -215.6% | YoY 🔻🔴 -100.6%)
-💡 Cash Operasi: Positif
-🧮 Valuasi: PER -35x | PBV -0.3x
+📊 BTEL Q3 2025
+📈 Revenue (QoQ 🔻🔴 -0.1% | YoY 🔻🔴 -12.8%)
+💰 Net Profit (QoQ 🔻🔴 -262.8% | YoY 🔻🔴 -94.9%)
+💡 Cash Operasi: Negatif
 🧱 Fundamental perlu dicermati

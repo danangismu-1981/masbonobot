@@ -1,6 +1,5 @@
-📊 DIVA Q2 2025
-📈 Revenue (QoQ 🔻🔴 -1.7% | YoY 🔻🔴 -19.8%)
-💰 Net Profit (QoQ 🔻🔴 -115.2% | YoY 🔻🔴 -106.9%)
+📊 DIVA Q3 2025
+📈 Revenue (QoQ 🔻🔴 -1.4% | YoY 🔻🔴 -18.7%)
+💰 Net Profit (QoQ 🔻🔴 -73.6% | YoY 🔻🔴 -107.3%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 184x | PBV 0.4x
 🧱 Fundamental perlu dicermati

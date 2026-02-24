@@ -1,6 +1,5 @@
-📊 INET Q2 2025
-📈 Revenue (QoQ 🔼🟢 171.8% | YoY 🔼🟢 196.9%)
-💰 Net Profit (QoQ 🔼🟢 307.0% | YoY 🔼🟢 666.7%)
-💡 Cash Operasi: Negatif
-🧮 Valuasi: PER 362x | PBV 10.0x
+📊 INET Q3 2025
+📈 Revenue (QoQ 🔻🔴 -28.3% | YoY 🔼🟢 194.7%)
+💰 Net Profit (QoQ 🔼🟢 85.8% | YoY 🔼🟢 818.9%)
+💡 Cash Operasi: Positif
 🧱 Fundamental stabil
