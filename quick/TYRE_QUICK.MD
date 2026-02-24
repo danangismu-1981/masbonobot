@@ -1,6 +1,5 @@
-📊 TYRE Q2 2025
-📈 Revenue (QoQ 🔻🔴 -10.1% | YoY 🔼🟢 12.9%)
-💰 Net Profit (QoQ 🔻🔴 -26.3% | YoY 🔼🟢 11.7%)
+📊 TYRE Q3 2025
+📈 Revenue (QoQ 🔼🟢 2.2% | YoY 🔼🟢 5.5%)
+💰 Net Profit (QoQ 🔻🔴 -28.4% | YoY 🔼🟢 0.0%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 23x | PBV 1.3x
 🧱 Fundamental stabil

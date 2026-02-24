@@ -1,6 +1,5 @@
-📊 ARKA Q2 2025
-📈 Revenue (QoQ 🔼🟢 5.0% | YoY 🔼🟢 102.0%)
-💰 Net Profit (QoQ 🔻🔴 -74.3% | YoY 🔼🟢 86.7%)
-💡 Cash Operasi: Positif
-🧮 Valuasi: PER 14x | PBV 0.5x
+📊 ARKA Q3 2025
+📈 Revenue (QoQ 🔻🔴 -7.0% | YoY 🔼🟢 33.7%)
+💰 Net Profit (QoQ 🔼🟢 382.1% | YoY 🔼🟢 18.4%)
+💡 Cash Operasi: Negatif
 🧱 Fundamental stabil

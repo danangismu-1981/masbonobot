@@ -1,6 +1,5 @@
-📊 AGRS Q1 2025
-📈 Revenue (QoQ 🔼🟢 0.0% | YoY 🔼🟢 15.8%)
-💰 Net Profit (QoQ 🔼🟢 0.0% | YoY 🔼🟢 18.9%)
-💡 Cash Operasi: Negatif
-🧮 Valuasi: PER 22x | PBV 0.7x
-🧱 Fundamental stabil
+📊 AGRS Q3 2025
+📈 Revenue (QoQ 🔼🟢 194.0% | YoY 🔻🔴 -34.7%)
+💰 Net Profit (QoQ 🔼🟢 193.7% | YoY 🔻🔴 -0.5%)
+💡 Cash Operasi: Positif
+🧱 Fundamental perlu dicermati

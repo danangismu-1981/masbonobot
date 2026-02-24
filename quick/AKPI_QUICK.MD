@@ -1,6 +1,5 @@
-📊 AKPI Q2 2025
-📈 Revenue (QoQ 🔻🔴 -0.5% | YoY 🔻🔴 -5.1%)
-💰 Net Profit (QoQ 🔻🔴 -801.9% | YoY 🔻🔴 -228.1%)
+📊 AKPI Q3 2025
+📈 Revenue (QoQ 🔼🟢 6.9% | YoY 🔻🔴 -3.6%)
+💰 Net Profit (QoQ 🔻🔴 -220.5% | YoY 🔻🔴 -53.3%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 51x | PBV 0.2x
 🧱 Fundamental perlu dicermati

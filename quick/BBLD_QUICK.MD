@@ -1,6 +1,5 @@
-📊 BBLD Q2 2025
-📈 Revenue (QoQ 🔻🔴 -2.3% | YoY 🔼🟢 10.4%)
-💰 Net Profit (QoQ 🔻🔴 -58.5% | YoY 🔻🔴 -54.0%)
+📊 BBLD Q3 2025
+📈 Revenue (QoQ 🔼🟢 8.9% | YoY 🔼🟢 10.9%)
+💰 Net Profit (QoQ 🔼🟢 22.3% | YoY 🔻🔴 -54.8%)
 💡 Cash Operasi: Negatif
-🧮 Valuasi: PER 34x | PBV 1.0x
 🧱 Fundamental perlu dicermati

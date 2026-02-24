@@ -1,6 +1,5 @@
-📊 IGAR Q2 2025
-📈 Revenue (QoQ 🔼🟢 5.4% | YoY 🔼🟢 5.4%)
-💰 Net Profit (QoQ 🔼🟢 20.6% | YoY 🔼🟢 9.9%)
-💡 Cash Operasi: Negatif
-🧮 Valuasi: PER 9x | PBV 0.7x
+📊 IGAR Q3 2025
+📈 Revenue (QoQ 🔼🟢 7.2% | YoY 🔼🟢 4.5%)
+💰 Net Profit (QoQ 🔻🔴 -0.6% | YoY 🔼🟢 11.6%)
+💡 Cash Operasi: Positif
 🧱 Fundamental stabil

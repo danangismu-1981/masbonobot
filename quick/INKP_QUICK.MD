@@ -1,6 +1,5 @@
-📊 INKP Q2 2025
-📈 Revenue (QoQ 🔻🔴 -0.2% | YoY 🔻🔴 -2.4%)
-💰 Net Profit (QoQ 🔻🔴 -83.2% | YoY 🔻🔴 -41.3%)
+📊 INKP Q3 2025
+📈 Revenue (QoQ 🔼🟢 2.4% | YoY 🔻🔴 -2.4%)
+💰 Net Profit (QoQ 🔼🟢 587.6% | YoY 🔼🟢 44.1%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 8x | PBV 0.4x
 🧱 Fundamental perlu dicermati

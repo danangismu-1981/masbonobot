@@ -1,6 +1,5 @@
-📊 BTPN Q2 2025
-📈 Revenue (QoQ 🔻🔴 -2.8% | YoY 🔻🔴 -3.3%)
-💰 Net Profit (QoQ 🔻🔴 -3.7% | YoY 🔻🔴 -29.6%)
+📊 BTPN Q3 2025
+📈 Revenue (QoQ 🔻🔴 -1.5% | YoY 🔼🟢 5.6%)
+💰 Net Profit (QoQ 🔻🔴 -3.5% | YoY 🔻🔴 -26.1%)
 💡 Cash Operasi: Negatif
-🧮 Valuasi: PER 9x | PBV 0.5x
 🧱 Fundamental perlu dicermati

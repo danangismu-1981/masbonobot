@@ -1,6 +1,5 @@
-📊 DPNS Q2 2025
-📈 Revenue (QoQ 🔻🔴 -87.4% | YoY 🔻🔴 -78.0%)
-💰 Net Profit (QoQ 🔻🔴 -188.0% | YoY 🔻🔴 -95.9%)
+📊 DPNS Q3 2025
+📈 Revenue (QoQ 🔼🟢 99.5% | YoY 🔻🔴 -84.0%)
+💰 Net Profit (QoQ 🔻🔴 -158.5% | YoY 🔻🔴 -80.0%)
 💡 Cash Operasi: Negatif
-🧮 Valuasi: PER 69x | PBV 0.3x
 🧱 Fundamental perlu dicermati

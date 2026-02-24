@@ -1,6 +1,5 @@
-📊 ADMF Q2 2025
-📈 Revenue (QoQ 🔻🔴 -1.2% | YoY 🔻🔴 -7.2%)
-💰 Net Profit (QoQ 🔼🟢 16.0% | YoY 🔻🔴 -21.4%)
-💡 Cash Operasi: Positif
-🧮 Valuasi: PER 9x | PBV 0.9x
+📊 ADMF Q3 2025
+📈 Revenue (QoQ 🔼🟢 1.6% | YoY 🔻🔴 -6.3%)
+💰 Net Profit (QoQ 🔼🟢 4.3% | YoY 🔻🔴 -15.8%)
+💡 Cash Operasi: Negatif
 🧱 Fundamental perlu dicermati

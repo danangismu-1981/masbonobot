@@ -1,6 +1,5 @@
-📊 BBKP Q2 2025
-📈 Revenue (QoQ 🔼🟢 33.9% | YoY 🔼🟢 0.5%)
-💰 Net Profit (QoQ 🔻🔴 -89.4% | YoY 🔻🔴 -101.6%)
-💡 Cash Operasi: Negatif
-🧮 Valuasi: PER -5x | PBV 1.7x
+📊 BBKP Q3 2025
+📈 Revenue (QoQ 🔼🟢 3.6% | YoY 🔻🔴 -1.0%)
+💰 Net Profit (QoQ 🔻🔴 -370.5% | YoY 🔻🔴 -110.7%)
+💡 Cash Operasi: Positif
 🧱 Fundamental perlu dicermati

@@ -1,6 +1,5 @@
-📊 BISI Q2 2025
-📈 Revenue (QoQ 🔻🔴 -2.5% | YoY 🔻🔴 -12.1%)
-💰 Net Profit (QoQ 🔻🔴 -97.2% | YoY 🔻🔴 -73.1%)
-💡 Cash Operasi: Positif
-🧮 Valuasi: PER 19x | PBV 0.8x
+📊 BISI Q3 2025
+📈 Revenue (QoQ 🔼🟢 44.8% | YoY 🔼🟢 6.0%)
+💰 Net Profit (QoQ 🔼🟢 7218.9% | YoY 🔻🔴 -27.2%)
+💡 Cash Operasi: Negatif
 🧱 Fundamental perlu dicermati

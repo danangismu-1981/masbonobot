@@ -1,6 +1,5 @@
-📊 HDFA Q2 2025
-📈 Revenue (QoQ 🔼🟢 9.4% | YoY 🔻🔴 -57.4%)
-💰 Net Profit (QoQ 🔻🔴 -141.3% | YoY 🔻🔴 -79.3%)
-💡 Cash Operasi: Positif
-🧮 Valuasi: PER -22x | PBV 2.2x
+📊 HDFA Q3 2025
+📈 Revenue (QoQ 🔻🔴 -58.4% | YoY 🔻🔴 -66.5%)
+💰 Net Profit (QoQ 🔼🟢 182.2% | YoY 🔻🔴 -118.7%)
+💡 Cash Operasi: Negatif
 🧱 Fundamental perlu dicermati

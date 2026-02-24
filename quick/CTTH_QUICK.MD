@@ -1,6 +1,5 @@
-📊 CTTH Q2 2025
-📈 Revenue (QoQ 🔻🔴 -1.4% | YoY 🔻🔴 -17.6%)
-💰 Net Profit (QoQ 🔼🟢 309.0% | YoY 🔼🟢 73.4%)
-💡 Cash Operasi: Negatif
-🧮 Valuasi: PER -4x | PBV 0.6x
+📊 CTTH Q3 2025
+📈 Revenue (QoQ 🔼🟢 9.5% | YoY 🔻🔴 -19.6%)
+💰 Net Profit (QoQ 🔻🔴 -94.8% | YoY 🔼🟢 352.9%)
+💡 Cash Operasi: Positif
 🧱 Fundamental perlu dicermati

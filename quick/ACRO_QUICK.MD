@@ -1,6 +1,5 @@
-📊 ACRO Q2 2025
-📈 Revenue (QoQ 🔻🔴 -59.6% | YoY 🔻🔴 -15.9%)
-💰 Net Profit (QoQ 🔻🔴 -68.1% | YoY 🔻🔴 -3.0%)
+📊 ACRO Q3 2025
+📈 Revenue (QoQ 🔼🟢 89.5% | YoY 🔻🔴 -6.7%)
+💰 Net Profit (QoQ 🔼🟢 227.5% | YoY 🔻🔴 -3.3%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 35x | PBV 1.7x
 🧱 Fundamental perlu dicermati

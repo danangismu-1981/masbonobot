@@ -1,6 +1,5 @@
-📊 FISH Q2 2025
-📈 Revenue (QoQ 🔻🔴 -2.0% | YoY 🔻🔴 -16.5%)
-💰 Net Profit (QoQ 🔻🔴 -36.1% | YoY 🔻🔴 -51.7%)
-💡 Cash Operasi: Negatif
-🧮 Valuasi: PER 43x | PBV 2.8x
+📊 FISH Q3 2025
+📈 Revenue (QoQ 🔼🟢 4.7% | YoY 🔻🔴 -11.4%)
+💰 Net Profit (QoQ 🔼🟢 9.8% | YoY 🔼🟢 29.7%)
+💡 Cash Operasi: Positif
 🧱 Fundamental perlu dicermati

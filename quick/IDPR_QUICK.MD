@@ -1,6 +1,5 @@
-📊 IDPR Q2 2025
-📈 Revenue (QoQ 🔻🔴 -3.5% | YoY 🔼🟢 11.1%)
-💰 Net Profit (QoQ 🔼🟢 26.2% | YoY 🔻🔴 -401.0%)
-💡 Cash Operasi: Negatif
-🧮 Valuasi: PER 26x | PBV 0.9x
-🧱 Fundamental perlu dicermati
+📊 IDPR Q3 2025
+📈 Revenue (QoQ 🔼🟢 14.1% | YoY 🔼🟢 12.9%)
+💰 Net Profit (QoQ 🔻🔴 -120.4% | YoY 🔼🟢 22.0%)
+💡 Cash Operasi: Positif
+🧱 Fundamental stabil

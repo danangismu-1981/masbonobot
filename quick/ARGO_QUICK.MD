@@ -1,6 +1,5 @@
-📊 ARGO Q2 2025
-📈 Revenue (QoQ 🔻🔴 -17.2% | YoY 🔼🟢 10.5%)
-💰 Net Profit (QoQ 🔻🔴 -322.1% | YoY 🔼🟢 1158.0%)
+📊 ARGO Q3 2025
+📈 Revenue (QoQ 🔼🟢 17.3% | YoY 🔼🟢 6.9%)
+💰 Net Profit (QoQ 🔻🔴 -162.4% | YoY 🔻🔴 -127.2%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER -224x | PBV 28.8x
-🧱 Fundamental stabil
+🧱 Fundamental perlu dicermati
