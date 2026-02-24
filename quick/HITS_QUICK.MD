@@ -1,6 +1,5 @@
-📊 HITS Q2 2025
-📈 Revenue (QoQ 🔻🔴 -9.3% | YoY 🔻🔴 -6.5%)
-💰 Net Profit (QoQ 🔻🔴 -48.5% | YoY 🔻🔴 -42.1%)
+📊 HITS Q3 2025
+📈 Revenue (QoQ 🔼🟢 1.3% | YoY 🔼🟢 2.4%)
+💰 Net Profit (QoQ 🔻🔴 -209.2% | YoY 🔻🔴 -64.6%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER -77x | PBV 0.8x
 🧱 Fundamental perlu dicermati

@@ -1,6 +1,5 @@
-📊 INAF Q2 2025
-📈 Revenue (QoQ 🔻🔴 -17.7% | YoY 🔻🔴 -38.9%)
-💰 Net Profit (QoQ 🔻🔴 -26.5% | YoY 🔻🔴 -57.3%)
-💡 Cash Operasi: Positif
-🧮 Valuasi: PER -1x | PBV -0.4x
+📊 INAF Q3 2025
+📈 Revenue (QoQ 🔼🟢 120.4% | YoY 🔻🔴 -3.0%)
+💰 Net Profit (QoQ 🔼🟢 353.0% | YoY 🔻🔴 -23.7%)
+💡 Cash Operasi: Negatif
 🧱 Fundamental perlu dicermati

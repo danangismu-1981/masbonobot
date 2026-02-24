@@ -1,6 +1,5 @@
-📊 ARII Q2 2025
-📈 Revenue (QoQ 🔻🔴 -35.5% | YoY 🔻🔴 -25.0%)
-💰 Net Profit (QoQ 🔻🔴 -161.6% | YoY 🔻🔴 -505.3%)
+📊 ARII Q3 2025
+📈 Revenue (QoQ ⏺️ n/a | YoY ⏺️ n/a)
+💰 Net Profit (QoQ ⏺️ n/a | YoY ⏺️ n/a)
 💡 Cash Operasi: Negatif
-🧮 Valuasi: PER 9x | PBV 861.5x
-🧱 Fundamental perlu dicermati
+🧱 Fundamental stabil

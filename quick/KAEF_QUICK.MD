@@ -1,6 +1,5 @@
-📊 KAEF Q2 2025
-📈 Revenue (QoQ 🔼🟢 1.5% | YoY 🔻🔴 -16.2%)
-💰 Net Profit (QoQ 🔻🔴 -107.0% | YoY 🔻🔴 -58.1%)
+📊 KAEF Q3 2025
+📈 Revenue (QoQ 🔼🟢 19.9% | YoY 🔻🔴 -10.9%)
+💰 Net Profit (QoQ 🔻🔴 -1282.8% | YoY 🔻🔴 -57.4%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER -5x | PBV 1.0x
 🧱 Fundamental perlu dicermati

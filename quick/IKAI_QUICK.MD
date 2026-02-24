@@ -1,6 +1,5 @@
-📊 IKAI Q2 2025
-📈 Revenue (QoQ 🔻🔴 -12.2% | YoY 🔻🔴 -31.7%)
-💰 Net Profit (QoQ 🔻🔴 -23.7% | YoY 🔼🟢 348.0%)
-💡 Cash Operasi: Negatif
-🧮 Valuasi: PER -3x | PBV 0.3x
+📊 IKAI Q3 2025
+📈 Revenue (QoQ 🔼🟢 1.5% | YoY 🔻🔴 -33.3%)
+💰 Net Profit (QoQ 🔻🔴 -205.1% | YoY 🔼🟢 515.7%)
+💡 Cash Operasi: Positif
 🧱 Fundamental perlu dicermati

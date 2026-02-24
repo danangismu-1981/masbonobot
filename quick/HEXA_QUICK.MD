@@ -1,6 +1,5 @@
-📊 HEXA Q1 2025
-📈 Revenue (QoQ 🔼🟢 34.8% | YoY 🔼🟢 34.8%)
-💰 Net Profit (QoQ 🔼🟢 21.0% | YoY 🔼🟢 21.0%)
+📊 HEXA Q3 2025
+📈 Revenue (QoQ 🔼🟢 225.1% | YoY 🔼🟢 13.8%)
+💰 Net Profit (QoQ 🔼🟢 169.4% | YoY 🔻🔴 -5.3%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 7x | PBV 1.5x
-🧱 Fundamental stabil
+🧱 Fundamental perlu dicermati

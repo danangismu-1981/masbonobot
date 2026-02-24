@@ -1,6 +1,5 @@
-📊 GMTD Q2 2025
-📈 Revenue (QoQ 🔼🟢 8.7% | YoY 🔻🔴 -48.3%)
-💰 Net Profit (QoQ 🔼🟢 276.6% | YoY 🔻🔴 -83.7%)
-💡 Cash Operasi: Positif
-🧮 Valuasi: PER 117x | PBV 3.3x
+📊 GMTD Q3 2025
+📈 Revenue (QoQ 🔼🟢 17.1% | YoY 🔻🔴 -31.5%)
+💰 Net Profit (QoQ 🔻🔴 -13.9% | YoY 🔻🔴 -63.4%)
+💡 Cash Operasi: Negatif
 🧱 Fundamental perlu dicermati

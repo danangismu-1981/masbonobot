@@ -1,6 +1,5 @@
-📊 LEAD Q2 2025
-📈 Revenue (QoQ 🔻🔴 -14.7% | YoY 🔻🔴 -22.5%)
-💰 Net Profit (QoQ 🔼🟢 44.4% | YoY 🔻🔴 -179.5%)
+📊 LEAD Q3 2025
+📈 Revenue (QoQ 🔼🟢 26.6% | YoY 🔻🔴 -12.5%)
+💰 Net Profit (QoQ 🔼🟢 2834.1% | YoY 🔻🔴 -51.2%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 7x | PBV 0.7x
 🧱 Fundamental perlu dicermati

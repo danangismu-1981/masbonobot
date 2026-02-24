@@ -1,6 +1,5 @@
-📊 IKBI Q2 2025
-📈 Revenue (QoQ 🔻🔴 -16.1% | YoY 🔻🔴 -9.6%)
-💰 Net Profit (QoQ 🔻🔴 -7.2% | YoY 🔼🟢 130.5%)
+📊 IKBI Q3 2025
+📈 Revenue (QoQ 🔼🟢 14.3% | YoY 🔻🔴 -11.1%)
+💰 Net Profit (QoQ 🔻🔴 -6.3% | YoY 🔼🟢 92.1%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 5x | PBV 0.5x
 🧱 Fundamental perlu dicermati

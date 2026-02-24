@@ -1,6 +1,5 @@
-📊 BMTR Q2 2025
-📈 Revenue (QoQ 🔻🔴 -18.2% | YoY 🔻🔴 -6.8%)
-💰 Net Profit (QoQ 🔻🔴 -31.1% | YoY 🔻🔴 -21.8%)
+📊 BMTR Q3 2025
+📈 Revenue (QoQ 🔻🔴 -1.5% | YoY 🔻🔴 -3.3%)
+💰 Net Profit (QoQ 🔻🔴 -61.9% | YoY 🔻🔴 -3.2%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 4x | PBV 0.1x
 🧱 Fundamental perlu dicermati

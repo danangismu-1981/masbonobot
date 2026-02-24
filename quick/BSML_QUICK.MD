@@ -1,6 +1,5 @@
-📊 BSML Q2 2025
-📈 Revenue (QoQ 🔻🔴 -54.9% | YoY 🔻🔴 -78.4%)
-💰 Net Profit (QoQ 🔻🔴 -43.7% | YoY 🔻🔴 -25.6%)
-💡 Cash Operasi: Positif
-🧮 Valuasi: PER 48x | PBV 1.8x
-🧱 Fundamental perlu dicermati
+📊 BSML Q3 2025
+📈 Revenue (QoQ ⏺️ n/a | YoY ⏺️ n/a)
+💰 Net Profit (QoQ ⏺️ n/a | YoY ⏺️ n/a)
+💡 Cash Operasi: Negatif
+🧱 Fundamental stabil

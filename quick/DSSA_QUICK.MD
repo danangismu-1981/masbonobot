@@ -1,6 +1,5 @@
-📊 DSSA Q2 2025
-📈 Revenue (QoQ 🔻🔴 -22.4% | YoY 🔻🔴 -22.6%)
-💰 Net Profit (QoQ 🔻🔴 -79.9% | YoY 🔻🔴 -81.8%)
-💡 Cash Operasi: Positif
-🧮 Valuasi: PER 175x | PBV 21.9x
-🧱 Fundamental perlu dicermati
+📊 DSSA Q3 2025
+📈 Revenue (QoQ ⏺️ n/a | YoY ⏺️ n/a)
+💰 Net Profit (QoQ ⏺️ n/a | YoY ⏺️ n/a)
+💡 Cash Operasi: Negatif
+🧱 Fundamental stabil

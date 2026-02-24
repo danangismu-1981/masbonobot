@@ -1,6 +1,5 @@
-📊 MSKY Q2 2025
-📈 Revenue (QoQ 🔻🔴 -1.6% | YoY 🔻🔴 -33.5%)
-💰 Net Profit (QoQ 🔻🔴 -7.2% | YoY 🔼🟢 8.8%)
+📊 MSKY Q3 2025
+📈 Revenue (QoQ 🔼🟢 0.8% | YoY 🔻🔴 -40.6%)
+💰 Net Profit (QoQ 🔻🔴 -26.7% | YoY 🔼🟢 9.1%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER -6x | PBV 0.5x
 🧱 Fundamental perlu dicermati

@@ -1,6 +1,5 @@
-📊 FORU Q2 2025
-📈 Revenue (QoQ 🔻🔴 -69.2% | YoY 🔼🟢 51.3%)
-💰 Net Profit (QoQ 🔻🔴 -299.7% | YoY 🔻🔴 -85.1%)
-💡 Cash Operasi: Positif
-🧮 Valuasi: PER -383x | PBV 21.9x
+📊 FORU Q3 2025
+📈 Revenue (QoQ 🔼🟢 5.3% | YoY 🔼🟢 12.8%)
+💰 Net Profit (QoQ 🔻🔴 -34.7% | YoY 🔻🔴 -79.4%)
+💡 Cash Operasi: Negatif
 🧱 Fundamental perlu dicermati

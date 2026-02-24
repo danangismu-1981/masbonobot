@@ -1,6 +1,5 @@
-📊 ICON Q2 2025
-📈 Revenue (QoQ 🔼🟢 1.4% | YoY 🔼🟢 8.9%)
-💰 Net Profit (QoQ 🔻🔴 -103.4% | YoY 🔻🔴 -118.1%)
-💡 Cash Operasi: Negatif
-🧮 Valuasi: PER -12x | PBV 0.4x
+📊 ICON Q3 2025
+📈 Revenue (QoQ 🔼🟢 9.0% | YoY 🔼🟢 11.3%)
+💰 Net Profit (QoQ 🔼🟢 5665.7% | YoY 🔻🔴 -76.6%)
+💡 Cash Operasi: Positif
 🧱 Fundamental perlu dicermati

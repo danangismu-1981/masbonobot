@@ -1,6 +1,5 @@
-📊 DOID Q1 2025
-📈 Revenue (QoQ 🔼🟢 0.0% | YoY 🔻🔴 -13.7%)
-💰 Net Profit (QoQ 🔼🟢 -0.0% | YoY 🔼🟢 267.2%)
-💡 Cash Operasi: Positif
-🧮 Valuasi: PER -1x | PBV 1.5x
-🧱 Fundamental perlu dicermati
+📊 DOID Q3 2025
+📈 Revenue (QoQ ⏺️ n/a | YoY ⏺️ n/a)
+💰 Net Profit (QoQ ⏺️ n/a | YoY ⏺️ n/a)
+💡 Cash Operasi: Negatif
+🧱 Fundamental stabil

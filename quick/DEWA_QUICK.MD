@@ -1,6 +1,5 @@
-📊 DEWA Q2 2025
-📈 Revenue (QoQ 🔻🔴 -3.8% | YoY 🔼🟢 3.8%)
-💰 Net Profit (QoQ 🔼🟢 43.9% | YoY 🔼🟢 1484.2%)
+📊 DEWA Q3 2025
+📈 Revenue (QoQ ⏺️ n/a | YoY ⏺️ n/a)
+💰 Net Profit (QoQ ⏺️ n/a | YoY ⏺️ n/a)
 💡 Cash Operasi: Negatif
-🧮 Valuasi: PER 75x | PBV 2624.8x
 🧱 Fundamental stabil

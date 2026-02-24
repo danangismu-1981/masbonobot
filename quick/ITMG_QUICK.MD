@@ -1,6 +1,5 @@
-📊 ITMG Q2 2025
-📈 Revenue (QoQ 🔻🔴 -13.7% | YoY 🔻🔴 -24.5%)
-💰 Net Profit (QoQ 🔻🔴 -63.0% | YoY 🔻🔴 -63.9%)
-💡 Cash Operasi: Positif
-🧮 Valuasi: PER 5x | PBV 0.8x
-🧱 Fundamental perlu dicermati
+📊 ITMG Q3 2025
+📈 Revenue (QoQ ⏺️ n/a | YoY ⏺️ n/a)
+💰 Net Profit (QoQ ⏺️ n/a | YoY ⏺️ n/a)
+💡 Cash Operasi: Negatif
+🧱 Fundamental stabil

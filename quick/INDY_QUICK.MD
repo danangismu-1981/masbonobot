@@ -1,6 +1,5 @@
-📊 INDY Q2 2025
-📈 Revenue (QoQ 🔻🔴 -8.9% | YoY 🔻🔴 -30.2%)
-💰 Net Profit (QoQ 🔻🔴 -124.3% | YoY 🔻🔴 -146.4%)
-💡 Cash Operasi: Positif
-🧮 Valuasi: PER -85x | PBV 0.6x
-🧱 Fundamental perlu dicermati
+📊 INDY Q3 2025
+📈 Revenue (QoQ ⏺️ n/a | YoY ⏺️ n/a)
+💰 Net Profit (QoQ ⏺️ n/a | YoY ⏺️ n/a)
+💡 Cash Operasi: Negatif
+🧱 Fundamental stabil
