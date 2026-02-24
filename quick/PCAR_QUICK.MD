@@ -1,6 +1,5 @@
-📊 PCAR Q2 2025
-📈 Revenue (QoQ 🔼🟢 4.3% | YoY 🔻🔴 -8.5%)
-💰 Net Profit (QoQ 🔻🔴 -45.8% | YoY 🔻🔴 -156.6%)
+📊 PCAR Q3 2025
+📈 Revenue (QoQ 🔻🔴 -31.9% | YoY 🔻🔴 -10.2%)
+💰 Net Profit (QoQ 🔼🟢 405.3% | YoY 🔻🔴 -26.2%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 61x | PBV 0.6x
 🧱 Fundamental perlu dicermati

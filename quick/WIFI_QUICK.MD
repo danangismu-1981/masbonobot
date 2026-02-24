@@ -1,6 +1,5 @@
-📊 WIFI Q2 2025
-📈 Revenue (QoQ 🔼🟢 21.7% | YoY 🔼🟢 66.2%)
-💰 Net Profit (QoQ 🔼🟢 76.0% | YoY 🔼🟢 153.6%)
-💡 Cash Operasi: Negatif
-🧮 Valuasi: PER 48x | PBV 8.1x
+📊 WIFI Q3 2025
+📈 Revenue (QoQ 🔼🟢 77.9% | YoY 🔼🟢 101.0%)
+💰 Net Profit (QoQ 🔻🔴 -77.9% | YoY 🔼🟢 71.0%)
+💡 Cash Operasi: Positif
 🧱 Fundamental stabil

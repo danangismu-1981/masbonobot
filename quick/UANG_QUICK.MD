@@ -1,6 +1,5 @@
-📊 UANG Q2 2025
-📈 Revenue (QoQ 🔼🟢 3488.5% | YoY 🔻🔴 -77.5%)
-💰 Net Profit (QoQ 🔻🔴 -113.4% | YoY 🔻🔴 -126.6%)
+📊 UANG Q3 2025
+📈 Revenue (QoQ 🔼🟢 327.5% | YoY 🔼🟢 5.4%)
+💰 Net Profit (QoQ 🔼🟢 2252.6% | YoY 🔻🔴 -10.8%)
 💡 Cash Operasi: Negatif
-🧮 Valuasi: PER -82x | PBV 8.9x
 🧱 Fundamental perlu dicermati

@@ -1,6 +1,5 @@
-📊 OASA Q2 2025
-📈 Revenue (QoQ 🔻🔴 -80.2% | YoY 🔻🔴 -38.6%)
-💰 Net Profit (QoQ 🔻🔴 -8.4% | YoY 🔻🔴 -1466.8%)
-💡 Cash Operasi: Positif
-🧮 Valuasi: PER -18x | PBV 2.3x
+📊 OASA Q3 2025
+📈 Revenue (QoQ 🔼🟢 51.6% | YoY 🔻🔴 -39.4%)
+💰 Net Profit (QoQ 🔻🔴 -129.1% | YoY 🔻🔴 -2009.5%)
+💡 Cash Operasi: Negatif
 🧱 Fundamental perlu dicermati
