@@ -1,6 +1,5 @@
-📊 TBMS Q2 2025
-📈 Revenue (QoQ 🔼🟢 1.0% | YoY 🔼🟢 10.3%)
-💰 Net Profit (QoQ 🔼🟢 240.4% | YoY 🔻🔴 -22.3%)
+📊 TBMS Q3 2025
+📈 Revenue (QoQ 🔼🟢 5.2% | YoY 🔼🟢 8.3%)
+💰 Net Profit (QoQ 🔻🔴 -14.2% | YoY 🔻🔴 -32.5%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 8x | PBV 0.8x
 🧱 Fundamental perlu dicermati

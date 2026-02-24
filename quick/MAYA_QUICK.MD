@@ -1,6 +1,5 @@
-📊 MAYA Q2 2025
-📈 Revenue (QoQ 🔼🟢 16.3% | YoY 🔼🟢 42.2%)
-💰 Net Profit (QoQ 🔼🟢 10.1% | YoY 🔻🔴 -34.3%)
-💡 Cash Operasi: Negatif
-🧮 Valuasi: PER 319x | PBV 0.5x
+📊 MAYA Q3 2025
+📈 Revenue (QoQ 🔻🔴 -4.5% | YoY 🔼🟢 18.6%)
+💰 Net Profit (QoQ 🔼🟢 44.5% | YoY 🔻🔴 -16.1%)
+💡 Cash Operasi: Positif
 🧱 Fundamental perlu dicermati

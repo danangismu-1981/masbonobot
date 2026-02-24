@@ -1,6 +1,5 @@
-📊 TAMA Q2 2025
-📈 Revenue (QoQ 🔼🟢 55.5% | YoY 🔻🔴 -15.1%)
-💰 Net Profit (QoQ 🔼🟢 26.9% | YoY 🔼🟢 16.3%)
-💡 Cash Operasi: Positif
-🧮 Valuasi: PER -3x | PBV 0.9x
+📊 TAMA Q3 2025
+📈 Revenue (QoQ 🔻🔴 -60.5% | YoY 🔻🔴 -8.0%)
+💰 Net Profit (QoQ 🔼🟢 57.9% | YoY 🔼🟢 32.0%)
+💡 Cash Operasi: Negatif
 🧱 Fundamental perlu dicermati

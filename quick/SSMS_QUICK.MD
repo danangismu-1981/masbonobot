@@ -1,6 +1,5 @@
-📊 SSMS Q2 2025
-📈 Revenue (QoQ 🔻🔴 -3.2% | YoY 🔼🟢 39.8%)
-💰 Net Profit (QoQ 🔼🟢 2.5% | YoY 🔼🟢 80.8%)
+📊 SSMS Q3 2025
+📈 Revenue (QoQ 🔼🟢 8.0% | YoY 🔼🟢 49.3%)
+💰 Net Profit (QoQ 🔻🔴 -11.4% | YoY 🔼🟢 64.4%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 12x | PBV 4.7x
 🧱 Fundamental stabil

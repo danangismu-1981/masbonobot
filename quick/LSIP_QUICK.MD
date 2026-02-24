@@ -1,6 +1,5 @@
-📊 LSIP Q2 2025
-📈 Revenue (QoQ 🔻🔴 -20.0% | YoY 🔼🟢 28.9%)
-💰 Net Profit (QoQ 🔻🔴 -17.6% | YoY 🔼🟢 19.4%)
+📊 LSIP Q3 2025
+📈 Revenue (QoQ 🔼🟢 58.5% | YoY 🔼🟢 35.3%)
+💰 Net Profit (QoQ 🔼🟢 65.2% | YoY 🔼🟢 55.3%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 5x | PBV 0.7x
 🧱 Fundamental stabil

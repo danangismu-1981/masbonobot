@@ -1,6 +1,5 @@
-📊 OKAS Q2 2025
-📈 Revenue (QoQ 🔼🟢 7.1% | YoY 🔻🔴 -14.6%)
-💰 Net Profit (QoQ 🔻🔴 -103.2% | YoY 🔻🔴 -74.4%)
-💡 Cash Operasi: Negatif
-🧮 Valuasi: PER -65x | PBV 1.3x
+📊 OKAS Q3 2025
+📈 Revenue (QoQ 🔼🟢 15.7% | YoY 🔻🔴 -13.7%)
+💰 Net Profit (QoQ 🔼🟢 14935.7% | YoY 🔻🔴 -192.1%)
+💡 Cash Operasi: Positif
 🧱 Fundamental perlu dicermati

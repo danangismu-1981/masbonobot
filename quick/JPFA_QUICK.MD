@@ -1,6 +1,5 @@
-📊 JPFA Q2 2025
-📈 Revenue (QoQ 🔻🔴 -8.3% | YoY 🔻🔴 -0.6%)
-💰 Net Profit (QoQ 🔻🔴 -18.3% | YoY 🔻🔴 -16.4%)
+📊 JPFA Q3 2025
+📈 Revenue (QoQ 🔼🟢 18.8% | YoY 🔼🟢 4.4%)
+💰 Net Profit (QoQ 🔼🟢 111.4% | YoY 🔼🟢 15.1%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 8x | PBV 1.6x
-🧱 Fundamental perlu dicermati
+🧱 Fundamental stabil

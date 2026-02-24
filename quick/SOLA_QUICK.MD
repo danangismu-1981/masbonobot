@@ -1,6 +1,5 @@
-📊 SOLA Q2 2025
-📈 Revenue (QoQ 🔼🟢 469.1% | YoY 🔼🟢 202.2%)
-💰 Net Profit (QoQ 🔼🟢 8715.5% | YoY 🔻🔴 -341.1%)
+📊 SOLA Q3 2025
+📈 Revenue (QoQ 🔻🔴 -15.0% | YoY 🔼🟢 139.2%)
+💰 Net Profit (QoQ 🔼🟢 15.7% | YoY 🔼🟢 123092.0%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 15x | PBV 2.6x
-🧱 Fundamental perlu dicermati
+🧱 Fundamental stabil

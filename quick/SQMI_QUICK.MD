@@ -1,6 +1,5 @@
-📊 SQMI Q1 2025
-📈 Revenue (QoQ 🔼🟢 236.9% | YoY 🔼🟢 236.9%)
-💰 Net Profit (QoQ 🔼🟢 31.9% | YoY 🔼🟢 31.9%)
+📊 SQMI Q3 2025
+📈 Revenue (QoQ 🔼🟢 208.1% | YoY 🔼🟢 145.5%)
+💰 Net Profit (QoQ 🔼🟢 201.1% | YoY 🔼🟢 19.2%)
 💡 Cash Operasi: Negatif
-🧮 Valuasi: PER n/a | PBV n/a
 🧱 Fundamental stabil

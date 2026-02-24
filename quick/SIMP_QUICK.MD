@@ -1,6 +1,5 @@
-📊 SIMP Q2 2025
-📈 Revenue (QoQ 🔻🔴 -5.0% | YoY 🔼🟢 33.2%)
-💰 Net Profit (QoQ 🔻🔴 -31.3% | YoY 🔼🟢 42.8%)
+📊 SIMP Q3 2025
+📈 Revenue (QoQ 🔼🟢 20.8% | YoY 🔼🟢 32.8%)
+💰 Net Profit (QoQ 🔼🟢 115.8% | YoY 🔼🟢 76.0%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 5x | PBV 0.5x
 🧱 Fundamental stabil

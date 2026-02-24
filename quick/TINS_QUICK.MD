@@ -1,6 +1,5 @@
-📊 TINS Q2 2025
-📈 Revenue (QoQ 🔼🟢 201147952.5% | YoY 🔻🔴 -19.0%)
-💰 Net Profit (QoQ 🔼🟢 256776770.5% | YoY 🔻🔴 -30.9%)
-💡 Cash Operasi: Positif
-🧮 Valuasi: PER 25x | PBV 2.9x
+📊 TINS Q3 2025
+📈 Revenue (QoQ 🔻🔴 -43.4% | YoY 🔻🔴 -20.0%)
+💰 Net Profit (QoQ 🔼🟢 0.8% | YoY 🔻🔴 -33.7%)
+💡 Cash Operasi: Negatif
 🧱 Fundamental perlu dicermati

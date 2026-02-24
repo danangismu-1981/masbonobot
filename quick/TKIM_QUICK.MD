@@ -1,6 +1,5 @@
-📊 TKIM Q2 2025
-📈 Revenue (QoQ 🔻🔴 -7.9% | YoY 🔻🔴 -5.3%)
-💰 Net Profit (QoQ 🔻🔴 -100.3% | YoY 🔻🔴 -54.3%)
+📊 TKIM Q3 2025
+📈 Revenue (QoQ 🔼🟢 5.7% | YoY 🔻🔴 -2.7%)
+💰 Net Profit (QoQ 🔻🔴 -38256.1% | YoY 🔼🟢 107.7%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 3x | PBV 0.5x
 🧱 Fundamental perlu dicermati

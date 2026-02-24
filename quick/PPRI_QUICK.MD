@@ -1,6 +1,5 @@
-📊 PPRI Q2 2025
-📈 Revenue (QoQ 🔻🔴 -14.1% | YoY 🔼🟢 6.4%)
-💰 Net Profit (QoQ 🔻🔴 -47.1% | YoY 🔻🔴 -1.8%)
-💡 Cash Operasi: Positif
-🧮 Valuasi: PER 77x | PBV 3.6x
-🧱 Fundamental perlu dicermati
+📊 PPRI Q3 2025
+📈 Revenue (QoQ 🔼🟢 13.4% | YoY 🔼🟢 12.2%)
+💰 Net Profit (QoQ 🔼🟢 84.8% | YoY 🔼🟢 1.3%)
+💡 Cash Operasi: Negatif
+🧱 Fundamental stabil

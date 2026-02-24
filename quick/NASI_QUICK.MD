@@ -1,6 +1,5 @@
-📊 NASI Q2 2025
-📈 Revenue (QoQ 🔼🟢 7.9% | YoY 🔻🔴 -7.3%)
-💰 Net Profit (QoQ 🔻🔴 -160.0% | YoY 🔻🔴 -97.1%)
-💡 Cash Operasi: Positif
-🧮 Valuasi: PER -27x | PBV 1.5x
+📊 NASI Q3 2025
+📈 Revenue (QoQ 🔻🔴 -64.9% | YoY 🔻🔴 -31.1%)
+💰 Net Profit (QoQ 🔼🟢 18775.1% | YoY 🔻🔴 -799.7%)
+💡 Cash Operasi: Negatif
 🧱 Fundamental perlu dicermati

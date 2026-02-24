@@ -1,6 +1,5 @@
-📊 SMGR Q2 2025
-📈 Revenue (QoQ 🔼🟢 3.9% | YoY 🔻🔴 -4.9%)
-💰 Net Profit (QoQ 🔻🔴 -106.1% | YoY 🔻🔴 -92.0%)
+📊 SMGR Q3 2025
+📈 Revenue (QoQ 🔼🟢 21.9% | YoY 🔻🔴 -3.8%)
+💰 Net Profit (QoQ 🔻🔴 -2977.0% | YoY 🔻🔴 -84.0%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 169x | PBV 0.4x
 🧱 Fundamental perlu dicermati

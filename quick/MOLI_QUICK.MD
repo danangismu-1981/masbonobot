@@ -1,6 +1,5 @@
-📊 MOLI Q2 2025
-📈 Revenue (QoQ 🔻🔴 -9.2% | YoY 🔼🟢 12.1%)
-💰 Net Profit (QoQ 🔼🟢 68.2% | YoY 🔼🟢 120.2%)
+📊 MOLI Q3 2025
+📈 Revenue (QoQ 🔼🟢 15.9% | YoY 🔼🟢 3.6%)
+💰 Net Profit (QoQ 🔼🟢 100.2% | YoY 🔼🟢 92.8%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 35x | PBV 0.7x
 🧱 Fundamental stabil

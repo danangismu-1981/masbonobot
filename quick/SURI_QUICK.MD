@@ -1,6 +1,5 @@
-📊 SURI Q2 2025
-📈 Revenue (QoQ 🔼🟢 6.3% | YoY 🔼🟢 82.8%)
-💰 Net Profit (QoQ 🔼🟢 128.2% | YoY 🔼🟢 247.4%)
-💡 Cash Operasi: Negatif
-🧮 Valuasi: PER -226x | PBV 1.9x
-🧱 Fundamental stabil
+📊 SURI Q3 2025
+📈 Revenue (QoQ 🔼🟢 18.1% | YoY 🔼🟢 49.2%)
+💰 Net Profit (QoQ 🔻🔴 -810.7% | YoY 🔻🔴 -860.6%)
+💡 Cash Operasi: Positif
+🧱 Fundamental perlu dicermati

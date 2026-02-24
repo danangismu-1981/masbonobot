@@ -1,6 +1,5 @@
-📊 SGRO Q2 2025
-📈 Revenue (QoQ 🔻🔴 -3.6% | YoY 🔼🟢 45.2%)
-💰 Net Profit (QoQ 🔻🔴 -12.8% | YoY 🔼🟢 236.1%)
+📊 SGRO Q3 2025
+📈 Revenue (QoQ 🔻🔴 -18.4% | YoY 🔼🟢 36.6%)
+💰 Net Profit (QoQ 🔼🟢 34.1% | YoY 🔼🟢 253.7%)
 💡 Cash Operasi: Positif
-🧮 Valuasi: PER 9x | PBV 1.7x
 🧱 Fundamental stabil
