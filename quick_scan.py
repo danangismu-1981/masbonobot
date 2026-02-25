@@ -262,6 +262,17 @@ def num_fmt(x, digits=2):
         return "n/a"
     # If x is an int like 136, render 136.00 with digits=2
     return f"{x:.{digits}f}"
+def format_large_number(num):
+    if num is None or (isinstance(num, float) and np.isnan(num)):
+        return "n/a"
+    if abs(num) >= 1_000_000_000_000:
+        return f"{num/1_000_000_000_000:.2f} T"
+    elif abs(num) >= 1_000_000_000:
+        return f"{num/1_000_000_000:.2f} B"
+    elif abs(num) >= 1_000_000:
+        return f"{num/1_000_000:.2f} M"
+    else:
+        return f"{num:,.0f}"
 
 def infer_ticker_from_filename(path: str) -> str:
     base = os.path.basename(path)
@@ -335,6 +346,26 @@ def main():
             print(f"  Dividend: TTM {num_fmt(dv_ttm)} ; Last: {dv_last_date.date()} (amt {num_fmt(dv_last_amt)}, yield {pct_fmt(dv_yield_last, 2)})")
         else:
             print(f"  Dividend: TTM {num_fmt(dv_ttm)} ; Last: n/a")
+        
+        # === Yahoo Finance Fundamental Data ===
+        try:
+            info = yf.Ticker(chosen_ticker).info
+        except Exception:
+            info = {}
+
+        pe = info.get("trailingPE")
+        pbv = info.get("priceToBook")
+        roe = info.get("returnOnEquity")
+        ebitda = info.get("ebitda")
+
+        today_str = datetime.now().strftime("%d-%m-%Y")
+        print(f"\nValuation & Profitability (Yahoo Finance) {today_str}")
+        print(f"  PER (TTM) : {num_fmt(pe)}x" if pe else "  PER (TTM) : n/a")
+        print(f"  PBV       : {num_fmt(pbv)}x" if pbv else "  PBV       : n/a")
+        print(f"  ROE       : {pct_fmt(roe, 2)}" if roe else "  ROE       : n/a")
+        print(f"  EBITDA    : {format_large_number(ebitda)}")
+        
+        
         print("=" * 45)
         print(f"Jika ingin data lebih detail ketik: {raw_ticker.upper()} Detail")
         print()
