@@ -343,7 +343,7 @@ def main():
         print(f"  MA50 {ma50_basis}: {num_fmt(ma50_val)}")
         print(f"  MA200 {ma200_basis}: {num_fmt(ma200_val)}")
         if dv_last_date is not None:
-            print(f"  Dividend: TTM {num_fmt(dv_ttm)} ; Last: {dv_last_date.date()} (amt {num_fmt(dv_last_amt)}, yield {pct_fmt(dv_yield_last, 2)})")
+            print(f"  Dividend: TTM {num_fmt(dv_ttm)} ; Last: {dv_last_date.date().strftime("%d-%m-%Y")} (amt {num_fmt(dv_last_amt)}, yield {pct_fmt(dv_yield_last, 2)})")
         else:
             print(f"  Dividend: TTM {num_fmt(dv_ttm)} ; Last: n/a")
         
